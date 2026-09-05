@@ -4,10 +4,12 @@ import argparse
 import json
 import os
 import pathlib
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
-USER_AGENT = "IPTVHND-SourceDiscovery/1.2"
+USER_AGENT = "IPTVHND-SourceDiscovery/1.3"
 FAILURE_LIMIT = 3
 SEARCH_QUERIES = (
     # Vietnam/community discovery.
@@ -29,12 +31,22 @@ MOVIE_HINTS = ("movie", "movies", "film", "films", "cinema", "cinemas")
 SPORT_HINTS = ("sport", "sports", "football", "soccer", "futbol", "fútbol")
 
 
-def request_json(url: str, token: str, timeout: int = 20) -> dict:
+def request_json(url: str, token: str, timeout: int = 20, retries: int = 2) -> dict:
     headers = {"User-Agent": USER_AGENT, "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
     if token:
         headers["Authorization"] = f"Bearer {token}"
-    with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=timeout) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=timeout) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as exc:
+            if exc.code not in {429, 403} or attempt >= retries:
+                raise
+            retry_after = exc.headers.get("Retry-After")
+            delay = int(retry_after) if retry_after and retry_after.isdigit() else 8 * (attempt + 1)
+            print(f"WARN GitHub search rate-limited; retrying in {delay}s")
+            time.sleep(delay)
+    return {}
 
 
 def fetch_text(url: str, timeout: int = 20) -> str:
@@ -68,23 +80,44 @@ def looks_like_iptv_playlist(text: str, require_relevant: bool = False) -> bool:
     return base and (not require_relevant or playlist_kind(text) is not None)
 
 
-def discover_github(token: str, max_results_per_query: int = 50) -> set[str]:
+def raw_url_from_search_item(item: dict) -> str | None:
+    html = item.get("html_url", "")
+    marker = "github.com/"
+    if marker not in html or "/blob/" not in html:
+        return None
+    tail = html.split(marker, 1)[1]
+    repo_part, blob_part = tail.split("/blob/", 1)
+    if "/" not in blob_part:
+        return None
+    ref, path = blob_part.split("/", 1)
+    return f"https://raw.githubusercontent.com/{repo_part}/{ref}/{path}"
+
+
+def discover_github(token: str, max_results_per_query: int = 30, start_index: int = 0,
+                    queries_per_run: int = 8) -> tuple[set[str], int]:
     found: set[str] = set()
     if not token:
-        print("WARN GITHUB_TOKEN missing; skipping GitHub source discovery"); return found
-    for query in SEARCH_QUERIES:
+        print("WARN GITHUB_TOKEN missing; skipping GitHub source discovery")
+        return found, start_index
+    total = len(SEARCH_QUERIES)
+    count = min(max(1, queries_per_run), total)
+    indexes = [(start_index + i) % total for i in range(count)]
+    for position, idx in enumerate(indexes):
+        query = SEARCH_QUERIES[idx]
         url = "https://api.github.com/search/code?" + urllib.parse.urlencode({"q": query, "per_page": max_results_per_query})
-        try: payload = request_json(url, token)
+        try:
+            payload = request_json(url, token)
         except Exception as exc:
-            print(f"WARN search {query!r}: {exc}"); continue
+            print(f"WARN search {query!r}: {exc}")
+            continue
         for item in payload.get("items", []):
-            api_url = item.get("url")
-            if not api_url: continue
-            try: meta = request_json(api_url, token)
-            except Exception: continue
-            if meta.get("download_url"): found.add(meta["download_url"])
+            raw = raw_url_from_search_item(item)
+            if raw:
+                found.add(raw)
         print(f"Discovery query {query!r}: candidates={len(found)}")
-    return found
+        if position < len(indexes) - 1:
+            time.sleep(2)
+    return found, (start_index + count) % total
 
 
 def load_state(path: pathlib.Path) -> dict:
@@ -115,7 +148,7 @@ def validate_sources(existing: list[str], discovered: set[str], state: dict, tim
 def write_sources(path: pathlib.Path, sources: list[str]) -> None:
     header = (
         "# Auto-maintained public/community IPTV source registry.\n"
-        "# Discovery searches Vietnam, international movie/cinema, and international sports/football/soccer playlists.\n"
+        "# Discovery rotates across Vietnam, international movie/cinema, and international sports/football/soccer searches.\n"
         "# Existing sources are removed only after 3 consecutive failed checks.\n"
         "# Content filtering and exact stream-URL dedupe happen later in collector/main.py.\n\n"
     )
@@ -125,13 +158,16 @@ def write_sources(path: pathlib.Path, sources: list[str]) -> None:
 def main() -> int:
     ap = argparse.ArgumentParser(description="Discover and maintain public/community IPTV playlist sources")
     ap.add_argument("--sources", default="config/sources.txt"); ap.add_argument("--state", default="config/source_state.json")
-    ap.add_argument("--timeout", type=int, default=20); ap.add_argument("--max-results-per-query", type=int, default=50)
+    ap.add_argument("--timeout", type=int, default=20); ap.add_argument("--max-results-per-query", type=int, default=30)
+    ap.add_argument("--queries-per-run", type=int, default=8)
     args = ap.parse_args(); source_path = pathlib.Path(args.sources); state_path = pathlib.Path(args.state)
     existing = load_sources(source_path); state = load_state(state_path)
-    discovered = discover_github(os.environ.get("GITHUB_TOKEN", ""), args.max_results_per_query)
+    cursor = int(state.get("__meta__", {}).get("query_cursor", 0))
+    discovered, next_cursor = discover_github(os.environ.get("GITHUB_TOKEN", ""), args.max_results_per_query, cursor, args.queries_per_run)
     active, new_state = validate_sources(existing, discovered, state, args.timeout)
+    new_state["__meta__"] = {"query_cursor": next_cursor}
     write_sources(source_path, active); state_path.write_text(json.dumps(new_state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Sources before={len(existing)} discovered_candidates={len(discovered)} active_registry={len(active)}"); return 0
+    print(f"Sources before={len(existing)} discovered_candidates={len(discovered)} active_registry={len(active)} query_cursor={next_cursor}"); return 0
 
 
 if __name__ == "__main__": raise SystemExit(main())
