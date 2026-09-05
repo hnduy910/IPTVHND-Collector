@@ -1,0 +1,41 @@
+name: Update IPTV collection
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */12 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: iptvhnd-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect playlists
+        run: python collector/main.py --sources config/sources.txt --output iptvhnd.m3u
+
+      - name: Commit updates
+        shell: bash
+        run: |
+          if git diff --quiet -- iptvhnd.m3u; then
+            echo "No new IPTV URLs."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add iptvhnd.m3u
+          git commit -m "chore: update iptvhnd.m3u"
+          git push
