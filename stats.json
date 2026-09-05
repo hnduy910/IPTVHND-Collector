@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-05T14:48:37.084351+00:00",
+  "updated_at_utc": "2026-09-05T14:54:16.813637+00:00",
   "sources": {
     "total": 27,
     "ok": 26,
@@ -51,10 +51,10 @@
     "new_urls": 0
   },
   "live": {
-    "total_urls": 1431,
-    "vietnam": 85,
-    "movies": 837,
-    "sports": 514,
+    "total_urls": 1436,
+    "vietnam": 86,
+    "movies": 839,
+    "sports": 516,
     "vietnam_localities_detected": 21,
     "vietnam_by_locality": {
       "ca mau": 1,
@@ -81,9 +81,9 @@
     },
     "candidate_urls_from_archive": 2467,
     "checked_http_urls": 2388,
-    "dead": 777,
-    "timeout": 180,
+    "dead": 764,
+    "timeout": 188,
     "unsupported": 79,
-    "live_rate_percent": 59.92
+    "live_rate_percent": 60.13
   }
 }
