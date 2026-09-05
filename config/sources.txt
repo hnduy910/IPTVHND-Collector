@@ -1,7 +1,20 @@
-# Public community playlists. Add one M3U/M3U8 playlist URL per line.
-# Vietnam: all channels
+# Public/community IPTV playlists. The collector filters entries after download.
+# Exact stream-URL dedupe only; same channel with different URLs is retained.
+
+# iptv-org broad/global + Vietnam/Asia discovery
+https://iptv-org.github.io/iptv/index.m3u
+https://iptv-org.github.io/iptv/index.country.m3u
+https://iptv-org.github.io/iptv/index.language.m3u
+https://iptv-org.github.io/iptv/regions/asia.m3u
+https://iptv-org.github.io/iptv/regions/asean.m3u
 https://iptv-org.github.io/iptv/countries/vn.m3u
 
-# International: movies + sports only
+# International categories that are always allowed
 https://iptv-org.github.io/iptv/categories/movies.m3u
 https://iptv-org.github.io/iptv/categories/sports.m3u
+
+# Independent public/community aggregate playlists
+https://raw.githubusercontent.com/freecasthub/public-iptv/main/playlist.m3u
+https://raw.githubusercontent.com/freecasthub/public-iptv/main/sports.m3u
+https://shovo127.github.io/IPTV-By-Shovo/index.m3u
+https://dearbulut.github.io/iptv/playlists/index.m3u
