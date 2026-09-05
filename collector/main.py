@@ -15,7 +15,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Iterable
 
-USER_AGENT = "IPTVHND-Collector/1.7"
+USER_AGENT = "IPTVHND-Collector/1.8"
 
 VIETNAM_PLACE_HINTS = {
     "an giang", "ba ria vung tau", "bac giang", "bac kan", "bac lieu", "bac ninh", "ben tre",
@@ -232,9 +232,9 @@ def compact_group(e: Entry) -> str | None:
             return "vtv"
         if re.search(r"\b(?:htv|htvc)(?:\d|key|sports?|the\s*thao)?\b", plain):
             return "htv"
-        if re.search(r"\bthvl(?:\d)?\b", plain):
+        if re.search(r"\bthvl(?:\s|-)?\d?\b", plain) or re.search(r"\b(?:dai\s+)?truyen\s+hinh\s+vinh\s+long(?:\s*\d)?\b", plain):
             return "thvl"
-        if re.search(r"\bvtc(?:\d|now)?\b", plain):
+        if re.search(r"\bvtc(?:\s|-)?(?:\d+|now)?\b", plain) or "vtc digital" in plain or "ky thuat so vtc" in plain or "kts vtc" in plain:
             return "vtc"
         if re.search(r"\bsctv(?:\d+)?\b", plain):
             return "sctv"
