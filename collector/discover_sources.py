@@ -4,11 +4,10 @@ import argparse
 import json
 import os
 import pathlib
-import urllib.error
 import urllib.parse
 import urllib.request
 
-USER_AGENT = "IPTVHND-SourceDiscovery/1.0"
+USER_AGENT = "IPTVHND-SourceDiscovery/1.1"
 FAILURE_LIMIT = 3
 SEARCH_QUERIES = (
     "THVL extension:m3u",
@@ -59,9 +58,12 @@ def load_sources(path: pathlib.Path) -> list[str]:
     return out
 
 
-def looks_like_iptv_playlist(text: str) -> bool:
+def looks_like_iptv_playlist(text: str, require_vietnam: bool = False) -> bool:
     lower = text.lower()
-    return "#extm3u" in lower and lower.count("#extinf") >= 2 and any(h in lower for h in VIETNAM_HINTS)
+    is_playlist = "#extm3u" in lower and lower.count("#extinf") >= 2
+    if not is_playlist:
+        return False
+    return not require_vietnam or any(h in lower for h in VIETNAM_HINTS)
 
 
 def discover_github(token: str, max_results_per_query: int = 50) -> set[str]:
@@ -115,16 +117,18 @@ def validate_sources(existing: list[str], discovered: set[str], state: dict, tim
         failures = int(prior.get("consecutive_failures", 0))
         try:
             text = fetch_text(url, timeout)
-            if not looks_like_iptv_playlist(text):
-                raise ValueError("not an IPTV playlist with Vietnam hints")
+            require_vietnam = url not in existing_set
+            if not looks_like_iptv_playlist(text, require_vietnam=require_vietnam):
+                reason = "not an IPTV playlist" if not require_vietnam else "not a Vietnam-relevant IPTV playlist"
+                raise ValueError(reason)
             failures = 0
             active.append(url)
             ok = True
         except Exception as exc:
             failures += 1
             ok = False
-            # Existing sources are removed only after repeated failures. Newly discovered
-            # invalid/unreachable candidates are never admitted to the registry.
+            # Existing sources survive transient failures and are removed only after
+            # repeated failed checks. New invalid/unreachable candidates are never admitted.
             if url in existing_set and failures < FAILURE_LIMIT:
                 active.append(url)
             print(f"WARN source {url}: failure {failures}/{FAILURE_LIMIT}: {exc}")
@@ -137,6 +141,7 @@ def write_sources(path: pathlib.Path, sources: list[str]) -> None:
     header = (
         "# Auto-maintained public/community IPTV source registry.\n"
         "# Discovery appends reachable Vietnam-relevant playlists; an existing source is removed only after 3 consecutive failed checks.\n"
+        "# Existing movie/sports seed sources remain valid even if they contain no Vietnam marker.\n"
         "# Stream filtering and exact URL dedupe happen later in collector/main.py.\n\n"
     )
     path.write_text(header + "\n".join(sources) + "\n", encoding="utf-8")
