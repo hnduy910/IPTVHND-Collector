@@ -26,22 +26,22 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Collect playlists
-        run: python collector/main.py --sources config/sources.txt --output iptvhnd.m3u
+      - name: Collect playlists and statistics
+        run: python collector/main.py --sources config/sources.txt --output iptvhnd.m3u --stats stats.json
 
       - name: Commit updates
         id: commit
         shell: bash
         run: |
-          if git diff --quiet -- iptvhnd.m3u; then
+          if git diff --quiet -- iptvhnd.m3u stats.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No new IPTV URLs."
+            echo "No changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add iptvhnd.m3u
-          git commit -m "chore: update iptvhnd.m3u"
+          git add iptvhnd.m3u stats.json
+          git commit -m "chore: update IPTV collection and stats"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
@@ -54,8 +54,8 @@ jobs:
           git tag -f latest
           git push origin refs/tags/latest --force
           if gh release view latest >/dev/null 2>&1; then
-            gh release upload latest iptvhnd.m3u --clobber
-            gh release edit latest --title "IPTVHND Latest Collection" --notes "Tự động cập nhật mỗi 12 giờ khi phát hiện URL IPTV mới. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ."
+            gh release upload latest iptvhnd.m3u stats.json --clobber
+            gh release edit latest --title "IPTVHND Latest Collection" --notes "Tự động cập nhật mỗi 12 giờ. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ. stats.json chứa thống kê của lần quét gần nhất."
           else
-            gh release create latest iptvhnd.m3u --title "IPTVHND Latest Collection" --notes "Tự động cập nhật mỗi 12 giờ khi phát hiện URL IPTV mới. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ." --latest
+            gh release create latest iptvhnd.m3u stats.json --title "IPTVHND Latest Collection" --notes "Tự động cập nhật mỗi 12 giờ. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ. stats.json chứa thống kê của lần quét gần nhất." --latest
           fi
