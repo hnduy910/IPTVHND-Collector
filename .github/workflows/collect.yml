@@ -15,6 +15,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,8 +27,18 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Collect playlists and statistics
-        run: python collector/main.py --sources config/sources.txt --output iptvhnd.m3u --stats stats.json
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Collect archive, check live streams and build statistics
+        run: >-
+          python collector/main.py
+          --sources config/sources.txt
+          --output iptvhnd.m3u
+          --live-output iptvhnd-live.m3u
+          --stats stats.json
+          --health-timeout 8
+          --health-workers 32
 
       - name: Commit updates
         id: commit
@@ -35,13 +46,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add iptvhnd.m3u stats.json
+          git add iptvhnd.m3u iptvhnd-live.m3u stats.json
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No changes."
             exit 0
           fi
-          git commit -m "chore: update IPTV collection and stats"
+          git commit -m "chore: update IPTV archive, live list and stats"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
@@ -53,9 +64,10 @@ jobs:
         run: |
           git tag -f latest
           git push origin refs/tags/latest --force
+          NOTE="Tự động cập nhật mỗi 12 giờ. iptvhnd.m3u là kho lưu trữ append-only; link chết không bị xóa. iptvhnd-live.m3u chỉ chứa URL HTTP/HTTPS vượt qua health-check gần nhất. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ. stats.json thống kê riêng archive và live."
           if gh release view latest >/dev/null 2>&1; then
-            gh release upload latest iptvhnd.m3u stats.json --clobber
-            gh release edit latest --title "IPTVHND Latest Collection" --notes "Tự động cập nhật mỗi 12 giờ. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ. stats.json chứa thống kê của lần quét gần nhất."
+            gh release upload latest iptvhnd.m3u iptvhnd-live.m3u stats.json --clobber
+            gh release edit latest --title "IPTVHND Latest Collection" --notes "$NOTE"
           else
-            gh release create latest iptvhnd.m3u stats.json --title "IPTVHND Latest Collection" --notes "Tự động cập nhật mỗi 12 giờ. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ. stats.json chứa thống kê của lần quét gần nhất." --latest
+            gh release create latest iptvhnd.m3u iptvhnd-live.m3u stats.json --title "IPTVHND Latest Collection" --notes "$NOTE" --latest
           fi
