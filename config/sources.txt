@@ -1,20 +1,37 @@
-# Public/community IPTV playlists. The collector filters entries after download.
-# Exact stream-URL dedupe only; same channel with different URLs is retained.
+# Public/community IPTV playlists. Download broadly first; filter entries afterwards.
+# Archive policy: exact stream-URL dedupe only; same channel with different URLs is retained.
 
-# iptv-org broad/global + Vietnam/Asia discovery
+# iptv-org: global/indexed/raw views + Vietnam/Asia discovery
 https://iptv-org.github.io/iptv/index.m3u
+https://iptv-org.github.io/iptv/index.category.m3u
 https://iptv-org.github.io/iptv/index.country.m3u
 https://iptv-org.github.io/iptv/index.language.m3u
 https://iptv-org.github.io/iptv/regions/asia.m3u
 https://iptv-org.github.io/iptv/regions/asean.m3u
 https://iptv-org.github.io/iptv/countries/vn.m3u
+https://iptv-org.github.io/iptv/languages/vie.m3u
 
 # International categories that are always allowed
 https://iptv-org.github.io/iptv/categories/movies.m3u
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
-# Independent public/community aggregate playlists
+# Broad independent public/community aggregates
+https://dearbulut.github.io/iptv/playlists/index.m3u
+https://dearbulut.github.io/iptv/playlists/online.m3u
 https://raw.githubusercontent.com/freecasthub/public-iptv/main/playlist.m3u
 https://raw.githubusercontent.com/freecasthub/public-iptv/main/sports.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://shovo127.github.io/IPTV-By-Shovo/index.m3u
-https://dearbulut.github.io/iptv/playlists/index.m3u
+
+# Vietnam-focused community aggregates (still processed by the same global filter)
+https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/main/http-iptv.m3u
+https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/main/iptv.m3u8
