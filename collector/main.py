@@ -15,7 +15,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Iterable
 
-USER_AGENT = "IPTVHND-Collector/1.6"
+USER_AGENT = "IPTVHND-Collector/1.7"
 
 VIETNAM_PLACE_HINTS = {
     "an giang", "ba ria vung tau", "bac giang", "bac kan", "bac lieu", "bac ninh", "ben tre",
@@ -36,6 +36,10 @@ VIETNAM_NETWORK_PATTERNS = (
 )
 MOVIE_HINTS = ("movie", "movies", "film", "films", "cinema", "cinemas")
 SPORT_HINTS = ("sport", "sports", "football", "soccer", "futbol", "fútbol")
+GROUP_KEYS = (
+    "vtv", "htv", "thvl", "vtc", "sctv", "vietnam_local", "vietnam_other",
+    "international_movies", "international_sports",
+)
 
 
 @dataclass(frozen=True)
@@ -221,6 +225,39 @@ def health_check(entries: list[Entry], timeout: int, workers: int) -> tuple[list
     return live, stats
 
 
+def compact_group(e: Entry) -> str | None:
+    plain = ascii_text(entry_text(e))
+    if is_vietnam(e):
+        if re.search(r"\bvtv(?:\d|can\s*tho|cab|go)?\b", plain):
+            return "vtv"
+        if re.search(r"\b(?:htv|htvc)(?:\d|key|sports?|the\s*thao)?\b", plain):
+            return "htv"
+        if re.search(r"\bthvl(?:\d)?\b", plain):
+            return "thvl"
+        if re.search(r"\bvtc(?:\d|now)?\b", plain):
+            return "vtc"
+        if re.search(r"\bsctv(?:\d+)?\b", plain):
+            return "sctv"
+        if locality(e):
+            return "vietnam_local"
+        return "vietnam_other"
+    movie, sport = category_flags(e)
+    if sport:
+        return "international_sports"
+    if movie:
+        return "international_movies"
+    return None
+
+
+def compact_group_counts(entries: list[Entry]) -> dict[str, int]:
+    counts = {key: 0 for key in GROUP_KEYS}
+    for e in entries:
+        group = compact_group(e)
+        if group:
+            counts[group] += 1
+    return counts
+
+
 def count_categories(entries: list[Entry]) -> dict[str, object]:
     vietnam = movies = sports = 0
     provinces = {}
@@ -240,6 +277,7 @@ def count_categories(entries: list[Entry]) -> dict[str, object]:
         "sports": sports,
         "vietnam_localities_detected": len(provinces),
         "vietnam_by_locality": dict(sorted(provinces.items())),
+        "groups": compact_group_counts(entries),
     }
 
 
