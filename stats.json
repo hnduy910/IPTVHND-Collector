@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-05T14:26:09.459462+00:00",
+  "updated_at_utc": "2026-09-05T14:48:37.084351+00:00",
   "sources": {
     "total": 27,
     "ok": 26,
@@ -48,13 +48,13 @@
       "tuyen quang": 2,
       "vinh long": 18
     },
-    "new_urls": 235
+    "new_urls": 0
   },
   "live": {
-    "total_urls": 1421,
+    "total_urls": 1431,
     "vietnam": 85,
-    "movies": 831,
-    "sports": 509,
+    "movies": 837,
+    "sports": 514,
     "vietnam_localities_detected": 21,
     "vietnam_by_locality": {
       "ca mau": 1,
@@ -79,10 +79,11 @@
       "tra vinh": 2,
       "vinh long": 4
     },
+    "candidate_urls_from_archive": 2467,
     "checked_http_urls": 2388,
-    "dead": 775,
-    "timeout": 192,
+    "dead": 777,
+    "timeout": 180,
     "unsupported": 79,
-    "live_rate_percent": 59.51
+    "live_rate_percent": 59.92
   }
 }
