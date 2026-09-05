@@ -9,15 +9,29 @@ sys.modules[spec.name] = mod
 spec.loader.exec_module(mod)
 
 
-def test_playlist_requires_m3u_extinf_and_vietnam_hint():
-    assert mod.looks_like_iptv_playlist("#EXTM3U\n#EXTINF:-1,THVL1\na\n#EXTINF:-1,VTV1\nb\n")
-    assert not mod.looks_like_iptv_playlist("#EXTM3U\n#EXTINF:-1,News\na\n")
+def playlist(*names):
+    return "#EXTM3U\n" + "".join(f"#EXTINF:-1,{name}\nhttps://x/{i}.m3u8\n" for i, name in enumerate(names))
+
+
+def test_relevant_playlist_kinds():
+    assert mod.playlist_kind(playlist("THVL1", "VTV1")) == "vietnam"
+    assert mod.playlist_kind(playlist("Cinema One", "Movie Plus")) == "movies"
+    assert mod.playlist_kind(playlist("Sports One", "Football Live")) == "sports"
+    assert mod.playlist_kind(playlist("Generic One", "Generic Two")) is None
+
+
+def test_discovered_movie_and_sports_sources_are_admitted(monkeypatch):
+    movie = "https://example.com/movies.m3u"
+    sports = "https://example.com/sports.m3u"
+    data = {movie: playlist("Movie One", "Cinema Two"), sports: playlist("Sports One", "Football Two")}
+    monkeypatch.setattr(mod, "fetch_text", lambda url, _timeout: data[url])
+    active, _ = mod.validate_sources([], {movie, sports}, {}, 1)
+    assert movie in active
+    assert sports in active
 
 
 def test_existing_source_survives_transient_failures(monkeypatch):
-    def fail(_url, _timeout):
-        raise OSError("temporary")
-
+    def fail(_url, _timeout): raise OSError("temporary")
     monkeypatch.setattr(mod, "fetch_text", fail)
     url = "https://example.com/list.m3u"
     active, state = mod.validate_sources([url], set(), {}, 1)
@@ -26,20 +40,16 @@ def test_existing_source_survives_transient_failures(monkeypatch):
 
 
 def test_existing_source_removed_after_three_failures(monkeypatch):
-    def fail(_url, _timeout):
-        raise OSError("gone")
-
+    def fail(_url, _timeout): raise OSError("gone")
     monkeypatch.setattr(mod, "fetch_text", fail)
     url = "https://example.com/list.m3u"
-    active, state = mod.validate_sources(
-        [url], set(), {url: {"consecutive_failures": 2, "last_check_ok": False}}, 1
-    )
+    active, state = mod.validate_sources([url], set(), {url: {"consecutive_failures": 2, "last_check_ok": False}}, 1)
     assert url not in active
     assert state[url]["consecutive_failures"] == 3
 
 
-def test_new_bad_candidate_is_not_admitted(monkeypatch):
-    monkeypatch.setattr(mod, "fetch_text", lambda _url, _timeout: "not a playlist")
-    url = "https://example.com/bad.m3u"
+def test_new_irrelevant_candidate_is_not_admitted(monkeypatch):
+    monkeypatch.setattr(mod, "fetch_text", lambda _url, _timeout: playlist("Generic One", "Generic Two"))
+    url = "https://example.com/generic.m3u"
     active, _ = mod.validate_sources([], {url}, {}, 1)
     assert url not in active
