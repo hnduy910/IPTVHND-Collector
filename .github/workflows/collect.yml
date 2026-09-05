@@ -48,7 +48,8 @@ jobs:
           --sources config/sources.txt
           --state config/source_state.json
           --timeout 20
-          --max-results-per-query 50
+          --max-results-per-query 30
+          --queries-per-run 8
 
       - name: Collect archive, check live streams and build statistics
         run: >-
@@ -73,7 +74,9 @@ jobs:
             exit 0
           fi
           git commit -m "chore: discover sources and update IPTV collection"
-          git push
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Publish rolling public release
@@ -82,9 +85,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
-          git tag -f latest
+          git tag -f latest HEAD
           git push origin refs/tags/latest --force
-          NOTE="Tự động cập nhật mỗi 12 giờ. Hệ thống tự tìm thêm playlist IPTV cộng đồng công khai trên GitHub, giữ nguồn đang hoạt động và chỉ loại nguồn sau 3 lần kiểm tra liên tiếp thất bại. iptvhnd.m3u là kho append-only; link chết không bị xóa. iptvhnd-live.m3u chỉ chứa URL HTTP/HTTPS vượt qua health-check gần nhất. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ."
+          NOTE="Tự động cập nhật mỗi 12 giờ. Hệ thống tự tìm thêm playlist IPTV cộng đồng công khai, luân phiên truy vấn nguồn Việt Nam, phim quốc tế và thể thao/bóng đá quốc tế để giảm giới hạn GitHub API. Nguồn đang có chỉ bị loại sau 3 lần kiểm tra liên tiếp thất bại. iptvhnd.m3u là kho append-only; link chết không bị xóa. iptvhnd-live.m3u chỉ chứa URL HTTP/HTTPS vượt qua health-check gần nhất. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ."
           if gh release view latest >/dev/null 2>&1; then
             gh release upload latest iptvhnd.m3u iptvhnd-live.m3u stats.json --clobber
             gh release edit latest --title "IPTVHND Latest Collection" --notes "$NOTE"
