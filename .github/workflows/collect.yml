@@ -33,14 +33,14 @@ jobs:
         id: commit
         shell: bash
         run: |
-          if git diff --quiet -- iptvhnd.m3u stats.json; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add iptvhnd.m3u stats.json
+          if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No changes."
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add iptvhnd.m3u stats.json
           git commit -m "chore: update IPTV collection and stats"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
