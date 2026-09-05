@@ -5,17 +5,44 @@ import json
 import pathlib
 import re
 import sys
+import unicodedata
 import urllib.request
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Iterable
 
-USER_AGENT = "IPTVHND-Collector/1.1"
+USER_AGENT = "IPTVHND-Collector/1.2"
 
 INTERNATIONAL_KEEP_HINTS = {
     "movie", "movies", "film", "films", "cinema", "cinemas",
     "sport", "sports", "football", "soccer", "futbol", "fútbol",
 }
+
+# Full names are intentionally preferred over ambiguous short local-station acronyms.
+# Keep legacy province/city names too because community playlists often retain them.
+VIETNAM_PLACE_HINTS = {
+    "an giang", "ba ria vung tau", "bac giang", "bac kan", "bac lieu", "bac ninh",
+    "ben tre", "binh dinh", "binh duong", "binh phuoc", "binh thuan", "ca mau",
+    "can tho", "cao bang", "da nang", "dak lak", "dak nong", "dien bien", "dong nai",
+    "dong thap", "gia lai", "ha giang", "ha nam", "ha noi", "ha tinh", "hai duong",
+    "hai phong", "hau giang", "hoa binh", "ho chi minh", "hung yen", "khanh hoa",
+    "kien giang", "kon tum", "lai chau", "lam dong", "lang son", "lao cai", "long an",
+    "nam dinh", "nghe an", "ninh binh", "ninh thuan", "phu tho", "phu yen",
+    "quang binh", "quang nam", "quang ngai", "quang ninh", "quang tri", "soc trang",
+    "son la", "tay ninh", "thai binh", "thai nguyen", "thanh hoa", "thua thien hue",
+    "hue", "tien giang", "tra vinh", "tuyen quang", "vinh long", "vinh phuc", "yen bai",
+}
+
+VIETNAM_NETWORK_PATTERNS = (
+    r"\bvtv(?:\d|can\s*tho|cab|go)?\b",
+    r"\bhtv(?:\d|key|sports?|the\s*thao)?\b",
+    r"\bthvl(?:\d)?\b",
+    r"\bvtc(?:\d|now)?\b",
+    r"\bsctv(?:\d+)?\b",
+    r"\bantv\b", r"\bqpvn\b", r"\bquoc\s*phong\s*viet\s*nam\b",
+    r"\bquoc\s*hoi\b", r"\bvnews\b", r"\bhanoitv(?:\d)?\b",
+    r"\bon\s+(?:movies?|sports?|football|life|kids|vie|music|golf)\b",
+)
 
 
 @dataclass(frozen=True)
@@ -92,16 +119,32 @@ def entry_text(e: Entry) -> str:
     return " ".join(parts).lower()
 
 
+def ascii_text(value: str) -> str:
+    value = value.replace("đ", "d").replace("Đ", "D")
+    return "".join(c for c in unicodedata.normalize("NFKD", value) if not unicodedata.combining(c)).lower()
+
+
 def is_vietnam(e: Entry, source_url: str = "") -> bool:
     txt = entry_text(e)
-    country = (attr(e.extinf, "tvg-country") or attr(e.extinf, "country")).lower()
-    if country in {"vn", "vnm", "vietnam", "viet nam", "việt nam"}:
+    plain = ascii_text(txt)
+    country = ascii_text(attr(e.extinf, "tvg-country") or attr(e.extinf, "country")).strip()
+    tvg_id = attr(e.extinf, "tvg-id").lower().strip()
+
+    if country in {"vn", "vnm", "vietnam", "viet nam"}:
+        return True
+    if tvg_id.endswith(".vn"):
         return True
     if "/countries/vn.m3u" in source_url.lower():
         return True
-    if any(h in txt for h in ("vietnam", "viet nam", "việt nam", "vietnamese")):
+    if any(h in plain for h in ("vietnam", "viet nam", "vietnamese")):
         return True
-    return bool(re.search(r"(?:^|[^a-z0-9])vn(?:[^a-z0-9]|$)", txt))
+    if re.search(r"(?:^|[^a-z0-9])vn(?:[^a-z0-9]|$)", plain):
+        return True
+    if any(re.search(pattern, plain) for pattern in VIETNAM_NETWORK_PATTERNS):
+        return True
+    if any(place in plain for place in VIETNAM_PLACE_HINTS):
+        return True
+    return False
 
 
 def category_flags(e: Entry) -> tuple[bool, bool]:
