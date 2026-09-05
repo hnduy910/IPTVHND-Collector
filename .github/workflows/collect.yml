@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,9 +30,11 @@ jobs:
         run: python collector/main.py --sources config/sources.txt --output iptvhnd.m3u
 
       - name: Commit updates
+        id: commit
         shell: bash
         run: |
           if git diff --quiet -- iptvhnd.m3u; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No new IPTV URLs."
             exit 0
           fi
@@ -39,3 +43,19 @@ jobs:
           git add iptvhnd.m3u
           git commit -m "chore: update iptvhnd.m3u"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Publish rolling public release
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          git tag -f latest
+          git push origin refs/tags/latest --force
+          if gh release view latest >/dev/null 2>&1; then
+            gh release upload latest iptvhnd.m3u --clobber
+            gh release edit latest --title "IPTVHND Latest Collection" --notes "Tự động cập nhật mỗi 12 giờ khi phát hiện URL IPTV mới. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ."
+          else
+            gh release create latest iptvhnd.m3u --title "IPTVHND Latest Collection" --notes "Tự động cập nhật mỗi 12 giờ khi phát hiện URL IPTV mới. Chỉ loại URL stream trùng; cùng kênh nhưng URL khác vẫn được giữ." --latest
+          fi
