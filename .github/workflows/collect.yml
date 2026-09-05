@@ -4,6 +4,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 */12 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "collector/**"
+      - "config/**"
+      - "tests/**"
+      - ".github/workflows/collect.yml"
 
 permissions:
   contents: write
