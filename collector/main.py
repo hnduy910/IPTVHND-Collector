@@ -15,7 +15,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Iterable
 
-USER_AGENT = "IPTVHND-Collector/1.5"
+USER_AGENT = "IPTVHND-Collector/1.6"
 
 VIETNAM_PLACE_HINTS = {
     "an giang", "ba ria vung tau", "bac giang", "bac kan", "bac lieu", "bac ninh", "ben tre",
@@ -145,16 +145,6 @@ def should_keep(e: Entry, source_url: str) -> bool:
 
 def normalize_url(url: str) -> str:
     return url.strip()
-
-
-def dedupe_entries(entries: Iterable[Entry]) -> list[Entry]:
-    out, seen = [], set()
-    for e in entries:
-        key = normalize_url(e.url)
-        if key and key not in seen:
-            seen.add(key)
-            out.append(e)
-    return out
 
 
 def read_existing(path: pathlib.Path) -> tuple[list[str], list[Entry]]:
@@ -335,22 +325,21 @@ def main() -> int:
     all_entries = old_entries + added
     write_playlist(output_path, header, all_entries)
 
-    # Live is strictly a health-checked view of iptvhnd.m3u. No extra source-only URLs are allowed here.
-    live_candidates = dedupe_entries(all_entries)
+    # Live is exactly the health-checked view of the already-filtered, URL-deduplicated archive.
     if args.skip_health:
         _, prior_live = read_existing(live_path)
-        allowed = {normalize_url(e.url) for e in live_candidates}
+        allowed = {normalize_url(e.url) for e in all_entries}
         live_entries = [e for e in prior_live if normalize_url(e.url) in allowed]
         health = {"live": len(live_entries), "dead": 0, "timeout": 0, "unsupported": 0}
     else:
-        print(f"Health-checking {len(live_candidates)} URLs from iptvhnd.m3u...")
-        live_entries, health = health_check(live_candidates, args.health_timeout, args.health_workers)
+        print(f"Health-checking {len(all_entries)} URLs from iptvhnd.m3u...")
+        live_entries, health = health_check(all_entries, args.health_timeout, args.health_workers)
         write_playlist(live_path, header, live_entries)
 
     write_stats(stats_path, all_entries, live_entries, len(added), len(sources), sources_ok, sources_failed, health)
     print(f"Archive added: {len(added)}")
     print(f"Archive total: {len(all_entries)}")
-    print(f"Live candidates from archive: {len(live_candidates)}")
+    print(f"Live candidates from archive: {len(all_entries)}")
     print(f"Live total: {len(live_entries)}")
     return 0
 
