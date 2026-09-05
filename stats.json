@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-05T14:54:16.813637+00:00",
+  "updated_at_utc": "2026-09-05T15:06:41.457445+00:00",
   "sources": {
     "total": 27,
     "ok": 26,
@@ -48,13 +48,24 @@
       "tuyen quang": 2,
       "vinh long": 18
     },
+    "groups": {
+      "vtv": 88,
+      "htv": 45,
+      "thvl": 0,
+      "vtc": 0,
+      "sctv": 18,
+      "vietnam_local": 151,
+      "vietnam_other": 34,
+      "international_movies": 1223,
+      "international_sports": 903
+    },
     "new_urls": 0
   },
   "live": {
-    "total_urls": 1436,
-    "vietnam": 86,
-    "movies": 839,
-    "sports": 516,
+    "total_urls": 1429,
+    "vietnam": 84,
+    "movies": 831,
+    "sports": 519,
     "vietnam_localities_detected": 21,
     "vietnam_by_locality": {
       "ca mau": 1,
@@ -79,11 +90,22 @@
       "tra vinh": 2,
       "vinh long": 4
     },
+    "groups": {
+      "vtv": 14,
+      "htv": 12,
+      "thvl": 0,
+      "vtc": 0,
+      "sctv": 1,
+      "vietnam_local": 36,
+      "vietnam_other": 21,
+      "international_movies": 828,
+      "international_sports": 513
+    },
     "candidate_urls_from_archive": 2467,
     "checked_http_urls": 2388,
-    "dead": 764,
-    "timeout": 188,
+    "dead": 760,
+    "timeout": 199,
     "unsupported": 79,
-    "live_rate_percent": 60.13
+    "live_rate_percent": 59.84
   }
 }
