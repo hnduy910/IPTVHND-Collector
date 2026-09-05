@@ -1,0 +1,7 @@
+# Public community playlists. Add one M3U/M3U8 playlist URL per line.
+# Vietnam: all channels
+https://iptv-org.github.io/iptv/countries/vn.m3u
+
+# International: movies + sports only
+https://iptv-org.github.io/iptv/categories/movies.m3u
+https://iptv-org.github.io/iptv/categories/sports.m3u
