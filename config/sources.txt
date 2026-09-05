@@ -35,3 +35,6 @@ https://shovo127.github.io/IPTV-By-Shovo/index.m3u
 # Vietnam-focused community aggregates (still processed by the same global filter)
 https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/main/http-iptv.m3u
 https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/main/iptv.m3u8
+https://raw.githubusercontent.com/PHONGPK1/phongpk1/main/README.md
+https://raw.githubusercontent.com/dangdvd/dangdvd.github.io/master/IPTV.m3u
+https://raw.githubusercontent.com/thikbdx/m3u/main/LICENSE.md
