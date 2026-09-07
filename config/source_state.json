@@ -87,10 +87,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u": {
-    "consecutive_failures": 3,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -1147,10 +1143,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/Chenxdayat/filestream/fc6be09b1f6cafef9b0b329dec30506601f58fbb/Sports/soccer-ch.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/DNS-IPTV/main/d1dbc8f5aeeebc26f004faba2741915d56519f78/IPTV.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -1159,25 +1151,13 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Danh sách kênh/Gói chính thức/Nam Định IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/Harukalala/IPTV/b9033668cbbf0f6128903cefc0622e9790975de9/IPTV.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/52aa2250bbe367a1d87ce96c6edd45f0fefcd851/playlist (2).m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/IvaanHerrera/listasTVLG/4299741a353350a9c95fd36418dde0d9a52d5abf/iptvcanales.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/Jahangirkhan12345/Sunrise-IPTV-Playlist/8efb18d05e841aa19d5570aaa13dc5723143b365/Jannat IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/KPRDROP/kprjson/2fca9ad4113453bbf2c4120e0eb9d1beec40c4d3/embed_tivimate.m3u8": {
     "consecutive_failures": 0,
@@ -1267,21 +1247,9 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/MohamedSakhri1/IPTV/8a4d5c85c1f52231766e0ffd0c3043fb10c4c45e/Sports FR.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/Monoloshka/iptv/33aed82c0a5b074c143c038b045b65a11d31deb9/full-iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/MyoMyanmarTV/myo.github.io/dad387614cbd2a0385a091f1942dd13655f2c97b/iptv.m3u": {
-    "consecutive_failures": 2,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/Rihan2044/Sharif_19/a8f9c248fa120be22950897216c858f1773d55b0/My Sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/SSyar/ssyar.github.io/f8807857d1af41beefc976b4b02cbf6c07abda38/iptv.m3u": {
     "consecutive_failures": 0,
@@ -1295,10 +1263,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/Shadmanislam/bdiptv/5bb712d37ac0acb227b8d1ba3cbfc480a1cf0127/BD IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/SubratoBcodez/Y3JpY2tldCB3b3JsZCBjdXAgMjMgbGl2ZQ/d2bad9e6ba410a0de1fdb7d6d521615b5bfa85c3/recwcss/Sports.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -1306,10 +1270,6 @@
   "https://raw.githubusercontent.com/WaroenkTV/m3u8/2960afea1eb5cc0e68a853d421ad85e19338bcf9/Streamedsu.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/about300/IPTV/b76af48d5a4d84ca6da643c527ef6b89f461a25d/IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/amgeekz/iptv/aa9954aec0029baad03136575fcf9cb412e75da6/iptv.m3u": {
     "consecutive_failures": 0,
@@ -1326,10 +1286,6 @@
   "https://raw.githubusercontent.com/ardyprayogo/ardyprayogo.github.io/8cadcb69a470f419394fbf1c1a5134f0a34add53/assets/link/iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/asdjkl6/asdjkl6.github.io/01666f23d148a48a50b92850bb8830f69125cf15/.m3u/群专用.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/ashuminare/entertainment/bc50f21ceba05590eb995dbf6840045e7864b03d/iptv.m3u": {
     "consecutive_failures": 0,
@@ -1351,33 +1307,17 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/colorzpe/012345zxcgs/65c231e05b6fda5259cb39d34e6d7b5425412c1e/TPW_ IPTV_ v3.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/crashatina/iptv/84dcdda389ce26366d45eb37f8a56d9f7a07d0ce/iptv/iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/dagoretti/home-iptv-/6a7ca77ffd71d9595bb8298241ddb45987583ad9/M3U/SP 09-03 2.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/denozaur/smartiptv/26e48e761d8bf63f1b5a07cfbbfe1fafedb5fc1b/iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/djliptv/DJLIPTV/7c8120d01990d27a9f7b2b3c85fdbff58f1aef34/Menu/TV/Sports IPTV LIST 106 Channels [31-05-2017].m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/doms9/iptv/b660229e451a2b941f7162300285935198793741/M3U8/base.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/doraemon99-x/event/3cdf276ca91943ce69768e33261f759f329fe98d/ast/soccer.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/engr-kishon/ip-tv/4512ac391605beb40fc9ecdf5c58d4249aae1d77/iptv-new.m3u": {
     "consecutive_failures": 0,
@@ -1386,14 +1326,6 @@
   "https://raw.githubusercontent.com/feezony/feezony/3513366968de463f7a0ba52295948bed74f57fc4/IPTV.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/fraudiay79/logos/563e730f77d86636bf2a3047a3433e563a223c25/videos/sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/hala-tv-live/channels-data/59b658e7454bd83005f2f24aca253860463084b4/sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/6c578b3c50ca52676bb2f7817c1bc5af4d03ad88/Global.m3u8": {
     "consecutive_failures": 0,
@@ -1414,10 +1346,6 @@
   "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/6c578b3c50ca52676bb2f7817c1bc5af4d03ad88/USA.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/6c578b3c50ca52676bb2f7817c1bc5af4d03ad88/grouped.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/6c578b3c50ca52676bb2f7817c1bc5af4d03ad88/southKorea.m3u8": {
     "consecutive_failures": 0,
@@ -1447,14 +1375,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/jam1668/m3ufiles/524f01dabad7e2bb8578215818e37171291fe43e/sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/jatinrana/free_iptv/0c1a3e0fb8f7629d3ae91a55c32c39aeed9488fb/iptv.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/judy-gotv/iptv/d3c7597b97d55ab20bd3197217ff824379fda2e9/FSTV24.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -1483,14 +1403,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/kilirushi/iptv/f8765b54e7b66080201e07d168418e302c672c7d/vn copy 2.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/kilirushi/iptv/f8765b54e7b66080201e07d168418e302c672c7d/vn copy.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/kusnadipepenk/ntn/f282bc757057e79230de1000674d1ce5a5c760dd/wwww.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -1511,17 +1423,9 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/mrahmedkhan/sky/80ad52f45a5864a6d824443cd49198d9862ed3ce/Live Sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/msyafrial/msyafrial.github.io/62617bc3455fcbb383d84dcbda9b36b63ce23c7d/iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/nackson1979/m3u/6fe0d5b5e7bff97fe073d63206d7acebc61963cc/iptv world6.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/pjburnhill/hcap-threejs-example/8e653f5e5d32ebc9d7fbd5c75fe48ded7448e17f/src/mrcs-examples/captures/soccer_normals/hls/soccer_normals.m3u8": {
     "consecutive_failures": 0,
@@ -1539,25 +1443,9 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/sadman-al-rafi/sadman-al-rafi.github.io/2cee8c6a97580a87880884225c70e0dcdce180bd/ptv_sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/schumijo/iptv/ed5e7277e7485132c3323056bd0ed1ad1df51d18/playlists/iptv/fr_plex.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/shaheerkkkk/test1/258e713d27361d1ffe34cce46c99a8d8e7f85c9a/.data/A Sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/shibilvp862/shibilvpm3uplaylist/a93d8178d1cd9374611c84cdb44dbf5099bb03d7/fox sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/softbdteam/BDIX-IPTV/9da344956da6cec3841457d519bc31f7944e40f0/Sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/spookyhost1/yarr-stremio/750e234dcfa783873c9261504dd9021ef5ee2de6/src/iptv/m3u-sources/af.m3u": {
     "consecutive_failures": 0,
@@ -1566,10 +1454,6 @@
   "https://raw.githubusercontent.com/steathy/iptv/b2d69c906922be17ae56b647e71a670d6278f9c8/iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/streamifytv/streamifytv/1f724f10d23a7aeec06e63ee13fe5064619b9ad4/index.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/suphero/IPTV/58168802651f91c5f3fd3efd15628546e784c63e/TR.m3u8": {
     "consecutive_failures": 0,
@@ -1599,10 +1483,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/wbaobaid/wordcup/183876219c6e6117d51ba178c8ff55aa078859b6/iptv-m3u-26-10-2022.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/windrise1217/mytv/b692e8f7b66780b453807ec6a0fb053544af62ae/iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -1611,19 +1491,299 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/yoyo82520/huaiptv/3f2dd11c22bdfb87f9f96e4e808894ff77c29c7e/HaNoi IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/zhihenglu/SurgeModule/a20ea15e1d3ba63c82a555fbe89dbfba2a39d935/IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/ziizidavid/Iptvjoes/39de032b3971709949b594e645b7b198cf25e86c/IPTV.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
+  "https://raw.githubusercontent.com/Free-TV/IPTV/325ad0352e8c87f738d5b43edd31a87051351a24/playlists/playlist_united_arab_emirates.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/Github-Alexandria/iptv_pub/183a663894501dd7b6fbc9f9ceb2333e1db671fc/vn.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Chưa đi vào hoạt động/Hà Nội IPTV 2021 (Bản nháp).m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Danh sách kênh/Cao Bằng IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Danh sách kênh/Gói chính thức/Hà Nội IPTV công cộng.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Danh sách kênh/Gói chính thức/Hà Nội IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Danh sách kênh/Gói chính thức/Quê hương Hà Nội IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Tạm dừng hoạt động/Hải Dương IPTV (Thành phố Chí Linh).m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Tạm dừng hoạt động/Hải Dương IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Tạm dừng hoạt động/Ninh Bình IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Tạm dừng hoạt động/Thành phố Hồ Chí Minh IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/6160dad087721a7d68e299ede4fc9f67bae85cf3/Tạm dừng hoạt động/Thái Nguyên IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/MAYDAYxxx/MAYDAYxxx.github.io/5384fa46e80d3cf03cfd41e5434bf7eaf02f7231/TVBox/IPTV.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/国内.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/推荐.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/网络电视IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/ahan443/FAST-IPTV/257e6ccf54b52e3053d76d2a587fb9cef29af572/qjim.m3u.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/anyelC24/Hyperblog-/75a0edc361f3c360029981189ab7004504beaff9/Lista 3000 Canales IPTV Mundial.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/boxkim14/m3u8/6d56e6691fac1f95d05fb593ebb1456fa0a7f091/vn.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8d3f71f2f88c88a8adfa933af17a3338b16c4493/BugsfreeStreams/StreamsTV-VN/vinh_long_tv_1_720p_4fe487ba.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8d3f71f2f88c88a8adfa933af17a3338b16c4493/BugsfreeStreams/StreamsTV-VN/vinh_long_tv_3_720p_af189771.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8d3f71f2f88c88a8adfa933af17a3338b16c4493/BugsfreeStreams/StreamsTV-VN/vinh_long_tv_4_720p_1cc9c8e5.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8d3f71f2f88c88a8adfa933af17a3338b16c4493/LiveTV/Vietnam/LiveTV.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/eN2OY/IPTVLOCAL/9decb8de777e4a2a56dcb4565618dfa813a2cc7f/iptv2.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/eklins/FDTV/aecaa21e0a086c94d903506609e2891b68f61ec7/zz/IPTV CW20220810.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/fuinbr/IPTV/15c4ff1816e6afc0812e022691d1aea2384eefa9/yd.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/avg/vinhong1.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/hplus/vinhlong1.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc1.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc10.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc11.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc12.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc13.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc13_4k.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc14.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc16.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc2.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc3.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc4.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc5.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc6.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc7.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc8.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc9.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/3100个全部有效.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/GGTV424个源全部可用.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/四川联通.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/国外电视台2023.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/188a16c61e1e84fa90e607129d5da8dcc9441571/streams/vn.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/17be83ff74b4b3e91c6b307a1509806536aaf259/smart.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/kereydoncic/NNNNN/581bfdebced471f966e0cd4167bed8a7b46bbd9f/unapalang v5.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/kereydoncic/iptcccc/dc02309e6a9dc56039334599b5100d3c36ddc51f/salpak v2.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/khan220/MULTI-IPTV-SERVERS/7699cfc801dd737a200e4a7359b301fe8b2265fd/SkyBlue IPTV Mix.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/kilirushi/iptv/f8765b54e7b66080201e07d168418e302c672c7d/vn copy.m3u": {
+    "consecutive_failures": 2,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/kimcrowing/IPTV/aacf7168df3abcfa82c2f5060164be1452c9d269/3100个全部有效.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/luuhungcuong/gplx/7a76b1067ac114eaf0dbc58ec914a233eda781b2/tv.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/mztian/shanghaiiptv/a2841485091bec2c71888dd108953fe356d89d1b/上海电信可用直播源.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/nzkaize/nzkaize.github.io/45257b54c242ba87dfe607f1c6fb5a9aa5210b64/repo/iptv.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/nzkfld-iptv/webiptv/3f2d68a441dcc127224f187b71e815e53d6b7cec/index.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/puttyroot/attempt/9ae119797800c34e6e5fbd66b82fa79c3b15e1de/GitIPTV.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/8164d30e3fe7fa4592c8ee53068ef895d20ffbe4/IPTV/CN.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/seedoel/blacklist/c5d5d2867062cfca1970f2c6de74a233b1fdcc10/SCTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-06-766Z_Da Vinci Asia Vietnam.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-07-17-300Z_Vietnam Today (1080p).m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/thung65/Iptv-vietnam/2b73768bbd83f42d842df92e13bacdb1483f662c/fpt.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/htv7.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv1.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv3.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv5.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv6.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/84ee0d7c4eac8fd1fb26f9532980909dbfca5c23/unfyespanoltv/chocolate.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/zx211/bo/5da7973aa25024a0e48a8d4ac276b4b7a9f94466/12miao/3f.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
   "__meta__": {
-    "query_cursor": 2
+    "query_cursor": 10
   }
 }
