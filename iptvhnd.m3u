@@ -279,6 +279,36 @@
 #EXTM3U  
 #央视区
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+# LIVE Playlist - Clean & Safe
+# Host: iptv1.kavkom.tv:8000
+# Generated: 2026-09-07 22:54:36
+# Expires: Unlimited
+# Family Safe Edition
+# ==============================================
+# --- LIVE (86) ---
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/MatheusAlves7/Canais_IPTV/refs/heads/main/guide.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/de/sky.de.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/de/tvheute.at.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/hr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/ru/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sv/tv.nu.xml,https://iptv-org.github.io/epg/guides/sv/tv24.se.xml"
+#EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTM3U  x-tvg-url="http://nasharu.tv/iptv/epg/epg_ssiptv.xml" url-tvg="http://nasharu.tv/iptv/epg/epg_full.xml.gz" size="medium"  catchup="shift" catchup-days="3"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
+#EXTM3U8
+#EXTREM netplus.ch tv over the top HTTP Live Stream in Switzerland unrelated to your internet provider and tv operator but could be geoblocked.
+#EXTREM Some channels are available only trough true home network netplus.ch partners.
+#EXTREM new url https://netplus.zappr.stream/ to be updated, working on...
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+#PLAYLIST:IPTVstable
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTM3U x-tvg-url=""
+#EXTM3U url-tvg="https://github.com/iwinstar/epg_merge_filter/releases/download/latest/merged_epg.xml.gz"
+## EXTM3U x-gary-epg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://github.com/iwinstar/epg/releases/download/nhk-latest/nhk_epg.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/all/epg.xml.gz,https://iptv-epg.org/files/epg-ca.xml.gz,https://epg.pw/xmltv/epg.xml.gz"
+#EXT-X-APTV-PREVIEW: FALSE
+#EXT-X-APTV-LATENCY: FALSE
+# ==================================================
+#                      4K UHD
+# === 🇺🇸 US ===
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -47718,3 +47748,712 @@ http://64.31.23.207:80/08892467/61552913/514126.m3u8
 http://64.31.23.207:80/08892467/61552913/514128.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme SD" tvg-name="HBO Xtreme HD" tvg-logo="http://www.fontedecanais.me/logos/canais/hboxtreme.png" group-title="✅ Canais ✨Hbo",HBO Xtreme HD
 http://64.31.23.207:80/08892467/61552913/514129.m3u8
+#EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="Movies",HBO 1
+#EXTVLCOPT:http-referrer=https://tv247.us
+https://live.tv247us.com/tv247/hbo.m3u8
+#EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/tcm.png" group-title="LIVE",TCM
+http://iptv1.kavkom.tv:8000/live/vb3HLZHsD5/K39bpCkS32/2682.m3u8
+#EXTINF:-1 channel-id="pluto-628e685ba3811100070551a8" tvg-id="628e685ba3811100070551a8" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" tvg-chno="2080" group-title="Entertainment" , Hallmark Movies & More
+https://jmp2.uk/PlutoTV/628e685ba3811100070551a8-alt.m3u8
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr" status="timeout",Alpe d’Huez TV (720p) [Not 24/7]
+https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",Cinemax 4K
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/239
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",Cinemax HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/240
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" tvg-logo="" group-title="FILMES & SERIES",HBO+ 4K
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/246
+#EXTINF:-1 tvg-logo="" group-title="FILMES & SERIES",HBO+ HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/245
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="" group-title="FILMES & SERIES",HBO 2 4K
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/247
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="" group-title="FILMES & SERIES",HBO 2 HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/248
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO 4K
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/251
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="" group-title="FILMES & SERIES",HBO Family 4K
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/252
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="FILMES & SERIES",HBO Family HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/253
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/255
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 1 HD 
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/832
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 2 HD 
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/833
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 3 HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/834
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 4 HD 
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/835
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO Mundi 4K
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/256
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO Mundi HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/257
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO Pop 4K
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/260
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO Pop HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/261
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO Signature 4K
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/264
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO Signature HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/262
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO Xtreme 4K
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/266
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO Xtreme HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/267
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="" group-title="FILMES & SERIES",TCM HD
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/292
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM UHD" tvg-logo="" group-title="FILMES & SERIES",TCM HDR
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/293
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HDR+" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="CANAIS HDR+",HBO HDR+
+http://178.162.225.182:2082/Tourobox1-mgMGJKr4sW/aFgRuT8o3H/1000
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",HBO Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="Classic;Movies",TCM West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:49 tvg-logo="http://103.107.79.72/logo/SonyMAX.png" group-title="HINDI", Sony MAX
+http://103.107.79.87:8080/CH8108HD08/video.m3u8
+#EXTINF:63 tvg-logo="http://103.107.79.72/logo/StarMovies.png" group-title="ENGLISH", Star Movies
+http://103.107.79.87:8080/CH8109HD07/video.m3u8
+#EXTINF:-1,Warner TV Comedy
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/138485
+#EXTINF:-1,Warner TV Film
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13947
+#EXTINF:-1,Warner TV Serie
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/134395
+#EXTINF:-1 tvg-id="" tvg-name="ARD (FIFA WM 2022)" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/5f40de5217fdb3f01785ad548455fdb1.png" group-title="Germany ➾ Football",ARD (FIFA WM 2022)
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/297010
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/336b9af0cb8a6305292eb08571804135.png" group-title="Germany ➾ Movie",Sky Cinema
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/291082
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema +1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7d7faf76356162a9503a84a1f02f48e7.png" group-title="Germany ➾ Movie",Sky Cinema +1
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/1660
+#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="Sky Cinema +24" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a847f3895427abf697dd7395471d8b73.png" group-title="Germany ➾ Movie",Sky Cinema +24
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/4458
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/83f51c4bc3c6ca7b3c1d070d98d283bb.png" group-title="Germany ➾ Movie",Sky Cinema 1
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/281887
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3758e2eca6862e1643a27ecf4082030e.png" group-title="Germany ➾ Movie",Sky Cinema 24
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/281888
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c0736e71decc27359ed907ccd077affb.png" group-title="Germany ➾ Movie",Sky Cinema Action
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/1659
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33bebe3398e7b19f19b96a36e0df1dbd.png" group-title="Germany ➾ Movie",Sky Cinema Best Of
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2119
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cf0b9eca25b310d3914dd1fa0196c7f4.png" group-title="Germany ➾ Movie",Sky Cinema Classics
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/91126
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/eb04104682108a58bb6b25e2b4c807cd.png" group-title="Germany ➾ Movie",Sky Cinema Comedy
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2120
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Emotion" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b5aff9538f05797c63ca75e95057b563.jpg" group-title="Germany",Sky Cinema Emotion
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2138
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d7a500d20f06dad1bdeb0bb6019f0972.png" group-title="Germany ➾ Movie",Sky Cinema Family
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2118
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Fun" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d4ab9d27925e657f7ea5811bf8c1ea6e.png" group-title="Germany ➾ Movie",Sky Cinema Fun
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/91120
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5da8f341545fb75514da5edd5953eb74.png" group-title="Germany ➾ Movie",Sky Cinema Hits
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/281886
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Nostalgie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa45ee05b7b8b2caf8f3e322c7010706.png" group-title="Germany ➾ Movie",Sky Cinema Nostalgie
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2116
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d2b40c20cd42aee89dc3d9046c2fa329.png" group-title="Germany ➾ Movie",Sky Cinema Premiere
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2117
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premieren +24" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ae711c8f6f85772359e474455109c70f.png" group-title="Germany ➾ Movie",Sky Cinema Premieren +24
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2414
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premieren 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cd3199d0937a07d886d9949b283a5dd6.png" group-title="Germany ➾ Movie",Sky Cinema Premieren 24
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/280330
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Special" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7fbdda6752bbcb91ac1c9de323f8603d.png" group-title="Germany ➾ Movie",Sky Cinema Special
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/29070
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Thriller" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8e72e2ca6c934e71ac3ec9139a7550d8.png" group-title="Germany ➾ Movie",Sky Cinema Thriller
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/91116
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe531ca1d3128a5ea1d826026c1c967.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 1
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2431
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/fb2eaf329b2b21db2465a65b6561f37a.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 2
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/4493
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7de132a1213bb481524dd15b684e0b3.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 3
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2135
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c685e1115586d117d8bd52211fb175ec.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 4
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/3513
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ae1ff23f60068f326deb088d3751a607.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 5
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2136
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b600abfaf8bbe572f199a04457b67a0a.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 6
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/12638
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/acbb2d746d6270db2b1f28711ecc3cb6.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 7
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2433
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e32f4dbf139eeda0ca4bef4c31a303c.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 8
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2434
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/210f77aa7e453d5335c8a4c6b341e4c9.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 9
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/10051
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db1d07a63257ba1ba7ff36c393016fd8.png" group-title="Germany ➾ Football",Sky Sport Bundesliga 10
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2432
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sportdigital Fussball" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3902b1a334082146f28bbd26c2272a85.png" group-title="Germany ➾ Football",Sportdigital Fussball
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/3509
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e544bd95d6e6ae7bef1951c13d06d4c5.png" group-title="Germany ➾ Movie",Warner TV Comedy
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/281763
+#EXTINF:-1 tvg-id="tntcomedy.de" tvg-name="Warner TV Film" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f13246ba5272f59e5bc74ab07c0a511d.png" group-title="Germany ➾ Movie",Warner TV Film
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/2087
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="Warner TV serie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4216151256055c0b324d24e8718f2df6.png" group-title="Germany ➾ Movie",Warner TV serie
+http://iptvtree.net:8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/1655
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT PREMIER LEAGUE FHD" tvg-logo="" group-title="DE=SKY SPORTS ",SKY SPORT PREMIER LEAGUE FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/136165
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 1 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134835
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 2 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134836
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 3 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 3 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134837
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 4 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134838
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 5 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134839
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 6 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 6 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134840
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 7 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 7 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134841
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 8 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 8 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134842
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 9 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 9 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134843
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 10 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",SKY SPORT BUNDESLIGA 10 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134844
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SPECIAL HD" tvg-logo="" group-title="DE=CINEMA",SKY CINEMA SPECIAL HD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134813
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA THRILLER FHD" tvg-logo="" group-title="DE=CINEMA",SKY CINEMA THRILLER FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134815
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SPECIAL FHD" tvg-logo="" group-title="DE=CINEMA",SKY CINEMA SPECIAL FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134816
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIEREN FHD" tvg-logo="" group-title="DE=CINEMA",SKY CINEMA PREMIEREN FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134817
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIEREN 24 FHD" tvg-logo="" group-title="DE=CINEMA",SKY CINEMA PREMIEREN 24 FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134818
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY FHD" tvg-logo="" group-title="DE=CINEMA",SKY CINEMA FAMILY FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134819
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA BEST OF FHD" tvg-logo="" group-title="DE=CINEMA",SKY CINEMA BEST OF FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134820
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION FHD" tvg-logo="" group-title="DE=CINEMA",SKY CINEMA ACTION FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134821
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV SERIE FHD" tvg-logo="" group-title="DE=CINEMA",WARNER TV SERIE FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134799
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV FILM FHD" tvg-logo="" group-title="DE=CINEMA",WARNER TV FILM FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134800
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV COMEDY FHD" tvg-logo="" group-title="DE=CINEMA",WARNER TV COMEDY FHD
+http://srcbe.xyz:8000/alman@de@/5ze9RsKMK9Tk/134801
+#EXTINF:-1,Sony Max 2 SD
+http://103.99.249.107/play/a01x
+#EXTINF:-1,Sony Max HD
+http://103.99.249.107/play/a009
+#EXTINF:-1,Star Movies HD
+http://103.99.249.107/play/a00o
+#EXTINF:-1,Star Movies Select HD
+http://103.99.249.107/play/a02e
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX 2 HD", CINEMAX 2 HD
+https://www.vavoo.to/play/1249066248/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="HBO", HBO
+https://www.vavoo.to/play/3687432160/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="HBO 2", HBO 2
+https://www.vavoo.to/play/1888495277/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX HD", CINEMAX HD
+https://www.vavoo.to/play/484011633/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX", CINEMAX
+https://www.vavoo.to/play/3794748066/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="AXN BLACK", AXN BLACK
+https://www.vavoo.to/play/927710249/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX 2", CINEMAX 2
+https://www.vavoo.to/play/1909701741/index.m3u8
+#EXTINF:-1,CINEMAX TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/145.m3u8
+#EXTINF:-1,TCM TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/157.m3u8
+#EXTINF:-1,FOX MOVIES 
+http://142.0.43.4:25461/live/televall1/televall-01/118.m3u8
+#EXTINF:-1,FOX MOVIES IPTV MEXICO
+http://www.iptvmexico.xyz/ch/305.m3u8
+#EXTINF:-1,HBO TELE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/193.m3u8
+#EXTINF:-1,HBO PLUS SD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS)/index.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/hcLUKfv.jpg",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="Discovery",Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+#EXTINF:-1 ,IN: SONY MAX
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,IN: SONY MAX HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN)
+http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
+#EXTINF:-1 ,IN: SONY MAX
+http://103.205.133.19/hls/sonymax.m3u8
+#EXTINF:-1 ,Sony Movies
+http://178.159.5.210:1000/play/sonymovies/index.m3u8
+#EXTINF:-1 ,Sony Max
+http://42.98.239.149:9981/stream/channelid/1597286721
+#EXTINF:-1 group-title="Sports" tvg-id="ThrillerMax.-.East.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-thrillermax-us.png" tvg-name="CINEMAX THRILLERMAX",CINEMAX THRILLERMAX
+http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO Family
+http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png" tvg-name="HBO SIGNATURE",HBO SIGNATURE
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 ,Alpe d’Huez TV
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
+#EXTINF:-1 ,HBO
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,HBO
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:-1 ,HBO
+http://gg.gg/HaNoiIPTV-HBO_HD
+#EXTREM #EXTINF:-1 tvg-id="paramount.fr" tvg-logo="https://picserve.netplus.ch/channels/paramount.png" tvg-country="FR" tvg-language="French" group-title="FR movie",paramount network F HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
+#EXTINF:-1 tvg-id="tcm.fr" tvg-logo="https://picserve.netplus.ch/channels/tcm.png" tvg-country="FR" tvg-language="French" group-title="FR movie",TCM CINEMA F HD
+https://netplus.zappr.stream/tcm.m3u8
+#EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://picserve.netplus.ch/channels/film4.png" tvg-country="EN" tvg-language="English" group-title="UK movie",FILM4
+https://netplus.zappr.stream/film4.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+https://ch.iptvmate.net/7ebfc908793e409f760eff3ea28927a3.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+https://ch.iptvmate.net/3984c45c0896d8ef68bbe46950c5a28b.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+https://ch.iptvmate.net/a293f3501707e556e2a6609457a9d2ea.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+https://ch.iptvmate.net/b96268cde2310808eddc32705781f60e.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
+https://ch.iptvmate.net/e758de1c468cad5c97124d7f1b489d93.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
+https://ch.iptvmate.net/de6f8752877b9908a2fefea50a30ebd1.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
+https://ch.iptvmate.net/669ddd482090a0f9339bef191e7d43bb.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
+https://ch.iptvmate.net/6987ea5e7e36a0635d4946fb0b74382c.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
+https://ch.iptvmate.net/272985fb912417668ec7eb369e2a857f.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
+https://ch.iptvmate.net/801f867fbd6c21c8b3b16a4483f5dcdf.m3u8
+#EXTINF:-1,DE: SKY CINEMA +1 HD
+https://ch.iptvmate.net/c44e10a1d9446f024320b79acf6fb57f.m3u8
+#EXTINF:-1,DE: SKY CINEMA +24 HD
+https://ch.iptvmate.net/a82e918c7d7c0aafa2e4943b6f0d3c6e.m3u8
+#EXTINF:-1,DE: SKY CINEMA ACTION HD
+https://ch.iptvmate.net/79affd1067514ea52d4259be35e257c9.m3u8
+#EXTINF:-1,DE: SKY CINEMA ACTION
+https://ch.iptvmate.net/f49dddcd5c73a0d85464e769f3aca6f1.m3u8
+#EXTINF:-1,DE: SKY CINEMA COMEDY
+https://ch.iptvmate.net/336a566b47572a60ac81a5d032e3e730.m3u8
+#EXTINF:-1,DE: SKY CINEMA EMOTION
+https://ch.iptvmate.net/d8f5cc64055d8c50fae0dd2eb85249dd.m3u8
+#EXTINF:-1,DE: SKY CINEMA FAMILY
+https://ch.iptvmate.net/ef798e0e04480f679894f3c99428f79c.m3u8
+#EXTINF:-1,DE: SKY CINEMA HD
+https://ch.iptvmate.net/e73980e84290583f056b039600a13550.m3u8
+#EXTINF:-1,DE: SKY CINEMA HITS HD
+https://ch.iptvmate.net/3adc217103bac541978eba2a5b3393da.m3u8
+#EXTINF:-1,DE: SKY CINEMA HITS
+https://ch.iptvmate.net/b5ed97454c14589ae2dacb068138db9c.m3u8
+#EXTINF:-1,DE: SKY CINEMA NOSTALGIE
+https://ch.iptvmate.net/c03a2e463c6195a8299f6103d27f48b0.m3u8
+#EXTINF:-1,DE: SKY CINEMA FAMILY HD
+https://ch.iptvmate.net/03136fc03dbcc3a91e0963fdf002ae3e.m3u8
+#EXTINF:-1,DE| SKY CINEMA HD
+https://ch.iptvmate.net/80b038c8a1b01226d511f59f773c989f.m3u8
+#EXTINF:-1,DE| SKY CINEMA  24 HD
+https://ch.iptvmate.net/1f718befd7d18df04112fdbf480f9d7f.m3u8
+#EXTINF:-1,DE| SKY CINEMA 1 HD
+https://ch.iptvmate.net/43e785a152313f63efc47fc71d21ab74.m3u8
+#EXTINF:-1,DE| SKY CINEMA FAMILY
+https://ch.iptvmate.net/9d00d4f5b197075c99bb5d50fcdac8ab.m3u8
+#EXTINF:-1,DE| SKY CINEMA HITS
+https://ch.iptvmate.net/e0292faa7201ca39671e12c23b5efc99.m3u8
+#EXTINF:-1,DE| SKY BUNDESLIGA 1HD
+https://ch.iptvmate.net/34d5e0ac120075567f04f008588b61cc.m3u8
+#EXTINF:-1,DE| SKY BUNDESLIGA 2HD
+https://ch.iptvmate.net/32f9faea04d3d08df7d39867421f462d.m3u8
+#EXTINF:-1,DE| SKY BUNDESLIGA 3HD
+https://ch.iptvmate.net/16e28c4527c02521576d2516a0c66ecc.m3u8
+#EXTINF:-1,DE| SKY BUNDESLIGA 4HD
+https://ch.iptvmate.net/fafa0863059e899549b7abb105618151.m3u8
+#EXTINF:-1,DE| SKY BUNDESLIGA 5HD
+https://ch.iptvmate.net/20946f4dbdc2ecfaadaa19e7e4926cd5.m3u8
+#EXTINF:-1,DE| SKY BUNDESLIGA 6HD
+https://ch.iptvmate.net/c831bb398d7895ddb35e6ece90454f39.m3u8
+#EXTINF:-1,DE| SKY BUNDESLIGA 7HD
+https://ch.iptvmate.net/1cca21d49f79d82df2dd5bd7e6470b08.m3u8
+#EXTINF:-1,IT| SKY CINEMA UNO
+https://ch.iptvmate.net/6c249d0ef25de87db958835d443fc01d.m3u8
+#EXTINF:-1,IT| SKY CINEMA UNO   1
+https://ch.iptvmate.net/e2fe3c261c079df6a060dd11c8e29b0f.m3u8
+#EXTINF:-1,IT| SKY CINEMA 24 HD
+https://ch.iptvmate.net/dac6837bfa74998a200942d3dee51e10.m3u8
+#EXTINF:-1,IT| SKY CINEMA HITS HD
+https://ch.iptvmate.net/84b6f69906e44bb2459a0e7009a4388a.m3u8
+#EXTINF:-1,IT| SKY CINEMA FAMILY HD
+https://ch.iptvmate.net/1afad2c474d304df051b4b80a18168b2.m3u8
+#EXTINF:-1,IT| SKY CINEMA FAMILY   1
+https://ch.iptvmate.net/9785459f98db5f31a04f56e8f21c8f05.m3u8
+#EXTINF:-1,IT| SKY CINEMA PASSION HD
+https://ch.iptvmate.net/8bd6dba6b885100d857925cc4f0ca646.m3u8
+#EXTINF:-1,IT| SKY CINEMA COMEDY HD
+https://ch.iptvmate.net/28ab833f34ba9bedb9b62e54de964fb0.m3u8
+#EXTINF:-1,IT| SKY CINEMA MAX HD
+https://ch.iptvmate.net/f849cfee4a0f658093742557deb7ed51.m3u8
+#EXTINF:-1,IT| SKY CINEMA MAX   1
+https://ch.iptvmate.net/4fe0bd03ec75196b8d21b8f0a4f947b2.m3u8
+#EXTINF:-1,IT| SKY CINEMA CULT HD
+https://ch.iptvmate.net/513c08bc8acc18393881374f7fad3d74.m3u8
+#EXTINF:-1,IT| SKY CINEMA CLASSIC HD
+https://ch.iptvmate.net/75d9936425c075071fc9d35b318a4bb0.m3u8
+#EXTINF:-1,IT| SKY CINEMA 3D
+https://ch.iptvmate.net/b289e389e63984bb7fd18fde28379300.m3u8
+#EXTINF:-1,IT| SKY SPORT FOOTBALL  HD
+https://ch.iptvmate.net/612c7bba7fe3c532541655aff545a3db.m3u8
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
+https://vtv-live-push-token.akamaized.net/hls/live/2029309/vtv3/vtv3-360p/hdntl=exp=1703268132~acl=%2f*~data=hdntl~hmac=8ccc5be294403e15a0441fdf672246606cff4345111a57f94b30be0c4f0391a7/chunklist.m3u8
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" tvg-id="9ed354e922c3adc3b007f81ea783b6d6",VTV4 HD
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHY0XzQwMDAuc3RyZWFtfGZwdHwxNjg3ODgzMjg4fDQyLjExNy42My4zNHw5NTQ5YTBmYzdkMTFkYzdiZjQwODMzY2IzYTYxZDc5Mg/fnxhd1/vtv4_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-id="3a8e10f3ab031628e65d95fac283199d",VTV5 HD
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHY1aGRfNDAwMC5zdHJlYW18ZnB0fDE2ODc4ODQwNjh8NDIuMTE3LjYzLjM0fDBiNGVlOGRkN2QyYTUyNjgyYzUzZTRlYmVlMjY3ZTg4/epzhd1/vtv5hd_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png?dl=0" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV Cần Thơ
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHZjYW50aG9fNDAwMC5zdHJlYW18ZnB0fDE2ODc4ODQxMDR8NDIuMTE3LjYzLjM0fGU0OWMxNGE5YzliODIwYjg1Zjg1YmQyNjAwYzVhM2Vl/fnxhd1/vtvcantho_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" tvg-id="511a8f605694796c5553557bd63c2eb5",VTV7 HD
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHY3aGRfNDAwMC5zdHJlYW18ZnB0fDE2ODc4ODQxMzl8NDIuMTE3LjYzLjM0fDExOTZhOGRjY2MxOTNjOWM5YTExMDdhZGY2ZjYwOTE1/fnxhd1/vtv7hd_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" tvg-id="e46694333bc18c38ed7682b47ac9b99b",VTV8 HD
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHY4aGRfNDAwMC5zdHJlYW18ZnB0fDE2ODc4ODQxNzR8NDIuMTE3LjYzLjM0fDU4NDA3NDFhNTFmODgwNmYzZGFmODVhNDFmYzg1MTYz/epzhd1/vtv8hd_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" tvg-id="3722e9c8be2f7cb8ff487c846e736f2f",VTV9 HD
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHY5XzQwMDAuc3RyZWFtfGZwdHwxNjg3ODg0MjAxfDQyLjExNy42My4zNHwzN2Q4OGNjNzRkOTc0ODVhNjM5MWI3YmY2MGQ0ZjM1Yw/fnxhd1/vtv9_4000.stream/chunklist.m3u8
+#------------------------HTV------------------------#
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" tvg-id="7b25e6dd34244c96796c63a7e04dfcd4",HTV Thể Thao
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1575363963?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" tvg-id="71a8d6ca10964112365fe60d1d031a6a",HTV1
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1255581809?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-id="036818dac61304af20cfc28a031b6a14",HTV2
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1511548931?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png" tvg-id="7c8fe5e249e2d06218a48665ab98ef5c",HTV3
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1659211644?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png" tvg-id="e4d6517712dfacca887c737d678551d2",HTV Key
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2001852132?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" tvg-id="1405ef07a597ea2dfb122d673e41d2aa",HTV7
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/133104916?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" tvg-id="c659a2a5a300b41f89df4aed82799450",HTV9
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/631396806?profile=pass
+#------------------------VTC------------------------#
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" tvg-id="98c0c1fdaae6f0e72a953e9ef0a26f2c",VTC1
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2109849752?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" tvg-id="d5748266a5a704cb8982240d75415b75",VTC2
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1719825621?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" tvg-id="cc0b2c554011893e49549963fcbf42e1",VTC3
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1428949964?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" tvg-id="7ed958c2af542de229706ae2dd24055b",VTC4
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1113119102?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" tvg-id="24ca0287400fea31e815f50fe7e0b374",VTC5
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/117623332?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" tvg-id="62f20690aba237f5b8db9179fe613dde",VTC6
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/268890722?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" tvg-id="e7966159bb73c36fd14e9e461cbf041c",VTC7
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1499567847?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" tvg-id="1190c9454c5aff7aaebad4d38c34c3de",VTC8
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1170837521?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" tvg-id="05b34b926c9b5a46fcea61a0a97997d0",VTC9
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/306950917?profile=pass
+#------------------------VTVcab------------------------#
+#EXTINF:-1 group-title="Xem TV" tvg- logo="https://imgur.com/9TBBQNL.png" tvg-id="1bc0e4ec9b5d8beb07427f8c811b0b11" tvg-chno="17",VTVCab1 - Giải trí TV
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1826930715?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/G154n6j.png" tvg-id="a251519b0e69d9c5862e33644d9274a5",Quốc hội HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/458314146?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/xtA4AlV.png" tvg-id="52cc96782433f0b1c210eac5a2f8caec",Quốc phòng Việt Nam HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2023148626?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/I9X5SxR.png" tvg-id="5eca8cd6fcd909f5f620c1cacfecaa36",SCTV10 - Sao Nam
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1452067422?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/BQIrc6A.png" tvg-id="2af41152a5f0e2005946b36b77eed48b",SCTV8 - VITV
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1376908330?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.imgur.com/bKAWD0f.jpg" tvg-id="7dc451c685f9d3ac7469e4069a5f9842",VIETNAM JOURNEY
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1179763837?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://funkyimg.com/i/31qhJ.png" tvg-id="f62312041af3b033718343219ce37ee7",VNEWS HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/68297718?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="e37f2e6f9a654dffcc4d88d59465447d",Vĩnh Long 1 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1865318371?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="9e9e7c36342a004db1be3237ae1b0dd6",Vĩnh Long 2 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/914136734?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="1b0e4240a050e09baa6fc53f8bb40b75",Vĩnh Long 3 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1078070811?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="a0c6877bc500848fa5226ebe6099fbce",Vĩnh Long 4 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2072495776?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/Ka8qiSB.png" tvg-id="9aa07dc724e1ff5275807d0b421da25a",Đồng Nai 1 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1199415450?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/Jod5zk5.png" tvg-id="ae40c4231c2b405d926e801b98d24c6f",Bình Dương 1 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/600064174?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/bAszEEm.png" tvg-id="c5515875c1c238e6ede9c5340c652ace",Bình Dương 4 - iMovie TV HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1968722373?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/4KdIzZE.png" tvg-id="3828f526a6fb5498b4311a616b8e9ceb",Bắc Ninh HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/653600824?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/dr2eb5D.png" tvg-id="a4de829b329149a9e0d4a7db4ffcc762",Hà Nội 1 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/461561508?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/HCkpPFZ.png" tvg-id="acadf9020f39bbe05a057e7382dc7741",Hà Nội 2 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/49917356?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/lAu4A9Q.png" tvg-id="f0a6971afab5de9d57e2d2ad3acffe5f",Hà Tĩnh HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/446146288?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/9bnQqNs.png" tvg-id="eff6fb36e49ff6475d8411fb8c6c2a2f",Hưng Yên HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/922482415?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/LLJN2sK.png" tvg-id="9784f0d13e91ece24d6d74b70f159588",Hải Phòng HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1374717079?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/TiQJt5U.jpg" tvg-id="d6ee657434aff06840a4cf017d48e5e9",Kiên Giang HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1952837334?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/M7LYaGG.png" tvg-id="a95dc9025bc17c9d4bcd997211097093",Nghệ An HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/46751145?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/fiTyh8i.png" tvg-id="38f6b6301bf074253c84ad782e411b37",Phú Thọ HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/817296952?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/L1I0ngF.png" tvg-id="8784bcddc330e407e48e74f617b12037",Quảng Ngãi HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1572635783?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.wingur.com/LRw3T.jpg" tvg-id="dd89c7334cdcaaf13c970e1c08473940",Quảng Ninh 3 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/868714973?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/WQ5fAeY.png" tvg-id="d102768da7aacaccdd369c361ba34eac",Thanh Hoá HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/225837777?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/cjbLDud.png" tvg-id="ece1cf9f7596e6ad7b124ee8da6c146e",Thái Nguyên 1 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/533717484?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.imgur.com/4vYV1PK.png" tvg-id="4810b6cb77f6f9b8708cd27cc69879c2",CINEMAX HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1270222920?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/keaKVLJ.png" tvg-id="ce3467c0087325e279cbee50a2f0b950",FOX Movies HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1080505550?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.imgur.com/JOIDdwy.png" tvg-id="0124e78796e277e06e6fd117ff40d86e",HBO HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/132588545?profile=pass
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/tLRt17t.png" tvg-id="9612861acd5f9453bc3bcac63273a8af",Red By HBO HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/444994198?profile=pass
+#EXTINF:-1,Sony Max
+https://ccntv.anytv.live/sonymax/index.m3u8
+#EXTINF:-1,Sony Max
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,Sony Max 2
+https://ccntv.anytv.live/sonymax2/index.m3u8
+#EXTINF:-1,Sony Max 2
+https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8
+#EXTINF:-1,Sony Max 2
+http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+#EXTINF:-1,Star Movies HD (UAE)
+http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
+#EXTINF:-1,Star Movies (India)
+http://master.beeiptv.com:8081/LAW/starmovies/playlist.m3u8
+#EXTINF:-1,Star Movies (India)
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1,HBO
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+#EXTINF:-1,HBO
+https://ccntv.anytv.live/hbo/index.m3u8
+#EXTINF:-1,HBO
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+#EXTINF:-1 tvg-logo=\”fox-movies-HD.png\”,Fox Movies Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\”fox-movies-HD.png\”,Fox Movies Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\”cinemax.png\”,Cinemax Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\”ritmoson-latino.png\”,Ritmoson Latino
+http://iptvcanales.com/xw/cable.php?canal=42&player=playlist.m3u8
+#EXTINF:0,HBO
+http://31.204.128.112:8081/live/hbo/playlist.m3u8
+#EXTINF:0,HBO
+http://37.203.209.34:443/mobile/flash20/live.m3u8
+#EXTINF:-1 group-title="Poland",HBO HD
+http://178.219.128.68:64888/HBOHD
+#EXTINF:-1 group-title="Чехия",HBO HD
+http://78.130.250.2:8023/play/a02s/index.m3u8
+#EXTINF:-1,MY WARNERTV
+http://main.realiptv.to:25461/live/charlie/charlie/119622.m3u8
+#EXTINF:-1,MY HBO
+http://main.realiptv.to:25461/live/charlie/charlie/119679.m3u8
+#EXTINF:-1,MY Astro HBO HD
+http://main.realiptv.to:25461/live/charlie/charlie/140729.m3u8
+#EXTINF:-1,MY Astro CINEMAX HD
+http://main.realiptv.to:25461/live/charlie/charlie/140730.m3u8
+#EXTINF:-1,MY Astro WARNER TV
+http://main.realiptv.to:25461/live/charlie/charlie/140767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://deprecated.cc/tv/images/fHBIgs6.png" group-title="Movies",HBO
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://deprecated.cc/tv/images/WANpEkc.png" group-title="Movies",HBO Family
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://deprecated.cc/tv/images/Q2ki7HC.png" group-title="Movies",HBO Signature
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://deprecated.cc/tv/images/iCnfJS0.png" group-title="Movies",HBO Hits
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://deprecated.cc/tv/images/r8qzNiy.png" group-title="Movies",Cinemax
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://deprecated.cc/tv/images/Dj6tVaG.png" group-title="Movies",AXN
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://deprecated.cc/tv/images/vGEL2Ne.png" group-title="Entertainment",Warner TV
+https://cdn4.skygo.mn/live/disk1/Warner/DASH-FTA/Warner.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://deprecated.cc/tv/images/moSPpuJ.png" group-title="Movies",Cinema One
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+#EXTINF:-1,ANTV
+https://nonton.site:8443/live/1842273725/9237641816/31.m3u8
+#EXTINF:-1,SCTV
+https://nonton.site:8443/live/1842273725/9237641816/32.m3u8
+#EXTINF:-1,SCTV HD
+https://nonton.site:8443/live/1842273725/9237641816/931.m3u8
+#EXTINF:-1,Cinemax FHD
+https://nonton.site:8443/live/1842273725/9237641816/30185.m3u8
+#EXTINF:-1,Cinemax ID
+https://nonton.site:8443/live/1842273725/9237641816/2156.m3u8
+#EXTINF:-1,HBO Family FHD
+https://nonton.site:8443/live/1842273725/9237641816/30184.m3u8
+#EXTINF:-1,HBO Family HD
+https://nonton.site:8443/live/1842273725/9237641816/592.m3u8
+#EXTINF:-1,HBO Family SD
+https://nonton.site:8443/live/1842273725/9237641816/26598.m3u8
+#EXTINF:-1,HBO FHD
+https://nonton.site:8443/live/1842273725/9237641816/1496.m3u8
+#EXTINF:-1,HBO HD
+https://nonton.site:8443/live/1842273725/9237641816/210.m3u8
+#EXTINF:-1,HBO Hits FHD
+https://nonton.site:8443/live/1842273725/9237641816/11492.m3u8
+#EXTINF:-1,HBO Hits HD
+https://nonton.site:8443/live/1842273725/9237641816/591.m3u8
+#EXTINF:-1,HBO Hits SD
+https://nonton.site:8443/live/1842273725/9237641816/26596.m3u8
+#EXTINF:-1,HBO SD
+https://nonton.site:8443/live/1842273725/9237641816/26595.m3u8
+#EXTINF:-1,HBO Signature FHD
+https://nonton.site:8443/live/1842273725/9237641816/1498.m3u8
+#EXTINF:-1,HBO Signature HD
+https://nonton.site:8443/live/1842273725/9237641816/873.m3u8
+#EXTINF:-1,HBO Signature SD
+https://nonton.site:8443/live/1842273725/9237641816/26597.m3u8
+#EXTINF:-1,Warner TV ID HD
+https://nonton.site:8443/live/1842273725/9237641816/1533.m3u8
+#EXTINF:-1,IN: Sony Max HD
+https://nonton.site:8443/live/1842273725/9237641816/180.m3u8
+#EXTINF:-1,MY - HBO HD
+https://nonton.site:8443/live/1842273725/9237641816/37374.m3u8
+#EXTINF:-1,MY - CINEMAX HD
+https://nonton.site:8443/live/1842273725/9237641816/37375.m3u8
+#EXTINF:-1,MY - WARNER TV
+https://nonton.site:8443/live/1842273725/9237641816/37414.m3u8
+#EXTINF:-1,MY - Cinema World HD
+https://nonton.site:8443/live/1842273725/9237641816/37454.m3u8
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="FOX Soccer Plus" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soccer-plus-us.png?raw=true" group-title="Sports - NA",FOX Soccer Plus
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/33472
+# === 🇨🇦 CA ===
+#EXTINF:-1 tvg-id="One.Soccer.ca2" tvg-name="One Soccer CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/one-soccer-ca.png?raw=true" group-title="Sports - NA",One Soccer CA
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/118581
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="Sports - EU",Sky Sports Premier League UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120355
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" group-title="Sports - EU",Sky Sports Football UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120349
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="Sports - EU",Sky Sport Bundesliga DE
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/122092
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport Premier League DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-premier-league-de.png?raw=true" group-title="Sports - EU",Sky Sport Premier League DE
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310091
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-name="SKY Sport Premier League NZ" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Sky_Sport_Premier_League_NZ.svg" group-title="Sports - OC",SKY Sport Premier League NZ
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120365
+#EXTINF:-1 tvg-id="99951469" tvg-name="HBO Boxing" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png" group-title="Sports - FAST",HBO Boxing
+https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/cb563d19796c638684c83d78d4f962ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dac6852db80148b6f4adafb8c2360625f5c98435ee3b24aaafeb75513dc6ea3ac1f1e942f58e68314c8c915e884d046cd418f7ff5479f97a1d9d4158897ab5df803f17a0848326b9c926a9ac653c4b5f00402bd4118792870d490bad16001dc3f2931f9fbd8f161f01dc19d36846c3bc967f22abf14a4589753d68b2aa7a4add1302853c3ff754e0983c09dd0805f58bc62e8ece0db726880e6110a2ba307e30b0d19afc9f224a1fe4fd2dc4f84b07a532cc183429e89b3879dc4e738a711ebf5d3bd09636a5c252eaa7295bf49e673ad12cecf1732124454dffc3fa0bdf06e0d3832ecec5fd00055bdde9d8adc0b32ce127630835bfd7e3345ef115355c110a3e05607882219cb3632ee5621925b8ed3469c9cf8ca331581ecfe7fa52e85db0bd6e54cad682a5001b6ff2d54403e12ba835d29154fea66c1ece7c05c2c3db6b4a791c1572b493d12440588e7ea7f9f8bcc5b6d7caf680245423934b33bfb46fb25653d74bb74b4ad0d67cb0a203994c055386140bbfc8cdbf8bca745b16c9ddaee293d324f62be2a774804bf8db86ac20879574c7ca3365919fe6d3543ee8687e489907dda9376af2d701811b59a797a2862435c39afbf5af26bd0bf20e3e5a030cdeb9e5c479032a70d1597d4ae029281bae67f3faf88623743bbf61a9f0347a116d038c6c771aad63f622709617598cf3e915ebdccd4c32e8c25ae4a1767fa7dc9f389deed4273d1b869160c3d6c275a6f2c6f66d7dbd1774e7ce8ac35e552e8f850a75626435529e5a5246eb4d75433b2065b4e919d91f9c7ad0214d920fd73c81264cc323607c7ed05b0f7d89bfb837c1a07dda6b93ed3cbeebaebf2fa144351175af0c05b4639d936e08206eca86f1085e3b0c4ea5ea85bc3189eb984cc8556d1a336b31df1e79cd94555387845fddbfef666a3d668769a0b15c9b07ae6e7d7fb70efd2fc2675ef4fe9860614df56e9817bca896efb887be9791ae692655697005a503c4d476eaa17975a5b4ef0c2c15e3adacf00d92dc9dd9f872bfd17143853ad89fbdc83861cda24e48d34a01b9c2a0a89658dcbd8136a73a1ad56243f01032fc4b02a5301eb2463a916b3abb7ff3860c63683013bb06ebc827993e25dbebd94a8eed2316bf1a35756ea59b342f902dec983fd0fa1514aa37cde4f31f1918fa888a4ec9ffbf23216589a4d900c88519fc5a29e3c462972cc00364f67ad499245591dc48a058a944c6a87ccf44c9655030b514242ba73d4ab1c46412c9ef53dcc8d1805475870b99348e769f72f6da35878ba166a686f245a53ad9ac85b9369eb7ebff05617f6c7d08623f4a72bd18c8c87eca9695c90eee12e9453a32268e71fd8904e2458299a1132/6/1920x1080_4715744/index.m3u8
+#EXTINF:-1 tvg-id="99951180" tvg-name="Strongman Champions League" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png" group-title="Sports - FAST",Strongman Champions League
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ad15bc3b-8829-47e5-8a6d-258b501ca01c/5.m3u8
+# ==================================================
+#                Premium Shows - NA
+# ==================================================
+# === 🇺🇸 US ===
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/HBO.svg" group-title="Premium Shows - NA",HBO
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/1265
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/HBO_Hits.svg" group-title="Premium Shows - NA",HBO Hits
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/95926
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/HBO_Drama.svg" group-title="Premium Shows - NA",HBO Drama
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/2515
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/HBO_Comedy.svg" group-title="Premium Shows - NA",HBO Comedy
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/1465
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/HBO_Movies.svg" group-title="Premium Shows - NA",HBO Movies
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/95924
+#EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="HBO Latino" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/HBO_Latino.svg" group-title="Premium Shows - NA",HBO Latino
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/118526
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Cinemax.svg" group-title="Premium Shows - NA",Cinemax
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/1282
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Cinemax_Hits.svg" group-title="Premium Shows - NA",Cinemax Hits
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/95932
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Cinemax_Action.svg" group-title="Premium Shows - NA",Cinemax Action
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/95935
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Cinemax_Classics.svg" group-title="Premium Shows - NA",Cinemax Classics
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/89057
+#EXTINF:-1 tvg-id="Cinemax.Spanish.HD.us2" tvg-name="Cinemáx" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Cinemáx.svg" group-title="Premium Shows - NA",Cinemáx
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/110770
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MoviePlex" tvg-logo="https://www.starz.com/assets/images/channel-logos/PLX2.svg" group-title="Premium Shows - NA",MoviePlex
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/110084
+# ==================================================
+#                Premium Shows - EU
+# ==================================================
+# === 🇬🇧 UK ===
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Premiere UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98793
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="Sky Cinema Select UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Select UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98791
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-name="Sky Cinema Hits UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Hits UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98794
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Family UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98796
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Cinema Action UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Action UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98800
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-name="Sky Cinema Greats UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Greats UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98795
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Comedy UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98799
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Thriller UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98790
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Drama UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98797
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png?raw=true" group-title="Premium Shows - EU",Sky Cinema Sci-Fi & Horror UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98792
+# === 🇩🇪 DE ===
+#EXTINF:-1 tvg-id="Sky.Cinema.Premiere.HD.de" tvg-name="Sky Cinema Premiere DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Cinema_Premiere_2020.svg" group-title="Premium Shows - EU",Sky Cinema Premiere DE
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310065
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Blockbuster DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Sky_Cinema_Blockbuster.svg" group-title="Premium Shows - EU",Sky Cinema Blockbuster DE
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310067
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.HD.de" tvg-name="Sky Cinema Feelgood DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sky_Cinema_Feelgood.svg" group-title="Premium Shows - EU",Sky Cinema Feelgood DE
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310061
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.HD.de" tvg-name="Sky Cinema Action DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg" group-title="Premium Shows - EU",Sky Cinema Action DE
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310055
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.HD.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Cinema_Classics_2020.svg" group-title="Premium Shows - EU",Sky Cinema Classics DE
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310059
+# === 🇮🇹 IT ===
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Sky_Cinema_Uno_new.svg" group-title="Premium Shows - EU",Sky Cinema Uno IT
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68456
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Stories IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Sky_Cinema_Stories.svg" group-title="Premium Shows - EU",Sky Cinema Stories IT
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68457
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Sky_Cinema_Collection_2021.svg" group-title="Premium Shows - EU",Sky Cinema Collection IT
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68458
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg" group-title="Premium Shows - EU",Sky Cinema Family IT
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68459
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg" group-title="Premium Shows - EU",Sky Cinema Action IT
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68460
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sky_Cinema_Suspense_2021.svg" group-title="Premium Shows - EU",Sky Cinema Suspense IT
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68461
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Sky_Cinema_Comedy_2020.svg" group-title="Premium Shows - EU",Sky Cinema Comedy IT
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68464
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Sky_Cinema_Romance_2021.svg" group-title="Premium Shows - EU",Sky Cinema Romance IT
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68634
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Sky_Cinema_Drama_2020.svg" group-title="Premium Shows - EU",Sky Cinema Drama IT
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68463
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg" group-title="Shows",Sony Movie Channel
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/38701
+# === 🇬🇧 UK ===
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/film-4-uk.png?raw=true" group-title="Shows",Film4 UK
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98831
+#EXTINF:-1 tvg-id="USBD270001633" tvg-name="Hallmark Movies & More" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/hallmark_movies_more._SL500_FMpng_.png" group-title="Shows - FAST",Hallmark Movies & More
+https://pb-clwlfvkqpn19r.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-clwlfvkqpn19r/71857c65-d7a6-4a12-af93-417883b6947b/3.m3u8
+#EXTINF:-1 tvg-id="US1600002OK" tvg-name="Lifetime Movies Love & Drama" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/LifetimeLoveDrama/LMLD_Channel_Logo_white_400x200.png" group-title="Shows - FAST",Lifetime Movies Love & Drama
+https://d1s7megtamek6r.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsun1ymuiaojp/95a387ee-a6d5-444b-9ea7-b3731574b045/3.m3u8
+#EXTINF:-1 tvg-id="USBD2500018X6" tvg-name="Stories by AMC" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/stories_by_amc._SL500_FMpng_.png" group-title="Shows - FAST",Stories by AMC
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/6f61dc83-1db6-47ca-91fa-c7a26dc238fb/5.m3u8
+#EXTINF:-1 tvg-id="GB37000067A" tvg-name="Lifetime Movies UK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18bab13d-afa7-4df6-8149-c8ddef9dd212/Lifetime_Movies_channel_logo_white_1500x1000.png" group-title="Shows - FAST",Lifetime Movies UK
+https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00276-aetelevisionnetworksfast-lifetimemovies-samsunggb/cb543d1e736c648898d43d62d6ef45a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7253db80148b61299bce8c37683f03409a5e5afba358b1ebe15f10df68a4e54f55967946e49f43c8821da688d15a975e8374f6129ac7f988d613d0869b43936ee3301a162172899078e1aa37d78ac01a53fb702c555051efa7e196245a9d777075dce291c70f9812ca9a6b856e23c96df2249f04ab598d2c93ce7e94b0e1a1282c38a0d71575249ff6b498f23b34cf0b91c9f2e95043aac2265169ee708262415691f9d85a85d305a9b22c88b560134aaefb2980bc82b3d094a267bd0ce4daaee4572e4f67174c874db2a563da24d80ac4a4793a7d7d7492b474e9a3c46c300837ee01f5497161dbeeb8c1b23b35c3741e5ea853cd5a1169df4614168703d8eaf1e8144470e81b32e94c3dc063f1bd3efca4da9f6671d58c812a77089e36cf295242294f1c209a8071e9a45174dd9a814700356bca46e59ce9e97e0a01ebf8f733a139372a360d5b0087e3a825d5de80612a1fcf572977675039a24487399150124019c01085f852349d507564a6862f4d5669a1cdb3aa8ec28511e6289d9cab7967107157901f496662dabd8819da3d48757514c02c6c51b20a5f0dbbc198abc9ce3e80cc249939641571ccbf42125e1c203578eefa02e057ec9712ae888a0d9c9dea3c71c56df34f40e493b60adfe28ec0430aeada74117598de22853e6df01eda2f87c5639ad771030f375447d28436ab0f59be3c31e2354af6ed597e9c6ebbcf18b5b11c57316a59/40/1920x1080_4944491/index.m3u8
