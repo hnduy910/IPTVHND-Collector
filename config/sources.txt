@@ -1,5 +1,6 @@
 # Auto-maintained public/community IPTV source registry.
-# Discovery rotates across Vietnam, international movie/cinema, and international sports/football/soccer searches.
+# Discovery rotates across Vietnam, curated movie/cinema, and target football searches.
+# Public .m3u/.m3u8/.txt/README/LICENSE candidates are parsed before admission.
 # Existing sources are removed only after 3 consecutive failed checks.
 # Content filtering and exact stream-URL dedupe happen later in collector/main.py.
 

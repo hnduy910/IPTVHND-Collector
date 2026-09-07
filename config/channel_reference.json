@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "purpose": "Public channel-name reference for discovery and classification only; never a stream or provider-access whitelist.",
+  "vietnam_providers": [
+    "MyTV",
+    "FPT Play",
+    "SCTV",
+    "VTVcab",
+    "ON"
+  ],
+  "vietnam_families": {
+    "VTV": ["VTV1", "VTV2", "VTV3", "VTV4", "VTV5", "VTV6", "VTV7", "VTV8", "VTV9", "VTV Cần Thơ", "VTVcab"],
+    "HTV/HTVC": ["HTV1", "HTV2", "HTV3", "HTV4", "HTV7", "HTV9", "HTVC"],
+    "THVL": ["THVL1", "THVL2", "THVL3", "THVL4", "Truyền hình Vĩnh Long"],
+    "VTC": ["VTC1", "VTC2", "VTC3", "VTC4", "VTC5", "VTC6", "VTC7", "VTC8", "VTC9", "VTC10", "VTC11", "VTC12", "VTC14", "VTC16"],
+    "SCTV": ["SCTV1", "SCTV2", "SCTV3", "SCTV4", "SCTV5", "SCTV6", "SCTV7", "SCTV8", "SCTV9", "SCTV10", "SCTV11", "SCTV12", "SCTV13", "SCTV14", "SCTV15", "SCTV16", "SCTV17"],
+    "VTVcab/ON": ["ON Movies", "ON Phim Việt", "ON Cine", "ON Vie Dramas", "ON Sports", "ON Football", "ON Kids", "ON Music", "ON Golf"]
+  },
+  "movie_families": [
+    "HBO",
+    "Cinemax",
+    "Warner TV",
+    "Box Movies",
+    "ON Movies",
+    "ON Phim Việt",
+    "ON Cine",
+    "ON Vie Dramas",
+    "Star Movies",
+    "Fox Movies",
+    "Sony Movies",
+    "Sky Cinema",
+    "TCM",
+    "Film4",
+    "Hallmark Movies",
+    "Movie Sphere",
+    "Cinema World",
+    "Cinema One"
+  ],
+  "football_competitions": [
+    "UEFA Champions League",
+    "UEFA Europa League",
+    "UEFA Conference League",
+    "Premier League",
+    "FA Cup",
+    "Carabao Cup",
+    "EFL Cup",
+    "Serie A",
+    "Coppa Italia",
+    "La Liga",
+    "Copa del Rey",
+    "Bundesliga",
+    "DFB-Pokal",
+    "Ligue 1",
+    "Copa Libertadores",
+    "Copa Sudamericana",
+    "Brasileirão"
+  ],
+  "safety": {
+    "public_sources_only": true,
+    "do_not_bypass_drm": true,
+    "do_not_collect_tokens_or_credentials": true,
+    "do_not_use_provider_streams": true
+  }
+}
