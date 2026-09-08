@@ -309,6 +309,44 @@
 # ==================================================
 #                      4K UHD
 # === 🇺🇸 US ===
+# A1 TV 2025-06-26 22:00
+# https://github.com/BuddyChewChew
+# Discord: https://discord.gg/fnsWGDy2mm
+#EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml.gz"
+# -------------- Local TV --------------
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/at.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ch.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/de.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz"
+# ==========================================
+# EXPIRY: October 24, 2026, 8:53 pm
+# TYPE: Single Channel Conversion
+# GENERATED: 2026-07-07 20:33:11
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw,https://i.mjh.nz/PlutoTV/us.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
+#PLAYLIST: FIFA BDIX
+#EXTENC: UTF-8
+# Playlist Name: FIFA BDIX
+# Last Update: 05:09 PM 22-06-2026
+# Website: https://fastiptvbackup.edgeone.app
+#EXTM3U tvg-updated="2026-03-13T01:33:29+00:00"
+#EXTM3U tvg-updated="2026-06-01T13:56:45+00:00"
+#EXTM3U-United-Pro
+#EXTM3U #FRANCE,  KANALLAR İÇERİR | TV | TV #
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_Abein spLL_SOURCES1.xml.gz,https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://github.com/iptv-org/epg/raw/9b331e6cfab19ad2f683b212aa079aac07fe72fe/sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml,https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
+# █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
+# █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
+# ――――――――――――――――――――――――――――――――――――――――――――――
+# (●) Last Update: 🔄 2026 GMT+7 "
+# (●) Service: FREETV Inspiration Links
+# (●) Total Channels: 491
+#EXTM3U x-tvg-url="https://epg.yang-1989.eu.org/epg.xml.gz"
+##-----AIzaSyAOIchsmmp9duCnuqpcYrQyAeZs6S3_FvY-------
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTGRP:4gtv
+#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Sports",Okko Futbol (1080p)
+http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bleav Football (1080p)
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GFN Football (1080p)
@@ -321,3 +359,5 @@ https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
 #EXTINF:-1 ,Strongman Champions League
 https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1 channel-id="GB2200002CC" tvg-id="GB2200002CC" tvg-chno="4636" tvg-name="GFN Football" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200002CC_20260407T040222SQUARE.png" group-title="Sport",GFN Football
+https://jmp2.uk/stvp-GB2200002CC

@@ -309,12 +309,50 @@
 # ==================================================
 #                      4K UHD
 # === 🇺🇸 US ===
+# A1 TV 2025-06-26 22:00
+# https://github.com/BuddyChewChew
+# Discord: https://discord.gg/fnsWGDy2mm
+#EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml.gz"
+# -------------- Local TV --------------
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/at.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ch.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/de.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz"
+# ==========================================
+# EXPIRY: October 24, 2026, 8:53 pm
+# TYPE: Single Channel Conversion
+# GENERATED: 2026-07-07 20:33:11
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw,https://i.mjh.nz/PlutoTV/us.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
+#PLAYLIST: FIFA BDIX
+#EXTENC: UTF-8
+# Playlist Name: FIFA BDIX
+# Last Update: 05:09 PM 22-06-2026
+# Website: https://fastiptvbackup.edgeone.app
+#EXTM3U tvg-updated="2026-03-13T01:33:29+00:00"
+#EXTM3U tvg-updated="2026-06-01T13:56:45+00:00"
+#EXTM3U-United-Pro
+#EXTM3U #FRANCE,  KANALLAR İÇERİR | TV | TV #
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_Abein spLL_SOURCES1.xml.gz,https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://github.com/iptv-org/epg/raw/9b331e6cfab19ad2f683b212aa079aac07fe72fe/sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml,https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
+# █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
+# █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
+# ――――――――――――――――――――――――――――――――――――――――――――――
+# (●) Last Update: 🔄 2026 GMT+7 "
+# (●) Service: FREETV Inspiration Links
+# (●) Total Channels: 491
+#EXTM3U x-tvg-url="https://epg.yang-1989.eu.org/epg.xml.gz"
+##-----AIzaSyAOIchsmmp9duCnuqpcYrQyAeZs6S3_FvY-------
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTGRP:4gtv
 #EXTINF:-1 tvg-id="CaMauTV.vn@SD" tvg-logo="" group-title="Undefined",Cà Mau TV (720p) [Geo-blocked]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Education;Science",Can Tho TV 2 (1080p)
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanThoTV.vn@SD" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="General",Cần Thơ TV1 (1080p)
 https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:-1 tvg-id="CanThoTV3.vn@SD" tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" group-title="Undefined",Cần Thơ TV3 (1080p)
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="General",Cao Bằng TV (720p)
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DaNangTV1.vn@SD" tvg-logo="https://i.imgur.com/EOMuO1z.png" group-title="General",Đà Nẵng TV1 (1080p) [Not 24/7]
@@ -363,10 +401,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="ONVieDrama.vn@SD" tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" group-title="Entertainment",ON Vie Drama (720p)
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
-#EXTINF:-1 tvg-id="SCTV4.vn@SD" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="Undefined",SCTV4 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-#EXTINF:-1 tvg-id="SCTV18.vn@SD" tvg-logo="https://i.imgur.com/FfUSlgI.png" group-title="Undefined",SCTV18 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
+#EXTINF:-1 tvg-id="SCTV13.vn@SD" tvg-logo="https://i.imgur.com/aoz1iDw.png" group-title="Undefined",SCTV13 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
 #EXTINF:-1 tvg-id="SonLaTV.vn@SD" tvg-logo="https://i.imgur.com/MxV9psR.png" group-title="Undefined",Son La TV (720p)
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 #EXTINF:-1 tvg-id="TayNinhTV.vn@SD" tvg-logo="https://tayninhtv.vn/static/images/logo.png" group-title="General",Tây Ninh TV (720p)
@@ -389,8 +425,8 @@ https://dethich.pw/thvl1/index.m3u8
 https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV4.vn@SD" tvg-logo="https://i.imgur.com/ARhIkvR.png" group-title="Culture;Entertainment;Sports;Travel",Vinh Long TV 4 (720p)
 https://dethich.pw/thvl4/index.m3u8
-#EXTINF:-1 tvg-id="VSBetHD.vn@HD" tvg-logo="https://i.imgur.com/sMhL2Nl.png" group-title="Sports",VSBet HD (1080p)
-https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr@SD" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="General",Alpe d’Huez TV (720p) [Not 24/7]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn@HD" tvg-logo="https://i.imgur.com/gFfZvTW.png" group-title="Undefined",Đắk Lắk TV (720p)
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us@SD" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="Legislative",Hillsborough County TV HTV (Hillsborough County FL) (360p)
@@ -689,6 +725,8 @@ http://gg.gg/daknongvieon
 http://gg.gg/AnVienTV
 #EXTINF:-1 tvg-name="ON Vie Giải Trí" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="VTVcab",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-name="ON Phim Việt" tvg-logo="https://i.imgur.com/MPNlpzb.png" group-title="VTVcab",ON Phim Việt
+https://vmttv.dpdns.org/tv360/?id=175
 #EXTINF:-1 tvg-name="ON E Channel" tvg-logo="https://i.imgur.com/87JEXEQ.png" group-title="VTVcab",ON E Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-name="ON O2TV" tvg-logo="https://i.imgur.com/nqwVkmM.png" group-title="VTVcab",ON O2TV
@@ -709,10 +747,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 #EXTINF:-1 tvg-name="ON VFamily" tvg-logo="https://i.imgur.com/R82M53x.png" group-title="VTVcab",ON VFamily
 https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 tvg-name="ON Golf" tvg-logo="https://i.imgur.com/BGF2I58.png" group-title="VTVcab",ON Golf
+https://vmttv.dpdns.org/tv360/?id=169
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png",SCTV16
-https://vmttv.dpdns.org/VTVGo/?sctv16
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV_Keys
 #EXTINF:-1 tvg-name="TVB VIỆT NAM" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg" group-title="In The Box",TVB VIỆT NAM
@@ -986,26 +1024,22 @@ https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/33.png" group-title="HTV",HTV2
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
-#EXTINF:-1 tvg-logo="https://vnepg.site/logos/46.png" group-title="SCTV",SCTV1
-https://vietanhtv.id.vn/sctv/sctv1-hd-7f2aafec/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/48.png" group-title="SCTV",SCTV3
 https://vietanhtv.id.vn/sctv/sctv3-hd-cf3adaca/index.m3u8
-#EXTINF:-1 tvg-logo="https://vnepg.site/logos/51.png" group-title="SCTV",SCTV7
-https://vietanhtv.id.vn/sctv/sctv7-ef7e259a/index.m3u8
-#EXTINF:-1 tvg-logo="https://vnepg.site/logos/52.png" group-title="SCTV",SCTV8
-https://vietanhtv.id.vn/sctv/sctv8-c12d138b/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/53.png" group-title="SCTV",SCTV9
 https://vietanhtv.id.vn/sctv/sctv9-cdd19ab2/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/54.png" group-title="SCTV",SCTV11
 https://vietanhtv.id.vn/sctv/sctv11-1d565c47/index.m3u8
+#EXTINF:-1 tvg-logo="https://vnepg.site/logos/55.png" group-title="SCTV",SCTV12
+https://vietanhtv.id.vn/sctv/sctv12-b0d6c023/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/56.png" group-title="SCTV",SCTV13
 https://vietanhtv.id.vn/sctv/sctv13-67f88fcb/index.m3u8
+#EXTINF:-1 tvg-logo="https://vnepg.site/logos/57.png" group-title="SCTV",SCTV14
+https://vietanhtv.id.vn/sctv/sctv14-789c9f45/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/61.png" group-title="SCTV",SCTV18
 https://vietanhtv.id.vn/sctv/sctv18-398b0b4e/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/62.png" group-title="SCTV",SCTV19
 https://vietanhtv.id.vn/sctv/sctv19-bf00bd02/index.m3u8
-#EXTINF:-1 tvg-logo="https://vnepg.site/logos/63.png" group-title="SCTV",SCTV20
-https://vietanhtv.id.vn/sctv/sctv19-cb98949a/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/64.png" group-title="SCTV",SCTV21
 https://vietanhtv.id.vn/sctv/sctv-21-57de221a/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/170.png" group-title="SCTV",SCTV Phim tổng hợp
@@ -1054,6 +1088,10 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Vie_DRAMAS_HD_du_phong
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Kids_HD_du_phong
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab22%20-%20ON%20Life%20HD.png" group-title="Uncategorized",ON Life HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Life_HD_du_phong
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png" group-title="Uncategorized",ON Golf
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Golf_du_phong
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20%E2%80%A2%20Ti%E1%BA%BFng%20n%C3%B3i%20t%E1%BB%AB%20Th%E1%BB%A7%20%C4%91%C3%B4.png" group-title="Uncategorized",MỜI QUÝ KHÁN GIẢ THEO DÕI | Cuộc thi "Trường học Không khói thuốc" - Phần thi đến từ Trường THCS Trần Phú (Phường Phủ Lý - Tỉnh Ninh Bình)
+https://www.youtube.com/watch?v=8Z03ylNodFU
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay.png" group-title="Uncategorized",HÀ NỘI HÔM NAY
 https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20%E2%80%A2%20Bu%E1%BB%95i%20s%C3%A1ng.png" group-title="Uncategorized",HÀ NỘI HÔM NAY • BAN NGÀY
@@ -1218,6 +1256,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=2
 https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cần Thơ 2 HD - Báo và PTTH Thành Phố Cần Thơ
 https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Bắc Ninh
+https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Đắk Lắk
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Lâm Đồng
@@ -1290,8 +1330,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-THTPCT2-Truyen_hinh_Can_Tho_2_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-THTPCT3-Truyen_hinh_Can_Tho_3_HD
 #EXTINF:-1 group-title="TruyenHinh_3",VOV GIAO THÔNG HÀ NỘI
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOV_Giao_thong_Ha_Noi
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",SCTV9
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://i.imgur.com/0fGI8cJ.png",THTPCT1 | TH Cần Thơ 1
 https://live.canthotv.vn/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/${start}/${offset}", ON Phim Việt
@@ -1585,9 +1623,6 @@ https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 #EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822006251/3956b92f8e0f_640_360.png", PTD | Truyền Hình Đắk Nông
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w361616628_b3128000_sleng.m3u8
-#EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD | TH Thanh Hóa
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://epg.pw/stream/3511cd6ce78dfe8c21b5dfde4b931265066d0a631f629d79af83e7936e6bde9f.m3u8
 #EXTINF:0,ON Sports HD
 https://freem3u.xyz/api/live/play.m3u8?oid=onsports
 #EXTINF:0,ON Sports+ HD
@@ -1596,54 +1631,6 @@ https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
 https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 #EXTINF:0,ON Sports News HD
 https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/15_f6a8241e.jpg",SCTV15 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/16_47eb3436.jpg",SCTV16 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/17_03ba5e54.jpg",SCTV17 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/19_3b86f52a.jpg",SCTV19 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/20_6c70556d.jpg",SCTV20 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/21_8f6788be.jpg",SCTV21 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv22hd" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/22_881fabb7.jpg",SCTV22 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
 #EXTINF:-1 tvg-id="danang1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNRT1.png", ĐNRT1 - Báo và PTTH Đà Nẵng
 https://freem3u.xyz/api/live/play.m3u8?vid=49
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGGEPkFbOq2zNIQS4Imeq4avBxklOVTmQ5p8n3-9o3D-GdIMAwZ_HkeZz&s=10", SCTV
@@ -1925,8 +1912,6 @@ http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w730649992_b1384000.m3u8
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8
 #EXTINF:-1 tvg-logo="ritmoson-latino.png",Ritmoson Latino
 http://iptvcanales.com/xw/cable.php?canal=42
-#EXTINF:-1 tvg-logo="htv.png",HTV
-http://iptvcanales.com/xw/sico.php?psw=mina&cm=341
 #EXTINF:-1 group-title="DLHD 24/7",VTV+ Uruguay
 https://dlive.sx/watch.php?id=391
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV (D*)
@@ -1941,6 +1926,8 @@ https://mantul.biz.id:443/ekos/748382/32.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7828&type=drm
 https://tvratu.my.id/vid/index.mpd?id=782&type=dash
+#EXTINF:-1 tvg-id="www.alpe.tv" tvg-logo="https://picserve.netplus.ch/channels/alpe.png",alpe d'huez tv HD
+https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:0 group-title="VTV",VTV1 HD_kkk.m3u?dl=0-230629-001.done
 https://iplogger.com/vtv1-hd.link|user-agent="Khanggne"
 #EXTINF:0 group-title="VTV",VTV2 HD_kkk.m3u?dl=0-230629-002.done
@@ -1976,6 +1963,172 @@ http://live.vthanhtivi.pw/sctv9
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png", THP HD | TH Hải Phòng
 https://cdn.thhp.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr" status="timeout",Alpe d’Huez TV (720p) [Not 24/7]
+https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-03-13T01:31:04+00:00",VTV1
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/vtv1_d810845d.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-03-13T01:31:05+00:00",VTV2 (Thử Nghiệm Quic)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/vtv2_th_nghim_quic_b06e0012.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-03-13T01:31:06+00:00",VTV2
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/vtv2_76513285.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-03-13T01:31:07+00:00",VTV3
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/vtv3_757f0a81.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-03-13T01:31:08+00:00",VTV4
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/vtv4_9f9713b0.m3u8
+#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-03-13T01:31:09+00:00",HTV Key
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/htv_key_e9cee434.m3u8
+#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-03-13T01:31:10+00:00",HTV1
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/htv1_0bcb5b5b.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-03-13T01:31:11+00:00",HTV2 - Vie Channel
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/htv2_vie_channel_81789470.m3u8
+#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-03-13T01:31:12+00:00",HTV3 - Heo TV (Hplus)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/htv3_heo_tv_hplus_954334b8.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:12+00:00",DRT HD - Báo và Truyền Hình Đắk Lắk
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/drt_hd_bo_v_truyn_hnh_k_lk_f72750aa.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:13+00:00",THP HD - Báo và Truyền Hình Hải Phòng
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/thp_hd_bo_v_truyn_hnh_hi_phng_5edc3edf.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:14+00:00",THP+ HD - Báo và Truyền Hình Hải Phòng
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/thp_hd_bo_v_truyn_hnh_hi_phng_48ad0dd3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT1.png" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:15+00:00",THTPCT1 HD - Báo và Truyền Hình Thành Phố Cần Thơ
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/thtpct1_hd_bo_v_truyn_hnh_thnh_ph_cn_th_29339922.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2HD.png" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:16+00:00",THTPCT2 HD - Báo và Truyền Hình Thành Phố Cần Thơ
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/thtpct2_hd_bo_v_truyn_hnh_thnh_ph_cn_th_2fcaf3ee.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3HD.png" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:17+00:00",THTPCT3 HD - Báo và Truyền Hình Thành Phố Cần Thơ
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/thtpct3_hd_bo_v_truyn_hnh_thnh_ph_cn_th_7363bbcf.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:18+00:00",ĐNNRTV1 - Báo và Truyền Hình Đồng Nai
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/nnrtv1_bo_v_truyn_hnh_ng_nai_7fa48b37.m3u8
+#EXTINF:-1 tvg-logo="https://media.baoquangninh.vn/upload/files/logo/QTV1.jpg" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:20+00:00",QTV1 HD - Trung tâm truyền thông Quảng Ninh
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/qtv1_hd_trung_tm_truyn_thng_qung_ninh_e291d794.m3u8
+#EXTINF:-1 tvg-logo=" https://i.ytimg.com/vi/cTNt-U1akXw/hq720.jpg" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:21+00:00",QTV3 HD - Trung tâm truyền thông Quảng Ninh
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/qtv3_hd_trung_tm_truyn_thng_qung_ninh_2b1fa4c0.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:22+00:00",NBTV - Báo và Truyền Hình Ninh Bình
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/nbtv_bo_v_truyn_hnh_ninh_bnh_6fbdf6e9.m3u8
+#EXTINF:-1 tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:24+00:00",STV HD - Báo và Truyền Hình Sơn La
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/stv_hd_bo_v_truyn_hnh_sn_la_a4181c80.m3u8
+#EXTINF:-1 tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png" group-title="Địa phương" tvg-last-checked="2026-03-13T01:31:27+00:00",LSTV HD - Báo và Truyền Hình Lạng Sơn
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/lstv_hd_bo_v_truyn_hnh_lng_sn_efb33ed4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAEBReIvKRGhdi-cYk3A7p-JZFfnqWf66hQ&s" group-title="VIỆT NAM" tvg-last-checked="2026-03-13T01:32:58+00:00",VOV MEKONGFM (VOVGT MEKONG)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-IL/vov_mekongfm_vovgt_mekong_cd8f1187.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/ANTV.webp" group-title="INDONESIA🇮🇩" tvg-last-checked="2026-06-01T13:54:51+00:00",ANTV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/antv_34d6bf7c.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/VTV_Indonesia_2023.svg/revision/latest/scale-to-width-down/250?cb=20230421133730" group-title="INDONESIA🇮🇩" tvg-last-checked="2026-06-01T13:56:00+00:00",VTV HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/vtv_hd_8371f585.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-06-01T13:56:04+00:00",VTV1
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/vtv1_d810845d.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-06-01T13:56:11+00:00",VTV2
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/vtv2_76513285.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-06-01T13:56:12+00:00",VTV3
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/vtv3_757f0a81.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-06-01T13:56:14+00:00",VTV2 (Thử Nghiệm Quic)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/vtv2_th_nghim_quic_b06e0012.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-06-01T13:56:15+00:00",VTV4
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/vtv4_9f9713b0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-06-01T13:56:16+00:00",VTV5 Tây Nam Bộ
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/vtv5_ty_nam_b_a13ab351.m3u8
+#EXTINF:-1 tvg-logo="https://s7730.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png" group-title="VTV" tvg-last-checked="2026-06-01T13:56:17+00:00",VTV5 Tây Nguyên
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/vtv5_ty_nguyn_2101956d.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg" group-title="VTV" tvg-last-checked="2026-06-01T13:56:17+00:00",VTV7
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/vtv7_42e2054e.m3u8
+#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-06-01T13:56:18+00:00",HTV1
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/htv1_0bcb5b5b.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-06-01T13:56:19+00:00",HTV2 - Vie Channel
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/htv2_vie_channel_81789470.m3u8
+#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-06-01T13:56:21+00:00",HTV3 - Heo TV (Hplus)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/htv3_heo_tv_hplus_954334b8.m3u8
+#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" group-title="HTV" tvg-last-checked="2026-06-01T13:56:22+00:00",HTV Key
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/htv_key_e9cee434.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png" group-title="HTV" tvg-last-checked="2026-06-01T13:56:22+00:00",HTV9 HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/htv9_hd_3331d9b3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Htvcthuanviet.jpg" group-title="HTVC" tvg-last-checked="2026-06-01T13:56:23+00:00",HTVC Thuần Việt
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/htvc_thun_vit_4d733760.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png" group-title="HTVC" tvg-last-checked="2026-06-01T13:56:23+00:00",HTVC Phụ nữ HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/htvc_ph_n_hd_bacdab31.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png" group-title="HTVC" tvg-last-checked="2026-06-01T13:56:24+00:00",HTVC Du lịch Cuộc sống HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/htvc_du_lch_cuc_sng_hd_563b16b0.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_640_360.png" group-title="HTVC" tvg-last-checked="2026-06-01T13:56:24+00:00",HTVC Phim HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/htvc_phim_hd_169417dc.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png" group-title="🌐| Thiết yếu" tvg-last-checked="2026-06-01T13:56:24+00:00",ANTV HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/antv_hd_29821a1c.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:26+00:00",DRT HD - Báo và Truyền Hình Đắk Lắk
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/drt_hd_bo_v_truyn_hnh_k_lk_f72750aa.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:28+00:00",THP HD - Báo và Truyền Hình Hải Phòng
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/thp_hd_bo_v_truyn_hnh_hi_phng_5edc3edf.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sFLUmdwp0Z8/maxresdefault.jpg" group-title="🌐| Thiết yếu" tvg-last-checked="2026-06-01T13:56:28+00:00",QPVN HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/qpvn_hd_e6ec2a1e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT1.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:29+00:00",THTPCT1 HD - Báo và Truyền Hình Thành Phố Cần Thơ
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/thtpct1_hd_bo_v_truyn_hnh_thnh_ph_cn_th_29339922.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3HD.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:31+00:00",THTPCT3 HD - Báo và Truyền Hình Thành Phố Cần Thơ
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/thtpct3_hd_bo_v_truyn_hnh_thnh_ph_cn_th_7363bbcf.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3HD.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:31+00:00",THTPCT3 HD - Báo và Truyền Hình Thành Phố Cần Thơ (Luồng FPT PLAY)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/thtpct3_hd_bo_v_truyn_hnh_thnh_ph_cn_th_lung_fpt_play_517d407a.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2HD.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:32+00:00",THTPCT2 HD - Báo và Truyền Hình Thành Phố Cần Thơ
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/thtpct2_hd_bo_v_truyn_hnh_thnh_ph_cn_th_2fcaf3ee.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:33+00:00",ĐNNRTV1 - Báo và Truyền Hình Đồng Nai
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/nnrtv1_bo_v_truyn_hnh_ng_nai_7fa48b37.m3u8
+#EXTINF:-1 tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:35+00:00",STV HD - Báo và Truyền Hình Sơn La
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/stv_hd_bo_v_truyn_hnh_sn_la_a4181c80.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_640_360.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:36+00:00",THVL1 HD - Báo và Truyền Hình Vĩnh Long
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/thvl1_hd_bo_v_truyn_hnh_vnh_long_9c596b1b.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0W7Nvg-dQjY/maxresdefault.jpg" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:36+00:00",THVL2 HD - Báo và Truyền Hình Vĩnh Long
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/thvl2_hd_bo_v_truyn_hnh_vnh_long_a8e67f0a.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_640_360.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:37+00:00",THVL4 HD - Báo và Truyền Hình Vĩnh Long
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/thvl4_hd_bo_v_truyn_hnh_vnh_long_4f47a617.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:38+00:00",THP+ HD - Báo và Truyền Hình Hải Phòng
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/thp_hd_bo_v_truyn_hnh_hi_phng_48ad0dd3.m3u8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:40+00:00",NBTV - Báo và Truyền Hình Ninh Bình
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/nbtv_bo_v_truyn_hnh_ninh_bnh_6fbdf6e9.m3u8
+#EXTINF:-1 tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png" group-title="Địa phương" tvg-last-checked="2026-06-01T13:56:42+00:00",LSTV HD - Báo và Truyền Hình Lạng Sơn
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MXD/lstv_hd_bo_v_truyn_hnh_lng_sn_efb33ed4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png" group-title="Địa phương",Hà Nội 2 UHD - Đài Hà Nội
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Youtube News Live Stream",TRTWorld (Thừa Thiên Huế)
+https://www.youtube.com/@trtworld/live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="Youtube News Live Stream",VTV-24 Breaking Live Event
+https://www.youtube.com/channel/UCabsTV34JwALXKGMqHpvUiA/live
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Youtube Live",HTV - Đài Hà Nội
+https://www.youtube.com/channel/UC7_mgS3z22z0WhR7COJ8E2w/live
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Youtube Live",Amazing Huế
+https://www.youtube.com/channel/UCe7O-UJ6fWL9P6hkLPyMHig/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi" group-title="Youtube Live",Hololive Productions / SCTV Sichuan Television - Truyền hình vệ tinh Tu Xuyên (SCTV四川卫视)
+https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi" group-title="Youtube Live",Hololstars / SCTV Sichuan Television TV2 - Truyền hình vệ tinh Tu Xuyên (SCTV四川卫视)
+https://www.youtube.com/channel/UCWsfcksUUpoEvhia0_ut0bA/live
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Youtube Live",Free Fire (VN)
+https://www.youtube.com/@GarenaFreeFireEsportsVN/live
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Valorant Live",VCT Valorant (VN)
+https://www.youtube.com/@VALORANTChampionsTourVietnam/live
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="League of Legends Live",LCP (VN)
+https://www.youtube.com/@lolesports_vn/live
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="League of Legends Live",TFT Live VN
+https://www.youtube.com/@DTCLVN/live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAEBReIvKRGhdi-cYk3A7p-JZFfnqWf66hQ&s" group-title="VIỆT NAM",VOV MEKONGFM (VOVGT MEKONG)
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg" group-title="VIỆT NAM",ZingRadio 1 - Vpop
+https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg" group-title="VIỆT NAM",ZingRadio 3 - Kpop
+https://multi-playlist-zmp3.zmdcdn.me/rTbzjcKEO1A/zhls/playback-realtime/6600baac86e96fb736f8/index.m3u8
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg" group-title="VIỆT NAM",ZingRadio 4 - USUK
+https://multi-playlist-zmp3.zmdcdn.me/-XosZVJX9XA/zhls/playback-realtime/f49e38320477ed29b466/index.m3u8
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/1/5/c/2/15c2abf5f4554b416384d4f675b2151e.jpg" group-title="VIỆT NAM",ZingRadio 5 - CPop
+https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/a/6/f/4/a6f4712ca91e9cc15530960ab44611da.jpg" group-title="VIỆT NAM",ZingRadio 6 - EDM
+https://multi-playlist-zmp3.zmdcdn.me/lupi_x8-Su4/zhls/playback-realtime/7386bb2a876f6e31377e/index.m3u8
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg" group-title="VIỆT NAM",ZingRadio 7 - Acoustic
+https://multi-playlist-zmp3.zmdcdn.me/AiekixzmitQ/zhls/playback-realtime/9b7b55d7699280ccd983/index.m3u8
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg" group-title="VIỆT NAM",ZingRadio 8 - Bolero
+https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace800d4453d1b6454/index.m3u8
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg" group-title="VIỆT NAM",ZingRadio 9 - Rap Việt
+https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015d3d18d4468d09/index.m3u8
+#EXTINF:-1 tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/5/5/b/955b98868b8b29e1e782fc0913d857d2.jpg" group-title="VIỆT NAM",ZingRadio 10 - Indie
+https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
+#EXTINF:-1 tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/d/d/6/edd6b56e8f79898dd98acfcf55c5564a.jpg" group-title="VIỆT NAM",ZingRadio 11 - Thiếu Nhi
+https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=664&logo" group-title="QUỐC TẾ",PARACEL AND SPRATLY ISLANDS BELONG TO VIETNAM
+https://radio.0472.org/?id=664
+#EXTINF:-1 tvg-id="5369" tvg-name="== MUZIKA ==" tvg-logo="data:image/jpeg;base64,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" group-title="MUZIKA",== MUZIKA ==
+http://xyutv.net:8080/sgtiptvtelegram/telegramsgtiptv/5369
+#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Sports",Okko Futbol (1080p)
+http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bleav Football (1080p)
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GFN Football (1080p)
@@ -1988,6 +2141,8 @@ https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
 #EXTINF:-1 ,Strongman Champions League
 https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1 channel-id="GB2200002CC" tvg-id="GB2200002CC" tvg-chno="4636" tvg-name="GFN Football" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200002CC_20260407T040222SQUARE.png" group-title="Sport",GFN Football
+https://jmp2.uk/stvp-GB2200002CC
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Movies",Lifetime Movies (1080p)
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lifetime Movies (1080p)
@@ -2012,16 +2167,17 @@ https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="TV",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.us@Portugal" tvg-logo="https://i.imgur.com/47IKxmt.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White Portugal (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20ON%20Cine%20HD.png" group-title="Uncategorized",ON Cine HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Cine_HD_du_phong
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
 https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
 #EXTINF:-1  tvg-name="MOVIE SPHERE" tvg-id="421" tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES E SERIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Sports" tvg-id="ThrillerMax.-.East.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-thrillermax-us.png" tvg-name="CINEMAX THRILLERMAX",CINEMAX THRILLERMAX
+http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO Family
 http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://deprecated.cc/tv/images/moSPpuJ.png" group-title="Movies",Cinema One
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+#EXTINF:-1 channel-id="GB37000067A" tvg-id="GB37000067A" tvg-chno="4894" tvg-name="Lifetime Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000067A_20251230T031133SQUARE.png" group-title="Movies",Lifetime Movies
+https://jmp2.uk/stvp-GB37000067A
