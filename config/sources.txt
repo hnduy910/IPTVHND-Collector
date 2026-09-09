@@ -717,3 +717,8 @@ https://raw.githubusercontent.com/jk2024988/TV2024/6af3ed0d34423e3433c12e856bdcd
 https://raw.githubusercontent.com/judy-gotv/iptv/e2862bb0f03441a5537a37cb63d68f61179820db/smart.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/d24869dded20c92f83aac21037830ad388d1babf/IPTV/CN.m3u8
 https://raw.githubusercontent.com/skipandgoon/iptv-api/c6d2fcfc816e4471f57db30bf3ccd0906126f861/output/log/subscribe/http_iptv.4666888.xyz_FYTV.m3u.txt
+https://raw.githubusercontent.com/KimShenGod/live/01bccdd2b22da93789e45579830af8662f829920/iptv.m3u
+https://raw.githubusercontent.com/amazeyourself/m3u/8fe94e0e10d7ceb5a69b46d189ade3b395a5aeec/riptv.m3u
+https://raw.githubusercontent.com/eklins/FDTV/a13bb4d3e1bf96f3a2451885e77534e280ddd221/zz/IPTV20220506.m3u
+https://raw.githubusercontent.com/rolnando-play/RP/b9209874563ef760298644d65948b138629b554b/iptv2.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/e92312b5ea15ca24422d05545aba417b2ff8197b/IPTV/tw.m3u

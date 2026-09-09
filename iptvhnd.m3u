@@ -50626,8 +50626,6 @@ https://iptv.852851.xyz/live/stream-744c2860-8d1b-41f6-b460-7548913c1381/index.m
 https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1,Hesky Champions League
 https://stream.zeno.fm/1auews683c9uv
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
 #EXTINF:-1,Nahuel Fontana Arbert
 https://stream.zeno.fm/3gs3p9h4ya0uv
 #EXTINF:-1,CS FÚTBOL
@@ -52327,3 +52325,7 @@ https://truyenhinh.click/SCTV17HD
 https://truyenhinh.click/SCTV22HD
 #EXTINF:0, tvg-logo="http://www.d2football.com/images/stadium/hillsdale_stadium_1.jpg" group-title="College Sports",Hillsdale Football
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/hillsdalevideo/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Movies",AXN Black (576p)
+http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment",AXN White Bulgaria (576p)
+http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8

@@ -350,8 +350,6 @@
 # 🇨🇴 COLOMBIA - LIGA BETPLAY
 #EXTVLCOPT:http-user-agent=lolllololollol
 #Listed by SyNguyenFPT - https://www.facebook.com/synguyenfpt | https://synguyen.net/90phut | https://synguyen.net/thapcam | https://synguyen.net/cakhia | https://synguyen.net/saoke | https://synguyen.net/socolive | https://synguyen.net/gavang | https://synguyen.net/thethao (group all in 1)
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Sports",Okko Futbol (1080p)
-http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GFN Football (1080p)
 https://e562e489.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9HRk5Tb2NjZXJfSExT/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Stingray Soccer Anthems (1080p)
