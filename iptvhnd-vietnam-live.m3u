@@ -350,12 +350,15 @@
 # 🇨🇴 COLOMBIA - LIGA BETPLAY
 #EXTVLCOPT:http-user-agent=lolllololollol
 #Listed by SyNguyenFPT - https://www.facebook.com/synguyenfpt | https://synguyen.net/90phut | https://synguyen.net/thapcam | https://synguyen.net/cakhia | https://synguyen.net/saoke | https://synguyen.net/socolive | https://synguyen.net/gavang | https://synguyen.net/thethao (group all in 1)
+# Generated: 2026-09-10 08:15:29
 #EXTINF:-1 tvg-id="CaMauTV.vn@SD" tvg-logo="" group-title="Undefined",Cà Mau TV (720p) [Geo-blocked]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Education;Science",Can Tho TV 2 (1080p)
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanThoTV.vn@SD" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="General",Cần Thơ TV1 (1080p)
 https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:-1 tvg-id="CanThoTV3.vn@SD" tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" group-title="Undefined",Cần Thơ TV3 (1080p)
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="General",Cao Bằng TV (720p)
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DaNangTV1.vn@SD" tvg-logo="https://i.imgur.com/EOMuO1z.png" group-title="General",Đà Nẵng TV1 (1080p) [Not 24/7]
@@ -404,8 +407,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="ONVieDrama.vn@SD" tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" group-title="Entertainment",ON Vie Drama (720p)
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
-#EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-logo="https://i.imgur.com/tfk298I.png" group-title="Undefined",SCTV3 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
+#EXTINF:-1 tvg-id="SCTV13.vn@SD" tvg-logo="https://i.imgur.com/aoz1iDw.png" group-title="Undefined",SCTV13 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
+#EXTINF:-1 tvg-id="SCTV19.vn@SD" tvg-logo="https://i.imgur.com/yBAFZRs.png" group-title="Undefined",SCTV19 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
 #EXTINF:-1 tvg-id="TayNinhTV.vn@SD" tvg-logo="https://tayninhtv.vn/static/images/logo.png" group-title="General",Tây Ninh TV (720p)
 https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeaTV.vn@SD" tvg-logo="https://i.imgur.com/WorbnyD.jpg" group-title="Shop",Tea TV (720p)
@@ -444,6 +449,9 @@ https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn@HD" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="Undefined",Quảng Ngãi TV1 (1080p)
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV.id@SD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" http-referrer="https://youtv.live/" group-title="Kids",VTV (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="VTVCanal32.do@SD" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="General",VTV Canal 32 (1080p)
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 #EXTINF:-1 tvg-id="VTVValledeAconcagua.cl@SD" tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Undefined",VTV Valle de Aconcagua (720p) [Not 24/7]
@@ -721,6 +729,8 @@ http://gg.gg/daknongvieon
 http://gg.gg/AnVienTV
 #EXTINF:-1 tvg-name="ON Vie Giải Trí" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="VTVcab",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-name="ON Phim Việt" tvg-logo="https://i.imgur.com/MPNlpzb.png" group-title="VTVcab",ON Phim Việt
+https://vmttv.dpdns.org/tv360/?id=175
 #EXTINF:-1 tvg-name="ON E Channel" tvg-logo="https://i.imgur.com/87JEXEQ.png" group-title="VTVcab",ON E Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-name="ON O2TV" tvg-logo="https://i.imgur.com/nqwVkmM.png" group-title="VTVcab",ON O2TV
@@ -745,12 +755,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=187
 https://vmttv.dpdns.org/tv360/?id=169
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/pwy6LhX/sctv3-hd.png",SCTV3
-https://vmttv.dpdns.org/VTVGo/?sctv3
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rHsWYhW/sctv4-hd.png",SCTV4
-https://vmttv.dpdns.org/VTVGo/?sctv4
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.ibb.co/hxNHc7x/logo26072108-sctv12-hd.png",SCTV12
-https://vmttv.dpdns.org/VTVGo/?sctv12
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV_Keys
 #EXTINF:-1 tvg-name="TVB VIỆT NAM" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg" group-title="In The Box",TVB VIỆT NAM
@@ -1032,8 +1036,6 @@ https://vietanhtv.id.vn/sctv/sctv3-hd-cf3adaca/index.m3u8
 https://vietanhtv.id.vn/sctv/sctv7-ef7e259a/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/52.png" group-title="SCTV",SCTV8
 https://vietanhtv.id.vn/sctv/sctv8-c12d138b/index.m3u8
-#EXTINF:-1 tvg-logo="https://vnepg.site/logos/53.png" group-title="SCTV",SCTV9
-https://vietanhtv.id.vn/sctv/sctv9-cdd19ab2/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/54.png" group-title="SCTV",SCTV11
 https://vietanhtv.id.vn/sctv/sctv11-1d565c47/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/55.png" group-title="SCTV",SCTV12
@@ -1044,6 +1046,8 @@ https://vietanhtv.id.vn/sctv/sctv13-67f88fcb/index.m3u8
 https://vietanhtv.id.vn/sctv/sctv14-789c9f45/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/61.png" group-title="SCTV",SCTV18
 https://vietanhtv.id.vn/sctv/sctv18-398b0b4e/index.m3u8
+#EXTINF:-1 tvg-logo="https://vnepg.site/logos/62.png" group-title="SCTV",SCTV19
+https://vietanhtv.id.vn/sctv/sctv19-bf00bd02/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/63.png" group-title="SCTV",SCTV20
 https://vietanhtv.id.vn/sctv/sctv19-cb98949a/index.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/64.png" group-title="SCTV",SCTV21
@@ -1104,6 +1108,8 @@ https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay
 https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Ban_ngay
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20%E2%80%A2%20Bu%E1%BB%95i%20t%E1%BB%91i.png" group-title="Uncategorized",HÀ NỘI HÔM NAY • BAN ĐÊM
 https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Ban_dem
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/qrzalovthanh.png", Donate: https://me.momo.vn/vthanh
+https://hqth.me/khongnentromcap
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 HD Tây Nam Bộ
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/7
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
@@ -1631,12 +1637,11 @@ https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 #EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822006251/3956b92f8e0f_640_360.png", PTD | Truyền Hình Đắk Nông
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w361616628_b3128000_sleng.m3u8
-#EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD | TH Thanh Hóa
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://epg.pw/stream/3511cd6ce78dfe8c21b5dfde4b931265066d0a631f629d79af83e7936e6bde9f.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292301209/7f8769dc08d0_640_360.png", BTV2 HD | Truyền Hình Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/tv/tv360.php?id=43
+#EXTINF:-1 tvg-id="quangnam" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293807868/b8d49f5e7117_640_360.png", QRT HD |Truyền Hình Quảng Nam
+https://sgchill.io.vn/tv/tv360.php?id=80
 #EXTINF:-1 tvg-id="lamdong" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293412890/14f97a21a967_640_360.png", LTV HD | Truyền Hình Lâm Đồng
 https://sgchill.io.vn/tv/tv360.php?id=69
 #EXTINF:0,ON Sports HD
@@ -1984,6 +1989,8 @@ https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u
 http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QNR2 - Quảng Ninh
 http://103.90.220.236/qtvlive/qnr2.m3u8
+#EXTINF:-1 group-title="TruyenHinh_3",ON Phim Việt HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Phim_Viet_HD
 #EXTINF:-1,VOV Giao thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam 🇻🇳" tvg-status="stable",HTV7

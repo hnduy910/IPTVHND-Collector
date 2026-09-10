@@ -350,6 +350,7 @@
 # 🇨🇴 COLOMBIA - LIGA BETPLAY
 #EXTVLCOPT:http-user-agent=lolllololollol
 #Listed by SyNguyenFPT - https://www.facebook.com/synguyenfpt | https://synguyen.net/90phut | https://synguyen.net/thapcam | https://synguyen.net/cakhia | https://synguyen.net/saoke | https://synguyen.net/socolive | https://synguyen.net/gavang | https://synguyen.net/thethao (group all in 1)
+# Generated: 2026-09-10 08:15:29
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -13485,8 +13486,6 @@ http://media.mediatech.vn:1935/hntvRadio/fm90live/playlist.m3u8
 http://stream.mobiradio.vn/vov5
 #EXTINF:-1,Vietnam War Rock
 https://stream.zeno.fm/g91qxch7gv8uv
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1,Đài PTTH Hậu Giang – Vị Thanh – Hậu Giang – Vietnam
 https://haugiangfm011220.cdn.vnns.io/c08408e46bb5570750fff930a4a37ed51660322878/haugiang-fm.tms/chunks.m3u8
 #EXTINF:-1,Đài PTTH Đồng Tháp – Cao Lanh – Đồng Tháp – Vietnam
@@ -52329,3 +52328,25 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/hillsdalevideo/playlist.m3
 http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment",AXN White Bulgaria (576p)
 http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="CricHD 1",Sky Cinema
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=Waa-o9_jx4otAPWZSFcnSw&expires=1789000806
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="CricHD 1",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://cdn4.zohanayaan.com:1686/hls/skysprem.m3u8?md5=hd_154cDhXhJ84rr384paw&expires=1789000809
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="CricHD 1",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://cdn1.zohanayaan.com:1686/hls/skysfott.m3u8?md5=5tOnw_x6_inIf68CBeu5HQ&expires=1789000809
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="CricHD 1",Super Football
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://cdn4.zohanayaan.com:1686/hls/superfotball.m3u8?md5=WIqL-QyxOXCiXUyVgpuQBg&expires=1789000810
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="CricHD 1",Super Premier League
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://cdn10.zohanayaan.com:1686/hls/superpremier.m3u8?md5=lvsV7U_-Mi34jJz92zznPQ&expires=1789000810

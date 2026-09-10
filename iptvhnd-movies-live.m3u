@@ -350,6 +350,7 @@
 # 🇨🇴 COLOMBIA - LIGA BETPLAY
 #EXTVLCOPT:http-user-agent=lolllololollol
 #Listed by SyNguyenFPT - https://www.facebook.com/synguyenfpt | https://synguyen.net/90phut | https://synguyen.net/thapcam | https://synguyen.net/cakhia | https://synguyen.net/saoke | https://synguyen.net/socolive | https://synguyen.net/gavang | https://synguyen.net/thethao (group all in 1)
+# Generated: 2026-09-10 08:15:29
 #EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="Movies",ON Movies (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Movies",Lifetime Movies (1080p)
@@ -362,6 +363,8 @@ https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="100",Sony Movies (1080p)
 http://45.177.114.115/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-name="ON Phim Việt" tvg-logo="https://i.imgur.com/MPNlpzb.png" group-title="VTVcab",ON Phim Việt
+https://vmttv.dpdns.org/tv360/?id=175
 #EXTINF:-1 tvg-name="ON Cine" tvg-logo="https://i.imgur.com/6f9ngwY.png" group-title="VTVcab",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-name="ON Vie DRAMAS" tvg-logo="https://i.imgur.com/n7QICK7.png" group-title="VTVcab",ON Vie DRAMAS
@@ -390,6 +393,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20ON%20Cine%20HD.png" group-title="Uncategorized",ON Cine HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Cine_HD_du_phong
+#EXTINF:-1 group-title="TruyenHinh_3",ON Phim Việt HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Phim_Viet_HD
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
 https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
 #EXTINF:-1  tvg-name="MOVIE SPHERE" tvg-id="421" tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES E SERIES",MOVIE SPHERE
