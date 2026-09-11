@@ -352,10 +352,16 @@
 #Listed by SyNguyenFPT - https://www.facebook.com/synguyenfpt | https://synguyen.net/90phut | https://synguyen.net/thapcam | https://synguyen.net/cakhia | https://synguyen.net/saoke | https://synguyen.net/socolive | https://synguyen.net/gavang | https://synguyen.net/thethao (group all in 1)
 # Generated: 2026-09-10 08:15:29
 # (●) Total Channels: 492
+#EXTM3U url-tvg="http://bit.ly/guidevn"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+#Su dung OTT Navigator hoặc Tivimate để xem được K+
+#cam-on-cac-list-(thanhtivi+kiptv+nhamng+KhanggKplus)
+#http://gg.gg/khanggkplusiptv và http://hqth.me/khanggkplusiptv
+#https://hqth.me/r586iE and http://gg.gg/axt-controller
+#-*--SPORT UHD-4K-*--#
+#EXTM3U url-tvg="https://epg.io.vn/epgu.xml"
 #EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="Movies",ON Movies (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Movies",Lifetime Movies (1080p)
-http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lifetime Movies (1080p)
 https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lifetime Movies Love & Drama (1080p)
