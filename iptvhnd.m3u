@@ -360,6 +360,9 @@
 #https://hqth.me/r586iE and http://gg.gg/axt-controller
 #-*--SPORT UHD-4K-*--#
 #EXTM3U url-tvg="https://epg.io.vn/epgu.xml"
+#PLAYLIST: IPTV Channel List
+#AUTHOR: Jenkins Auto Build
+#DATE: 2026-09-11 04:13:12
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]

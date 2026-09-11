@@ -360,6 +360,9 @@
 #https://hqth.me/r586iE and http://gg.gg/axt-controller
 #-*--SPORT UHD-4K-*--#
 #EXTM3U url-tvg="https://epg.io.vn/epgu.xml"
+#PLAYLIST: IPTV Channel List
+#AUTHOR: Jenkins Auto Build
+#DATE: 2026-09-11 04:13:12
 #EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="Movies",ON Movies (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lifetime Movies (1080p)
