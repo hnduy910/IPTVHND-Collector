@@ -363,6 +363,8 @@
 #PLAYLIST: IPTV Channel List
 #AUTHOR: Jenkins Auto Build
 #DATE: 2026-09-11 04:13:12
+# Generated: 2026-09-12 08:18:24
+# --- LIVE (97) ---
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -13496,8 +13498,6 @@ http://yenbaitv.org.vn/hls/livestream.m3u8
 http://media.mediatech.vn:1935/hntvRadio/fm90live/playlist.m3u8
 #EXTINF:-1,VOV5 - Voice of Vietnam
 http://stream.mobiradio.vn/vov5
-#EXTINF:-1,Vietnam War Rock
-https://stream.zeno.fm/g91qxch7gv8uv
 #EXTINF:-1,Đài PTTH Hậu Giang – Vị Thanh – Hậu Giang – Vietnam
 https://haugiangfm011220.cdn.vnns.io/c08408e46bb5570750fff930a4a37ed51660322878/haugiang-fm.tms/chunks.m3u8
 #EXTINF:-1,Đài PTTH Đồng Tháp – Cao Lanh – Đồng Tháp – Vietnam
@@ -53202,3 +53202,13 @@ https://live-hq.evgcdn.net/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20250225/a5c18be0-3a0d-4e22-8f70-0a9783439668.jpg",Sơn La
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live-hq.evgcdn.net/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTVNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png" group-title="News",VTV News (576p)
+https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
+#EXTINF:-1,Huella Musical
+http://s3.myradiostream.com:4458/
+#EXTINF:-1,Sport 890 - 108 - Uruguay - futbol
+https://stream.streetbeatfm.ru/online
+#EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/tcm.png" group-title="LIVE",TCM
+http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2682.m3u8
+#EXTINF:-1, Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8

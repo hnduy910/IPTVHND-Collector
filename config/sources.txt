@@ -800,3 +800,11 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/d2bec5074e6fee578f3
 https://raw.githubusercontent.com/skipandgoon/iptv-api-legacy/c6d2fcfc816e4471f57db30bf3ccd0906126f861/output/log/subscribe/http_iptv.4666888.xyz_FYTV.m3u.txt
 https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/a080273f4acd42d838e292c7038f98a7c622c7e0/unfyespanoltv/chocolate.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/d7bfec0e3477c5d9cf1d0923cd3977bd6e445bd9/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
+https://raw.githubusercontent.com/IPTVFlixBD/RynoCast-IPTV-M3u-Playlist/61abdf7a55bad3b6d03cf713fdb1b01243cdfdc4/iptv1_live.m3u
+https://raw.githubusercontent.com/KimShenGod/live/2da174b3e4240442a0f45ab5134fe3d968109e05/iptv.m3u
+https://raw.githubusercontent.com/amazeyourself/m3u/8a2e6f2f743e8d1a3e5dc00049cba4dc40876792/riptv.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/02956b9f04fee925031353d6485128709e3058ec/iptv.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/87b6129bfde49e452e1544d0ded257ddb2d50583/streams/in.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/9fb85918af0b9d2e730943463ad306d3b7f0c56f/IPTV/fr.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/9fb85918af0b9d2e730943463ad306d3b7f0c56f/IPTV/tw.m3u
+https://raw.githubusercontent.com/vraomoturi/smartiptv-playlist/e5db46abf94f4f8b510fd60791d5d80284ccec0d/aurno-iptv.m3u
