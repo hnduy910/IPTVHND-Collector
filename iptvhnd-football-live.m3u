@@ -365,8 +365,17 @@
 #DATE: 2026-09-11 04:13:12
 # Generated: 2026-09-12 08:18:24
 # --- LIVE (97) ---
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Sports",Okko Futbol (1080p)
-http://stream.mcquack.net/491/index.m3u8
+#=================================
+# Developed By: ABU SAEEiD × Rifaz
+# GitHub @abusaeeidx
+# IPTV Telegram Channels: @xfireflixbd
+# Last Updated: 2026-09-12 07:43 PM (BD Time)
+# Disclaimer:
+# This tool does NOT host any content.
+# It aggregates publicly available data for informational purposes only.
+# For any issues or concerns, please contact the developer.
+#==================================
+# Last Updated: 2026-09-12 04:30 PM (BD Time)
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GFN Football (1080p)
 https://e562e489.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9HRk5Tb2NjZXJfSExT/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Stingray Soccer Anthems (1080p)
@@ -381,3 +390,7 @@ https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/
 https://jmp2.uk/stvp-GB2200002CC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-title="All Sports 🌎",Sky Sport Premier League 🇦🇹
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=qd2MUJx2uKe8vQ1n81yoEA&e=2088940274&scheme=https
+#EXTINF:-1 tvg-name="Radio TV Serie A" tvg-logo="https://i.imgur.com/2AvxGJF.png" tvg-id="RadioTVSerieA.it" tvg-chno="899" tvg-country="IT" group-title="Italy",Radio TV Serie A
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
+#EXTINF:-1 tvg-id="8cf7e03a-c0c4-4373-8b4f-d2f0c809472c" tvg-name="Goal TV" tvg-logo="https://s3.aynaott.com/storage/495e1816602db61aa4c2a348a257bd0a" group-title="Football",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8

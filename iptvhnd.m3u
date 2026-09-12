@@ -365,6 +365,17 @@
 #DATE: 2026-09-11 04:13:12
 # Generated: 2026-09-12 08:18:24
 # --- LIVE (97) ---
+#=================================
+# Developed By: ABU SAEEiD × Rifaz
+# GitHub @abusaeeidx
+# IPTV Telegram Channels: @xfireflixbd
+# Last Updated: 2026-09-12 07:43 PM (BD Time)
+# Disclaimer:
+# This tool does NOT host any content.
+# It aggregates publicly available data for informational purposes only.
+# For any issues or concerns, please contact the developer.
+#==================================
+# Last Updated: 2026-09-12 04:30 PM (BD Time)
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -53204,11 +53215,89 @@ https://live-hq.evgcdn.net/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3
 https://live-hq.evgcdn.net/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTVNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png" group-title="News",VTV News (576p)
 https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
-#EXTINF:-1,Huella Musical
-http://s3.myradiostream.com:4458/
-#EXTINF:-1,Sport 890 - 108 - Uruguay - futbol
-https://stream.streetbeatfm.ru/online
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/tcm.png" group-title="LIVE",TCM
 http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2682.m3u8
 #EXTINF:-1, Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg/960px-Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg.png" tvg-country="VN" tvg-language="vie;eng" group-title="Undefined" nexus-score="100",VTV1 (1080p)
+https://javiptv.s.gy/vtv1hd-thvn
+#EXTINF:-1 tvg-name="Radio TV Serie A" tvg-logo="https://i.imgur.com/2AvxGJF.png" tvg-id="RadioTVSerieA.it" tvg-chno="899" tvg-country="IT" group-title="Italy",Radio TV Serie A
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
+#EXTINF:-1,Vietnam War Rock
+https://stream.zeno.fm/g91qxch7gv8uv
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1789389068:KeyName=prod_linear:Signature=qqbWr3HjhF3FRhTDriDmtpDTUer4MnTKNDE7-9Z0Xt0l27u2xGTe9S3P-5SdHvCiYMNmMsY66H_TTH0hQfFXBw"}
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",[BD] Sony MAX HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1789389068:KeyName=prod_linear:Signature=qqbWr3HjhF3FRhTDriDmtpDTUer4MnTKNDE7-9Z0Xt0l27u2xGTe9S3P-5SdHvCiYMNmMsY66H_TTH0hQfFXBw"}
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",[BD] Sony MAX
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1789389068:KeyName=prod_linear:Signature=qqbWr3HjhF3FRhTDriDmtpDTUer4MnTKNDE7-9Z0Xt0l27u2xGTe9S3P-5SdHvCiYMNmMsY66H_TTH0hQfFXBw"}
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp",[BD] Sony MAX 2
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="Sports",Sky Cinema
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=pqLwTnt7LcXHL5CE_JSIUA&expires=1789225298
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Sports",Sky Sports Premier League
+https://cdn4.zohanayaan.com:1686/hls/skysprem.m3u8?md5=84DO1HsCr_1UKkLNW2P5dQ&expires=1789225301
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Sports",Sky Sports Football
+https://cdn4.zohanayaan.com:1686/hls/skysfott.m3u8?md5=KWCjlRBCIH3ybsdFe2RSwA&expires=1789225301
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="Sports",Super Football
+https://cdn2.zohanayaan.com:1686/hls/superfotball.m3u8?md5=JsNeqekf6kUjvwFX3cqLiA&expires=1789225301
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="Sports",Super Premier League
+https://cdn9.zohanayaan.com:1686/hls/superpremier.m3u8?md5=DYW40bQwQpTzusavIabMvQ&expires=1789225301
+#EXTINF:-1 tvg-id="8cf7e03a-c0c4-4373-8b4f-d2f0c809472c" tvg-name="Goal TV" tvg-logo="https://s3.aynaott.com/storage/495e1816602db61aa4c2a348a257bd0a" group-title="Football",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1,Sky Cinema Uno IT
+https://ch.iptvmate.net/59b8cd1839717a4b60faba84414cf261.m3u8
+#EXTINF:-1,Sky Cinema Due IT
+https://ch.iptvmate.net/43a2decb0212620b6352afacd96070ae.m3u8
+#EXTINF:-1,Sky Cinema Suspence
+https://ch.iptvmate.net/2048433337349d812b7a63e9df16aa03.m3u8
+#EXTINF:-1,Sky Cinema Family IT
+https://ch.iptvmate.net/5b43e022d5688652df41a9ab470bbaa4.m3u8
+#EXTINF:-1,Sky Cinema Comedy IT
+https://ch.iptvmate.net/2891e452a6714026145f6fec46716318.m3u8
+#EXTINF:-1,Sky Cinema 24 IT
+https://ch.iptvmate.net/408815997fec28af07bd6dfefa69ab61.m3u8
+#EXTINF:-1,Sky Cinema Romance IT
+https://ch.iptvmate.net/0bc28b2c0131570999b059b88c169a17.m3u8
+#EXTINF:-1,Sky Cinema Drama IT
+https://ch.iptvmate.net/76f2c07ed5a6ecf725b31f44005f12bd.m3u8
+#EXTINF:-1,Sky Cinema Classic IT
+https://ch.iptvmate.net/6e7f0bb3f4cd96de4d4edc2d033d81d5.m3u8
+#EXTINF:-1,SKY Sport Serie A IT
+https://ch.iptvmate.net/dc63998d8ef6bfc901d330f7f5276f2e.m3u8
+#EXTINF:-1,Sky Sport Football IT
+https://ch.iptvmate.net/fe8ba40b4b597fc3a793e4d1df7d2ac9.m3u8
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="Sports",Sky Cinema
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=2bSIdoZzDEh7-Nf5bXQDgw&expires=1789213331
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Sports",Sky Sports Premier League
+https://cdn3.zohanayaan.com:1686/hls/skysprem.m3u8?md5=3RqNy83Srz83OMrI5k_FdQ&expires=1789213333
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Sports",Sky Sports Football
+https://cdn4.zohanayaan.com:1686/hls/skysfott.m3u8?md5=IpmQKWbnIJSDqHRBPV_v8Q&expires=1789213333
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="Sports",Super Football
+https://cdn6.zohanayaan.com:1686/hls/superfotball.m3u8?md5=sNX1bnwz-qBw89bCbkkrcg&expires=1789213333
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="Sports",Super Premier League
+https://cdn4.zohanayaan.com:1686/hls/superpremier.m3u8?md5=2BXpzlIsZ9dooJY9jPwj-g&expires=1789213333
