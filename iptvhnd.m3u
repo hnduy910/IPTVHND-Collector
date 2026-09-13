@@ -376,6 +376,8 @@
 # For any issues or concerns, please contact the developer.
 #==================================
 # Last Updated: 2026-09-12 04:30 PM (BD Time)
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+# (●) Total Channels: 493
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -50694,8 +50696,6 @@ https://stream.zeno.fm/r4ahfqwarm0uv
 https://stream.zeno.fm/k3bsuhqv8druv
 #EXTINF:-1,Huella Lunar
 https://stream.zeno.fm/ln7ng2akab1vv
-#EXTINF:-1,HTV Se Pone Bueno
-https://stream.zeno.fm/ieagybudukavv
 #EXTINF:-1,Son Latino
 https://stream.zeno.fm/2uavya3ykd0uv
 #EXTINF:-1,Soy Futbol 8
@@ -52351,8 +52351,6 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/hillsdalevideo/playlist.m3
 http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment",AXN White Bulgaria (576p)
 http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="CricHD 1",Sky Cinema
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
@@ -53301,3 +53299,533 @@ https://cdn6.zohanayaan.com:1686/hls/superfotball.m3u8?md5=sNX1bnwz-qBw89bCbkkrc
 #EXTVLCOPT:http-origin=https://executeandship.com
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="Sports",Super Premier League
 https://cdn4.zohanayaan.com:1686/hls/superpremier.m3u8?md5=2BXpzlIsZ9dooJY9jPwj-g&expires=1789213333
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026
+http://fastshare1.com:8080//live/25711345/late8airline/688287.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026 2
+http://fastshare1.com:8080//live/25711345/late8airline/745270.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026 bein
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/747283.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",SKY SPORTS FOOTBALL
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026 fast
+https://live.inplyr.com/room/168740.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026 Hindi
+http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026 Sky
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026 ENGLISH
+http://103.165.93.31:8095/unt-s/video.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 tvg-chno="561" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Ohio vs Jacksonville State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Ohio vs Jacksonville State (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.41/hls/ARRRRAQQQ.m3u8
+#EXTINF:-1 tvg-chno="579" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Western Michigan vs Monmouth Hawks (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Western Michigan vs Monmouth Hawks (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.41/hls/ARRRRAQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="488" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Monterrey vs Tigres UANL | ES (PLYFST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Monterrey vs Tigres UANL | ES (PLYFST)
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn6.zohanayaan.com:1686/hls/do30.m3u8?md5=Z5gjUS3WT8LfURY7xZhjPw&expires=1789266622
+#EXTINF:-1 tvg-chno="727" tvg-id="Soccer.Dummy.us" tvg-name="[USA/Canada Major League Soccer] Columbus Crew vs New York RB | EN (PLYFST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[USA/Canada Major League Soccer] Columbus Crew vs New York RB | EN (PLYFST)
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn3.zohanayaan.com:1686/hls/do31.m3u8?md5=5hDSGtGCZCnmFcjfif_QIw&expires=1789266624
+#EXTINF:-1 tvg-chno="728" tvg-id="Soccer.Dummy.us" tvg-name="[USA/Canada Major League Soccer] DC United vs Atlanta United | EN (PLYFST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[USA/Canada Major League Soccer] DC United vs Atlanta United | EN (PLYFST)
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn6.zohanayaan.com:1686/hls/do32.m3u8?md5=Z67aA8zYgEewNKYijmEgXQ&expires=1789266626
+#EXTINF:-1 tvg-chno="136" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Chico vs Ind Medellin (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Chico vs Ind Medellin (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.41/hls/epppAAAAQAQQQ.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="Football.Dummy.us" tvg-name="[American Football] San Diego State Aztecs vs. UCLA Bruins | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] San Diego State Aztecs vs. UCLA Bruins | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/erytezaiuzeazer100.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="Football.Dummy.us" tvg-name="[American Football] Memphis Tigers vs. Boise State Broncos | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Memphis Tigers vs. Boise State Broncos | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/etzrezbfezjhverf93.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="Football.Dummy.us" tvg-name="[American Football] Tennessee Volunteers vs. Georgia Tech Yellow Jackets | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Tennessee Volunteers vs. Georgia Tech Yellow Jackets | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/fgjhvebazfhgazf94.m3u8
+#EXTINF:-1 tvg-chno="129" tvg-id="Football.Dummy.us" tvg-name="[CFL Canadian Football] Edmonton Elks vs Calgary Stampeders (FAWA)" tvg-logo="https://i.gyazo.com/52d415fe2f1c6acfbbc4a928feb2f7ab.png" group-title="Live Events",[CFL Canadian Football] Edmonton Elks vs Calgary Stampeders (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.41/hls/GRRR.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="Football.Dummy.us" tvg-name="[American Football] Towson Tigers vs. South Carolina Gamecocks | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Towson Tigers vs. South Carolina Gamecocks | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/hpouezruioazd96.m3u8
+#EXTINF:-1 tvg-chno="495" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Buffalo Bulls vs Florida International Panthers | EN (STRMGATE)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] Buffalo Bulls vs Florida International Panthers | EN (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401866414
+#EXTVLCOPT:http-origin=https://instream.click/livetv.php?stream=tv401866414
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/live/tv401866414/index.m3u8?st=er6rbOSJOWgG5g1igH4A3Q&e=1789270214
+#EXTINF:-1 tvg-chno="499" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Charlotte 49ers vs Ole Miss Rebels | EN (STRMGATE)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] Charlotte 49ers vs Ole Miss Rebels | EN (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401856676
+#EXTVLCOPT:http-origin=https://instream.click/livetv.php?stream=tv401856676
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/live/tv401856676/index.m3u8?st=SB8tNuXC4w4jzHqyUZ_teQ&e=1789266612
+#EXTINF:-1 tvg-chno="505" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Jacksonville State Gamecocks vs Ohio Bobcats | EN (STRMGATE)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] Jacksonville State Gamecocks vs Ohio Bobcats | EN (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401866418
+#EXTVLCOPT:http-origin=https://instream.click/livetv.php?stream=tv401866418
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.live/live/tv401866418/index.m3u8?st=gPQiTjh4FB7xk127WpeU-Q&e=1789270214
+#EXTINF:-1 tvg-chno="508" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Memphis Tigers vs Boise State Broncos | EN (STRMGATE)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] Memphis Tigers vs Boise State Broncos | EN (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401860881
+#EXTVLCOPT:http-origin=https://instream.click/livetv.php?stream=tv401860881
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.live/live/tv401860881/index.m3u8?st=wink7Yh4snK9zxDeOsqKKQ&e=1789270213
+#EXTINF:-1 tvg-chno="516" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Southern Miss Golden Eagles vs Auburn Tigers | EN (STRMGATE)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] Southern Miss Golden Eagles vs Auburn Tigers | EN (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401856671
+#EXTVLCOPT:http-origin=https://instream.click/livetv.php?stream=tv401856671
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/live/tv401856671/index.m3u8?st=mx76XmlAIJgDMfkBxmvwCA&e=1789266613
+#EXTINF:-1 tvg-chno="431" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] DC United vs Atlanta United (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] DC United vs Atlanta United (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56360?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56360?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/56360/load-playlist
+#EXTINF:-1 tvg-chno="435" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] FC Cincinnati vs Charlotte FC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] FC Cincinnati vs Charlotte FC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56359?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56359?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/56359/load-playlist
+#EXTINF:-1 tvg-chno="437" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] FC Dallas vs Portland Timbers (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] FC Dallas vs Portland Timbers (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56374?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56374?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/56374/load-playlist
+#EXTINF:-1 tvg-chno="439" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Inter Miami CF vs Nashville SC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Inter Miami CF vs Nashville SC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56366?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56366?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/56366/load-playlist
+#EXTINF:-1 tvg-chno="448" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Orlando City SC vs Toronto FC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Orlando City SC vs Toronto FC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56358?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56358?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/56358/load-playlist
+#EXTINF:-1 tvg-chno="458" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Sporting Kansas City vs Los Angeles FC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Sporting Kansas City vs Los Angeles FC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56375?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56375?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/56375/load-playlist
+#EXTINF:-1 tvg-chno="460" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] St.Louis City vs Minnesota United (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] St.Louis City vs Minnesota United (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56373?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56373?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/56373/load-playlist
+#EXTINF:-1 tvg-chno="530" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Arkansas State vs West Georgia (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Arkansas State vs West Georgia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/MJJJ.m3u8
+#EXTINF:-1 tvg-chno="546" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Houston vs Southern Jaguars (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Houston vs Southern Jaguars (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/MJJJAAAA.m3u8
+#EXTINF:-1 tvg-chno="549" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Kennesaw State vs Georgia State Panthers (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Kennesaw State vs Georgia State Panthers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/MJJJAAAAA.m3u8
+#EXTINF:-1 tvg-chno="552" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Marshall vs Middle Tennessee St (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Marshall vs Middle Tennessee St (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/MJJJAAAAAA.m3u8
+#EXTINF:-1 tvg-chno="556" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Missouri State vs Lindenwood Lions (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Missouri State vs Lindenwood Lions (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/NYYY.m3u8
+#EXTINF:-1 tvg-chno="557" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Nebraska vs Bowling Green (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Nebraska vs Bowling Green (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/NYYYA.m3u8
+#EXTINF:-1 tvg-chno="566" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Sam Houston vs State Tulsa (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Sam Houston vs State Tulsa (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/NYYYAAA.m3u8
+#EXTINF:-1 tvg-chno="567" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] South Carolina vs Towson Tigers (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] South Carolina vs Towson Tigers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/NYYYAAAA.m3u8
+#EXTINF:-1 tvg-chno="574" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Tulane vs South Alabama (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Tulane vs South Alabama (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/NYYYAAAAA.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="Football.Dummy.us" tvg-name="[American Football] Ohio State Buckeyes at Texas Longhorns (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/373af9d15d02154728700a4cc5db1fea-thumbnail.jpg" group-title="Live Events",[American Football] Ohio State Buckeyes at Texas Longhorns (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=cfb/2026-09-12/osu-tex
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=cfb/2026-09-12/osu-tex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/cfb/2026-09-12/osu-tex/playlist.m3u8?tk=XfyJR87rMxxYReDPyfkdLg&e=1789297214
+#EXTINF:-1 tvg-chno="562" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Oklahoma vs State Oregon (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Oklahoma vs State Oregon (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.43/hls/SSSSQQQQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="Football.Dummy.us" tvg-name="[American Football] Bowling Green Falcons vs. Nebraska Cornhuskers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Bowling Green Falcons vs. Nebraska Cornhuskers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/wxqsdafzaengfgu97.m3u8
+#EXTINF:-1 tvg-chno="132" tvg-id="Soccer.Dummy.us" tvg-name="[Canada Premier League] Forge vs Atl Ottawa (FAWA)" tvg-logo="https://i.gyazo.com/b0b49528463ce3833cf287ba2e2e2d5d.png" group-title="Live Events",[Canada Premier League] Forge vs Atl Ottawa (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/YPPPQQ.m3u8
+#EXTINF:-1 tvg-chno="489" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Toluca vs Atlas (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Toluca vs Atlas (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/YPPPQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="Football.Dummy.us" tvg-name="[American Football] Southern Utah Thunderbirds vs. Colorado State Rams | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Southern Utah Thunderbirds vs. Colorado State Rams | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/zazezagdgfc98.m3u8
+#EXTINF:-1 tvg-chno="419" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] FC Dallas vs Portland Timbers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] FC Dallas vs Portland Timbers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.50/hls/ZGGG.m3u8
+#EXTINF:-1 tvg-chno="423" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] Sporting Kansas City vs Los Angeles FC (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] Sporting Kansas City vs Los Angeles FC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.50/hls/ZGGGV.m3u8
+#EXTINF:-1 tvg-chno="424" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] St Louis City vs Minnesota United (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] St Louis City vs Minnesota United (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.50/hls/ZGGGVV.m3u8
+#EXTINF:-1 tvg-chno="569" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] TCU vs Grambling State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] TCU vs Grambling State (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.50/hls/ZUUUAA.m3u8
+#EXTINF:-1 tvg-chno="533" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Baylor vs Prairie V (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Baylor vs Prairie V (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.50/hls/ZUUUAAA.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Santos vs Cruzeiro (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Santos vs Cruzeiro (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.50/hls/ZUUUAAAA.m3u8
+#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[Ecuador Liga Pro] LDU Quito vs Dep Cuenca (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1944.png" group-title="Live Events",[Ecuador Liga Pro] LDU Quito vs Dep Cuenca (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.50/hls/ZUUUAAAAa.m3u8
+#EXTINF:-1 tvg-chno="724" tvg-id="Soccer.Dummy.us" tvg-name="[USA NWSL Women] Houston Dash W vs Utah Royals W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2323.png" group-title="Live Events",[USA NWSL Women] Houston Dash W vs Utah Royals W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.50/hls/ZUUUAAAAaaa.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66879_dark_360w_270h.png" group-title="TV",Fox Soccer Plus
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=756
+https://xameleon.phantemlis.top/five/secure/100bffdabdc50d6371b844e2dd26074e/1789277423/premium756/index.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=321
+https://xameleon.phantemlis.top/three/secure/d50585381cc910c86a654f9fb01b15ee/1789277415/premium321/index.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="TV",HBO Comedy
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=690
+https://xameleon.phantemlis.top/one/secure/13c7f19f26136a6cf3ece0c70752feb1/1789277433/premium690/index.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="TV",Lifetime Movie Network
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=389
+https://xameleon.phantemlis.top/one/secure/e289278e322a961b5dd63a723e7887b2/1789277422/premium389/index.m3u8
+#EXTINF:-1 tvg-chno="182" tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="TV",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=35
+https://xameleon.phantemlis.top/three/secure/12436cf4320bdc8add8b60f22bcb145a/1789277428/premium35/index.m3u8
+#EXTINF:-1 tvg-chno="191" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="TV",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=671
+https://xameleon.phantemlis.top/four/secure/81dbc4c4d5266c432e28f3b450378a3b/1789277431/premium671/index.m3u8
+#EXTINF:-1,Sky Sports Football
+http://192.168.10.17:9991/ch7/
+#EXTINF:-1 timeshift="2" tvg-id="HTV1.HD.hr" tvg-name="EX-YU: HRT 1" tvg-logo="http://alwaha.us:20792/images/e39b540a33bd871e72ea5ed635c866ba.png" group-title="Hrvatska",EX-YU: HRT 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/25.ts
+#EXTINF:-1 timeshift="2" tvg-id="HTV2.HD.hr" tvg-name="EX-YU: HRT 2" tvg-logo="https://i.ibb.co/BfjP5qr/HRT2.png" group-title="Hrvatska",EX-YU: HRT 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26.ts
+#EXTINF:-1 timeshift="2" tvg-id="HTV3.HD.hr" tvg-name="EX-YU: HRT 3" tvg-logo="https://i.ibb.co/DpyvNxd/HRT3.png" group-title="Hrvatska",EX-YU: HRT 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/28.ts
+#EXTINF:-1 timeshift="2" tvg-id="HTV4.HD.hr" tvg-name="EX-YU: HRT 4" tvg-logo="http://alwaha.us:20792/images/8984a2bd4e34fbf5897b40f7897dc5fa.png" group-title="Hrvatska",EX-YU: HRT 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27.ts
+#EXTINF:-1 tvg-id="HTV1.HD.hr" tvg-name="EX-YU: HRT 1 HD" tvg-logo="https://i.ibb.co/Qp67y38/HRT1.png" group-title="Hrvatska",EX-YU: HRT 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16745.ts
+#EXTINF:-1 tvg-id="HTV2.HD.hr" tvg-name="EX-YU: HRT 2 HD" tvg-logo="http://alwaha.us:20792/images/21c9fc8a49abce97e655160f47f2f395.png" group-title="Hrvatska",EX-YU: HRT 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10111.ts
+#EXTINF:-1 tvg-id="HTV3.HD.hr" tvg-name="EX-YU: HRT 3 HD" tvg-logo="http://alwaha.us:20792/images/5302f6e9c413cf1eff6c9a3d2851e83e.png" group-title="Hrvatska",EX-YU: HRT 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16746.ts
+#EXTINF:-1 tvg-id="HTV4.HD.hr" tvg-name="EX-YU: HRT 4 HD" tvg-logo="http://alwaha.us:20792/images/8984a2bd4e34fbf5897b40f7897dc5fa.png" group-title="Hrvatska",EX-YU: HRT 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16747.ts
+#EXTINF:-1 tvg-id="VTV.Varazdin.hr" tvg-name="EX-YU: TV Varaždinska" tvg-logo="https://i.ibb.co/qpyXgh1/TV-Vara-dinska.png" group-title="Hrvatska",EX-YU: TV Varaždinska
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3361.ts
+#EXTINF:-1 tvg-id="HBO FHD.hr" tvg-name="EX-YU: HBO" tvg-logo="" group-title="Filmski",EX-YU: HBO
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/71.ts
+#EXTINF:-1 tvg-id="HBO.2.HD.hr" tvg-name="EX-YU: HBO 2" tvg-logo="" group-title="Filmski",EX-YU: HBO 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/70.ts
+#EXTINF:-1 tvg-id="HBO.3.HD.hr" tvg-name="EX-YU: HBO 3" tvg-logo="" group-title="Filmski",EX-YU: HBO 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1638.ts
+#EXTINF:-1 tvg-id="Cinemax.HD.hr" tvg-name="EX-YU: Cinemax 1" tvg-logo="" group-title="Filmski",EX-YU: Cinemax 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/68.ts
+#EXTINF:-1 tvg-id="Cinemax 2.hr" tvg-name="EX-YU: Cinemax 2" tvg-logo="" group-title="Filmski",EX-YU: Cinemax 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/69.ts
+#EXTINF:-1 tvg-id="STAR.Movies.hr" tvg-name="EX-YU: Star Movies" tvg-logo="" group-title="Filmski",EX-YU: Star Movies
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/73.ts
+#EXTINF:-1 tvg-id="BUN1" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="http://alwaha.us:20792/images/7b297d9190750ec787f16ebf511539fe.png" group-title="Njemačka",DE: Sky Bundesliga 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/175.ts
+#EXTINF:-1 tvg-id="SC1HD" tvg-name="DE: Sky Cinema 1 HD" tvg-logo="http://alwaha.us:20792/images/4464f8a6a60981ef1f729c6f2fab0158.png" group-title="Njemačka",DE: Sky Cinema 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/176.ts
+#EXTINF:-1 tvg-id="SkyCinemaDE" tvg-name="DE: Sky Cinema HD" tvg-logo="" group-title="Njemačka",DE: Sky Cinema HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/177.ts
+#EXTINF:-1 tvg-id="Sky Cinema +24-DE" tvg-name="DE: Sky Cinema 24" tvg-logo="" group-title="Njemačka",DE: Sky Cinema 24
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/178.ts
+#EXTINF:-1 tvg-id="SSPFTHD" tvg-name="IT: Sky Sport Football HD" tvg-logo="http://alwaha.us:20792/images/949cf5ebd359b7c3419d1471e6a875f9.png" group-title="Italija",IT: Sky Sport Football HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/224.ts
+#EXTINF:-1 tvg-id="SkyCinema1IT" tvg-name="IT: Sky Cinema 24 HD" tvg-logo="" group-title="Italija",IT: Sky Cinema 24 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/227.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD" tvg-name="IT: Sky Cinema Comedy HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Comedy HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/228.ts
+#EXTINF:-1 tvg-id="Sky Cinema Hits-DE" tvg-name="DE: Sky Hits" tvg-logo="" group-title="Njemačka",DE: Sky Hits
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/363.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 2 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/365.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 3 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/366.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Passion HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Passion HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/384.ts
+#EXTINF:-1 tvg-id="SkyCinemaMaxIT" tvg-name="IT: Sky Cinema Max HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Max HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/385.ts
+#EXTINF:-1 tvg-id="SkyCinemaCultHD" tvg-name="IT: Sky Cinema Cult HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Cult HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/389.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamilyHD" tvg-name="IT: Sky Cinema Family HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Family HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/390.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Hits HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Hits HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/391.ts
+#EXTINF:-1 tvg-id="SkyCinema1IT" tvg-name="IT: Sky Cinema HD" tvg-logo="" group-title="Italija",IT: Sky Cinema HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/394.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Classics HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Classics HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/395.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 4 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1966.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5 HD  ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 5 HD  ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1967.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 6 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1968.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 7 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 7 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1969.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 8 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 8 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1970.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 9 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 9 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1971.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax HD" tvg-logo="" group-title="Romania",RO: Cinemax HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19824.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax 2 HD" tvg-logo="" group-title="Romania",RO: Cinemax 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19825.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN BLACK" tvg-logo="" group-title="Romania",RO: AXN BLACK
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19827.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN WHITE" tvg-logo="" group-title="Romania",RO: AXN WHITE
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19828.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO HD" tvg-logo="" group-title="Romania",RO: HBO HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19829.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 2 HD" tvg-logo="" group-title="Romania",RO: HBO 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19830.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 3 HD" tvg-logo="" group-title="Romania",RO: HBO 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19831.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football FHD" tvg-logo="" group-title="UK",UK: Sky Sports Football FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19883.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="" group-title="UK",UK: Sky Sports Premier League HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19884.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action & Adventure HD" tvg-logo="" group-title="UK",UK: Sky Cinema Action & Adventure HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19905.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama HD" tvg-logo="" group-title="UK",UK: Sky Cinema Drama HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19906.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="" group-title="UK",UK: Sky Cinema Premiere
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19907.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Thriller HD" tvg-logo="" group-title="UK",UK: Sky Cinema Thriller HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19909.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Cinema Family HD" tvg-logo="" group-title="UK",UK: SKY Cinema Family HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19910.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="" group-title="UK",UK: Sky Cinema Greats HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19911.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sport:  beiN Sport  La Liga HD" tvg-logo="https://i.ibb.co/2KYXthf/Bein-Sport-la-liga.png" group-title="Sport",ES: Sport:  beiN Sport  La Liga HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26702.ts
+#EXTINF:-1 tvg-id="FoxMoviesCroatia" tvg-name="|CR| FOX MOVIES" tvg-logo="http://tv.iptvboss.net/ch_logo/FOX.png" group-title="|CR| CROATIA",|CR| FOX MOVIES
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/6116
+#EXTINF:-1 tvg-id="HBO.hr" tvg-name="|CR| HBO ADRIA" tvg-logo="http://tv.iptvboss.net/ch_logo/HBO1.png" group-title="|CR| CROATIA",|CR| HBO ADRIA
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/4907
+#EXTINF:-1 tvg-id="" tvg-name="|CR| VTV TELEVIJZIA" tvg-logo="http://tv.iptvboss.net/ch_logo/2560px-VTV_televizija_Logo.svg.png" group-title="|CR| CROATIA",|CR| VTV TELEVIJZIA
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/185441
+#EXTINF:-1 tvg-id="" tvg-name="|CR| HBO 1" tvg-logo="http://tv.iptvboss.net/ch_logo/HBO1.png" group-title="|CR| CROATIA",|CR| HBO 1
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/185467
+#EXTINF:-1 tvg-id="" tvg-name="|CR| HBO 2" tvg-logo="http://tv.iptvboss.net/ch_logo/HBO_2.png" group-title="|CR| CROATIA",|CR| HBO 2
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/185468
+#EXTINF:-1 tvg-id="" tvg-name="|CR| HBO 3" tvg-logo="http://tv.iptvboss.net/ch_logo/HBO3.jpg" group-title="|CR| CROATIA",|CR| HBO 3
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/185469
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA HD" tvg-logo="http://tv.iptvboss.net/ch_logo/tcmcinema.png" group-title="|FR| CINEMA",|FR| TCM CINEMA HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/1931
+#EXTINF:-1 tvg-id="NULL" tvg-name="|OSN| STAR MOVIES HD" tvg-logo="http://tv.iptvboss.net/ch_logo/STARMOVIES.png" group-title="|AR| TV ARABE",|OSN| STAR MOVIES HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/11958
+#EXTINF:-1 tvg-id="NULL" tvg-name="|ES| BEIN LA LIGA HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="|ES| SPANISH",|ES| BEIN LA LIGA HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3933
+#EXTINF:-1 tvg-id="TCM" tvg-name="|ES| TCM FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TCM.png" group-title="|ES| SPANISH",|ES| TCM FHD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3911
+#EXTINF:-1 tvg-id="NULL" tvg-name="|ES| AXN WHITE HD" tvg-logo="http://tv.iptvboss.net/ch_logo/AXNWHITE.png" group-title="|ES| SPANISH",|ES| AXN WHITE HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/12523
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|ES| TCM" tvg-logo="http://tv.iptvboss.net/ch_logo/TCM.png" group-title="|ES| SPANISH",|ES| TCM
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/12688
+#EXTINF:-1 tvg-id="hbo.bg" tvg-name="|BG| HBO 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/HBO1.png" group-title="|BG| FILMS",|BG| HBO 1 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/10280
+#EXTINF:-1 tvg-id="HBO2CEE" tvg-name="|BG| HBO 2 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/HBO2.jpg" group-title="|BG| FILMS",|BG| HBO 2 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/10281
+#EXTINF:-1 tvg-id="hbo3.bg" tvg-name="|BG| HBO 3 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/HBO3.jpg" group-title="|BG| FILMS",|BG| HBO 3 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/10282
+#EXTINF:-1 tvg-id="cinemax.bg" tvg-name="|BG| CINEMAX" tvg-logo="http://tv.iptvboss.net/ch_logo/CINEMAX.png" group-title="|BG| FILMS",|BG| CINEMAX
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/10276
+#EXTINF:-1 tvg-id="cinemax2.bg" tvg-name="|BG| CINEMAX 2" tvg-logo="http://tv.iptvboss.net/ch_logo/CINEMAX2.png" group-title="|BG| FILMS",|BG| CINEMAX 2
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/10277
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="|BG| CINEMA PLUS" tvg-logo="http://tv.iptvboss.net/ch_logo/CINEMAPLUS.png" group-title="|BG| FILMS",|BG| CINEMA PLUS
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/4434
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="|DE| SKY CINEMA PREMIEREN" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAHD.png" group-title="|DE| KINO",|DE| SKY CINEMA PREMIEREN
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3856
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="|DE| SKY CINEMA PREMIEREN +24 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMA+24HD.png" group-title="|DE| KINO",|DE| SKY CINEMA PREMIEREN +24 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3853
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="|DE| SKY CINEMA THRILLER" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMA+1HD.png" group-title="|DE| KINO",|DE| SKY CINEMA THRILLER
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3852
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="|DE| SKY CINEMA FAMILY FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAFAMILYHD.png" group-title="|DE| KINO",|DE| SKY CINEMA FAMILY FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3855
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="|DE| SKY CINEMA ACTION FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAACTIONHD.png" group-title="|DE| KINO",|DE| SKY CINEMA ACTION FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3858
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="|DE| SKY CINEMA FUN" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMACOMEDY.jpg" group-title="|DE| KINO",|DE| SKY CINEMA FUN
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3851
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="|DE| SKY CINEMA CLASSICS" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMANOSTALGIE.png" group-title="|DE| KINO",|DE| SKY CINEMA CLASSICS
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3850
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="|DE| SKY CINEMA CLASSICS FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAEMOTION.png" group-title="|DE| KINO",|DE| SKY CINEMA CLASSICS FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3849
+#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="|DE| SKY CINEMA COMEDY" tvg-logo="http://tv.iptvboss.net/ch_logo/13trece.png" group-title="|DE| KINO",|DE| SKY CINEMA COMEDY
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63580
+#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="|DE| SKY CINEMA BEST OF" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYATLANTICHD.png" group-title="|DE| KINO",|DE| SKY CINEMA BEST OF
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/152900
+#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="|DE| SKY CINEMA SPECIAL HD" tvg-logo="http://tv.iptvboss.net/ch_logo/13trece.png" group-title="|DE| KINO",|DE| SKY CINEMA SPECIAL HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/152899
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="|DE| WARNER TV FILM HD" tvg-logo="http://tv.iptvboss.net/ch_logo/warner.png" group-title="|DE| KINO",|DE| WARNER TV FILM HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/153178
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="|DE| SKY SELECT 1" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA1FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 1
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3895
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 2" tvg-name="|DE| SKY SELECT 2" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA2FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 2
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3894
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3" tvg-name="|DE| SKY SELECT 3" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA3FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 3
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3893
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 4" tvg-name="|DE| SKY SELECT 4" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA4FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 4
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3892
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 5" tvg-name="|DE| SKY SELECT 5" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA5FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 5
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3891
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 6" tvg-name="|DE| SKY SELECT 6" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA6FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 6
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/3890
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="|DE| SKY BUNDESLIGA 1 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA1FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 1 FHD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19664
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="|DE| SKY BUNDESLIGA 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA1FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 1 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35923
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT PREMIER LEAGUE FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTSPREMIERLEAGUE.png" group-title="|DE| SPORT",|DE| SKY SPORT PREMIER LEAGUE FHD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/225906
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTSPREMIERLEAGUE.png" group-title="|DE| SPORT",|DE| SKY SPORT PREMIER LEAGUE HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/225907
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT",|DE| BUNDESLIGA 3.LIGA - 1 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/24210
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 2 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT",|DE| BUNDESLIGA 3.LIGA - 2 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/24209
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 3 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT",|DE| BUNDESLIGA 3.LIGA - 3 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/24208
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 4 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT",|DE| BUNDESLIGA 3.LIGA - 4 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/24207
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 5 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT",|DE| BUNDESLIGA 3.LIGA - 5 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/24206
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 6 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT",|DE| BUNDESLIGA 3.LIGA - 6 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/24205
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 7 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT",|DE| BUNDESLIGA 3.LIGA - 7 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/38127
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 8 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT",|DE| BUNDESLIGA 3.LIGA - 8 HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/38128
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 2" tvg-name="|DE| SKY BUNDESLIGA 2 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA2FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 2 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19663
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3" tvg-name="|DE| SKY BUNDESLIGA 3 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA3FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 3 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19662
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 4" tvg-name="|DE| SKY BUNDESLIGA 4 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA4FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 4 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19661
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 5" tvg-name="|DE| SKY BUNDESLIGA 5 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA5FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 5 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19660
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 6" tvg-name="|DE| SKY BUNDESLIGA 6 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA6FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 6 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19659
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 7" tvg-name="|DE| SKY BUNDESLIGA 7 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA7FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 7 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19658
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 8" tvg-name="|DE| SKY BUNDESLIGA 8 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA8FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 8 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19657
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 9" tvg-name="|DE| SKY BUNDESLIGA 9 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA9FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 9 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19656
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 10" tvg-name="|DE| SKY BUNDESLIGA 10 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA9FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 10 FHD/HD
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/19655
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 2 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA2FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 2 HD * (On Match Day)
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35924
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 3 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA3FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 3 HD * (On Match Day)
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35925
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 4 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA4FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 4 HD * (On Match Day)
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35926
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 5 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA5FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 5 HD * (On Match Day)
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35927
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 6 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA6FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 6 HD * (On Match Day)
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35928
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 7 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA7FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 7 HD * (On Match Day)
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35929
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 8 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA8FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 8 HD * (On Match Day)
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35930
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 9 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA9FHD.png" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 9 HD * (On Match Day)
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35931
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 10 HD * (On Match Day)" tvg-logo="" group-title="|DE| SPORT",|DE| SKY BUNDESLIGA 10 HD * (On Match Day)
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/35932
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" tvg-name="|DE| SKY SPORT BUNDESLIGA 1 HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA1FHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY SPORT BUNDESLIGA 1 HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63610
+#EXTINF:-1 tvg-id="Sky Bundesliga 2" tvg-name="|DE| SKY SPORT BUNDESLIGA 2 HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA1FHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY SPORT BUNDESLIGA 2 HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63611
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY CINEMA  THRILLER HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMA+1HD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY CINEMA  THRILLER HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63575
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-name="|DE| SKY CINEMA ACTION HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAACTIONHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY CINEMA ACTION HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63577
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY CINEMA BEST OF HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAHITSHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY CINEMA BEST OF HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63581
+#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="|DE| SKY CINEMA FAMILY HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAFAMILYHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY CINEMA FAMILY HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63578
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY CINEMA FUN HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYATLANTICHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY CINEMA FUN HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63583
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY CINEMA PREMIEREN 24 HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY CINEMA PREMIEREN 24 HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63576
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY CINEMA PREMIEREN HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY CINEMA PREMIEREN HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63579
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY CINEMA SPECIAL HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAHITSHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY CINEMA SPECIAL HEVC
+http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63574
