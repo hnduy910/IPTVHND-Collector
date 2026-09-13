@@ -53829,3 +53829,9 @@ http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63576
 http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63579
 #EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY CINEMA SPECIAL HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYCINEMAHITSHD.png" group-title="|DE| DEUTSCHLAND H.265/4K",|DE| SKY CINEMA SPECIAL HEVC
 http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/63574
+#EXTINF:-1group-title="210台湾",HBO HD
+http://210.242.52.97/sta/ch5.m3u8
+#EXTINF:-1group-title="210台湾",CINEMA WORLD
+http://210.242.52.97/sta/ch35.m3u8
+#EXTINF:-1group-title="210台湾",VTV4
+http://210.242.52.97/stc/ch170.m3u8
