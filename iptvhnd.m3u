@@ -378,6 +378,7 @@
 # Last Updated: 2026-09-12 04:30 PM (BD Time)
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 # (●) Total Channels: 493
+#DATE: 2026-09-14 04:14:42
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -52371,8 +52372,6 @@ https://cdn4.zohanayaan.com:1686/hls/superfotball.m3u8?md5=WIqL-QyxOXCiXUyVgpuQB
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
 https://cdn10.zohanayaan.com:1686/hls/superpremier.m3u8?md5=lvsV7U_-Mi34jJz92zznPQ&expires=1789000810
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1 tvg-chno="87" tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66879_dark_360w_270h.png" group-title="TV",Fox Soccer Plus
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=756
 https://xameleon.phantemlis.top/five/secure/6e9e311aa9b582fe05cab0347790438c/1789043422/premium756/index.m3u8
@@ -53835,3 +53834,11 @@ http://210.242.52.97/sta/ch5.m3u8
 http://210.242.52.97/sta/ch35.m3u8
 #EXTINF:-1group-title="210台湾",VTV4
 http://210.242.52.97/stc/ch170.m3u8
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1,HTV Se Pone Bueno
+https://stream.zeno.fm/ieagybudukavv
+#EXTINF:-1,Đài PTTH Thái Bình
+http://118.70.118.191:1935/tbtvlive/radio/chunklist_w477567307.m3u8
+#EXTINF:-1,Đài PTTH Hà Giang
+http://113.162.84.113:8081
