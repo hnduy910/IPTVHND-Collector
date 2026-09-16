@@ -384,6 +384,8 @@
 # Last Updated: 2026-09-15 05:24 AM (BD Time)
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/Abema-TV-EPG/refs/heads/main/abema.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXT-X-SUB-URL http://lisha521.dynv6.net.fh4u.org/iptv.m3u
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -54362,3 +54364,5 @@ http://193.47.62.44/hls/BEEEAQQQQQQA.m3u8|Referer=http%3A//www.fawanews.sc/&Orig
 http://193.47.62.59/hls/EYYY.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1,Universo Musical Villa Pehuenia
 https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1,WDR Sportschau - 1. Fussball Bundesliga-Konferenz LIVE - 128 - Germany - 
+http://wdr-sportschau-liga1konferenz.icecastssl.wdr.de/wdr/sportschau/liga1konferenz/mp3/high

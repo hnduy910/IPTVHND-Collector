@@ -384,6 +384,8 @@
 # Last Updated: 2026-09-15 05:24 AM (BD Time)
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/Abema-TV-EPG/refs/heads/main/abema.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXT-X-SUB-URL http://lisha521.dynv6.net.fh4u.org/iptv.m3u
 #EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Sports",Okko Futbol (1080p)
 http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GFN Football (1080p)

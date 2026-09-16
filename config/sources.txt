@@ -1114,3 +1114,9 @@ https://raw.githubusercontent.com/mangyeu/TV/f8879cfe4878d3b5a105f237a4c3d0ed06a
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/fdec5efa6e02836058c8b446b896c273537f9a5f/IPTV/CN.m3u8
 https://raw.githubusercontent.com/tushen6/Tomorrow/24bc31732f404a169bf4f8268f3beb0622923190/TV/webview.m3u
 https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/f7edddaa9d3f6aee2174b0c1fc8f75988bab4fb3/unfyespanoltv/chocolate.m3u8
+https://raw.githubusercontent.com/KimShenGod/live/d1f1b1c0a9be272f0e36970904bac04879b635fc/iptv.m3u
+https://raw.githubusercontent.com/aria-tv/aria/8224174e9026b42d63cc87325d6aa5f000bdf853/aria+/vietnam.m3u
+https://raw.githubusercontent.com/aria-tv/aria/8224174e9026b42d63cc87325d6aa5f000bdf853/stable/vietnam.m3u
+https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/0b0f6517f10ef30ac7aa294910b36deb8103e924/lib/iptv.txt
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/b7b0a816ee60b931becfa685197800c31df99eb3/radio_spinner/checked/Vietnam.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/d63541982b76fffd29a7d613913c3063fd816c75/IPTV/tw.m3u
