@@ -1104,3 +1104,13 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/b7b0a816ee6
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/88ef6b57740f96eb83a2425038c70956ef859918/IPTV/th.m3u
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/f2ca06a5971711ca6ede8e17d7cdfaf7c9b85dcd/playlist.m3u
 https://raw.githubusercontent.com/vietng228/m3u/71fd1e89e2be290fe68724875deaf0531bea0567/new.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/be2c9863b31f73c4c13d29799278350b54c5538f/playlists/playlist_united_arab_emirates.m3u8
+https://raw.githubusercontent.com/a97083435/tang/c11d52787ff362717efc15f31594dedfb674c147/tvbox/zhibo/channels.m3u
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/0194ccd13456bfbb9fedcb68109a9f7936f1b959/LiveTV/Vietnam/LiveTV.m3u
+https://raw.githubusercontent.com/dbghelp/Abema-TV/349d3ba0d2d5d9a8baf732b851f64f5c80ab15d8/abema.m3u8
+https://raw.githubusercontent.com/judy-gotv/iptv/372a415814a29719372b8a0c67ee10931d0eaa68/smart.m3u
+https://raw.githubusercontent.com/lzh81569/lzh81569.github.io/342b226cd629f9a16675ce21737e1b615a3c244b/mpd.m3u
+https://raw.githubusercontent.com/mangyeu/TV/f8879cfe4878d3b5a105f237a4c3d0ed06ac2ee1/tivi.m3u8
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/fdec5efa6e02836058c8b446b896c273537f9a5f/IPTV/CN.m3u8
+https://raw.githubusercontent.com/tushen6/Tomorrow/24bc31732f404a169bf4f8268f3beb0622923190/TV/webview.m3u
+https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/f7edddaa9d3f6aee2174b0c1fc8f75988bab4fb3/unfyespanoltv/chocolate.m3u8
