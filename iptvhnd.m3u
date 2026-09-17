@@ -54364,5 +54364,55 @@ http://193.47.62.44/hls/BEEEAQQQQQQA.m3u8|Referer=http%3A//www.fawanews.sc/&Orig
 http://193.47.62.59/hls/EYYY.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1,Universo Musical Villa Pehuenia
 https://stream.zeno.fm/khgfwxvh308uv
-#EXTINF:-1,WDR Sportschau - 1. Fussball Bundesliga-Konferenz LIVE - 128 - Germany - 
-http://wdr-sportschau-liga1konferenz.icecastssl.wdr.de/wdr/sportschau/liga1konferenz/mp3/high
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX", CINEMAX
+https://www.vavoo.to/play/3533398255/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 3", HBO 3
+https://www.vavoo.to/play/1375527585/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO", HBO
+https://www.vavoo.to/play/4269935167/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX 2", CINEMAX 2
+https://www.vavoo.to/play/3988717339/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX", CINEMAX
+https://www.vavoo.to/play/3577968635/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MOVIE STAR", MOVIE STAR
+https://www.vavoo.to/play/2084100828/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO", HBO
+https://www.vavoo.to/play/2180719613/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 2", HBO 2
+https://www.vavoo.to/play/1822214929/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 2", HBO 2
+https://www.vavoo.to/play/1984286700/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="AXN WHITE", AXN WHITE
+https://www.vavoo.to/play/299373377/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="AXN BLACK", AXN BLACK
+https://www.vavoo.to/play/3788101792/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX 2", CINEMAX 2
+https://www.vavoo.to/play/3781491829/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MOVIE STAR", MOVIE STAR
+https://www.vavoo.to/play/3471251446/index.m3u8

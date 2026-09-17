@@ -1120,3 +1120,17 @@ https://raw.githubusercontent.com/aria-tv/aria/8224174e9026b42d63cc87325d6aa5f00
 https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/0b0f6517f10ef30ac7aa294910b36deb8103e924/lib/iptv.txt
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/b7b0a816ee60b931becfa685197800c31df99eb3/radio_spinner/checked/Vietnam.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/d63541982b76fffd29a7d613913c3063fd816c75/IPTV/tw.m3u
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/310c11097b65026ce2246da5c917903d25cfb875/Backup/backup2.m3u8
+https://raw.githubusercontent.com/SuperNova-Repo/Vavuu-IPTV/3706ece08a1389fbf7b5f146737e9930cf2fc10f/Vavoo-IPTV-Bulgaria.m3u8
+https://raw.githubusercontent.com/ahan443/FAST-IPTV/dac7c2664a1a328fc8733c59530f034b082463c2/movies.m3u8
+https://raw.githubusercontent.com/amazeyourself/m3u/12fe74ef7e7ed56317f2ddd7c2565185729bbfde/riptv.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/a9a82053b6bd08224b7564d6aed41647c439b302/iptv.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/de5d694ab670f49a949962e30e23b97bbfd884f2/HongKong.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/de5d694ab670f49a949962e30e23b97bbfd884f2/Russia.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/de5d694ab670f49a949962e30e23b97bbfd884f2/UK.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/de5d694ab670f49a949962e30e23b97bbfd884f2/USA.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/de5d694ab670f49a949962e30e23b97bbfd884f2/cnTV2_GuoNei.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/de5d694ab670f49a949962e30e23b97bbfd884f2/southKorea.m3u8
+https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/589f8e3ffa969e1acd7f0d51da7e008388a9b7be/netplus-zappr.m3u8
+https://raw.githubusercontent.com/iptv-org/iptv/48cc00e50b4aa06ec6124c1e2b11982d0869eb1f/streams/in.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/1cf2013164d51d314c2dc249a62733efedc24b5d/IPTV/fr.m3u
