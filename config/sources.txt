@@ -1269,3 +1269,9 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/a18a02a0983
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/a18a02a09834673ea7d1655c4767feeca8c9d2eb/zeno.fm/Vietnam.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/c7178b63daeb98d91a131f51a3e56ed364919e44/IPTV/CN.m3u8
 https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/d3ed1b6517c3a686d5b1811ac5b1d7cee4cab089/unfyespanoltv/chocolate.m3u8
+https://raw.githubusercontent.com/KimShenGod/live/86a5654ad5a7d63b7b5ce869fedd1ffcd1fb6d91/iptv.m3u
+https://raw.githubusercontent.com/amazeyourself/m3u/b386b9794594fcb68485cf2dbc9f77f34c1f8ae9/riptv.m3u
+https://raw.githubusercontent.com/eklins/FDTV/b96a3598c99455c0065c1c094fdcf520582bb01d/zz/IPTV20220506.m3u
+https://raw.githubusercontent.com/rolnando-play/RP/1a2d1e82d81fa1c586ee38626de1f62991372bb3/iptv2.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/a3eab538ff6f57a21cec21a9261888b6cfaed21e/IPTV/tw.m3u
+https://raw.githubusercontent.com/thoike84/iptv-vn/16e3cfc49730f2052e7bc3b500d0ed08ec22b4c6/phattai84.txt
