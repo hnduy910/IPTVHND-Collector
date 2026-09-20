@@ -54376,8 +54376,6 @@ http://193.47.62.44/hls/BEEEA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http
 http://193.47.62.44/hls/BEEEAQQQQQQA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-chno="455" tvg-id="Soccer.Dummy.us" tvg-name="[Tanzania Ligi Kuu Bara] Young Africans vs Geita Gold (FAWA)" tvg-logo="https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png" group-title="Live Events",[Tanzania Ligi Kuu Bara] Young Africans vs Geita Gold (FAWA)
 http://193.47.62.59/hls/EYYY.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX", CINEMAX
@@ -55250,8 +55248,6 @@ https://792jdf7.s.gy/astro_football_a
 ====MALAYSIA====
 #EXTINF:-1,Vietnam War Rock
 https://stream.zeno.fm/g91qxch7gv8uv
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
 https://live.fptplay53.net/live/media/htv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
@@ -55274,8 +55270,6 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1,98 ROCK - 0 - The United States Of America - rock - tampa bay's rock station & bucs football
 http://radios.istbolivia.com:8014/;
-#EXTINF:-1,HTV Se Pone Bueno
-https://stream.zeno.fm/ieagybudukavv
 #EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HEVC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -55866,3 +55860,7 @@ https://4169it.7odxv0l067ka.net:8443/hls/yxtev7m4xb172.m3u8?s=4fpPfQa69-0Ilgm_Eo
 #EXTVLCOPT:http-referrer=https://lineagest.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://4169it.7odxv0l067ka.net:8443/hls/4yie4nwr22yw8.m3u8?s=FxIaamZXVLNK8hnl4koCBw&e=1789893064
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+https://cdngateway.rkda.my.id/dash/c3c9b1a8be6d75326e9123029a1602ac81dd7a329848a8f0/manifest.mpd
