@@ -411,6 +411,7 @@
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+# (●) Total Channels: 516
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -55271,3 +55272,597 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17683" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898100201020x576.jpg" group-title="Football", Paris FC vs Strasbourg | French Ligue 1 2026/27
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1,98 ROCK - 0 - The United States Of America - rock - tampa bay's rock station & bucs football
+http://radios.istbolivia.com:8014/;
+#EXTINF:-1,HTV Se Pone Bueno
+https://stream.zeno.fm/ieagybudukavv
+#EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HEVC FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312810&extension=ts&play_token=LSA7mlQUMw
+#EXTINF:-1 tvg-id="1312811" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HEVC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312811&extension=ts&play_token=wSRYeoXqG3
+#EXTINF:-1 tvg-id="1312822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312822&extension=ts&play_token=h8QKGCh05K
+#EXTINF:-1 tvg-id="1312833" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312833&extension=ts&play_token=INupasNhs5
+#EXTINF:-1 tvg-id="1314038" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/REAL MADRID.png",20/09 09:15 PM | ┃ ┃ LA LIGA REAL MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1314038&extension=ts&play_token=ZSkP2wiA0p
+#EXTINF:-1 tvg-id="1314025" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/ATLETICO MADRID.png",20/09 09:15 PM | ┃ ┃ LA LIGA ATLETICO MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1314025&extension=ts&play_token=8UUKtfwhPg
+#EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HEVC FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312810&extension=ts&play_token=aNuTJ77MFv
+#EXTINF:-1 tvg-id="1312811" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HEVC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312811&extension=ts&play_token=LBfD7GCeXP
+#EXTINF:-1 tvg-id="1312822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312822&extension=ts&play_token=fkaRSoHsdR
+#EXTINF:-1 tvg-id="1312833" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312833&extension=ts&play_token=y6FsvIAm1t
+#EXTINF:-1 tvg-id="1314038" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/REAL MADRID.png",20/09 09:15 PM | ┃ ┃ LA LIGA REAL MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1314038&extension=ts&play_token=VRxEfDxzY7
+#EXTINF:-1 tvg-id="1314025" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/ATLETICO MADRID.png",20/09 09:15 PM | ┃ ┃ LA LIGA ATLETICO MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1314025&extension=ts&play_token=vIJGJZVCH4
+#EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HEVC FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312810&extension=ts&play_token=dKCsMe3LMF
+#EXTINF:-1 tvg-id="1312811" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HEVC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312811&extension=ts&play_token=pb9eENTrRJ
+#EXTINF:-1 tvg-id="1312822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312822&extension=ts&play_token=cekICMJTTP
+#EXTINF:-1 tvg-id="1312833" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312833&extension=ts&play_token=dUotOxie3n
+#EXTINF:-1 tvg-id="1314038" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/REAL MADRID.png",20/09 09:15 PM | ┃ ┃ LA LIGA REAL MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1314038&extension=ts&play_token=ObhWWsJcZO
+#EXTINF:-1 tvg-id="1314025" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/ATLETICO MADRID.png",20/09 09:15 PM | ┃ ┃ LA LIGA ATLETICO MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1314025&extension=ts&play_token=Kh7UrkfHcZ
+#EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HEVC FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312810&extension=ts&play_token=klTgveeFcc
+#EXTINF:-1 tvg-id="1312811" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HEVC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312811&extension=ts&play_token=KFpaaaH0un
+#EXTINF:-1 tvg-id="1312822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312822&extension=ts&play_token=r6QZxUZB3M
+#EXTINF:-1 tvg-id="1312833" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",20/09 09:15 PM | ┃ ┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312833&extension=ts&play_token=JQnyljwyzP
+#EXTINF:-1 tvg-id="1314038" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/REAL MADRID.png",20/09 09:15 PM | ┃ ┃ LA LIGA REAL MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1314038&extension=ts&play_token=VJQOIjNq3x
+#EXTINF:-1 tvg-id="1314025" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/ATLETICO MADRID.png",20/09 09:15 PM | ┃ ┃ LA LIGA ATLETICO MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1314025&extension=ts&play_token=GKoJc6LozI
+#EXTINF:-1 tvg-id="1367492" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",20/09 09:15 PM | USA Soccer07: Europe : Atlético Madrid vs Internazionale @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1367492&extension=ts&play_token=BmPxWMKMFs
+#EXTINF:-1 tvg-id="1367493" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",20/09 09:15 PM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1367493&extension=ts&play_token=DgVHRMoaBs
+#EXTINF:-1 tvg-id="1367492" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",20/09 09:15 PM | USA Soccer07: Europe : Atlético Madrid vs Internazionale @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1367492&extension=ts&play_token=1Wwc1By9UJ
+#EXTINF:-1 tvg-id="1367493" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",20/09 09:15 PM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1367493&extension=ts&play_token=sa52H6Vgnf
+#EXTINF:-1 tvg-id="1367492" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",20/09 09:15 PM | USA Soccer07: Europe : Atlético Madrid vs Internazionale @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1367492&extension=ts&play_token=H8XlCf2Lom
+#EXTINF:-1 tvg-id="1367493" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",20/09 09:15 PM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1367493&extension=ts&play_token=qWWhYRr6j7
+#EXTINF:-1 tvg-id="1367492" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",20/09 09:15 PM | USA Soccer07: Europe : Atlético Madrid vs Internazionale @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1367492&extension=ts&play_token=G4eS3rpA0j
+#EXTINF:-1 tvg-id="1367493" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",20/09 09:15 PM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1367493&extension=ts&play_token=b1rTGna6nQ
+#EXTINF:-1 tvg-id="587511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=587511&extension=ts&play_token=s2nw57Y7HR
+#EXTINF:-1 tvg-id="897453" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=897453&extension=ts&play_token=gDpbR6h5gb
+#EXTINF:-1 tvg-id="897454" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EADBF58864670E8E0A219E1CF8B83299
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=897454&extension=ts&play_token=7mubtW4D0F
+#EXTINF:-1 tvg-id="587511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=587511&extension=ts&play_token=BnTmbS7DqD
+#EXTINF:-1 tvg-id="897453" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=897453&extension=ts&play_token=Urp5ZRbmWw
+#EXTINF:-1 tvg-id="897454" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02B861F664B50BA69D39E115141E11D0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=897454&extension=ts&play_token=MQkVTtQzjj
+#EXTINF:-1 tvg-id="587511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=587511&extension=ts&play_token=qpcrfSYVlg
+#EXTINF:-1 tvg-id="897453" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=897453&extension=ts&play_token=5dxFYYPp3l
+#EXTINF:-1 tvg-id="897454" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8D4BAD72B05E70DC8A801DB519004D46
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=897454&extension=ts&play_token=OQDBaVR3Mc
+#EXTINF:-1 tvg-id="587511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=587511&extension=ts&play_token=tbAHTbECvB
+#EXTINF:-1 tvg-id="897453" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=897453&extension=ts&play_token=X41NeoiCUC
+#EXTINF:-1 tvg-id="897454" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",20/09 09:15 PM | ┃ES┃ REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BEDE1515F4AD26B53C8F67462ADF0ED2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=897454&extension=ts&play_token=s3JrgPzKsc
+#EXTINF:-1 tvg-chno="85" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Liga Profesional] Union de Santa Fe vs Independiente (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Liga Profesional] Union de Santa Fe vs Independiente (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/AAA444A.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Newcastle United vs. Hull City | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Newcastle United vs. Hull City | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream3.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="Football.Dummy.us" tvg-name="[American Football] Delaware State Hornets vs. South Florida Bulls | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Delaware State Hornets vs. South Florida Bulls | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/bvsdgayiqf78.m3u8
+#EXTINF:-1 tvg-chno="558" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Nebraska vs North Dakota (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Nebraska vs North Dakota (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/DTTTQ.m3u8
+#EXTINF:-1 tvg-chno="580" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Washington Huskies vs Washington Eagles (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Washington Huskies vs Washington Eagles (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/DTTTQQ.m3u8
+#EXTINF:-1 tvg-chno="540" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Colorado State Rams vs Brigham Young (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Colorado State Rams vs Brigham Young (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/DTTTQQQ.m3u8
+#EXTINF:-1 tvg-chno="551" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Maryland vs Virginia Tech (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Maryland vs Virginia Tech (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/DTTTQQQQ.m3u8
+#EXTINF:-1 tvg-chno="559" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Northwestern vs Colorado Buffaloes (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Northwestern vs Colorado Buffaloes (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/DTTTQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="560" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Notre Dame vs Michigan State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Notre Dame vs Michigan State (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/DTTTQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="562" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Oklahoma vs New Mexico (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Oklahoma vs New Mexico (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/DTTTQQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="564" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Ole Miss vs LSU (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Ole Miss vs LSU (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/DTTTQQQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="579" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Virginia vs West Virginia (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Virginia vs West Virginia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/DTTTQQQQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="Football.Dummy.us" tvg-name="[American Football] Georgia State Panthers vs. UCF Knights | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Georgia State Panthers vs. UCF Knights | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/fdgsqdfawa73.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Liga Profesional] Instituto vs Talleres Cordoba (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Liga Profesional] Instituto vs Talleres Cordoba (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/FPPPQQ.m3u8
+#EXTINF:-1 tvg-chno="478" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] FC Dallas vs Austin FC (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] FC Dallas vs Austin FC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/FPPPQQQ.m3u8
+#EXTINF:-1 tvg-chno="480" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] Minnesota United vs Los Angeles Galaxy (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] Minnesota United vs Los Angeles Galaxy (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/FPPPQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="483" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] Sporting Kansas City vs Philadelphia Union (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] Sporting Kansas City vs Philadelphia Union (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/FPPPQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="484" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] St Louis City vs Toronto FC (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] St Louis City vs Toronto FC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/FPPPQQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="691" tvg-id="Soccer.Dummy.us" tvg-name="[USA NWSL Women] Denver Summit W vs Seattle Reign W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2323.png" group-title="Live Events",[USA NWSL Women] Denver Summit W vs Seattle Reign W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/FPPPQQQQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="568" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] South Alabama vs Ohio (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] South Alabama vs Ohio (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/GSSS.m3u8
+#EXTINF:-1 tvg-chno="570" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] South Florida vs Delaware State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] South Florida vs Delaware State (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/GSSSQ.m3u8
+#EXTINF:-1 tvg-chno="577" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] UCF vs Georgia State Panthers (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] UCF vs Georgia State Panthers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/GSSSQQQ.m3u8
+#EXTINF:-1 tvg-chno="665" tvg-id="Soccer.Dummy.us" tvg-name="[Peru Liga 1 Apertura] Deportivo Garcilaso vs U de Deportes (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live Events",[Peru Liga 1 Apertura] Deportivo Garcilaso vs U de Deportes (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/GSSSQQQAA.m3u8
+#EXTINF:-1 tvg-chno="531" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Atlas vs UNAM Pumas (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Atlas vs UNAM Pumas (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/GSSSQQQAAAA.m3u8
+#EXTINF:-1 tvg-chno="183" tvg-id="Soccer.Dummy.us" tvg-name="[Canada Premier League] Cavalry vs Forge (FAWA)" tvg-logo="https://files.catbox.moe/71a287.png" group-title="Live Events",[Canada Premier League] Cavalry vs Forge (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/K888AAA.m3u8
+#EXTINF:-1 tvg-chno="127" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Remo vs Santos (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Remo vs Santos (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/K888AAAAA.m3u8
+#EXTINF:-1 tvg-chno="486" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] CF Montréal vs Columbus Crew (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] CF Montréal vs Columbus Crew (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56735?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56735?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56735/load-playlist
+#EXTINF:-1 tvg-chno="494" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] DC United vs Charlotte FC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] DC United vs Charlotte FC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56740?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56740?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56740/load-playlist
+#EXTINF:-1 tvg-chno="498" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] FC Dallas vs Austin FC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] FC Dallas vs Austin FC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56761?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56761?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56761/load-playlist
+#EXTINF:-1 tvg-chno="501" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Houston Dynamo vs FC Cincinnati (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Houston Dynamo vs FC Cincinnati (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56760?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56760?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56760/load-playlist
+#EXTINF:-1 tvg-chno="504" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Minnesota United vs LA Galaxy (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Minnesota United vs LA Galaxy (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56762?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56762?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56762/load-playlist
+#EXTINF:-1 tvg-chno="509" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New England Revolution vs Orlando City SC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] New England Revolution vs Orlando City SC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56736?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56736?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56736/load-playlist
+#EXTINF:-1 tvg-chno="521" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] San Jose Earthquakes vs Los Angeles FC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] San Jose Earthquakes vs Los Angeles FC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56743?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56743?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56743/load-playlist
+#EXTINF:-1 tvg-chno="525" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Sporting Kansas City vs Philadelphia Union (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Sporting Kansas City vs Philadelphia Union (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56759?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56759?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56759/load-playlist
+#EXTINF:-1 tvg-chno="528" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] St.Louis City vs Toronto FC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] St.Louis City vs Toronto FC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56758?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56758?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56758/load-playlist
+#EXTINF:-1 tvg-chno="476" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] CF Montreal vs Columbus Crew (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] CF Montreal vs Columbus Crew (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/LTTT.m3u8
+#EXTINF:-1 tvg-chno="572" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Tennessee vs Kennesaw State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Tennessee vs Kennesaw State (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/LTTTQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="Football.Dummy.us" tvg-name="[American Football] BYU Cougars vs. Colorado State Rams | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] BYU Cougars vs. Colorado State Rams | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/nbvevzaheafgu87.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="Football.Dummy.us" tvg-name="[American Football] Nevada Wolf Pack vs. Middle Tennessee Blue Raiders | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Nevada Wolf Pack vs. Middle Tennessee Blue Raiders | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/omljkhqsdag79.m3u8
+#EXTINF:-1 tvg-chno="548" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Louisiana-Lafayette vs UAB (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Louisiana-Lafayette vs UAB (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/OYYYYQ.m3u8
+#EXTINF:-1 tvg-chno="574" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Texas vs UTSA (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Texas vs UTSA (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/OYYYYQQ.m3u8
+#EXTINF:-1 tvg-chno="128" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Sao Paulo vs Internacional (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Sao Paulo vs Internacional (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/OYYYYQQQQ.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="Football.Dummy.us" tvg-name="[American Football] LSU Tigers at Ole Miss Rebels (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/1de35d7b75840e7cd76ae6b266d195dd-thumbnail.jpg" group-title="Live Events",[American Football] LSU Tigers at Ole Miss Rebels (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=cfb/2026-09-19/lsu-miss
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=cfb/2026-09-19/lsu-miss
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-09-19/lsu-miss/playlist.m3u8?tk=tvp8zPCf1SCGfyfOa53ILw&e=1789902010
+#EXTINF:-1 tvg-chno="39" tvg-id="Football.Dummy.us" tvg-name="[American Football] Michigan State Spartans at Notre Dame Fighting Irish (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/a3dcd42ccd485f8865fb7157de3a201c-thumbnail.jpg" group-title="Live Events",[American Football] Michigan State Spartans at Notre Dame Fighting Irish (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=cfb/2026-09-19/msu-nd
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=cfb/2026-09-19/msu-nd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-09-19/msu-nd/playlist.m3u8?tk=tvp8zPCf1SCGfyfOa53ILw&e=1789902010
+#EXTINF:-1 tvg-chno="46" tvg-id="Football.Dummy.us" tvg-name="[American Football] New Mexico Lobos at Oklahoma Sooners (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/8549e7b689c5aafacc6eb55dc34b3571-thumbnail.jpg" group-title="Live Events",[American Football] New Mexico Lobos at Oklahoma Sooners (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=cfb/2026-09-19/unm-ou
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=cfb/2026-09-19/unm-ou
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-09-19/unm-ou/playlist.m3u8?tk=cfeekfmk6MEYMUxHfSVWmg&e=1789902011
+#EXTINF:-1 tvg-chno="57" tvg-id="Football.Dummy.us" tvg-name="[American Football] Ottawa RedBlacks at Calgary Stampeders (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/3e8b64350c2cddb2e81ddb5634a28559-thumbnail.jpg" group-title="Live Events",[American Football] Ottawa RedBlacks at Calgary Stampeders (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=cfl/2026-09-19/ott-cgy
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=cfl/2026-09-19/ott-cgy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfl/2026-09-19/ott-cgy/playlist.m3u8?tk=KfZ7HCBiz3_Wuv07e7Iy9w&e=1789900209
+#EXTINF:-1 tvg-chno="66" tvg-id="Football.Dummy.us" tvg-name="[American Football] Troy Trojans at Missouri Tigers (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/a9db86ee1f40d8d8877d70d0ea005e1e-thumbnail.jpg" group-title="Live Events",[American Football] Troy Trojans at Missouri Tigers (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=cfb/2026-09-19/troy-miz
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=cfb/2026-09-19/troy-miz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-09-19/troy-miz/playlist.m3u8?tk=UeTS8uAR9MoJT8yPPrXIPg&e=1789900210
+#EXTINF:-1 tvg-chno="78" tvg-id="Football.Dummy.us" tvg-name="[American Football] West Virginia Mountaineers at Virginia Cavaliers (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/e09fb47529cd7bc7f5d28c4069afbc3d-thumbnail.jpg" group-title="Live Events",[American Football] West Virginia Mountaineers at Virginia Cavaliers (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=cfb/2026-09-19/wvu-uva
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=cfb/2026-09-19/wvu-uva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-09-19/wvu-uva/playlist.m3u8?tk=cfeekfmk6MEYMUxHfSVWmg&e=1789902011
+#EXTINF:-1 tvg-chno="490" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] CF Montréal vs. Columbus Crew (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/ffdcd0db3cd750cf3ddbd2b01bcd6898-thumbnail.jpg" group-title="Live Events",[MLS] CF Montréal vs. Columbus Crew (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-19/mtl-clb
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mls/2026-09-19/mtl-clb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/mls/2026-09-19/mtl-clb/playlist.m3u8?tk=zcvc5Ge6vPgmvYnMFXzvRg&e=1789902012
+#EXTINF:-1 tvg-chno="492" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] D.C. United vs. Charlotte FC (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/3c0810d7928b51a493c5edba5ec706c1-thumbnail.jpg" group-title="Live Events",[MLS] D.C. United vs. Charlotte FC (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-19/dc-clt
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mls/2026-09-19/dc-clt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/mls/2026-09-19/dc-clt/playlist.m3u8?tk=zcvc5Ge6vPgmvYnMFXzvRg&e=1789902012
+#EXTINF:-1 tvg-chno="510" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New England Revolution vs. Orlando City SC (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/aa88655e085f1d0e61ba3db240bcc562-thumbnail.jpg" group-title="Live Events",[MLS] New England Revolution vs. Orlando City SC (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-19/ne-orl
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mls/2026-09-19/ne-orl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/mls/2026-09-19/ne-orl/playlist.m3u8?tk=zcvc5Ge6vPgmvYnMFXzvRg&e=1789902012
+#EXTINF:-1 tvg-chno="522" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] San Jose Earthquakes vs. LAFC (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/d9a46427f2e399170407e19dab89d2ff-thumbnail.jpg" group-title="Live Events",[MLS] San Jose Earthquakes vs. LAFC (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-19/sj-lafc
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mls/2026-09-19/sj-lafc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/mls/2026-09-19/sj-lafc/playlist.m3u8?tk=zcvc5Ge6vPgmvYnMFXzvRg&e=1789902012
+#EXTINF:-1 tvg-chno="67" tvg-id="Football.Dummy.us" tvg-name="[American Football] Troy Trojans vs. Missouri Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Troy Trojans vs. Missouri Tigers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="Football.Dummy.us" tvg-name="[American Football] Western Michigan Broncos vs. Rice Owls | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Western Michigan Broncos vs. Rice Owls | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/rteztryzathc77.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="Football.Dummy.us" tvg-name="[American Football] Ohio Bobcats vs. South Alabama Jaguars | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Ohio Bobcats vs. South Alabama Jaguars | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="Football.Dummy.us" tvg-name="[American Football] UConn Huskies vs. Southern Miss Golden Eagles | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] UConn Huskies vs. Southern Miss Golden Eagles | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/sqhdghzavbxu75.m3u8
+#EXTINF:-1 tvg-chno="535" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Auburn vs Florida Gators (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Auburn vs Florida Gators (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VDDD.m3u8
+#EXTINF:-1 tvg-chno="546" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Jacksonville State vs Georgia Southern (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Jacksonville State vs Georgia Southern (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VDDDA.m3u8
+#EXTINF:-1 tvg-chno="553" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Memphis vs UT Martin Skyhawks (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Memphis vs UT Martin Skyhawks (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VDDDAQ.m3u8
+#EXTINF:-1 tvg-chno="555" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Middle Tennessee vs St Nevada (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Middle Tennessee vs St Nevada (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VDDDAQQ.m3u8
+#EXTINF:-1 tvg-chno="557" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Missouri vs Troy (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Missouri vs Troy (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VDDDAQQA.m3u8
+#EXTINF:-1 tvg-chno="565" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Rice vs Western Michigan (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Rice vs Western Michigan (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VDDDAQQAAA.m3u8
+#EXTINF:-1 tvg-chno="567" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Sam Houston State vs Nicholls State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Sam Houston State vs Nicholls State (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VDDDAQQAAAA.m3u8
+#EXTINF:-1 tvg-chno="550" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Louisville vs Southern Methodist (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Louisville vs Southern Methodist (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VPPPQQQ.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="Football.Dummy.us" tvg-name="[American Football] UT Martin Skyhawks vs. Memphis Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] UT Martin Skyhawks vs. Memphis Tigers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/xcsfadafgzfg76.m3u8
+#EXTINF:-1 tvg-chno="185" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Alianza vs Santa Fe (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Alianza vs Santa Fe (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/YDDDA.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Atletico-MG vs Chapecoense-SC (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Atletico-MG vs Chapecoense-SC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/YDDDAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="180" tvg-id="Football.Dummy.us" tvg-name="[CFL Canadian Football] Calgary Stampeders vs Ottawa Redblacks (FAWA)" tvg-logo="https://files.catbox.moe/ivnrrj.png" group-title="Live Events",[CFL Canadian Football] Calgary Stampeders vs Ottawa Redblacks (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/YDDDAAAAQQAAAA.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="Football.Dummy.us" tvg-name="[American Football] Charlotte 49ers vs. App State Mountaineers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Charlotte 49ers vs. App State Mountaineers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/zeafwqvhfe69.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="Football.Dummy.us" tvg-name="[American Football] Florida Gators vs. Auburn Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Florida Gators vs. Auburn Tigers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/ztyarueaghj71.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66879_dark_360w_270h.png" group-title="TV",Fox Soccer Plus
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/r471lih6bgiq7.m3u8?s=9PQc2QLJ5DpdLDXwNyXSrw&e=1789893037
+#EXTINF:-1 tvg-chno="107" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/qjn80rbplb339.m3u8?s=k8L2MARb8RTPCqpzoAZxKA&e=1789893028
+#EXTINF:-1 tvg-chno="108" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="TV",HBO Comedy
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/86xmsflg15le9.m3u8?s=TKKaBv8lcZkOeEO0nrjZrg&e=1789893070
+#EXTINF:-1 tvg-chno="121" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="TV",Lifetime Movie Network
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/yxtev7m4xb172.m3u8?s=4fpPfQa69-0Ilgm_EoEU8w&e=1789893066
+#EXTINF:-1 tvg-chno="180" tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="TV",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/4yie4nwr22yw8.m3u8?s=FxIaamZXVLNK8hnl4koCBw&e=1789893064
