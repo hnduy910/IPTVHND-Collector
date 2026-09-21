@@ -54429,8 +54429,6 @@ https://www.vavoo.to/play/3781491829/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Bulgaria" tvg-name="MOVIE STAR", MOVIE STAR
 https://www.vavoo.to/play/3471251446/index.m3u8
-#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/64904.png" group-title="VIỆT NAM",VOV MINORITIES SERVICE MEKONG
-http://media.kythuatvov.vn:8031
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -55867,3 +55865,5 @@ https://cdngateway.rkda.my.id/dash/c3c9b1a8be6d75326e9123029a1602ac81dd7a329848a
 https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1,HTV Se Pone Bueno
 https://stream.zeno.fm/ieagybudukavv
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv

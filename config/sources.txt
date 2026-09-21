@@ -1509,3 +1509,9 @@ https://raw.githubusercontent.com/mangyeu/TV/59883d056a73b9de394be0bec4928202267
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/47a361b8635f2d582f820f8ffb5375add787ac86/IPTV/CN.m3u8
 https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/8c8914b8d6d76af577706e8c7639fc61815da755/unfyespanoltv/chocolate.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/598a297fb21a14a462163cd05b199d4ac6d78ce7/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
+https://raw.githubusercontent.com/KimShenGod/live/fb2ef37b3b7212ccc35cc9773439fc52edfb11cd/iptv.m3u
+https://raw.githubusercontent.com/amazeyourself/m3u/6394d2c12c80ef65079675c796e87682b450acf8/riptv.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/9c0357fc45a19baa9be16f054ab45c204f2eb6ec/iptv.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/f26e2a899019c41612b4886242829fee3591fb37/streams/in.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/9cf17ebf192879e12665729a00590120c26df4e9/IPTV/fr.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/9cf17ebf192879e12665729a00590120c26df4e9/IPTV/tw.m3u
