@@ -412,6 +412,7 @@
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # (●) Total Channels: 516
+#DATE: 2026-09-21 04:25:58
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -55192,8 +55193,6 @@ https://type.futtv.nx.kg/rel-bou/index.m3u8|Referer=https%3A//www.futbol-x.top&O
 https://type.futtv.nx.kg/unio/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-id="VTV3.vn@HD",VTV3 HD (1080p)
 https://javiptv.s.gy/vtv3hd-thvn
-#EXTINF:-1 tvg-id="Football.ru" tvg-name="Football" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-country="RU" tvg-language="rus" group-title="Sports" nexus-score="100",Football (720p)
-http://str2.iptvhd.ru:8080/Futbol/index.m3u8
 #EXTINF:-1,Paul Pewitt Football
 https://stream.zeno.fm/0q7expg2bpvtv
 #EXTINF:-1,The Football Fans Show
@@ -55864,3 +55863,7 @@ https://4169it.7odxv0l067ka.net:8443/hls/4yie4nwr22yw8.m3u8?s=FxIaamZXVLNK8hnl4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
 https://cdngateway.rkda.my.id/dash/c3c9b1a8be6d75326e9123029a1602ac81dd7a329848a8f0/manifest.mpd
+#EXTINF:-1,VietNam
+https://stream.zeno.fm/2141ytrbn48uv
+#EXTINF:-1,HTV Se Pone Bueno
+https://stream.zeno.fm/ieagybudukavv
