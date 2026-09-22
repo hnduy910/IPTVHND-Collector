@@ -413,6 +413,7 @@
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # (●) Total Channels: 516
 #DATE: 2026-09-21 04:25:58
+# (●) Total Channels: 520
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -55867,3 +55868,93 @@ https://stream.zeno.fm/2141ytrbn48uv
 https://stream.zeno.fm/ieagybudukavv
 #EXTINF:-1,Universo Musical Villa Pehuenia
 https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1 tvg-id="Football.ru" tvg-name="Football" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-country="RU" tvg-language="rus" group-title="Sports" nexus-score="75",Football (576p)
+http://str2.iptvhd.ru:8080/Futbol/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/CINEMAX.png" group-title="Canais de TV",Cinemax [4K]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY0My5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_2.png" group-title="Canais de TV",HBO 2 [4K]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDI0Ni5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_FAMILY.png" group-title="Canais de TV",HBO Family [FHD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExNS5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_PLUS.png" group-title="Canais de TV",HBO Plus [FHD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjEyNS5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_SIGNATURE.png" group-title="Canais de TV",HBO Signature [SD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjEzNy5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_XTREME.png" group-title="Canais de TV",HBO Xtreme [FHD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjEzOS5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Canais de TV",SBT VTV Santos Campinas [FHD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwOTMubTN1OA.m3u8
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY BUNDESLIGA 1 Ⓗ②⑥⑤" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 1 Ⓗ②⑥⑤
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100978
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY BUNDESLIGA 1 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 1 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100977
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 1 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100976
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-2.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 2 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100980
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-2.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 2 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100979
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: SKY BUNDESLIGA 3 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-3.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 3 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100982
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: SKY BUNDESLIGA 3 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-3.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 3 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100981
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: SKY BUNDESLIGA 4 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-4.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 4 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100984
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: SKY BUNDESLIGA 4 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-4.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 4 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100983
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY BUNDESLIGA 5 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-5.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 5 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100986
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY BUNDESLIGA 5 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-5.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 5 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100985
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: SKY BUNDESLIGA 6 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-6.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 6 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100988
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: SKY BUNDESLIGA 6 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-6.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 6 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100987
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: SKY BUNDESLIGA 7 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-7.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 7 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100990
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: SKY BUNDESLIGA 7 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-7.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 7 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100989
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: SKY BUNDESLIGA 8 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-8.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 8 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100992
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: SKY BUNDESLIGA 8 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-8.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 8 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100991
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY BUNDESLIGA 9 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-9.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 9 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100994
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY BUNDESLIGA 9 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-9.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 9 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100993
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: SKY BUNDESLIGA 10 FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-10.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 10 FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100996
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: SKY BUNDESLIGA 10 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-10.png" group-title="TR / DE SPOR",DE: SKY BUNDESLIGA 10 HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100995
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-pl.png" group-title="TR / DE SPOR",DE: SKY SPORT PREMIER LEAGUE FHD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/101017
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-pl.png" group-title="TR / DE SPOR",DE: SKY SPORT PREMIER LEAGUE HD
+http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/101016
+#EXTINF:-1,UK: SKY CINEMA ACTION FHD
+https://ch.iptvmate.net/150ad44c441701c1a943b18fe17ff6c0.m3u8
+#EXTINF:-1,UK: SKY CINEMA ACTION MAN FHD
+https://ch.iptvmate.net/3e9c39824c90c6e927b3a48f0a476913.m3u8
+#EXTINF:-1,UK: SKY CINEMA COMEDY FHD
+https://ch.iptvmate.net/6e4033c9b54581e116c2f1c3a7f0e5fc.m3u8
+#EXTINF:-1,UK: SKY CINEMA DISNEY FHD
+https://ch.iptvmate.net/0f4f2b3d9a1fa752c26cc27826054b2d.m3u8
+#EXTINF:-1,UK: SKY CINEMA DRAMA &amp; ROMANCE FHD
+https://ch.iptvmate.net/1e1ce3dbf049d5e77e6aeba0a13d02c5.m3u8
+#EXTINF:-1,UK: SKY CINEMA FAMILY FHD
+https://ch.iptvmate.net/a433ecbb7a6de0046deec739b88b1a80.m3u8
+#EXTINF:-1,UK: SKY CINEMA GREATS FHD
+https://ch.iptvmate.net/fca9f58522713bb2b2e1d30a903b40ff.m3u8
+#EXTINF:-1,UK: SKY CINEMA HEROES FHD
+https://ch.iptvmate.net/db5091c49e7d41b8da770a661f25c9a1.m3u8
+#EXTINF:-1,UK: SKY CINEMA PREMIER FHD
+https://ch.iptvmate.net/b7e4b521e51ab7cf8983d295753b9c1b.m3u8
+#EXTINF:-1,UK: SKY CINEMA SCI-FI FHD
+https://ch.iptvmate.net/18605b8d3f180062af9917dd08c1619f.m3u8
+#EXTINF:-1,UK: SKY CINEMA SELECT FHD
+https://ch.iptvmate.net/5eff8da31cebbba2122d7e502cdb49a3.m3u8
+#EXTINF:-1,UK: SKY CINEMA THRILLER FHD
+https://ch.iptvmate.net/7a1e6d4f1902b81dd705fb595a44cc20.m3u8
+#EXTINF:-1,UK: TCM HD
+https://ch.iptvmate.net/99d697a23ff4753652d31fcf84bfd1f2.m3u8
+#EXTINF:-1,TCM GR
+https://ch.iptvmate.net/39d3928acf1f8de46e93325de03de4fb.m3u8
