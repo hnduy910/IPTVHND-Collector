@@ -1592,3 +1592,14 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/340c35cefbf
 https://raw.githubusercontent.com/rolnando-play/RP/cfa79a86aa5db9af82bd4e60caca4a7a44dc0670/iptv2.m3u
 https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/85e6cd8864da2804519dba09deafbf2aee8f2018/Canales.FHD.m3u
 https://raw.githubusercontent.com/zecoxao/zecoxao.github.io/e36c941d8f4a3c6c79eafe3a9a60e627d4b1eeaa/abc.m3u
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/7f76212879592f97d20a160103fcc2a681d9b282/BugsfreeStreams/Output/StreamLinks-MXD.m3u
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/7f76212879592f97d20a160103fcc2a681d9b282/SpecialLinks/Unknown/Unknown/SpecialLinks6.m3u
+https://raw.githubusercontent.com/iprtl/m3u/198809f456d33a54f96c821b8ffac5cf2e3fbd95/Freetv.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/340c35cefbfc3d6574042ad92ee5ebfa9bbe69a1/+merged+/s/spanish_(argentina).m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/340c35cefbfc3d6574042ad92ee5ebfa9bbe69a1/lixty/latin_music.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/340c35cefbfc3d6574042ad92ee5ebfa9bbe69a1/shoutcast/Folk.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/340c35cefbfc3d6574042ad92ee5ebfa9bbe69a1/zeno.fm/Spanish_(Argentina).m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/340c35cefbfc3d6574042ad92ee5ebfa9bbe69a1/zeno.fm/Spanish_(Peru).m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/340c35cefbfc3d6574042ad92ee5ebfa9bbe69a1/zeno.fm/Sports.m3u
+https://raw.githubusercontent.com/la22lo/sports/47a8f24258d93d2070b8aae991337cd87ca45ba0/futbol.m3u
+https://raw.githubusercontent.com/zecoxao/zecoxao.github.io/6678c1a562e406e6a027d58b18cbd0d85566fe24/abc.m3u
