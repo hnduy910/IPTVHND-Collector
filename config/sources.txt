@@ -1656,3 +1656,5 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/340c35cefbf
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/3ce13b73bb424a8c253b10d7aa23ad8f47712e4f/IPTV/bg.m3u
 https://raw.githubusercontent.com/vietng228/m3u/e2d9ea481a4253c19bbeb621225379a029213a08/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/e2d9ea481a4253c19bbeb621225379a029213a08/new.m3u
+https://raw.githubusercontent.com/boxkim14/m3u8/930fc8ca2a0803dd71be696254868a1d4ff5f622/vn.m3u8
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/5183459d41124c8f6d32d148bfe05c520627c5ad/IPTV/CN.m3u8

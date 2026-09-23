@@ -430,8 +430,6 @@ https://vmttv.dpdns.org/tv360/?id=175
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-name="ON Vie DRAMAS" tvg-logo="https://i.imgur.com/n7QICK7.png" group-title="VTVcab",ON Vie DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-logo="https://vnepg.site/logos/13.png" group-title="VTVcab HD",ON Phim Việt
-https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/27.png" group-title="VTVcab HD",ON Vie DRAMAS
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab4%20-%20ON%20Movies%20HD.png" group-title="Uncategorized",ON Movies HD
