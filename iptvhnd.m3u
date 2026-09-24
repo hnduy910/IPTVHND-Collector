@@ -414,6 +414,8 @@
 # (●) Total Channels: 516
 #DATE: 2026-09-21 04:25:58
 # (●) Total Channels: 520
+# Last Updated: 2026-09-24 05:58 PM (BD Time)
+# (●) Total Channels: 518
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -55244,8 +55246,6 @@ https://792jdf7.s.gy/astro_PL2_a
 https://792jdf7.s.gy/astro_football_a
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O7Z32ZN.jpeg" group-title="SG| SINGAPORE", SINGAPORE PREMIER LEAGUE 02
 ====MALAYSIA====
-#EXTINF:-1,Vietnam War Rock
-https://stream.zeno.fm/g91qxch7gv8uv
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
 https://live.fptplay53.net/live/media/htv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
@@ -55982,3 +55982,133 @@ http://tv.ebox.live:8080/live/star-movies.m3u8
 http://103.135.208.14/live/ibox/bd/63.m3u8
 #EXTINF:-1,HBO HD
 http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="Sports",Sky Cinema
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=Pt_3xcCutsQ1Ih26PBRU6Q&expires=1790255127
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Sports",Sky Sports Premier League
+https://cdn7.zohanayaan.com:1686/hls/skysprem.m3u8?md5=PPLIu3pRaH5uBREB1eGdzQ&expires=1790255129
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Sports",Sky Sports Football
+https://cdn6.zohanayaan.com:1686/hls/skysfott.m3u8?md5=_SJuows5hdSGGvPSKJzmmA&expires=1790255129
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="Sports",Super Football
+https://cdn8.zohanayaan.com:1686/hls/superfotball.m3u8?md5=4iVJk3lh_4u5Jg9VNI1xfg&expires=1790255130
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="Sports",Super Premier League
+https://cdn3.zohanayaan.com:1686/hls/superpremier.m3u8?md5=b9u7U07QXuwhwsj6IAvM5Q&expires=1790255130
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_FAMILY.png" group-title="Canais de TV",HBO Family [HD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExNi5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Canais de TV",SBT VTV Santos Campinas [HD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwOTQubTN1OA.m3u8
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV 1" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=ivica261Phz27XqU7r6TpNm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HRT1-logo.png/250px-HRT1-logo.png" group-title="HRVATSKA" ,HTV 1
+http://client.nodomain.vip:80/live.ts?channelId=2&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="2" tvg-name="HTV 1 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt1_hd.png" group-title="HRVATSKA" ,HTV 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1489&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="htv2" tvg-name="HTV 2" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=ivica261Phz27XqU7r6TpNm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Htv2-logo.png/150px-Htv2-logo.png" group-title="HRVATSKA" ,HTV 2
+http://client.nodomain.vip:80/live.ts?channelId=3&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="3" tvg-name="HTV 2 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt2_hd.png" group-title="HRVATSKA" ,HTV 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1463&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV 3" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=ivica261Phz27XqU7r6TpNm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HRT3_Logo_aktuell.png/150px-HRT3_Logo_aktuell.png" group-title="HRVATSKA" ,HTV 3
+http://client.nodomain.vip:80/live.ts?channelId=188&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="188" tvg-name="HTV 3 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt3_hd.png" group-title="HRVATSKA" ,HTV 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=1490&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="htv4" tvg-name="HTV 4" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=ivica261Phz27XqU7r6TpNm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/HRT4-logo.png/150px-HRT4-logo.png" group-title="HRVATSKA" ,HTV 4
+http://client.nodomain.vip:80/live.ts?channelId=277&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="htv4" tvg-name="HTV 4 HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=del401Mfntj5125QWqdYK" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt4_hd.png" group-title="HRVATSKA" ,HTV 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=1491&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="606" tvg-name="HTV INT." tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c5/HRTint.jpg" group-title="HRVATSKA" ,HTV INT.
+http://client.nodomain.vip:80/live.ts?channelId=606&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1216" tvg-name="VTV VARAZDIN" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/vtv-logo.png" group-title="HRVATSKA" ,VTV VARAZDIN
+http://client.nodomain.vip:80/live.ts?channelId=1216&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1561" tvg-name="HBO MK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png" group-title="MAKEDONIJA" ,HBO MK
+http://client.nodomain.vip:80/live.ts?channelId=1561&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1562" tvg-name="HBO 2 MK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png" group-title="MAKEDONIJA" ,HBO 2 MK
+http://client.nodomain.vip:80/live.ts?channelId=1562&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1563" tvg-name="HBO 3 MK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png" group-title="MAKEDONIJA" ,HBO_3_MK
+http://client.nodomain.vip:80/live.ts?channelId=1563&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="14" tvg-name="CINEMAX 1" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,CINEMAX 1
+http://client.nodomain.vip:80/live.ts?channelId=14&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="15" tvg-name="CINEMAX 2" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,CINEMAX 2
+http://client.nodomain.vip:80/live.ts?channelId=15&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png" group-title="FILM & SERIJE" ,HBO
+http://client.nodomain.vip:80/live.ts?channelId=44&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="16" tvg-name="HBO 2" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png" group-title="FILM & SERIJE" ,HBO 2
+http://client.nodomain.vip:80/live.ts?channelId=16&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="73" tvg-name="HBO 3" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png" group-title="FILM & SERIJE" ,HBO 3
+http://client.nodomain.vip:80/live.ts?channelId=73&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="111" tvg-name="FOX MOVIES" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,FOX MOVIES
+http://client.nodomain.vip:80/live.ts?channelId=111&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="11" tvg-name="SKY SPORT BUNDESLIGA 1 DE" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/139_sky_logo_skybundesliga1_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=11&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="580" tvg-name="SKY SPORT BUNDESLIGA 2 DE (nur an Spieltagen)" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/140_sky_logo_skybundesliga2_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 2 DE (nur an Spieltagen)
+http://client.nodomain.vip:80/live.ts?channelId=580&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="581" tvg-name="SKY SPORT BUNDESLIGA 3 DE (nur an Spieltagen)" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/141_sky_logo_skybundesliga3_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 3 DE (nur an Spieltagen)
+http://client.nodomain.vip:80/live.ts?channelId=581&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="582" tvg-name="SKY SPORT BUNDESLIGA 4 DE (nur an Spieltagen)" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/142_sky_logo_skybundesliga4_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 4 DE (nur an Spieltagen)
+http://client.nodomain.vip:80/live.ts?channelId=582&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="583" tvg-name="SKY SPORT BUNDESLIGA 5 DE (nur an Spieltagen)" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/143_sky_logo_skybundesliga5_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 5 DE (nur an Spieltagen)
+http://client.nodomain.vip:80/live.ts?channelId=583&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1417" tvg-name="SKY SPORT BUNDESLIGA 6 DE (nur an Spieltagen)" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/144_sky_logo_skybundesliga6_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 6 DE (nur an Spieltagen)
+http://client.nodomain.vip:80/live.ts?channelId=1417&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1418" tvg-name="SKY SPORT BUNDESLIGA 7 DE (nur an Spieltagen)" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/145_sky_logo_skybundesliga7_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 7 DE (nur an Spieltagen)
+http://client.nodomain.vip:80/live.ts?channelId=1418&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1419" tvg-name="SKY SPORT BUNDESLIGA 8 DE (nur an Spieltagen)" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/146_sky_logo_skybundesliga8_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 8 DE (nur an Spieltagen)
+http://client.nodomain.vip:80/live.ts?channelId=1419&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="2181" tvg-name="SKY SPORT PREMIER LEAGUE HD DE" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="SPORT" ,SKY SPORT PREMIER LEAGUE HD DE
+http://client.nodomain.vip:80/live.ts?channelId=2181&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1984" tvg-name="SKY SPORT FOOTBALL UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="SPORT" ,SKY SPORT FOOTBALL UK
+http://client.nodomain.vip:80/live.ts?channelId=1984&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1711" tvg-name="SKY SPORT PREMIER LEAGUE UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/sky-sports-premier-league-roi-tvlogo.png" group-title="SPORT" ,SKY SPORT PREMIER LEAGUE UK
+http://client.nodomain.vip:80/live.ts?channelId=1711&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="SKY_ACTION_DE" tvg-name="SKY CINEMA ACTION DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/59_sky_logo_skyaction_tvguide.png" group-title="GERMANY" ,SKY CINEMA ACTION DE
+http://client.nodomain.vip:80/live.ts?channelId=151&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="SKY_HITS_DE" tvg-name="SKY CINEMA BEST OF DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvepg.eu/img/austria/logo/sky_cinema_best_of.png" group-title="GERMANY" ,SKY CINEMA BEST OF DE
+http://client.nodomain.vip:80/live.ts?channelId=156&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="SKY_NOSTALGIE_DE" tvg-name="SKY CINEMA CLASSICS DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-classics-de.png" group-title="GERMANY" ,SKY CINEMA CLASSICS DE
+http://client.nodomain.vip:80/live.ts?channelId=1139&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="SKY_COMEDY_DE" tvg-name="SKY CINEMA COMEDY DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/61_sky_logo_skycomedy_tvguide.png" group-title="GERMANY" ,SKY CINEMA COMEDY DE
+http://client.nodomain.vip:80/live.ts?channelId=150&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="sky-cinema-family-de" tvg-name="SKY CINEMA FAMILY DE" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=del401Mfntj5125QWqdYK" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/532_sky_logo_skyfamily.png" group-title="GERMANY" ,SKY CINEMA FAMILY DE
+http://client.nodomain.vip:80/live.ts?channelId=1304&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="SKY_CINEMA_DE" tvg-name="SKY CINEMA PREMIEREN DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/55_sky_logo_skycinema_tvguide.png" group-title="GERMANY" ,SKY CINEMA PREMIEREN DE
+http://client.nodomain.vip:80/live.ts?channelId=152&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="SkyCinemaPremieren+24" tvg-name="SKY CINEMA PREMIEREN +24 DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/58_sky_logo_skycinema24_tvguide.png" group-title="GERMANY" ,SKY CINEMA PREMIEREN +24 DE
+http://client.nodomain.vip:80/live.ts?channelId=189&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SPECIAL DE" tvg-link="" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/890_sky_logo_cinema_special_hd_tvguide.png" group-title="GERMANY" ,SKY CINEMA SPECIAL DE
+http://client.nodomain.vip:80/live.ts?channelId=2191&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="SKY_EMOTION_DE" tvg-name="SKY CINEMA THRILLER DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/784_sky_logo_cinema-thriller-hd_tvguide.png" group-title="GERMANY" ,SKY CINEMA THRILLER DE
+http://client.nodomain.vip:80/live.ts?channelId=161&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="TNTFilm" tvg-name="WARNER TV FILM DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://warnertv.de/assets/img/header/series-tnt-film-item.png" group-title="GERMANY" ,WARNER TV FILM DE
+http://client.nodomain.vip:80/live.ts?channelId=517&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="TNTSerie" tvg-name="WARNER TV SERIE DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://warnertv.de/assets/img/header/series-tnt-serie-item.png" group-title="GERMANY" ,WARNER TV SERIE DE
+http://client.nodomain.vip:80/live.ts?channelId=518&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="TNTComedy" tvg-name="WARNER TV COMEDY DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://warnertv.de/assets/img/header/series-tnt-comedy-item.png" group-title="GERMANY" ,WARNER TV COMEDY DE
+http://client.nodomain.vip:80/live.ts?channelId=1918&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1992" tvg-name="SKY CINEMA ACTION UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="UK & USA" ,SKY CINEMA ACTION UK
+http://client.nodomain.vip:80/live.ts?channelId=1992&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1147" tvg-name="SKY CINEMA COMEDY UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/da4aa57746930bf6d4b98ca34b936ad8.png" group-title="UK & USA" ,SKY CINEMA COMEDY UK
+http://client.nodomain.vip:80/live.ts?channelId=1147&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1148" tvg-name="SKY CINEMA CRIME & THRILLER UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-crime-thriller-uk.png" group-title="UK & USA" ,SKY CINEMA CRIME & THRILLER UK
+http://client.nodomain.vip:80/live.ts?channelId=1148&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1150" tvg-name="SKY CINEMA DRAMA & ROMANCE UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_uk_cinema_drama_romance.png" group-title="UK & USA" ,SKY CINEMA DRAMA & ROMANCE UK
+http://client.nodomain.vip:80/live.ts?channelId=1150&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="113" tvg-name="SKY CINEMA FAMILY UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/sky-cinema-family-tvlogo.png" group-title="UK & USA" ,SKY CINEMA FAMILY UK
+http://client.nodomain.vip:80/live.ts?channelId=113&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1991" tvg-name="SKY CINEMA GREATS UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://archive.org/services/img/SkyCinemaGreatsHd_201804" group-title="UK & USA" ,SKY CINEMA GREATS UK
+http://client.nodomain.vip:80/live.ts?channelId=1991&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="114" tvg-name="SKY CINEMA PREMIERE UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="UK & USA" ,SKY CINEMA PREMIERE UK
+http://client.nodomain.vip:80/live.ts?channelId=114&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1149" tvg-name="SKY CINEMA SCI-FI & HORROR UK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-scifihorror-uk.png" group-title="UK & USA" ,SKY CINEMA SCI-FI & HORROR UK
+http://client.nodomain.vip:80/live.ts?channelId=1149&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1291" tvg-name="SKY CINEMA SELECT HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-uk.png" group-title="UK & USA" ,SKY CINEMA SELECT HD
+http://client.nodomain.vip:80/live.ts?channelId=1291&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="1947" tvg-name="MOVISTAR LA LIGA ES" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="ESPANA" ,MOVISTAR LA LIGA ES
+http://client.nodomain.vip:80/live.ts?channelId=1947&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
