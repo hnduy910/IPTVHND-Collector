@@ -417,8 +417,6 @@
 # Last Updated: 2026-09-24 05:58 PM (BD Time)
 # (●) Total Channels: 518
 #EXTM3U tvg-updated="2026-08-18T01:20:27+00:00"
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Sports",Okko Futbol (1080p)
-http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GFN Football (1080p)
 https://e562e489.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9HRk5Tb2NjZXJfSExT/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Stingray Soccer Anthems (1080p)
@@ -449,3 +447,6 @@ https://792jdf7.s.gy/astro_PL2_a
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://792jdf7.s.gy/astro_football_a
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_640_360.png", 360 Bundesliga
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-bundesliga
