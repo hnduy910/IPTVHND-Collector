@@ -475,6 +475,10 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 #EXTINF:-1 channel-id="GB37000067A" tvg-id="GB37000067A" tvg-chno="4894" tvg-name="Lifetime Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000067A_20251230T031133SQUARE.png" group-title="Movies",Lifetime Movies
 https://jmp2.uk/stvp-GB37000067A
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-title="Channels 🇨🇿🇮🇳🇵🇭",Cinemax (🔉💬🇬🇧) 🇨🇿
+https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cinemax2.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Cinemax 2 (🔉💬🇬🇧)🇨🇿
+https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" group-title="Channels 🇬🇧",Film4
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=412112" url-tvg="https://epg.pw/api/epg.xml?channel_id=412112" refresh="1440" max-conn="1" refresh="24"

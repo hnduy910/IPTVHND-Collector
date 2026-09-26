@@ -667,7 +667,6 @@ https://raw.githubusercontent.com/spookyhost1/yarr-stremio/750e234dcfa783873c926
 https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/2d21481a0052ade2dfb15a92e611c1dc04b9ed47/sports.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/2a1799ee981b986f3a8c73634688801405167a9c/back/itv.m3u
 https://raw.githubusercontent.com/tmxk2021/CF-IPTV/e54da3d81b1decee885659c3a01d4c5e3de21cc2/mytv.m3u
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/1c48cae5f2867e7de2662ad94c3a5d3c3ba86d58/playlist.m3u
 https://raw.githubusercontent.com/zecoxao/zecoxao.github.io/1929fd6d1dc97c3695d0c6018d9524bff6a8456e/abc.m3u
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/d0ebf84bca153a774bf953eca76230f564723d9a/Backup/backup2.m3u8
 https://raw.githubusercontent.com/Josh9456/IPTV-m3u/20b61192470c9d0043d3816e17b3775826e046d4/all_channels/tivimate_playlist.m3u8
@@ -859,7 +858,6 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/6a18d754f9ef9e9c5d3
 https://raw.githubusercontent.com/suxuang/myIPTV/c70ac1dc42aad924c44afdf6476a4b2d4b1d980d/back/ipv4_0429.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/c70ac1dc42aad924c44afdf6476a4b2d4b1d980d/back/itv.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/c70ac1dc42aad924c44afdf6476a4b2d4b1d980d/ipv6.m3u
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/d9f6ba9ba1a0193ea564a51993b74eb9008e868b/playlist.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/83ac7636fd5cd46c03c6bf2af19caa7720518ef8/playlists/playlist_united_arab_emirates.m3u8
 https://raw.githubusercontent.com/boxkim14/m3u8/bbc6eaf107ef53860137af0142fd3ad276130f76/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/39fcc0fc8aed96be40e3e85fe540589005f0d6d1/LiveTV/Vietnam/LiveTV.m3u
@@ -1098,7 +1096,6 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/b7b0a816ee6
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/b7b0a816ee60b931becfa685197800c31df99eb3/radio_browser/s/streaming.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/b7b0a816ee60b931becfa685197800c31df99eb3/shoutcast/Sports.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/88ef6b57740f96eb83a2425038c70956ef859918/IPTV/th.m3u
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/f2ca06a5971711ca6ede8e17d7cdfaf7c9b85dcd/playlist.m3u
 https://raw.githubusercontent.com/vietng228/m3u/71fd1e89e2be290fe68724875deaf0531bea0567/new.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/be2c9863b31f73c4c13d29799278350b54c5538f/playlists/playlist_united_arab_emirates.m3u8
 https://raw.githubusercontent.com/a97083435/tang/c11d52787ff362717efc15f31594dedfb674c147/tvbox/zhibo/channels.m3u
@@ -1167,7 +1164,6 @@ https://raw.githubusercontent.com/judy-gotv/iptv/4ecef1d26384aee39e3f407839abeea
 https://raw.githubusercontent.com/judy-gotv/iptv/4ecef1d26384aee39e3f407839abeea1f3cf09f5/smart.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/b7b0a816ee60b931becfa685197800c31df99eb3/web-radio_directory/United_Kingdom.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/465414d467492626c9de3764ae8bcd316045a5a8/IPTV/th.m3u
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/135d918d1cc88e45a9ed9fe613fb65fdd723778a/playlist.m3u
 https://raw.githubusercontent.com/Bainchiclo/kdtspots/00571a15290323145512f4fb8e31cb9dabb47159/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/Bainchiclo/kdtspots/00571a15290323145512f4fb8e31cb9dabb47159/livesmart.m3u8
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/9234cbc78dbf8368a0ca8a732c0249681cc350b2/Backup/backup2.m3u8
@@ -1428,7 +1424,6 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/cf4aa6fb547
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/cf4aa6fb54748b77c828a4443d6fedf30a3d2c7b/zin_music/checked/italy.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/cf4aa6fb54748b77c828a4443d6fedf30a3d2c7b/zin_music/italy.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/7cf201deed1267bf5d8af9764f4d00a40b25128a/IPTV/th.m3u
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/a561d33812b18e58a0d255b0f65260d4821b50ce/playlist.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/5ebf8a545475f7c467fa1db686fc4e66cdbe4495/LiveTV/Thailand/LiveTV.m3u
 https://raw.githubusercontent.com/david13xa/-/d1664b3d781d09f0895dbe7255cc532f1f3e94da/irl.m3u
 https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/530489feb3f4d5df09180019871c8e7ed8cd1613/Branch/all.m3u
@@ -1851,7 +1846,6 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/11719f0de5b
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/1a1b4ae71a8d37abe7e7e1b216616afb1e512058/BugsfreeStreams/Output/StreamLinks-TH.m3u
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/1a1b4ae71a8d37abe7e7e1b216616afb1e512058/LiveTV/Thailand/LiveTV.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/8730c128e16e25c9efee11eb0447242e3ad5b7c7/IPTV/th.m3u
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/3f11a36d960a6aa2953d5e9d2e5b60bf674ab2db/playlist.m3u
 https://raw.githubusercontent.com/vietng228/m3u/a88c1cca6785dee08fbae2dae2110dc0d89e4109/m3u.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/ba8727f68f00d928d81ab30d19b405a9af0972a7/playlists/playlist_united_arab_emirates.m3u8
 https://raw.githubusercontent.com/Unknow8x/phim/25d9c3e9c32606f5632dde76a57a4c47cb8404bc/iptv.m3u
@@ -1918,3 +1912,16 @@ https://raw.githubusercontent.com/magicstop/Sky/b63605f15384f5440af85651200ba0a8
 https://raw.githubusercontent.com/rolnando-play/RP/520e258204aba75af7bbe14c8a0dbdad3cb793ed/iptv2.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/0fc7f9331693a87b12c3f91e77d1aa2b7e5a1d1c/IPTV/tw.m3u
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/090dddb7239aa63762ee01dbc097a98f3ed9d62e/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/8fe5347ee88f12bef877122615a40d7cc15369b6/Backup/backup2.m3u8
+https://raw.githubusercontent.com/KimShenGod/live/67f6b14a26e139dddefba69ec82f6fbe80292512/iptv.m3u
+https://raw.githubusercontent.com/ahan443/FAST-IPTV/41a4f1c233037b041ca8c0c9e14c501ed1e4a3ff/movies.m3u8
+https://raw.githubusercontent.com/amazeyourself/m3u/003087dcb33801410c955586e02342e633c94ddc/riptv.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/3d275c5ec67a6f8b17d4acd8c4172b352901bdcb/iptv.m3u
+https://raw.githubusercontent.com/eklins/FDTV/7b97a92d47627f0a6bd73c5cd9c0d08a83bc654b/zz/IPTV20220722.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/8a21e7b9be70f64116bac3db598d9796de96fbee/Russia.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/8a21e7b9be70f64116bac3db598d9796de96fbee/UK.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/8a21e7b9be70f64116bac3db598d9796de96fbee/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/8a21e7b9be70f64116bac3db598d9796de96fbee/southKorea.m3u8
+https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/e6ed70f30243b23243518f4e06f8091a9d216f0a/netplus-zappr.m3u8
+https://raw.githubusercontent.com/iptv-org/iptv/7d46c3d5e12b90c5c8cd5eb58a6f7d0a18bc0356/streams/in.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/d8e28f0de54c5217408d61c4122f6bd008f8d251/IPTV/fr.m3u
