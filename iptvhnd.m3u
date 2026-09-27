@@ -419,6 +419,7 @@
 #EXTM3U tvg-updated="2026-08-18T01:20:27+00:00"
 #EXTM3U x-tvg-url="https://817897450cbc-0.lovermoon.fnos.net/playback.xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #DATE: 2026-09-26 04:18:48
+# (●) Total Channels: 517
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -56638,9 +56639,82 @@ https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Sports",Win+ Futbol (1080p)
 http://181.78.12.119:16123/play/ch19/index.m3u8
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="75",Sony Movies (720p)
 http://170.83.16.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1,Universo Musical Villa Pehuenia
 https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1 tvg-id="PremierFootball.ph@SD" tvg-logo="https://i.imgur.com/lKjXwtG.png" group-title="Sports",Premier Football
+https://racitonsen.s.gy/PREMIER_FOOTBALL
+#EXTINF:-1 group-title="Спорт" tvg-id="football-ru",Футбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://jekalich.github.io/smtk/channels/football-ru.m3u8
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Sky Bundesliga UHD [DE]
+http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Sky Sports Football [UK]
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:0,football
+http://31.134.132.249:8080/football/index.m3u8?id=ODkuMTA0LjExNC4yLDg5LjEwNC4xMTQuNiw4OS4xMDQuMTE0LjE4LDg5LjEwNC4xMTQuMzIsMzEuMTM0LjEzMi4yNDMsMzEuMTM0LjEzMi4yNDksMzEuMTM0LjEzMi4yNTA=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/HBOZone.webp" group-title="Entertainment 🌎",HBO Zone 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="Entertainment 🌎",HBO Comedy 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo2.png" group-title="Entertainment 🌎",HBO 2 East 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Entertainment 🌎",HBO West 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Entertainment 🌎",❖HBO East 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
+#EXTINF:-1 tvg-logo="https://lo1.in/us/hboltt.png" group-title="Entertainment 🌎",❖HBO Latino 🇺🇸
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_2.png" group-title="Canais de TV",HBO 2 [FHD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExMC5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO.png" group-title="Canais de TV",HBO [FHD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExOC5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/HBO_PLUS.png" group-title="Canais de TV",HBO Plus [HD]
+https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjEyNy5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Htv1.hr" tvg-name="CRO: HRT 1" tvg-logo="http://epg4you.com/logos/hrttv1.png" group-title="CROATIAN",CRO: HRT 1
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/14455.ts
+#EXTINF:-1 tvg-id="Htv2.hr" tvg-name="CRO: HRT 2" tvg-logo="http://epg4you.com/logos/hrttv2.png" group-title="CROATIAN",CRO: HRT 2
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/14454.ts
+#EXTINF:-1 tvg-id="Htv3.hr" tvg-name="CRO: HRT 3" tvg-logo="http://epg4you.com/logos/hrttv3.png" group-title="CROATIAN",CRO: HRT 3
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/14453.ts
+#EXTINF:-1 tvg-id="Htv4.hr" tvg-name="CRO: HRT 4" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/hrt-4-hr.png" group-title="CROATIAN",CRO: HRT 4
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/14452.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: VTV TELEVIZIJA HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0018/7801/brand.gif" group-title="CROATIAN",CRO: VTV TELEVIZIJA HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/14434.ts
+#EXTINF:-1 tvg-id="Cinemax.hr" tvg-name="CRO: CINEMAX 01 HD" tvg-logo="" group-title="CROATIAN",CRO: CINEMAX 01 HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/439037.ts
+#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="BG: CINEMAX 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Bulgaria/cinema_plus_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: CINEMAX 2 HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/14171.ts
+#EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="BG: CINEMAX 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Bulgaria/btv_bg_cinema.png" group-title="BULGARIA -//- SLOVENIJA",BG: CINEMAX 1 HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/14196.ts
+#EXTINF:-1 tvg-id="HBO.bg" tvg-name="BG: HBO HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-chile-us-cl.png" group-title="BULGARIA -//- SLOVENIJA",BG: HBO HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/14172.ts
+#EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="BG: CINEMAX PLUS HD" tvg-logo="http://glmtv.pw/logo/prestige/Bulgaria/cinema_plus_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: CINEMAX PLUS HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/14186.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: HBO HD" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: HBO HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/19511.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: FOX MOVIES HD" tvg-logo="http://glmtv.pw/logo/prestige/Albania/FOX_MOVIES.png" group-title="KOSOVO -//- ALBANIA",AL: FOX MOVIES HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/151841.ts
+#EXTINF:-1 tvg-id="OneSoccer.ca" tvg-name="...ONE SOCCER HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_soccer_plus.png" group-title="SPORTS",...ONE SOCCER HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/413615.ts
+#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="...FOX SOCCER PLUS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_soccer_plus.png" group-title="SPORTS",...FOX SOCCER PLUS HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/57429.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="...SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/sky-sports-premier-league-uk.png" group-title="SPORTS",...SKY SPORTS PREMIER LEAGUE HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/417542.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="...SKY SPORTS FOOTBALL HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/sky-sports-football-uk.png" group-title="SPORTS",...SKY SPORTS FOOTBALL HD
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/417545.ts
+#EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-name="...SuperSport World Cup Africa (Premier League)" tvg-logo="http://glmtv.pw/logo/prestige/Canada/fanatiz.png" group-title="SPORTS",...SuperSport World Cup Africa (Premier League)
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/404429.ts
+#EXTINF:-1 tvg-id="ATTSportsNetHouston.us" tvg-name="...SuperSport World Cup Fan Zone (Football)" tvg-logo="http://glmtv.pw/logo/prestige/Canada/fanatiz.png" group-title="SPORTS",...SuperSport World Cup Fan Zone (Football)
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/319614.ts
+#EXTINF:-1 tvg-id="TraceSportStars.uk" tvg-name="...SuperSport World Cup Central (Football Plus)" tvg-logo="http://glmtv.pw/logo/prestige/Canada/fanatiz.png" group-title="SPORTS",...SuperSport World Cup Central (Football Plus)
+http://1.qqtv.nl:8080/live/qqtv2qqtv2/UTibNqVKFI2/412501.ts
+#EXTINF:-1 group-title="DSTV ",3PM: SuperSport Football
+http://starott.vip:8080/HK63Ukja4y36/BXhr8vneDEPs/115574
+#EXTINF:-1 group-title="DSTV ",DSTV | Supersport Premier League
+http://starott.vip:8080/HK63Ukja4y36/BXhr8vneDEPs/115607
+#EXTINF:-1 group-title="DSTV ",DSTV |  Supersport LA Liga
+http://starott.vip:8080/HK63Ukja4y36/BXhr8vneDEPs/115608
+#EXTINF:-1 group-title="DSTV ",3PM:  Supersport LA Liga
+http://starott.vip:8080/HK63Ukja4y36/BXhr8vneDEPs/115617
