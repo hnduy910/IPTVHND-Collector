@@ -2001,3 +2001,5 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/c4764c781ee3132b7dc
 https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/f5372a8e22472297d8e42426135ce8de5f79400a/unfyespanoltv/chocolate.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/a3a4e00c4c2d37bf10720f5b215c4e9350abb6a9/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/a3a4e00c4c2d37bf10720f5b215c4e9350abb6a9/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
+https://raw.githubusercontent.com/KimShenGod/live/0274713d1e3184b599e8f1a62f63f99d9a2fea1c/iptv.m3u
+https://raw.githubusercontent.com/rolnando-play/RP/323d460f7c354fc0a87af03277db933d01cb20c0/iptv2.m3u
