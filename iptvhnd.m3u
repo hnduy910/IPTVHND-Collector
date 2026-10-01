@@ -50746,8 +50746,6 @@ https://stream.zeno.fm/2uavya3ykd0uv
 https://stream.zeno.fm/5fbng4pp738uv
 #EXTINF:-1,POR AMOR AL FUTBOL
 https://stream.zeno.fm/nd9axl69wvxtv
-#EXTINF:-1,ONDA MORADA FUTBOL
-https://stream.zeno.fm/78wsc4b8hqzuv
 #EXTINF:-1,Black Swamp Football
 https://stream.zeno.fm/r509ayar2zhvv
 #EXTINF:-1,futbol pacion
@@ -57793,3 +57791,15 @@ https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
 https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1 tvg-id="vtvgoevent" tvg-name="vtvgo event" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="Thiết Yếu",VTVgo Event 3
 https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies (India) (576p)
+http://51.75.127.199:3141/starmovies/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies (India) HD (1080p)
+http://51.75.127.199:3141/starmovieshd/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
+http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+#EXTINF:-1,Fußball-Bundesliga 2: Spiel 7
+https://wdr-sportschau-liga2spiel7.icecastssl.wdr.de/wdr/sportschau/liga2spiel7/mp3/high
+#EXTINF:-1,Sportschau live: 1.Bundesliga / Spiel 7 - 128 - Germany - live sports
+https://wdr-sportschau-liga1spiel7.icecastssl.wdr.de/wdr/sportschau/liga1spiel7/mp3/high?file=.mp3
+#EXTINF:-1,antena libre 89.1 argentina universidad conahue
+http://cdn.instream.audio:9140/stream?n=ed1b328d11729f1fa623

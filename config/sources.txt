@@ -2112,3 +2112,9 @@ https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/f61f1e7c2d285be150
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/2d17518a962a7c1d0aa879fe7a38d5981127df1a/IPTV/CN.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/7c6dca7538577e88da38e910bac045f5f5dcc72f/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/7c6dca7538577e88da38e910bac045f5f5dcc72f/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
+https://raw.githubusercontent.com/KimShenGod/live/1041c4c14ab89f11642cf98dfc51a6d57bff3734/iptv.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/2c7badbf7d0a3e1b5e2e145ba3c76f7018155765/streams/in.m3u
+https://raw.githubusercontent.com/rolnando-play/RP/31b6c43e1b3a16ed5767f41068c6dc972becd2ae/iptv2.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/cf8ad22f2ebd579d5d56d60d163c45e2502cc2cd/IPTV/fr.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/cf8ad22f2ebd579d5d56d60d163c45e2502cc2cd/IPTV/tw.m3u
+https://raw.githubusercontent.com/spookyhost1/yarr-stremio/750e234dcfa783873c9261504dd9021ef5ee2de6/src/iptv/m3u-sources/gt.m3u
