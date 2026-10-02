@@ -56378,8 +56378,6 @@ https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-TH/thvl1
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-TH/thvl3_6e772fa3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjkm6Zg.png" group-title="Địa phương" tvg-last-checked="2026-08-18T01:19:32+00:00",STV | TH Sơn La
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-TH/stv_th_sn_la_bf589b73.m3u8
-#EXTINF:-1,HTV Se Pone Bueno
-https://stream.zeno.fm/ieagybudukavv
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png", VTV6
@@ -57905,3 +57903,225 @@ https://frostview.squareweb.app/relay/m/eyJ2IjoyLCJzb3VyY2VVcmwiOiJodHRwOi8va3Jr
 https://frostview.squareweb.app/relay/m/eyJ2IjoyLCJzb3VyY2VVcmwiOiJodHRwOi8va3Jrcmtya2tybWV3am5lbmVqbmVlLmNvbTo4MC9saXZlLzgzODkwNTk3OTgvUWUxRk5VUUYxWC80NjgubTN1OCIsInJlbmV3VXJsIjoiIiwicmVmcmVzaFVybCI6IiIsImNoYW5uZWxJZCI6ImNzOmNoYW5uZWw6aGJvLXh0cmVtZSJ9.m3u8
 #EXTINF:-1 tvg-logo="http://lgfp.one/WIT" group-title="Canais de TV",HBO XTREME LEG [FHD]
 https://frostview.squareweb.app/relay/m/eyJ2IjoyLCJzb3VyY2VVcmwiOiJodHRwOi8va3Jrcmtya2tybWV3am5lbmVqbmVlLmNvbTo4MC9saXZlLzgzODkwNTk3OTgvUWUxRk5VUUYxWC8xMjM1NTkubTN1OCIsInJlbmV3VXJsIjoiIiwicmVmcmVzaFVybCI6IiIsImNoYW5uZWxJZCI6ImNzOmNoYW5uZWw6aGJvLXh0cmVtZS1sZWcifQ.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.es@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" group-title="Movies",AXN Movies (Spain)
+https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
+#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win+ Futbol" tvg-logo="https://i.imgur.com/0UN87vB.png" tvg-country="CO" tvg-language="spa" group-title="Sports" nexus-score="0",Win+ Futbol (1080p)
+http://190.217.66.92:8000/play/a0qs/index.m3u8
+#EXTINF:-1,Sport 890 - 108 - Uruguay - futbol
+https://stream.streetbeatfm.ru/online
+#EXTINF:-1 tvg-chno="124" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] New Mexico State vs Western Kentucky (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] New Mexico State vs Western Kentucky (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/QRRRQ.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Tulsa vs North Texas (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Tulsa vs North Texas (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/USSSSAAA.m3u8
+#EXTINF:-1 tvg-chno="132" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Cleveland Browns vs Pittsburgh Steelers 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Cleveland Browns vs Pittsburgh Steelers 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/QRRRQQQQ.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Cleveland Browns vs Pittsburgh Steelers 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Cleveland Browns vs Pittsburgh Steelers 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/QRRRQQQQR.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Azerbaijan vs Liechtenstein (FLY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Soccer",[Soccer] Azerbaijan vs Liechtenstein
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/6dw9r22a
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/73bdcd0bc9aa6dbd922b31d3368f35d94188178da9a09df3d290f7b32385674e/1790909307/sporttv2-pt.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Denmark vs Portugal (FLY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Soccer",[Soccer] Denmark vs Portugal
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/h3ilrqkt-3071
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/96e70e6b4f67cb1315305f983795acc590ffc55884f812be4bf91ed2c15d86ab/1790909307/unl-401861096.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Germany vs Serbia (FLY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Soccer",[Soccer] Germany vs Serbia
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/8dv05xnl-3108
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/487f820e5a5ed35ce1190e3b1f7a416298043228ee3481435a1f7be0ef740d0a/1790909307/unl-401861097.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Greece vs Netherlands (FLY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Soccer",[Soccer] Greece vs Netherlands
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/i78gdhpl-1273
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/d82439acb7e1a618ac8b61c41688ad018e7edd79b66de87bb931a6a5ea890f18/1790909308/unl-401861098.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Israel vs Kosovo (FLY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Soccer",[Soccer] Israel vs Kosovo
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/ya2yiyvm-6808
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/9952d33d66d1de79279e619eae39b3e460dc11bcda677e5721b7b939fd57c266/1790909308/unl-401861095.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Malta vs Gibraltar (FLY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Soccer",[Soccer] Malta vs Gibraltar
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/2ijpjqyz-2978
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/fff975384c8cfc25397f64a038975aeeb91581a8e73e56dd1533ede4c3ea61d7/1790909309/unl-401861099.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Republic of Ireland vs Austria (FLY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Soccer",[Soccer] Republic of Ireland vs Austria
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/tjt7m11f-1420
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/a01155afe049d2b3d5708e5616a0e517e9ffe243987acc858a3fbb081e7c116c/1790909309/unl-401861094.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Wales vs Norway (FLY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Soccer",[Soccer] Wales vs Norway
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/izpzffim-1592
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/b5bda6c3979982d5b9ea744c7d7f68174c15da45f9610ca1dde2d249a4763e56/1790909309/unl-401861100.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[College Football] New Mexico State Aggies vs Western Kentucky Hilltoppers (FLY)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="College Football",[College Football] New Mexico State Aggies vs Western Kentucky Hilltoppers
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/9c2jwr40
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/d8c1f36cb2dde06c5daa909df875ab4dce7590cc3e19e4985120f27a1fcc311c/1790909312/cbssn-usa.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[College Football] Tulsa Golden Hurricane vs North Texas Mean Green (FLY)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="College Football",[College Football] Tulsa Golden Hurricane vs North Texas Mean Green
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/o9bl8cai
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/eec9b684a4383fa0bffb66e3cd974bfbece01d17ca846e6fa8e1087b9586b55e/1790909313/espn-usa.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Dominican Republic vs Haiti (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="Live Events",[CONCACAF Nations League] Dominican Republic vs Haiti (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/BBBBAAAAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Network (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="Live Events",[NFL] NFL Network (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nfl-network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=CgpLtCkLx7_onGD42kLXzQ&e=1790928035
+#EXTINF:-1 tvg-chno="234" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Copa] Blooming vs Independiente (FAWA)" tvg-logo="https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png" group-title="Live Events",[Bolivia Copa] Blooming vs Independiente (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/USSSS.m3u8
+#EXTINF:-1 tvg-chno="238" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Nicaragua vs Costa Rica 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="Live Events",[CONCACAF Nations League] Nicaragua vs Costa Rica 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.dyrur1.com/live/73220754_022b6fc2aabca35436d87491f6625b9b_540p.m3u8?auth_key=1790921014-0-0-82301fcd26ebca8d8dd43431e6a9f0c2
+#EXTINF:-1 tvg-chno="241" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Argentina] Platense vs Estudiantes de La Plata (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2320.png" group-title="Live Events",[Copa Argentina] Platense vs Estudiantes de La Plata (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4827801/platense-estudiantes-de-la-plata/prime/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb4.wfty.st/secure/gbznipO1EvDaqFq6j-7mZg/prime/platense-estudiantes-de-la-plata/1/4827801/1790924451/playlist.m3u8
+#EXTINF:-1 tvg-chno="335" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] Seattle Sounders vs Sporting Kansas City 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] Seattle Sounders vs Sporting Kansas City 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/USSSSAx.m3u8
+#EXTINF:-1 tvg-chno="336" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] Seattle Sounders vs Sporting Kansas City 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] Seattle Sounders vs Sporting Kansas City 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.dyrur1.com/live/g6763i5rmvlbo7r_91a7121811f401a45b7a6aee38e457e2_540p.m3u8?auth_key=1790919054-0-0-c5aaf1a6aea74b88dbef3f4e374b105b
+#EXTINF:-1 tvg-chno="339" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Seattle Sounders FC vs Sporting Kansas City (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Seattle Sounders FC vs Sporting Kansas City (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/761798/seattle-sounders-fc-sporting-kansas-city/pro/2?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb4.wfty.st/secure/wiMZ7PNkz0Vwe8zVF3xhLQ/pro/seattle-sounders-fc-sporting-kansas-city/2/761798/1790928038/playlist.m3u8
+#EXTINF:-1 tvg-chno="340" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Seattle Sounders FC vs Sporting Kansas City (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Seattle Sounders FC vs Sporting Kansas City (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57416?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57416/load-playlist
+#EXTINF:-1 tvg-chno="341" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Seattle Sounders vs Sporting KC (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Seattle Sounders vs Sporting KC (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4621369/seattle-sounders-fc-sporting-kansas-city/pro/2?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/0P7EnwLFTG5qbACGhMLj6w/pro/seattle-sounders-fc-sporting-kansas-city/2/4621369/1790929856/playlist.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Sporting Kansas City vs Seattle Sounders FC (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_sporting-kansas-city-vs-seattle-sounders-fc_Sporting_Kansas_City_vs_Seattl" group-title="Live Events",[MLS] Sporting Kansas City vs Seattle Sounders FC (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/sporting-kansas-city-vs-seattle-sounders-fc1080p/index.m3u8?_e=1790935235&_n=5c91d5b66ed3ba3f&_t=0k5OpMDfhYSy1YalPdB9sg
+#EXTINF:-1 tvg-chno="343" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Sporting Kansas City vs Seattle Sounders FC | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Sporting Kansas City vs Seattle Sounders FC | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv761798
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.online/live/tv761798/index.m3u8?st=q6bNX13OmFRBSRUsYoP6Nw&e=1790913647
+#EXTINF:-1 tvg-chno="345" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] New Mexico State Aggies vs Western Kentucky Hilltoppers (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] New Mexico State Aggies vs Western Kentucky Hilltoppers (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/9c2jwr40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/c4c5da7c6fbe448adef134dd78b21fd57300331c9aeb5db70aca78e429e5a45d/1790915437/cbssn-usa.m3u8
+#EXTINF:-1 tvg-chno="346" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Tulsa Golden Hurricane vs North Texas Mean Green (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] Tulsa Golden Hurricane vs North Texas Mean Green (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/o9bl8cai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/a6eaf96f126fb086056d7c7c5b533793aedd50830020855cc84e3a5149df9717/1790917248/espn-usa.m3u8
+#EXTINF:-1 tvg-chno="349" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Football] Tulsa vs North Texas (REED)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA Football] Tulsa vs North Texas (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 tvg-chno="441" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Denmark vs Portugal | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Denmark vs Portugal | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://maniy.b-cdn.net/den-por/index.m3u8
+#EXTINF:-1 tvg-chno="442" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Germany vs Serbia | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Germany vs Serbia | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://maniy.b-cdn.net/ger-ser/index.m3u8
+#EXTINF:-1 tvg-chno="443" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Greece vs Netherlands | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Greece vs Netherlands | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://futbx.b-cdn.net/gre-ned/index.m3u8
+#EXTINF:-1 tvg-chno="444" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Israel vs Kosovo | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Israel vs Kosovo | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://futbx.b-cdn.net/isr-kos/index.m3u8
+#EXTINF:-1 tvg-chno="445" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Malta vs Gibraltar | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Malta vs Gibraltar | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://futbx.b-cdn.net/mal-gib/index.m3u8
+#EXTINF:-1 tvg-chno="446" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Republic of Ireland vs Austria | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Republic of Ireland vs Austria | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://futbx.b-cdn.net/rep-aus/index.m3u8
+#EXTINF:-1 tvg-chno="447" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Wales vs Norway | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Wales vs Norway | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://maniy.b-cdn.net/wal-nor/index.m3u8
+#EXTINF:-1 tvg-chno="457" tvg-id="Soccer.Dummy.us" tvg-name="[Women's Champions League] Manchester City vs Real Madrid | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live Events",[Women's Champions League] Manchester City vs Real Madrid | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://futbx.b-cdn.net/mci-rma/index.m3u8
+#EXTINF:-1 tvg-chno="458" tvg-id="Soccer.Dummy.us" tvg-name="[Women's Champions League] PSG vs OH Leuven | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live Events",[Women's Champions League] PSG vs OH Leuven | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://futbx.b-cdn.net/psg/index.m3u8
+#EXTINF:-1 tvg-chno="234" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Copa] Blooming vs Independiente (FAWA)" tvg-logo="https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png" group-title="Live Events",[Bolivia Copa] Blooming vs Independiente (FAWA)
+http://193.47.62.44/hls/USSSS.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="237" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Nicaragua vs Costa Rica 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="Live Events",[CONCACAF Nations League] Nicaragua vs Costa Rica 1 (FAWA)
+http://193.47.62.55/hls/BBBBAAAAAAAQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="238" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Nicaragua vs Costa Rica 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="Live Events",[CONCACAF Nations League] Nicaragua vs Costa Rica 2 (FAWA)
+https://live.dyrur1.com/live/73220754_022b6fc2aabca35436d87491f6625b9b_540p.m3u8?auth_key=1790921014-0-0-82301fcd26ebca8d8dd43431e6a9f0c2|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="241" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Argentina] Platense vs Estudiantes de La Plata (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2320.png" group-title="Live Events",[Copa Argentina] Platense vs Estudiantes de La Plata (WATCHFTY)
+https://lb4.wfty.st/secure/gbznipO1EvDaqFq6j-7mZg/prime/platense-estudiantes-de-la-plata/1/4827801/1790924451/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/4827801/platense-estudiantes-de-la-plata/prime/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/4827801/platense-estudiantes-de-la-plata/prime/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="335" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] Seattle Sounders vs Sporting Kansas City 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] Seattle Sounders vs Sporting Kansas City 1 (FAWA)
+http://193.47.62.44/hls/USSSSAx.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="336" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] Seattle Sounders vs Sporting Kansas City 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] Seattle Sounders vs Sporting Kansas City 2 (FAWA)
+https://live.dyrur1.com/live/g6763i5rmvlbo7r_91a7121811f401a45b7a6aee38e457e2_540p.m3u8?auth_key=1790919054-0-0-c5aaf1a6aea74b88dbef3f4e374b105b|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="339" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Seattle Sounders FC vs Sporting Kansas City (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Seattle Sounders FC vs Sporting Kansas City (WATCHFTY)
+https://lb4.wfty.st/secure/wiMZ7PNkz0Vwe8zVF3xhLQ/pro/seattle-sounders-fc-sporting-kansas-city/2/761798/1790928038/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/761798/seattle-sounders-fc-sporting-kansas-city/pro/2%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/761798/seattle-sounders-fc-sporting-kansas-city/pro/2%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="340" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Seattle Sounders FC vs Sporting Kansas City (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Seattle Sounders FC vs Sporting Kansas City (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/57416/load-playlist|Referer=https%3A//gooz.aapmains.net/new-stream-embed/57416%3Fad%3D111&Origin=https%3A//gooz.aapmains.net/new-stream-embed/57416%3Fad%3D111&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="341" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Seattle Sounders vs Sporting KC (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Seattle Sounders vs Sporting KC (WATCHFTY)
+https://lb5.wfty.st/secure/0P7EnwLFTG5qbACGhMLj6w/pro/seattle-sounders-fc-sporting-kansas-city/2/4621369/1790929856/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/4621369/seattle-sounders-fc-sporting-kansas-city/pro/2%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/4621369/seattle-sounders-fc-sporting-kansas-city/pro/2%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="342" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Sporting Kansas City vs Seattle Sounders FC (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_sporting-kansas-city-vs-seattle-sounders-fc_Sporting_Kansas_City_vs_Seattl" group-title="Live Events",[MLS] Sporting Kansas City vs Seattle Sounders FC (STRMFREE)
+https://streamfree.top/live-cdn/sporting-kansas-city-vs-seattle-sounders-fc1080p/index.m3u8?_e=1790935235&_n=5c91d5b66ed3ba3f&_t=0k5OpMDfhYSy1YalPdB9sg|Referer=https%3A//streamfree.top&Origin=https%3A//streamfree.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="343" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Sporting Kansas City vs Seattle Sounders FC | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Sporting Kansas City vs Seattle Sounders FC | English (STRMGATE)
+https://instreams.online/live/tv761798/index.m3u8?st=q6bNX13OmFRBSRUsYoP6Nw&e=1790913647|Referer=https%3A//instream.click/livetv.php%3Fstream%3Dtv761798&Origin=https%3A//instream.click/livetv.php%3Fstream%3Dtv761798&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="345" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] New Mexico State Aggies vs Western Kentucky Hilltoppers (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] New Mexico State Aggies vs Western Kentucky Hilltoppers (FLYEMBD)
+https://justkidding.junksonus.party/main/secure/c4c5da7c6fbe448adef134dd78b21fd57300331c9aeb5db70aca78e429e5a45d/1790915437/cbssn-usa.m3u8|Referer=https%3A//exmxbxe.cfd/flyemb/9c2jwr40&Origin=https%3A//exmxbxe.cfd/flyemb/9c2jwr40&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="346" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Tulsa Golden Hurricane vs North Texas Mean Green (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] Tulsa Golden Hurricane vs North Texas Mean Green (FLYEMBD)
+https://justkidding.junksonus.party/main/secure/a6eaf96f126fb086056d7c7c5b533793aedd50830020855cc84e3a5149df9717/1790917248/espn-usa.m3u8|Referer=https%3A//exmxbxe.cfd/flyemb/o9bl8cai&Origin=https%3A//exmxbxe.cfd/flyemb/o9bl8cai&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="347" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] New Mexico State vs Western Kentucky (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] New Mexico State vs Western Kentucky (FAWA)
+http://193.47.62.50/hls/QRRRQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="348" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Tulsa vs North Texas (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Tulsa vs North Texas (FAWA)
+http://193.47.62.44/hls/USSSSAAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="349" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Football] Tulsa vs North Texas (REED)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA Football] Tulsa vs North Texas (REED)
+https://tedesco.formaturamaxi.com.br/ncaa2.m3u8|Referer=https%3A//reedstreams.link&Origin=https%3A//reedstreams.link&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="355" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Cleveland Browns vs Pittsburgh Steelers 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Cleveland Browns vs Pittsburgh Steelers 1 (FAWA)
+http://193.47.62.59/hls/QRRRQQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="356" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Cleveland Browns vs Pittsburgh Steelers 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Cleveland Browns vs Pittsburgh Steelers 2 (FAWA)
+http://193.47.62.59/hls/QRRRQQQQR.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="441" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Denmark vs Portugal | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Denmark vs Portugal | Main Feed (FUTBOLX)
+https://maniy.b-cdn.net/den-por/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="442" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Germany vs Serbia | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Germany vs Serbia | Main Feed (FUTBOLX)
+https://maniy.b-cdn.net/ger-ser/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="443" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Greece vs Netherlands | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Greece vs Netherlands | Main Feed (FUTBOLX)
+https://futbx.b-cdn.net/gre-ned/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="444" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Israel vs Kosovo | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Israel vs Kosovo | Main Feed (FUTBOLX)
+https://futbx.b-cdn.net/isr-kos/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="445" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Malta vs Gibraltar | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Malta vs Gibraltar | Main Feed (FUTBOLX)
+https://futbx.b-cdn.net/mal-gib/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="446" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Republic of Ireland vs Austria | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Republic of Ireland vs Austria | Main Feed (FUTBOLX)
+https://futbx.b-cdn.net/rep-aus/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="447" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Wales vs Norway | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Wales vs Norway | Main Feed (FUTBOLX)
+https://maniy.b-cdn.net/wal-nor/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="457" tvg-id="Soccer.Dummy.us" tvg-name="[Women's Champions League] Manchester City vs Real Madrid | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live Events",[Women's Champions League] Manchester City vs Real Madrid | Main Feed (FUTBOLX)
+https://futbx.b-cdn.net/mci-rma/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="458" tvg-id="Soccer.Dummy.us" tvg-name="[Women's Champions League] PSG vs OH Leuven | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live Events",[Women's Champions League] PSG vs OH Leuven | Main Feed (FUTBOLX)
+https://futbx.b-cdn.net/psg/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
