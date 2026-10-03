@@ -424,6 +424,7 @@
 #EXTM3U tvg-url="https://lichphatsong.io.vn/epg.xml,https://epg.io.vn/epg.xml,http://trada.info/epg.xml,http://epg.51zmt.top:8000/e.xml,http://epg.it999.ru/epg.xml.gz,https://epg.pw/xmltv/epg_ID.xml" m3uautoload=1
 #DATE: 2026-09-28 04:20:45
 #DATE: 2026-09-30 04:32:30
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="Movies",ON Movies (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lifetime Movies (1080p)
@@ -524,3 +525,5 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v
 http://51.75.127.199:3141/starmovieshd/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.es@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" group-title="Movies",AXN Movies (Spain)
+https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd

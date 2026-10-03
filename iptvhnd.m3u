@@ -424,6 +424,7 @@
 #EXTM3U tvg-url="https://lichphatsong.io.vn/epg.xml,https://epg.io.vn/epg.xml,http://trada.info/epg.xml,http://epg.51zmt.top:8000/e.xml,http://epg.it999.ru/epg.xml.gz,https://epg.pw/xmltv/epg_ID.xml" m3uautoload=1
 #DATE: 2026-09-28 04:20:45
 #DATE: 2026-09-30 04:32:30
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -57795,8 +57796,6 @@ http://51.75.127.199:3141/starmovies/index.m3u8
 http://51.75.127.199:3141/starmovieshd/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
 #EXTINF:-1,ONDA MORADA FUTBOL
 https://stream.zeno.fm/78wsc4b8hqzuv
 #EXTINF:-1 tvg-chno="224" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualification] Guinea vs Kenya (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations Qualification] Guinea vs Kenya (FAWA)
