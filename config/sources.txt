@@ -2247,3 +2247,9 @@ https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/63ab17e5c2f5f87ec8
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/df0eca0e9c8e04ab138fc2791c0e2c080e74a378/IPTV/bg.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/df0eca0e9c8e04ab138fc2791c0e2c080e74a378/IPTV/cl.m3u
 https://raw.githubusercontent.com/vietng228/m3u/5bdc271a4c9f2a8228a42c276a39e17796c2d442/m3u.m3u
+https://raw.githubusercontent.com/ahan443/FAST-IPTV/32068f1914ef0624804ce0fa7d2ed4444bba3a4c/qjim.m3u.m3u8
+https://raw.githubusercontent.com/boxkim14/m3u8/fc2532b1effc5eb8fe6657f096b074bf9d19b373/vn.m3u8
+https://raw.githubusercontent.com/greatly33/trimm3/778f52676708cb8987e556c86de0dc4974730905/yogam.m3u8
+https://raw.githubusercontent.com/greatly33/trimm3/778f52676708cb8987e556c86de0dc4974730905/yumtv.m3u8
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/7dc8cc6c113acfdb3c31b4391a7b3f46dbeca139/IPTV/CN.m3u8
+https://raw.githubusercontent.com/yyyr-otz/iptv-api/6b13e564cd1bb0b26eebbd191baaf739cffd84ff/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
