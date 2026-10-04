@@ -427,6 +427,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 # (●) Total Channels: 533
+#EXTM3U url-tvg="http://gg.gg/epgvnHT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 http://gg.gg/8zy29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -58398,3 +58400,68 @@ https://ch.iptvmate.net/d696264de8598212f25dca7770d4423d.m3u8
 https://ch.iptvmate.net/4890ec49aed6c5c206ae6520e3c94438.m3u8
 #EXTINF:-1,UK:SKY CINEMA ACTION HD
 https://ch.iptvmate.net/ae4310b6d522bdb54a747d6b585fb669.m3u8
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 1 HD (reserv)" tvg-logo="" group-title="Sport",DE: SKY BUNDESLIGA 1 HD (reserv)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30381
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 1 HD" tvg-logo="" group-title="Sport",DE: Bundesliga 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14175
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 2 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 2 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14176
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 3 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 3 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14177
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 4 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 4 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14178
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 5 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 5 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14179
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 6 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 6 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14180
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 7 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 7 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14181
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Football HD" tvg-logo="" group-title="Sport",UK: Sky Sport Football HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14082
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: HBO HD" tvg-logo="" group-title="Croatia",Ex Yu: HBO HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14301
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: HBO 2 HD" tvg-logo="" group-title="Croatia",Ex Yu: HBO 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14302
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies ex-Yu" tvg-logo="" group-title="EX-Yu",Fox Movies ex-Yu
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/13844
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 1 ex-Yu" tvg-logo="" group-title="EX-Yu",Cinemax 1 ex-Yu
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/13976
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 ex-Yu" tvg-logo="" group-title="EX-Yu",Cinemax 2 ex-Yu
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/13977
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 SRB ex-Yu" tvg-logo="" group-title="EX-Yu",HBO 1 SRB ex-Yu
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/13987
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SRB ex-Yu" tvg-logo="" group-title="EX-Yu",HBO 2 SRB ex-Yu
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/13988
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 SRB ex-Yu" tvg-logo="" group-title="EX-Yu",HBO 3 SRB ex-Yu
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/13989
+#EXTINF:-1 tvg-id="" tvg-name="HBO Adria ex-Yu" tvg-logo="" group-title="EX-Yu",HBO Adria ex-Yu
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/13990
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy ex-Yu" tvg-logo="" group-title="EX-Yu",HBO Comedy ex-Yu
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/13991
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",V.News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="VTV" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg",Bà Rịa Vũng Tàu
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Địa Phương",Vĩnh Long 1 HD
+https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg" group-title="Địa Phương",Vĩnh Long 2 HD
+https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+#EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg" group-title="Địa Phương",Vĩnh Long 3 HD
+https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
