@@ -425,6 +425,8 @@
 #DATE: 2026-09-28 04:20:45
 #DATE: 2026-09-30 04:32:30
 #EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+# (●) Total Channels: 533
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -58324,3 +58326,75 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-tayninhtv/playlist_360p.m3u8
 https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/chunklist_0.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" tvg-name="TTV Thanh Hóa" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/56/TTV_Thanh_H%C3%B3a.png/revision/latest?cb=20180718183027&path-prefix=vi" group-title="Địa Phương",TTV Thanh Hóa
 http://123.31.36.68/live.m3u8?c=vstv208&q=high&type=tv&location=NA&pkg=pkg11.hni
+#EXTINF:-1 tvg-id="AXNWhite.us@Portugal" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment",AXN White Portugal (576p)
+http://188.115.15.121:8000/play/a01u
+#EXTINF:-1 tvg-id="UCL.uy@SD" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Culture",UCL (1080p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
+#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1" tvg-logo="http://nextgen-iptv.com/newlogo/HRT1-logo.png" group-title="Hrvatska",HRT 1
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1261.ts
+#EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2" tvg-logo="http://nextgen-iptv.com/newlogo/Htv2-logo.png" group-title="Hrvatska",HRT 2
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1260.ts
+#EXTINF:-1 tvg-id="HTV3" tvg-name="HRT 3" tvg-logo="" group-title="Hrvatska",HRT 3
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1259.ts
+#EXTINF:-1 tvg-id="HTV4" tvg-name="HRT 4" tvg-logo="" group-title="Hrvatska",HRT 4
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1258.ts
+#EXTINF:-1 tvg-id="VarazdinskaTV" tvg-name="VTV Varazdinska" tvg-logo="" group-title="Hrvatska",VTV Varazdinska
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/8356.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Adria" tvg-logo="" group-title="Film & serije",HBO Adria
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1385.ts
+#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Film & serije",HBO 2
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1384.ts
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO 3" tvg-logo="" group-title="Film & serije",HBO 3
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1383.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax 1" tvg-logo="" group-title="Film & serije",Cinemax 1
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1377.ts
+#EXTINF:-1 tvg-id="Cinemax2" tvg-name="Cinemax 2" tvg-logo="" group-title="Film & serije",Cinemax 2
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1376.ts
+#EXTINF:-1 tvg-id="FoxMovies" tvg-name="FOX Movies" tvg-logo="" group-title="Film & serije",FOX Movies
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 DE" tvg-logo="" group-title="Sport - Deutschland",Sky Sport Bundesliga 1 DE
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1485.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League UK" tvg-logo="https://sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="Sport",Sky Sports Premier League UK
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/7092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="" group-title="Sport",Sky Sports Football UK
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/7097.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema 24 DE" tvg-logo="" group-title="Deutsch",Sky Cinema 24 DE
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema  24 DE" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/448_sky_logo_skycinema24hd_tvguide.png" group-title="Deutsch",Sky Cinema  24 DE
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1555.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamilyHD" tvg-name="Sky Cinema Family FHD" tvg-logo="" group-title="Italian",Sky Cinema Family FHD
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/8270.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Sl (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Slovenija",HBO Sl (test)
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/12729.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 Sl (test)" tvg-logo="" group-title="Slovenija",HBO 2 Sl (test)
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/12730.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 Sl (test)" tvg-logo="" group-title="Slovenija",HBO 3 Sl (test)
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/12731.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Sl (test)" tvg-logo="" group-title="Slovenija",Fox Movies Sl (test)
+http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/12735.ts
+#EXTINF:-1,UK:SKY SPORTS PREMIER LEAGUE HD
+https://ch.iptvmate.net/43571665068a87c03d13e4546e791ce6.m3u8
+#EXTINF:-1,UK:SKY SPORTS FOOTBALL HD
+https://ch.iptvmate.net/13882d1969b89faca8526a17267eb509.m3u8
+#EXTINF:-1,UK:SKY CINEMA THRILLER HD
+https://ch.iptvmate.net/05913c029f67fc90b3cfbca06cff8489.m3u8
+#EXTINF:-1,UK:SKY CINEMA SELECT HD
+https://ch.iptvmate.net/995b3cba87fd5d7d20a26046bc33264a.m3u8
+#EXTINF:-1,UK:SKY CINEMA SCI:FI & HORROR HD
+https://ch.iptvmate.net/6d0565c98c8d99daf19b89f9e90c4939.m3u8
+#EXTINF:-1,UK:SKY CINEMA PREMIERE HD
+https://ch.iptvmate.net/7fdaebb8ab23d11b9411732b4b91ef7d.m3u8
+#EXTINF:-1,UK:SKY CINEMA HITS HD
+https://ch.iptvmate.net/029402d38192d2abd59e65bdeb1d8b63.m3u8
+#EXTINF:-1,UK:SKY CINEMA GREATS HD
+https://ch.iptvmate.net/e7522a3c56b7d5ffc758dacb0b874076.m3u8
+#EXTINF:-1,UK:SKY CINEMA FAMILY HD
+https://ch.iptvmate.net/ca5e9c08c989fb4725eb2840aefa5995.m3u8
+#EXTINF:-1,UK:SKY CINEMA DRAMA HD
+https://ch.iptvmate.net/a38163e1188e13e67e16d0eb76e6ca8a.m3u8
+#EXTINF:-1,UK:SKY CINEMA DISNEY HD
+https://ch.iptvmate.net/d696264de8598212f25dca7770d4423d.m3u8
+#EXTINF:-1,UK:SKY CINEMA COMEDY HD
+https://ch.iptvmate.net/4890ec49aed6c5c206ae6520e3c94438.m3u8
+#EXTINF:-1,UK:SKY CINEMA ACTION HD
+https://ch.iptvmate.net/ae4310b6d522bdb54a747d6b585fb669.m3u8
