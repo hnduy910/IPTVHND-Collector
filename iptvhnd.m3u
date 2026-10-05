@@ -430,6 +430,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgvnHT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 http://gg.gg/8zy29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,https://iptvx.one/EPG_NOARCH,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.pw/xmltv/epg_ID.xml,http://epg.ra1n.lol/jp.xml"
+#DATE: 2026-10-05 04:22:58
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -57209,8 +57210,6 @@ https://792jdf7.s.gy/hbo_family2
 https://792jdf7.s.gy/cinemax2
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies Latin America (1080p)
 http://38.252.238.18:8000/play/a01e/index.m3u8
-#EXTINF:-1,Vietnam War Rock
-https://stream.zeno.fm/g91qxch7gv8uv
 #EXTINF:-1 tvg-chno="100" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="TV",Lifetime Movie Network
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -58464,8 +58463,6 @@ https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 #EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg" group-title="Địa Phương",Vĩnh Long 3 HD
 https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,schuelerradio
-https://stream.laut.fm/schuelerradio?ref=radiode
 #EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川新闻
 http://scgctvshow.sctv.com/sdlive/sctv4/1.m3u8
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视文化
@@ -58516,3 +58513,9 @@ https://live.pipitv.top/stream/channelid/545009077
 https://ott4.nethubtv.vn/live/laocaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVFuzesabony.hu" status="online",VTV Füzesabony (720p) [Not 24/7]
 https://stream.unrealhosting.hu:7962/live.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="100",Sony Movies (720p)
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+#EXTINF:-1,VOA Vietnamese
+http://voa-56.ng.akacast.akamaistream.net/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56
+#EXTINF:-1,Vietnam 247 Nhacchonloc
+http://54.245.238.239:8010/
