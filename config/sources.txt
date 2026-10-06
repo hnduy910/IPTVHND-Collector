@@ -2463,3 +2463,4 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/803e1ebe0df
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/340e5db919faec6c63b791f28e763629b3e754a0/IPTV/tw.m3u
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/ef2e410da6517d0669ab9c224a20218ca01e6727/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/ef2e410da6517d0669ab9c224a20218ca01e6727/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
+https://raw.githubusercontent.com/badboys88888/IPTV/0a995ecb8ce6812ea387b8d663d07f2f5a055a49/iptv.m3u

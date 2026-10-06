@@ -58519,3 +58519,9 @@ http://170.83.16.50/SONY_MOVIES/index.m3u8
 http://voa-56.ng.akacast.akamaistream.net/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56
 #EXTINF:-1,Vietnam 247 Nhacchonloc
 http://54.245.238.239:8010/
+#EXTINF:-1 tvg-id="AXNBlack.us@Hungary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Movies",AXN Black Hungary (576p)
+http://141.94.193.53:80/axn_black/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max HD (1080p)
+http://103.185.24.134:3001/SonyMAX/index.m3u8
+#EXTINF:-1,Vietnam War Rock
+https://stream.zeno.fm/g91qxch7gv8uv
