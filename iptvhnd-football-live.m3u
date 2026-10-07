@@ -475,3 +475,9 @@ https://vmttv.dpdns.org/tv360/?id=360-bundesliga
 http://185.121.1.163:8083/FootballHD/index.m3u8
 #EXTINF:-1 tvg-id="GBBC90001089" tvg-name="Strongman Champions League" tvg-logo="https://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-Logo-PNG-100x100_v1.png" group-title="体育竞技 - 北美",Strongman Champions League
 https://dbrb49pjoymg4.cloudfront.net/10001/99951180/hls/playlist.m3u8?ads.xumo_channelId=99951180&ads._fw_ifa_type=&ads._fw_did=03e44044-960c-4a0f-9677-5f21ed6bd3fb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=RightsBoosterStrongmanChamp&ads.csid=xumo_web_RightsBoosterStrongmanChamp_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=3808&ads.xumo_contentName=RightsBoosterStrongmanChamp&ads.xumo_providerId=3808&ads.xumo_providerName=RightsBoosterStrongmanChamp&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951180&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRxgLhWT/ezgif-421d49f0a70b777e.png",SKY SPORTS PREMIER LEAGUE
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6p3Rqfg/ezgif-354bbe37d96cb2b6.png",MATCH! FUTBOL 1
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3ZCJC9R/ezgif-3acf9ac4ad04b50e.png",MATCH! FUTBOL 2
+http://stream.mcquack.net/142/index.m3u8

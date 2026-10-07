@@ -58536,8 +58536,6 @@ http://103.185.24.134:3001/Star-Movies/index.m3u8
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="eng;hin;tam" group-title="Movies" nexus-score="0",Star Movies Select (1080p)
 http://103.151.60.162:2122/play/a02l/index.m3u8?hls
-#EXTINF:-1,antena libre 89.1 argentina universidad conahue
-http://cdn.instream.audio:9140/stream?n=ed1b328d11729f1fa623
 #EXTINF:-1 tvg-chno="36" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="TV",Cinemax
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -58794,3 +58792,276 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47816
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47821
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-uk.png?raw=true" group-title="影视剧场",Sky Cinema Animation UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47814
+#EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="General",SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-country="ID" tvg-language="ind" group-title="Kids" nexus-score="0",VTV (1080p)
+http://202.150.172.59/VTVHD/index.m3u8
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1 tvg-chno="99" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] French Guiana vs Belize (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="Live Events",[CONCACAF Nations League] French Guiana vs Belize (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DBBBQ.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Mexico vs Chile 1 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] Mexico vs Chile 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DBBBQQQ.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Colombia vs Peru (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] Colombia vs Peru (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/FIIIAAAA.m3u8
+#EXTINF:-1 tvg-chno="139" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] USA vs Canada 1 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] USA vs Canada 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/FIIIAAAAAA.m3u8
+#EXTINF:-1 tvg-chno="252" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Troy vs Southern Miss (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Troy vs Southern Miss (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/FIIIAAAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="Football.Dummy.us" tvg-name="[American Football] Southern Miss Golden Eagles vs. Troy Trojans | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Southern Miss Golden Eagles vs. Troy Trojans | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/JHDAJBDnjdna30.m3u8
+#EXTINF:-1 tvg-chno="159" tvg-id="Soccer.Dummy.us" tvg-name="[International Friendly] Argentina vs. Benin (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/71a438aa413fb1cbdd5d3b687b540ba8-thumbnail.jpg" group-title="Live Events",[International Friendly] Argentina vs. Benin (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mens-international-friendly/2026-10-06/arg-ben
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/mens-international-friendly/2026-10-06/arg-ben/playlist.m3u8?tk=QVqE6kmEccM1t9oAO8WyAQ&e=1791369016
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png",PREMIER LEAGUE TV
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1847707.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",ASTRO PREMIER LEAGUE
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1163684.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",ASTRO PREMIER LEAGUE 2
+http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",ASTRO FOOTBALL
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1920383.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SCTV8.png/revision/latest?cb=20220312144352",SCTV 8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv8/master.m3u8
+#EXTINF:-1 tvg-logo="hhh",SKY CINEMA ACTION
+http://203.215.180.201:48100/play/a001
+#EXTINF:-1 tvg-logo="hhh",SKY CINEMA PREMIER
+http://203.215.180.201:48100/play/a002
+#EXTINF:-1 tvg-logo="hhh",SKY CINEMA SELECT
+http://203.215.180.201:48100/play/a004
+#EXTINF:-1 tvg-logo="hhh",SKY CINEMA PREMIER
+http://203.215.180.201:48100/play/a006
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRxgLhWT/ezgif-421d49f0a70b777e.png",SKY SPORTS PREMIER LEAGUE
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq8Sk5dt/ezgif-220cd37ec7619cae.png",SKY SPORTS FOOTBALL
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/693877.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png",SKY SPORT BUNDESLIGA
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1904936.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6p3Rqfg/ezgif-354bbe37d96cb2b6.png",MATCH! FUTBOL 1
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3ZCJC9R/ezgif-3acf9ac4ad04b50e.png",MATCH! FUTBOL 2
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3VHb85g/ezgif-35c33702c15c66cc.png",MATCH! FUTBOL 3
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/231519.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Copa] Aurora vs Academia del Balompie (FAWA)" tvg-logo="https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png" group-title="Live Events",[Bolivia Copa] Aurora vs Academia del Balompie (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/FIIIAAAAA.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie B] Ponte Preta vs Juventude (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2299.png" group-title="Live Events",[Brazil Serie B] Ponte Preta vs Juventude (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/FIIIAAAAAAQQQQ.m3u8
+#EXTINF:-1 tvg-chno="325" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Benin vs Argentina | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA FRIENDLY] Benin vs Argentina | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401921408
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401921408/index.m3u8?st=ia0YEhU0DUcItL-TdtkfTQ&e=1791347453
+#EXTINF:-1 tvg-chno="326" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Canada vs United States | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA FRIENDLY] Canada vs United States | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401905188
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.online/live3/tv401905188/index.m3u8?st=xGwA6Jy7xbrw9Xlthh-YNQ&e=1791351211
+#EXTINF:-1 tvg-chno="327" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Chile vs Mexico | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA FRIENDLY] Chile vs Mexico | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401903298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.online/live3/tv401903298/index.m3u8?st=OscJLImtEiMxbes9cHHDZw&e=1791349263
+#EXTINF:-1 tvg-chno="328" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Peru vs Colombia | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA FRIENDLY] Peru vs Colombia | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401905332
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.online/live3/tv401905332/index.m3u8?st=zSTOlvYBca7BKarEnDDWqA&e=1791351210
+#EXTINF:-1 tvg-chno="329" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA International Friendly] Mexico vs Chile (WATCHFTY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA International Friendly] Mexico vs Chile (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401903298/mexico-chile/deluxe/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb4.wfty.st/secure/9RUjQvn-udrfRgSbgWaa2w/deluxe/mexico-chile/1/401903298/1791363668/playlist.m3u8
+#EXTINF:-1 tvg-chno="330" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA International Friendly] United States vs Canada (WATCHFTY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA International Friendly] United States vs Canada (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401905188/united-states-canada/prime/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/FKdjSmjvWIjvLzLROyMWEw/prime/united-states-canada/1/401905188/1791354667/playlist.m3u8
+#EXTINF:-1 tvg-chno="331" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Albania vs. San Marino | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Albania vs. San Marino | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream6.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="333" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Belarus vs. Finland | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Belarus vs. Finland | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/griogoehvn2.m3u8
+#EXTINF:-1 tvg-chno="334" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Croatia vs. Spain | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Croatia vs. Spain | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-chno="336" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Estonia vs. Iceland | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Estonia vs. Iceland | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="337" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Luxembourg vs. Bulgaria | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Luxembourg vs. Bulgaria | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/ueyeztrazb4.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Moldova vs. Slovakia | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Moldova vs. Slovakia | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="340" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Switzerland vs. North Macedonia | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Switzerland vs. North Macedonia | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-chno="349" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Mexico vs Chile 2 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] Mexico vs Chile 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/fe0b5b41-bbd4-4ed9-99c0-303f3b4b8c0f.m3u8
+#EXTINF:-1 tvg-chno="351" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] USA vs Canada 2 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] USA vs Canada 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/f7a022c0-2874-46aa-88ab-cc421122c02c.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] Chicago Fire vs Vancouver Whitecaps (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] Chicago Fire vs Vancouver Whitecaps (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/FIIIAAAAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Chicago Fire FC vs Vancouver Whitecaps (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Chicago Fire FC vs Vancouver Whitecaps (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/761660/chicago-fire-fc-vancouver-whitecaps/platinum/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/p8empx0leQ7I3ndeP3eIlA/platinum/chicago-fire-fc-vancouver-whitecaps/1/761660/1791356456/playlist.m3u8
+#EXTINF:-1 tvg-chno="411" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Chicago Fire vs Vancouver Whitecaps (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Chicago Fire vs Vancouver Whitecaps (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4621506/chicago-fire-fc-vancouver-whitecaps/platinum/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/h5F4UJbwCyLv6i6yT4RnvA/platinum/chicago-fire-fc-vancouver-whitecaps/1/4621506/1791358258/playlist.m3u8
+#EXTINF:-1 tvg-chno="412" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Chicago Fire vs Vancouver Whitecaps (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Chicago Fire vs Vancouver Whitecaps (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57693?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57693/load-playlist
+#EXTINF:-1 tvg-chno="415" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Vancouver Whitecaps vs Chicago Fire FC | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Vancouver Whitecaps vs Chicago Fire FC | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv761660
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv761660/index.m3u8?st=mj1eMrHdZi-_nTP2t0U74g&e=1791352862
+#EXTINF:-1 tvg-chno="419" tvg-id="Soccer.Dummy.us" tvg-name="[Major League Soccer] Chicago Fire vs Vancouver Whitecaps (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[Major League Soccer] Chicago Fire vs Vancouver Whitecaps (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/l336d2w0-8438
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/212ececf9376990731bb85c0385bbdde0ffe27e58cf7c3a536fe62267e383a02/1791347463/mls-761660.m3u8
+#EXTINF:-1 tvg-chno="420" tvg-id="Soccer.Dummy.us" tvg-name="[Major League Soccer] Vancouver Whitecaps @ Chicago Fire FC (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mls-761660.png" group-title="Live Events",[Major League Soccer] Vancouver Whitecaps @ Chicago Fire FC (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/l336d2w0-2145
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/9c139d94cf3ab4413ca9793f814a37bab251ca8c483632779ce575e60b804cfe/1791347462/mls-761660.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="TV",Cinemax
+https://cache0.wonvt.st/live/0m0yysq155l4ml0wmil1i/master.m3u8|Referer=https%3A//tvnow.st/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="96" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="TV",HBO Zone
+https://cache0.wonvt.st/live/00snqsg12ufiyt0ufhal4/master.m3u8|Referer=https%3A//tvnow.st/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="226" tvg-id="Football.Dummy.us" tvg-name="[American Football] Southern Miss Golden Eagles vs. Troy Trojans | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Southern Miss Golden Eagles vs. Troy Trojans | English (STRMCNTR)
+https://edgestream5.pro/hls/JHDAJBDnjdna30.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="305" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Copa] Aurora vs Academia del Balompie (FAWA)" tvg-logo="https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png" group-title="Live Events",[Bolivia Copa] Aurora vs Academia del Balompie (FAWA)
+http://193.47.62.41/hls/FIIIAAAAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="313" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie B] Ponte Preta vs Juventude (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2299.png" group-title="Live Events",[Brazil Serie B] Ponte Preta vs Juventude (FAWA)
+http://193.47.62.41/hls/FIIIAAAAAAQQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="315" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] French Guiana vs Belize (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="Live Events",[CONCACAF Nations League] French Guiana vs Belize (FAWA)
+http://193.47.62.50/hls/DBBBQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="325" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Benin vs Argentina | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA FRIENDLY] Benin vs Argentina | English (STRMGATE)
+https://instreams.pro/live3/tv401921408/index.m3u8?st=ia0YEhU0DUcItL-TdtkfTQ&e=1791347453|Referer=https%3A//xstream.st/livetv.php%3Fstream%3Dtv401921408&Origin=https%3A//xstream.st/livetv.php%3Fstream%3Dtv401921408&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="326" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Canada vs United States | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA FRIENDLY] Canada vs United States | English (STRMGATE)
+https://instreams.online/live3/tv401905188/index.m3u8?st=xGwA6Jy7xbrw9Xlthh-YNQ&e=1791351211|Referer=https%3A//xstream.st/livetv.php%3Fstream%3Dtv401905188&Origin=https%3A//xstream.st/livetv.php%3Fstream%3Dtv401905188&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="327" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Chile vs Mexico | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA FRIENDLY] Chile vs Mexico | English (STRMGATE)
+https://instreams.online/live3/tv401903298/index.m3u8?st=OscJLImtEiMxbes9cHHDZw&e=1791349263|Referer=https%3A//xstream.st/livetv.php%3Fstream%3Dtv401903298&Origin=https%3A//xstream.st/livetv.php%3Fstream%3Dtv401903298&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="328" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Peru vs Colombia | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA FRIENDLY] Peru vs Colombia | English (STRMGATE)
+https://instreams.online/live3/tv401905332/index.m3u8?st=zSTOlvYBca7BKarEnDDWqA&e=1791351210|Referer=https%3A//xstream.st/livetv.php%3Fstream%3Dtv401905332&Origin=https%3A//xstream.st/livetv.php%3Fstream%3Dtv401905332&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="329" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA International Friendly] Mexico vs Chile (WATCHFTY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA International Friendly] Mexico vs Chile (WATCHFTY)
+https://lb4.wfty.st/secure/9RUjQvn-udrfRgSbgWaa2w/deluxe/mexico-chile/1/401903298/1791363668/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/401903298/mexico-chile/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/401903298/mexico-chile/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="330" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA International Friendly] United States vs Canada (WATCHFTY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA International Friendly] United States vs Canada (WATCHFTY)
+https://lb5.wfty.st/secure/FKdjSmjvWIjvLzLROyMWEw/prime/united-states-canada/1/401905188/1791354667/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/401905188/united-states-canada/prime/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/401905188/united-states-canada/prime/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="331" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Albania vs. San Marino | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Albania vs. San Marino | English (STRMCNTR)
+https://edgestream6.pro/hls/dza5z8f69.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="332" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Argentina vs. Benin | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Argentina vs. Benin | English (STRMCNTR)
+https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="333" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Belarus vs. Finland | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Belarus vs. Finland | English (STRMCNTR)
+https://edgestream7.pro/hls/griogoehvn2.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="334" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Croatia vs. Spain | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Croatia vs. Spain | English (STRMCNTR)
+https://edgestream7.pro/hls/sqdahach1ax.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="335" tvg-id="Soccer.Dummy.us" tvg-name="[Football] England vs. Czechia | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] England vs. Czechia | English (STRMCNTR)
+https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="336" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Estonia vs. Iceland | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Estonia vs. Iceland | English (STRMCNTR)
+https://edgestream4.pro/hls/b0h5fNwDKH.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="337" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Luxembourg vs. Bulgaria | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Luxembourg vs. Bulgaria | English (STRMCNTR)
+https://edgestream5.pro/hls/ueyeztrazb4.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="338" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Moldova vs. Slovakia | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Moldova vs. Slovakia | English (STRMCNTR)
+https://edgestream5.pro/hls/syaLqucEne4k.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="339" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Scotland vs. Slovenia | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Scotland vs. Slovenia | English (STRMCNTR)
+https://edgestream6.pro/hls/eJmauBDCIf.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="340" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Switzerland vs. North Macedonia | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Switzerland vs. North Macedonia | English (STRMCNTR)
+https://edgestream5.pro/hls/377qj1h2727.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="348" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Mexico vs Chile 1 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] Mexico vs Chile 1 (FAWA)
+http://193.47.62.41/hls/DBBBQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="349" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Mexico vs Chile 2 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] Mexico vs Chile 2 (FAWA)
+https://www.rtmpcdn.com/live/fe0b5b41-bbd4-4ed9-99c0-303f3b4b8c0f.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="350" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] USA vs Canada 1 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] USA vs Canada 1 (FAWA)
+http://193.47.62.41/hls/FIIIAAAAAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="351" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] USA vs Canada 2 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] USA vs Canada 2 (FAWA)
+https://www.rtmpcdn.com/live/f7a022c0-2874-46aa-88ab-cc421122c02c.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="409" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] Chicago Fire vs Vancouver Whitecaps (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] Chicago Fire vs Vancouver Whitecaps (FAWA)
+http://193.47.62.41/hls/FIIIAAAAAAQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="410" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Chicago Fire FC vs Vancouver Whitecaps (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Chicago Fire FC vs Vancouver Whitecaps (WATCHFTY)
+https://lb5.wfty.st/secure/p8empx0leQ7I3ndeP3eIlA/platinum/chicago-fire-fc-vancouver-whitecaps/1/761660/1791356456/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/761660/chicago-fire-fc-vancouver-whitecaps/platinum/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/761660/chicago-fire-fc-vancouver-whitecaps/platinum/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="411" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Chicago Fire vs Vancouver Whitecaps (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Chicago Fire vs Vancouver Whitecaps (WATCHFTY)
+https://lb2.wfty.st/secure/h5F4UJbwCyLv6i6yT4RnvA/platinum/chicago-fire-fc-vancouver-whitecaps/1/4621506/1791358258/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/4621506/chicago-fire-fc-vancouver-whitecaps/platinum/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/4621506/chicago-fire-fc-vancouver-whitecaps/platinum/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="412" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Chicago Fire vs Vancouver Whitecaps (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Chicago Fire vs Vancouver Whitecaps (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/57693/load-playlist|Referer=https%3A//gooz.aapmains.net/new-stream-embed/57693%3Fad%3D111&Origin=https%3A//gooz.aapmains.net/new-stream-embed/57693%3Fad%3D111&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="415" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Vancouver Whitecaps vs Chicago Fire FC | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Vancouver Whitecaps vs Chicago Fire FC | English (STRMGATE)
+https://instreams.pro/live3/tv761660/index.m3u8?st=mj1eMrHdZi-_nTP2t0U74g&e=1791352862|Referer=https%3A//xstream.st/livetv.php%3Fstream%3Dtv761660&Origin=https%3A//xstream.st/livetv.php%3Fstream%3Dtv761660&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="419" tvg-id="Soccer.Dummy.us" tvg-name="[Major League Soccer] Chicago Fire vs Vancouver Whitecaps (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[Major League Soccer] Chicago Fire vs Vancouver Whitecaps (FLYEMBD)
+https://justkidding.junksonus.party/main/secure/212ececf9376990731bb85c0385bbdde0ffe27e58cf7c3a536fe62267e383a02/1791347463/mls-761660.m3u8|Referer=https%3A//exmxbxe.cfd/flyemb/l336d2w0-8438&Origin=https%3A//exmxbxe.cfd/flyemb/l336d2w0-8438&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="420" tvg-id="Soccer.Dummy.us" tvg-name="[Major League Soccer] Vancouver Whitecaps @ Chicago Fire FC (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mls-761660.png" group-title="Live Events",[Major League Soccer] Vancouver Whitecaps @ Chicago Fire FC (TIMSTRM)
+https://justkidding.junksonus.party/main/secure/9c139d94cf3ab4413ca9793f814a37bab251ca8c483632779ce575e60b804cfe/1791347462/mls-761660.m3u8|Referer=https%3A//grandemx.org/l336d2w0-2145&Origin=https%3A//grandemx.org/l336d2w0-2145&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="458" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Troy vs Southern Miss (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Troy vs Southern Miss (FAWA)
+http://193.47.62.41/hls/FIIIAAAAAAQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-id="antvhd" group-title="ANQP" tvg-logo="https://hoantran.name.vn/assets/logo/anqp/antv.webp",ANTV
+https://vips-livecdn.fptplay.net/live/media/antv/live-hls-avc/antv.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="ANQP" tvg-logo="https://hoantran.name.vn/assets/logo/anqp/qpvnhd.webp",QPVN
+https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn.m3u8
+# --- VTV ---
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv1hd.webp",VTV1
+https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv2hd.webp",VTV2
+https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv3hd.webp",VTV3
+https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv4hd.webp",VTV4
+https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv5hd.webp",VTV5
+https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv5hdtnb.webp",VTV5 Tây Nam Bộ
+https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv5hdtn.webp",VTV5 Tây Nguyên
+https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv6hd.webp",VTV6
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv7hd.webp",VTV7
+https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv8hd.webp",VTV8
+https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv9hd.webp",VTV9
+https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv10hd.webp",VTV10
+https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vietnamtoday.webp",Vietnam Today
+https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday.m3u8
+# --- International ---
+##EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/planetearthhd.webp",Planet Earth
+#https://toiyeuvietnam.dpdns.org/OnliveTV/planet-earth-hd/Free.m3u8
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/afnhd.webp",Asian Food Network
+https://freem3u.xyz/api/live/play.m3u8?vid=215
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htvthethaohd.webp",HTV Thể Thao
+https://freem3u.xyz/api/live/play.m3u8?vid=195
+# --- THVL ---
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong1hd.webp",THVL1
+https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong2hd.webp",THVL2
+https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong3hd.webp",THVL3
+https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3.m3u8
