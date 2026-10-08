@@ -2656,3 +2656,7 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4f7f422c656
 https://raw.githubusercontent.com/mangyeu/TV/55eb6172c5437f7b56574fea51fed3f71b73d804/tivi.m3u8
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/87973f5d021d2ef44eaf66450c1c9f05c99cf35e/LiveTV/Vietnam/LiveTV.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/e03849e7904ca2886d12bffafaceabf88e1e9f06/IPTV/CN.m3u8
+https://raw.githubusercontent.com/badboys88888/IPTV/dce9500629ffc44f4129eaf533aa282a73382a12/iptv.m3u
+https://raw.githubusercontent.com/eklins/FDTV/78c8a4c9fe62d61f1668a7fcbb057dc75faffc26/zz/IPTV20220506.m3u
+https://raw.githubusercontent.com/matteocavestri/iptv-italy/4715c11a90e8d3602619a3c5aa818f7f29d4f5e5/iptv-italy.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/25874b3950870a024ddf22c9fcde5288dd5a19c5/IPTV/tw.m3u
