@@ -436,6 +436,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
 #                       4K超清
 # === 🇨🇦 CA (加拿大) ===
+# (●) Total Channels: 545
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -57793,8 +57794,6 @@ https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
 https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us@WestHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="Movies;Series",HBO Hits West HD (1080p)
 https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1 tvg-id="vtvgoevent" tvg-name="vtvgo event" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="Thiết Yếu",VTVgo Event 3
 https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies (India) (576p)
@@ -59179,3 +59178,215 @@ http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/36168
 http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/48561
 #EXTINF:-1 tvg-id="" tvg-name="DE: AXN White" tvg-logo="" group-title="★ GERMANY Channels",DE: AXN White
 http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/49815
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Undefined",HBO Latin America (720p) [Geo-blocked]
+http://15.204.246.24:8080/HBOHD/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png" group-title="VTV",VTV5 Tây Nam Bộ
+https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="htv1hd" tvg-logo="https://i.imgur.com/KEMSBD3.png" group-title="HTV",HTV1
+https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv3hd" tvg-logo="https://i.imgur.com/TCoIsVF.png" group-title="HTV",HTV3
+https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv4hd" tvg-logo="https://i.imgur.com/BcCA0x2.png" group-title="HTV",HTV4
+https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv5" tvg-logo="https://i.imgur.com/EI0mJRf.png" group-title="HTV",HTV5
+https://live.fptplay53.net/fnxsd1/btv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="bacninh" tvg-logo="https://i.postimg.cc/BjpqCL1S/BNTV.png" group-title="Địa phương",Bắc Ninh
+https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="haiphong3" tvg-logo="https://i.imgur.com/FEvJhRf.png" group-title="Địa phương",Hải Phòng 3
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="quangngai2" tvg-logo="https://i.postimg.cc/0j90HbNC/QNg-TV2.png" group-title="Địa phương",Quảng Ngãi 2
+https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="angiang3" tvg-logo="https://i.imgur.com/gZUV4z8.png" group-title="Địa phương",An Giang 3
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cantho1" tvg-logo="https://i.imgur.com/F5OhQVa.png" group-title="Địa phương",Cần Thơ 1
+https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,HTV Se Pone Bueno
+https://stream.zeno.fm/ieagybudukavv
+#EXTINF:-1 tvg-chno="1" tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="[AFL Aussie Rules] Western Bulldogs W vs Essendon Bombers W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/afl.png" group-title="Live Events",[AFL Aussie Rules] Western Bulldogs W vs Essendon Bombers W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/HHHHRA.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="Football.Dummy.us" tvg-name="[American Football] Missouri State Bears vs. Western Kentucky Hilltoppers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Missouri State Bears vs. Western Kentucky Hilltoppers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/qsdnajbq32.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="Football.Dummy.us" tvg-name="[American Football] Sam Houston Bearkats vs. Liberty Flames | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Sam Houston Bearkats vs. Liberty Flames | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/sfjnzabacah31.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="Football.Dummy.us" tvg-name="[American Football] South Alabama Jaguars vs. Arkansas State Red Wolves | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] South Alabama Jaguars vs. Arkansas State Red Wolves | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/uheyztezgj34.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Football.Dummy.us" tvg-name="[American Football] South Florida Bulls vs. UTSA Roadrunners | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] South Florida Bulls vs. UTSA Roadrunners | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/oipozuezeji33.m3u8
+#EXTINF:-1 tvg-chno="297" tvg-id="Soccer.Dummy.us" tvg-name="[South Korea K League] Daejeon vs Jeonbuk (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4b/K_League_1_darkmode.png/600px-K_League_1_darkmode.png" group-title="Live Events",[South Korea K League] Daejeon vs Jeonbuk (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ZZZZAA.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[College Football] Liberty Flames vs Sam Houston Bearkats (FLY)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="College Football",[College Football] Liberty Flames vs Sam Houston Bearkats
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/wqbwjjhf-7938
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/583af70ed2b714699cacd351a1b16dc4924380e4dda45159120f377dcfea2bf5/1791515832/espnu-usa.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[College Football] Western Kentucky Hilltoppers vs Missouri State Bears (FLY)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="College Football",[College Football] Western Kentucky Hilltoppers vs Missouri State Bears
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/9c2jwr40-1810
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/a6c46d0e845f8f4a39b1a3b71bbf045bb3670ba75ca7ba8318e728c992337d86/1791515833/cbssn-usa.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[College Football] UTSA Roadrunners vs South Florida Bulls (FLY)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="College Football",[College Football] UTSA Roadrunners vs South Florida Bulls
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/o9bl8cai-9245
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/047f4131fcd425aff41b6ce47081c7eb6044b11f0cbe7d4b44e8a1a0315b4ee2/1791515833/espn-usa.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[College Football] Arkansas State Red Wolves vs South Alabama Jaguars (FLY)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="College Football",[College Football] Arkansas State Red Wolves vs South Alabama Jaguars
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/33jhpzfr-6115
+#EXTVLCOPT:http-origin=https://exmxbxe.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/e4db3a380cca0d92fd69a4f558e89aff4e7417643791410ca73bc3c7db119037/1791515833/espn2-usa.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Dallas Cowboys vs Tampa Bay Buccaneers 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Dallas Cowboys vs Tampa Bay Buccaneers 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/BLLLL.m3u8
+#EXTINF:-1 tvg-chno="188" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] UTSA vs South Florida (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] UTSA vs South Florida (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin2.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 tvg-chno="199" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Dallas Cowboys vs Tampa Bay Buccaneers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Dallas Cowboys vs Tampa Bay Buccaneers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/ZSSSQQQQ.m3u8
+#EXTINF:-1 tvg-chno="283" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Athletico-PR vs Atletico-MG (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Athletico-PR vs Atletico-MG (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/ttttQ.m3u8
+#EXTINF:-1 tvg-chno="284" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Fluminense vs Coritiba (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Fluminense vs Coritiba (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/ZSSSQ.m3u8
+#EXTINF:-1 tvg-chno="285" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Palmeiras vs Bahia (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Palmeiras vs Bahia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/ZSSSQQ.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Santos vs Flamengo RJ (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Santos vs Flamengo RJ (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/BBBBQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie B] Ceara vs Criciuma (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2299.png" group-title="Live Events",[Brazil Serie B] Ceara vs Criciuma (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/BBBBQQQ.m3u8
+#EXTINF:-1 tvg-chno="288" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie B] Nautico vs Novorizontino (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2299.png" group-title="Live Events",[Brazil Serie B] Nautico vs Novorizontino (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/BBBBQQQQ.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-id="Soccer.Dummy.us" tvg-name="[Brazilian Serie A] Fluminense vs Coritiba (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazilian Serie A] Fluminense vs Coritiba (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401841248/fluminense-coritiba/deluxe/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/dj0fPyZ8TyFrt7a5vd6j5A/deluxe/fluminense-coritiba/1/401841248/1791534615/playlist.m3u8
+#EXTINF:-1 tvg-chno="290" tvg-id="Soccer.Dummy.us" tvg-name="[Brazilian Serie A] Palmeiras vs Bahia (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazilian Serie A] Palmeiras vs Bahia (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401841254/palmeiras-bahia/deluxe/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/QLVBVzup327ZiMdUqSP-_Q/deluxe/palmeiras-bahia/1/401841254/1791532830/playlist.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Atl Nacional vs Deportes Tolima (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Atl Nacional vs Deportes Tolima (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ttttQQQQA.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="Soccer.Dummy.us" tvg-name="[Colombian Primera A] Fortaleza CEIF vs Millonarios (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombian Primera A] Fortaleza CEIF vs Millonarios (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401877887/fortaleza-ceif-millonarios/deluxe/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/3trZp-E8T5raNZyJ1VcOVA/deluxe/fortaleza-ceif-millonarios/1/401877887/1791532825/playlist.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-id="Soccer.Dummy.us" tvg-name="[Colombian Primera A] Fortaleza FC vs Millonarios (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombian Primera A] Fortaleza FC vs Millonarios (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4731966/fortaleza-ceif-millonarios/deluxe/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/hXBSxXbPwf86twZjP8zYhQ/deluxe/fortaleza-ceif-millonarios/1/4731966/1791531012/playlist.m3u8
+#EXTINF:-1 tvg-chno="424" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Arkansas State vs South Alabama (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Arkansas State vs South Alabama (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ttttQQQQAA.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Liberty Flames vs Sam Houston State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Liberty Flames vs Sam Houston State (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ttttQQ.m3u8
+#EXTINF:-1 tvg-chno="426" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] UTSA vs South Florida (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] UTSA vs South Florida (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ttttQQQQAAQ.m3u8
+#EXTINF:-1 tvg-chno="427" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Western Kentucky vs Missouri State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Western Kentucky vs Missouri State (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ttttQQQ.m3u8
+#EXTINF:-1 tvg-chno="503" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Buccaneers @ Cowboys (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872980.png" group-title="Live Events",[National Football League] Buccaneers @ Cowboys (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/7mpi31cc-4573
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/3fa6332d0589886366b8f2477c0332f5f5f3b6c06258deb42e38f219d09bee70/1791520216/nfl-401872980.m3u8
+#EXTINF:-1 tvg-chno="514" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Fortaleza FC vs Millonarios (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Primera A] Fortaleza FC vs Millonarios (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/1000014178/fortaleza-ceif-millonarios/deluxe/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/8Wv84yMz7VmH7DLv_Yp0gg/deluxe/fortaleza-ceif-millonarios/1/1000014178/1791531015/playlist.m3u8
+#EXTINF:-1 tvg-chno="522" tvg-id="Soccer.Dummy.us" tvg-name="[South Korea K League] Gangwon vs Bucheon FC 1995 (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4b/K_League_1_darkmode.png/600px-K_League_1_darkmode.png" group-title="Live Events",[South Korea K League] Gangwon vs Bucheon FC 1995 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/HHHH.m3u8
+#EXTINF:-1 tvg-chno="523" tvg-id="Soccer.Dummy.us" tvg-name="[South Korea K League] Incheon vs Pohang (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4b/K_League_1_darkmode.png/600px-K_League_1_darkmode.png" group-title="Live Events",[South Korea K League] Incheon vs Pohang (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/ZZZZAAAAA.m3u8
+#EXTINF:-1 tvg-chno="225" tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="[AFL Aussie Rules] Western Bulldogs W vs Essendon Bombers W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/afl.png" group-title="Live Events",[AFL Aussie Rules] Western Bulldogs W vs Essendon Bombers W (FAWA)
+http://193.47.62.50/hls/HHHHRA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="226" tvg-id="Football.Dummy.us" tvg-name="[American Football] Missouri State Bears vs. Western Kentucky Hilltoppers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Missouri State Bears vs. Western Kentucky Hilltoppers | English (STRMCNTR)
+https://edgestream7.pro/hls/qsdnajbq32.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="227" tvg-id="Football.Dummy.us" tvg-name="[American Football] Sam Houston Bearkats vs. Liberty Flames | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Sam Houston Bearkats vs. Liberty Flames | English (STRMCNTR)
+https://edgestream5.pro/hls/sfjnzabacah31.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="228" tvg-id="Football.Dummy.us" tvg-name="[American Football] South Alabama Jaguars vs. Arkansas State Red Wolves | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] South Alabama Jaguars vs. Arkansas State Red Wolves | English (STRMCNTR)
+https://edgestream7.pro/hls/uheyztezgj34.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="229" tvg-id="Football.Dummy.us" tvg-name="[American Football] South Florida Bulls vs. UTSA Roadrunners | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] South Florida Bulls vs. UTSA Roadrunners | English (STRMCNTR)
+https://edgestream7.pro/hls/oipozuezeji33.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="230" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Tampa Bay Buccaneers vs. Dallas Cowboys | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[American Football] Tampa Bay Buccaneers vs. Dallas Cowboys | English (STRMCNTR)
+https://edgestream4.pro/hls/JHDAJBDnjdna30.m3u8|Referer=https%3A//streame.center&Origin=https%3A//streame.center&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="283" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Athletico-PR vs Atletico-MG (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Athletico-PR vs Atletico-MG (FAWA)
+http://193.47.62.41/hls/ttttQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="284" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Fluminense vs Coritiba (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Fluminense vs Coritiba (FAWA)
+http://193.47.62.50/hls/ZSSSQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="285" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Palmeiras vs Bahia (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Palmeiras vs Bahia (FAWA)
+http://193.47.62.50/hls/ZSSSQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="286" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Santos vs Flamengo RJ (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Santos vs Flamengo RJ (FAWA)
+http://193.47.62.41/hls/BBBBQQQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="287" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie B] Ceara vs Criciuma (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2299.png" group-title="Live Events",[Brazil Serie B] Ceara vs Criciuma (FAWA)
+http://193.47.62.41/hls/BBBBQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="288" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie B] Nautico vs Novorizontino (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2299.png" group-title="Live Events",[Brazil Serie B] Nautico vs Novorizontino (FAWA)
+http://193.47.62.41/hls/BBBBQQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="289" tvg-id="Soccer.Dummy.us" tvg-name="[Brazilian Serie A] Fluminense vs Coritiba (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazilian Serie A] Fluminense vs Coritiba (WATCHFTY)
+https://lb1.wfty.st/secure/dj0fPyZ8TyFrt7a5vd6j5A/deluxe/fluminense-coritiba/1/401841248/1791534615/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/401841248/fluminense-coritiba/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/401841248/fluminense-coritiba/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="290" tvg-id="Soccer.Dummy.us" tvg-name="[Brazilian Serie A] Palmeiras vs Bahia (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazilian Serie A] Palmeiras vs Bahia (WATCHFTY)
+https://lb6.wfty.st/secure/QLVBVzup327ZiMdUqSP-_Q/deluxe/palmeiras-bahia/1/401841254/1791532830/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/401841254/palmeiras-bahia/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/401841254/palmeiras-bahia/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="300" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Atl Nacional vs Deportes Tolima (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Atl Nacional vs Deportes Tolima (FAWA)
+http://193.47.62.44/hls/ttttQQQQA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="302" tvg-id="Soccer.Dummy.us" tvg-name="[Colombian Primera A] Fortaleza CEIF vs Millonarios (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombian Primera A] Fortaleza CEIF vs Millonarios (WATCHFTY)
+https://lb2.wfty.st/secure/3trZp-E8T5raNZyJ1VcOVA/deluxe/fortaleza-ceif-millonarios/1/401877887/1791532825/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/401877887/fortaleza-ceif-millonarios/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/401877887/fortaleza-ceif-millonarios/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="303" tvg-id="Soccer.Dummy.us" tvg-name="[Colombian Primera A] Fortaleza FC vs Millonarios (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombian Primera A] Fortaleza FC vs Millonarios (WATCHFTY)
+https://lb5.wfty.st/secure/hXBSxXbPwf86twZjP8zYhQ/deluxe/fortaleza-ceif-millonarios/1/4731966/1791531012/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/4731966/fortaleza-ceif-millonarios/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/4731966/fortaleza-ceif-millonarios/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="424" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Arkansas State vs South Alabama (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Arkansas State vs South Alabama (FAWA)
+http://193.47.62.44/hls/ttttQQQQAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="425" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Liberty Flames vs Sam Houston State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Liberty Flames vs Sam Houston State (FAWA)
+http://193.47.62.44/hls/ttttQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="426" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] UTSA vs South Florida (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] UTSA vs South Florida (FAWA)
+http://193.47.62.44/hls/ttttQQQQAAQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="427" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Western Kentucky vs Missouri State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Western Kentucky vs Missouri State (FAWA)
+http://193.47.62.44/hls/ttttQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="432" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Dallas Cowboys vs Tampa Bay Buccaneers 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Dallas Cowboys vs Tampa Bay Buccaneers 1 (FAWA)
+http://193.47.62.55/hls/ZSSSQQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="433" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Dallas Cowboys vs Tampa Bay Buccaneers 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Dallas Cowboys vs Tampa Bay Buccaneers 2 (FAWA)
+http://193.47.62.41/hls/BLLLL.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="503" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Buccaneers @ Cowboys (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872980.png" group-title="Live Events",[National Football League] Buccaneers @ Cowboys (TIMSTRM)
+https://justkidding.junksonus.party/main/secure/3fa6332d0589886366b8f2477c0332f5f5f3b6c06258deb42e38f219d09bee70/1791520216/nfl-401872980.m3u8|Referer=https%3A//grandemx.org/7mpi31cc-4573&Origin=https%3A//grandemx.org/7mpi31cc-4573&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="514" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Fortaleza FC vs Millonarios (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Primera A] Fortaleza FC vs Millonarios (WATCHFTY)
+https://lb2.wfty.st/secure/8Wv84yMz7VmH7DLv_Yp0gg/deluxe/fortaleza-ceif-millonarios/1/1000014178/1791531015/playlist.m3u8|Referer=https%3A//sportsembed.su/embed/1000014178/fortaleza-ceif-millonarios/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&Origin=https%3A//sportsembed.su/embed/1000014178/fortaleza-ceif-millonarios/deluxe/1%3Fplayer%3Dclappr%26autoplay%3Dtrue&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="521" tvg-id="Soccer.Dummy.us" tvg-name="[South Korea K League] Daejeon vs Jeonbuk (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4b/K_League_1_darkmode.png/600px-K_League_1_darkmode.png" group-title="Live Events",[South Korea K League] Daejeon vs Jeonbuk (FAWA)
+http://193.47.62.44/hls/ZZZZAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="522" tvg-id="Soccer.Dummy.us" tvg-name="[South Korea K League] Gangwon vs Bucheon FC 1995 (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4b/K_League_1_darkmode.png/600px-K_League_1_darkmode.png" group-title="Live Events",[South Korea K League] Gangwon vs Bucheon FC 1995 (FAWA)
+http://193.47.62.50/hls/HHHH.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="523" tvg-id="Soccer.Dummy.us" tvg-name="[South Korea K League] Incheon vs Pohang (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4b/K_League_1_darkmode.png/600px-K_League_1_darkmode.png" group-title="Live Events",[South Korea K League] Incheon vs Pohang (FAWA)
+http://193.47.62.50/hls/ZZZZAAAAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
