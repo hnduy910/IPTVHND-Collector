@@ -2818,3 +2818,14 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/e3449e2fec591fd87dc
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/e3449e2fec591fd87dc72ce008d75b44323a31c7/IPTV/hu.m3u
 https://raw.githubusercontent.com/vietng228/m3u/02a5eb6bb01fbbf6c98e797354e2bc09bb57c221/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/02a5eb6bb01fbbf6c98e797354e2bc09bb57c221/new.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/2efc0e64ea79b8ebb81163d45349f39b1e3e55c6/playlists/playlist_united_arab_emirates.m3u8
+https://raw.githubusercontent.com/ahan443/FAST-IPTV/6e8edf85956ae45342854b04851f12910299f1b7/qjim.m3u.m3u8
+https://raw.githubusercontent.com/aria-tv/aria/b80f5c66ae18bb84280bb07c54400bc9280860bb/stable/vietnam.m3u
+https://raw.githubusercontent.com/boxkim14/m3u8/5b4c586e756f3fcae67851f62dc2fab7336be20c/vn.m3u8
+https://raw.githubusercontent.com/franksun1211/TVBOX/94922ace0189c1115e671eba2f006c12c8ef9c84/APP/TVBoxOSC/WXER/live/4.txt
+https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/bfa60e2b5b5d717f3e57fe645855dac69f9cf7f8/lib/iptv.txt
+https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/025037e98093339a61db4af1aa62d40294b0aacf/iptv.m3u8
+https://raw.githubusercontent.com/mangyeu/TV/2373d56032be84fb4ed04a3b04cd7ccd609a5c1a/tivi.m3u8
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/f64783782df59fe2605c8347101e8fff8847d8fb/IPTV/CN.m3u8
+https://raw.githubusercontent.com/yyyr-otz/iptv-api/61585d127e2c95dad62fd106568ff05703ca999c/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
+https://raw.githubusercontent.com/yyyr-otz/iptv-api/61585d127e2c95dad62fd106568ff05703ca999c/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt

@@ -437,6 +437,7 @@
 #                       4K超清
 # === 🇨🇦 CA (加拿大) ===
 # (●) Total Channels: 545
+#DATE: 2026-10-10 04:39:59
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -55211,8 +55212,6 @@ https://type.futtv.nx.kg/rel-bou/index.m3u8|Referer=https%3A//www.futbol-x.top&O
 https://type.futtv.nx.kg/unio/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-id="VTV3.vn@HD",VTV3 HD (1080p)
 https://javiptv.s.gy/vtv3hd-thvn
-#EXTINF:-1,Paul Pewitt Football
-https://stream.zeno.fm/0q7expg2bpvtv
 #EXTINF:-1,The Football Fans Show
 https://stream.zeno.fm/ebdbbtdhzytvv
 #EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="ID| TV NASIONAL", SCTV
@@ -59388,10 +59387,6 @@ http://193.47.62.44/hls/ZZZZAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=htt
 http://193.47.62.50/hls/HHHH.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-chno="523" tvg-id="Soccer.Dummy.us" tvg-name="[South Korea K League] Incheon vs Pohang (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4b/K_League_1_darkmode.png/600px-K_League_1_darkmode.png" group-title="Live Events",[South Korea K League] Incheon vs Pohang (FAWA)
 http://193.47.62.50/hls/ZZZZAAAAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
-#EXTINF:-1,Premier League 2 (English)
-http://live.talksport.com/channel2m-en
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="vtv5" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/VTV5_logo_%282026-nay%29.png/revision/latest?cb=20261001010040&path-prefix=vi" group-title="VTV",VTV5
 https://freem3u.xyz/api/live/play.m3u8?vid=110
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Thiết Yếu",VietNam Today
@@ -59492,3 +59487,17 @@ https://live-diaphuong-aws.vtvdigital.vn/BoOyJYUNkYybysXax5bI5Q/1791482400/aws-d
 https://vips-livecdn.fptplay.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2
 https://vips-livecdn.fptplay.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Movies",Cinemax Latin America (720p)
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America (576p)
+http://38.65.175.84:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America HD (1080p)
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America (1080p)
+http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="HTV.us@SD" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music",HTV (720p)
+http://45.171.64.30:6060/play/a012/index.m3u8
+#EXTINF:-1,Fußball-Bundesliga 2: Spiel 8
+https://wdr-sportschau-liga2spiel8.icecastssl.wdr.de/wdr/sportschau/liga2spiel8/mp3/high
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
