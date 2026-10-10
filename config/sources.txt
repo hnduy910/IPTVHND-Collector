@@ -2829,3 +2829,11 @@ https://raw.githubusercontent.com/mangyeu/TV/2373d56032be84fb4ed04a3b04cd7ccd609
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/f64783782df59fe2605c8347101e8fff8847d8fb/IPTV/CN.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/61585d127e2c95dad62fd106568ff05703ca999c/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/61585d127e2c95dad62fd106568ff05703ca999c/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
+https://raw.githubusercontent.com/badboys88888/IPTV/9853137042e3c0275d0e51a5b4a2df209aa41cda/iptv.m3u
+https://raw.githubusercontent.com/eklins/FDTV/233742115a1a355ef1e9d6ce0afee317657c8ef7/zz/IPTV20220506.m3u
+https://raw.githubusercontent.com/eklins/FDTV/233742115a1a355ef1e9d6ce0afee317657c8ef7/zz/IPTV20220722.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/d1211b9aae3a6da125df3858f50319b2aa8c5f0b/streams/in.m3u
+https://raw.githubusercontent.com/jnk22/kodinerds-iptv/28f067dd9606a403cce3d8b8710f2af2dd4362ff/iptv/pipe/pipe_tv.m3u
+https://raw.githubusercontent.com/rolnando-play/RP/f1c1078538208752bd85152ab13170d6d6adb022/iptv2.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/21b924c46cc13ed86c5bdd3f9c4accf6a724e42f/IPTV/fr.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/21b924c46cc13ed86c5bdd3f9c4accf6a724e42f/IPTV/tw.m3u
