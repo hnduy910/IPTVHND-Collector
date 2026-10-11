@@ -438,6 +438,8 @@
 # === 🇨🇦 CA (加拿大) ===
 # (●) Total Channels: 545
 #DATE: 2026-10-10 04:39:59
+# (●) Total Channels: 572
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -59501,3 +59503,31 @@ https://stream.zeno.fm/khgfwxvh308uv
 https://streaming.onnethn.com/HTV/playlist.m3u8
 #EXTINF:-1,VietNam
 https://stream.zeno.fm/2141ytrbn48uv
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Undefined",HBO+ Latin America (720p) [Geo-blocked]
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.postimg.cc/k2QYWK8w/V8.png" group-title="VTV",VTV8
+https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/live-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.imgur.com/6GSN524.png" group-title="HTV",HTV9
+https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/ikaiET3.png" group-title="HTV",HTVC Thể Thao
+https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="hanoi1" tvg-logo="https://i.postimg.cc/hvL15x02/Hanoi-TV1.png" group-title="Địa phương",Hà Nội 1
+https://vips-livecdn.fptplay.net/live/media/hanoitv1/live-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="gialai" tvg-logo="https://i.postimg.cc/grHBjV9t/Gialai.png" group-title="Địa phương",Gia Lai
+https://tv.gialaitv.vn/tv.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://i.imgur.com/zGv54Ed.png" group-title="Địa phương",Vĩnh Long 2
+https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://i.imgur.com/44c1Yoz.png" group-title="Địa phương",Vĩnh Long 3
+https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/index.m3u8
+#EXTINF:-1,HTV Se Pone Bueno
+https://stream.zeno.fm/ieagybudukavv
+#EXTINF:-1,Paul Pewitt Football
+https://stream.zeno.fm/0q7expg2bpvtv
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/amccrime.png" group-title="Channels 🇪🇸",AMC Crime 🇪🇸
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/unpcb7o0f5/out/v1/a9d133bfdd2f4fc5bbe358888f6e7c3f/cenc.mpd
+#EXTINF:-1 tvg-chno="103" tvg-name="Radio TV Serie A" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/103-radiotvseriea.png", Radio TV Serie A
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://livesg.seriea.hiway.media/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
