@@ -2931,3 +2931,10 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/4d227c4026aaa45f96f
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/4d227c4026aaa45f96f0bd3bfba48829ed2f438c/IPTV/hu.m3u
 https://raw.githubusercontent.com/vietng228/m3u/eb741bbc9874fbf8ffa008af27e30c7fac494baa/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/eb741bbc9874fbf8ffa008af27e30c7fac494baa/new.m3u
+https://raw.githubusercontent.com/aria-tv/aria/4e55a5ebb13ab5c8bf3ae2a00e670317daa0d960/stable/vietnam.m3u
+https://raw.githubusercontent.com/boxkim14/m3u8/6dcdb24f784c93302b8b78b2f3af0dd51656253c/vn.m3u8
+https://raw.githubusercontent.com/mangyeu/TV/16c320011d9984299b89d29d8e3677a624698e54/tivi.m3u8
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/d31c0da55f02a244370caeabd1e29ed8218c4ea1/IPTV/CN.m3u8
+https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/9a4fa4a68b500fbbec4afcb1a75aa39d04766b1a/unfyespanoltv/chocolate.m3u8
+https://raw.githubusercontent.com/yyyr-otz/iptv-api/aa2389cf1aff8fb54726d30043ea7ae65c80b945/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
+https://raw.githubusercontent.com/yyyr-otz/iptv-api/aa2389cf1aff8fb54726d30043ea7ae65c80b945/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt

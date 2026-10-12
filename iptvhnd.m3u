@@ -441,6 +441,7 @@
 # (●) Total Channels: 572
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 # (●) Total Channels: 583
+#DATE: 2026-10-12 04:33:21
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -59520,8 +59521,6 @@ https://tv.gialaitv.vn/tv.m3u8
 https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://i.imgur.com/44c1Yoz.png" group-title="Địa phương",Vĩnh Long 3
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/index.m3u8
-#EXTINF:-1,HTV Se Pone Bueno
-https://stream.zeno.fm/ieagybudukavv
 #EXTINF:-1,Paul Pewitt Football
 https://stream.zeno.fm/0q7expg2bpvtv
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/amccrime.png" group-title="Channels 🇪🇸",AMC Crime 🇪🇸
@@ -59869,8 +59868,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=216
 https://vips-livecdn.fptplay.net/live/media/haiphong/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="cantho3" tvg-logo="https://i.imgur.com/7FA1I1d.png" group-title="Địa phương",Cần Thơ 3
 https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
-#EXTINF:-1,Fußball-Bundesliga: Spiel 6
-https://wdr-sportschau-liga1spiel6.icecastssl.wdr.de/wdr/sportschau/liga1spiel6/mp3/high
 #EXTINF:-1 tvg-id="fptplaysk17" tvg-name="fpt play channel 17" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 17
 https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="fptplaysk18" tvg-name="fpt play channel 18" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 18
