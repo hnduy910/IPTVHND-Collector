@@ -2938,3 +2938,12 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/d31c0da55f02a244370
 https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/9a4fa4a68b500fbbec4afcb1a75aa39d04766b1a/unfyespanoltv/chocolate.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/aa2389cf1aff8fb54726d30043ea7ae65c80b945/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/aa2389cf1aff8fb54726d30043ea7ae65c80b945/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
+https://raw.githubusercontent.com/YueZhiFengMing/iptv_33333/de6efb49262be7ded0967fc3d17ef4c6a45bd131/work/Free-TV.IPTV/playlists/playlist_zz_movies.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/a8a0d60a733691a23707527cb693fb234d63ebae/Russia.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/a8a0d60a733691a23707527cb693fb234d63ebae/UK.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/a8a0d60a733691a23707527cb693fb234d63ebae/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/a8a0d60a733691a23707527cb693fb234d63ebae/southKorea.m3u8
+https://raw.githubusercontent.com/iptv-org/iptv/ffee6145526f5a4a42f76fd253009fa234715518/streams/in.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/428e741839cb682a76b2682936206891502a098d/IPTV/fr.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/428e741839cb682a76b2682936206891502a098d/IPTV/tw.m3u
+https://raw.githubusercontent.com/tarnoma/iptv/cd01b128ff2e2ed8687a8f6a5003a3d20710e6f4/local_iptv.m3u
