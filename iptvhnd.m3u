@@ -454,6 +454,12 @@
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd #EXTINF:-1 tvg-id="ongolf" group-title="VTV/VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
 #DATE: 2026-10-15 04:28:48
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/epg/epg.xml" x-tvg-url="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/epg/epg.xml"
+# Developed by: SAEID RAHMAN
+# Facebook: https://www.facebook.com/saeid.rahman.sr
+# Email: saeidrahman.mkt@gmail.com
+#PLAYLIST-STUDIO-CATEGORIES:["Bangladesh", "Indian Bangla", "Indian Movies", "Indian Music", "Indian Entertainment", "Pakistani", "International", "Documentary & Wildlife", "Kids", "Religious", "Sports", "Backup"]
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -60699,3 +60705,172 @@ https://ip252.ozelip.com:22524/marstv/marstv/chunklist.m3u8
 udp://@225.1.3.95:30120
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8.5Mbps)
 udp://@225.1.3.10:30120
+#EXTINF:-1 tvg-id="AXNBlack.pl@SD" tvg-logo="https://i.imgur.com/Nqvx6nz.png" group-title="Series",AXN Black (Poland) (576i)
+http://92.114.85.87:8014/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.pl@SD" tvg-logo="https://i.imgur.com/DaAyLE7.png" group-title="Movies;Series",AXN White (Poland) (576i)
+http://92.114.85.87:8014/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" group-title="Movies",Cinemax 2 Central Europe Poland (1080p)
+http://57.128.231.171:8080/288/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Movies",Cinemax Asia (720p) [Geo-blocked]
+https://tinyurl.com/44efw2rx
+#EXTINF:-1 tvg-id="CinemaxCentralEurope.hu@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Movies",Cinemax Central Europe Poland (1080p)
+http://57.128.231.171:8080/287/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.pl@SD" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies;Series",HBO 2 (Poland) (576i)
+http://57.128.231.171:8080/246/index.m3u8
+#EXTINF:-1 tvg-id="HBO3.pl@SD" tvg-logo="https://i.imgur.com/3QIHh2V.png" group-title="Undefined",HBO 3 (Poland) (1080p)
+http://57.128.231.171:8080/245/index.m3u8
+#EXTINF:-1 tvg-id="HBO.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies;Series",HBO (Poland) (576i)
+http://57.128.231.171:8080/243/index.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Movies",HBO Asia SD (720p) [Geo-blocked]
+https://tinyurl.com/yn3d3rmd
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",HBO Mundi Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Undefined",HBO Signature Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies;Series",HBO Xtreme Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
+#EXTINF:-1 tvg-id="AnNinhTV.vn" tvg-name="An Ninh TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" tvg-country="VN" tvg-language="vie" group-title="Undefined" nexus-score="0",An Ninh TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" tvg-country="US" tvg-language="spa" group-title="Movies" nexus-score="0",HBO 2 Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" tvg-country="US" tvg-language="spa" group-title="Family" nexus-score="0",HBO Family Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/chunks.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" tvg-country="US" tvg-language="spa" group-title="Undefined" nexus-score="0",HBO Latin America (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UR | VTV HD" tvg-logo="http://redworld.pro:8880/images/2d42029ed5b502d9c266509eb25a7ab4.png" group-title="⭐️ Uruguay",UR | VTV HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/385095
+#EXTINF:-1 tvg-id="" tvg-name="UR | VTV SD" tvg-logo="http://redworld.pro:8880/images/2d42029ed5b502d9c266509eb25a7ab4.png" group-title="⭐️ Uruguay",UR | VTV SD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/385096
+#EXTINF:-1 tvg-id="" tvg-name="UR | VTV PLUS HD" tvg-logo="http://redworld.pro:8880/images/cd051d904246c214e72ad75f7857c260.png" group-title="⭐️ Uruguay",UR | VTV PLUS HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/385100
+#EXTINF:-1 tvg-id="" tvg-name="UR | VTV PLUS SD" tvg-logo="http://goldfull.pro:8880/images/cd051d904246c214e72ad75f7857c260.png" group-title="⭐️ Uruguay",UR | VTV PLUS SD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/385101
+#EXTINF:-1 tvg-id="" tvg-name="PT :FOX MOVIES FHD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeAwmC4BKeseA1gjoHhiBzbrWPY9jY7vAfeLVjmVJQI4xdYrvNy8MXJDg6WbJFya4c4qRKcM9OOAXv81lA59BZNMsk8d3J63qUz61UPaAySIG7b3fkhAgBOuu-OM26vvAU2bgTunFitQP8mmnDBYt1Q.png" group-title="⭐️ Portugal",PT :FOX MOVIES FHD HEVC
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/390811
+#EXTINF:-1 tvg-id="" tvg-name="PT : AXN MOVIES ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBOGDB-SK0rNsA_4OdsmX1k.png" group-title="⭐️ Portugal",PT : AXN MOVIES ᶠᴴᴰ
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/390915
+#EXTINF:-1 tvg-id="" tvg-name="PT : AXN MOVIES LOW" tvg-logo="noimage.png" group-title="⭐️ Portugal",PT : AXN MOVIES LOW
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/390916
+#EXTINF:-1 tvg-id="" tvg-name="PT : AXN MOVIES HD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBOGDB-SK0rNsA_4OdsmX1k.png" group-title="⭐️ Portugal",PT : AXN MOVIES HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/390917
+#EXTINF:-1 tvg-id="" tvg-name="PT :  AXN MOVIES HD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2mTSJvJpcSD23539K81MWsix6pdtDA6UDqYSIXayTZtJ2BpfkWuz7Gtrgn6IYe0EP5OLTMUBiXUJyj8pr9fmlXOwdhOHkxWVA4sTZK2zj-KiltKdBp28qdEExrKggPMba4MGcZXZe594V3OOs2mSfQ.png" group-title="⭐️ Portugal",PT :  AXN MOVIES HD HEVC
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/390921
+#EXTINF:-1 tvg-id="" tvg-name="PT :  AXN MOVIES FULHD HEVC" tvg-logo="noimage.png" group-title="⭐️ Portugal",PT :  AXN MOVIES FULHD HEVC
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/390922
+#EXTINF:-1 tvg-id="" tvg-name="DEP. URUGUAY | VTV HD" tvg-logo="http://goldfull.pro:8880/images/642c97f41f77f0bbac5e962c51549949.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/394835
+#EXTINF:-1 tvg-id="" tvg-name="DEP. URUGUAY | VTV OP2" tvg-logo="http://goldfull.pro:8880/images/4b7af4708871f5837bf6440f3d11942e.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV OP2
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/394836
+#EXTINF:-1 tvg-id="" tvg-name="DEP. URUGUAY | VTV+ HD" tvg-logo="http://goldfull.pro:8880/images/e6ccd2f0921113e7b8ee75422c01cc91.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV+ HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/394837
+#EXTINF:-1 tvg-id="" tvg-name="DEP. URUGUAY | VTV PLUS OP2" tvg-logo="http://goldfull.pro:8880/images/e6ccd2f0921113e7b8ee75422c01cc91.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV PLUS OP2
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/394838
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBÖ* 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBÖ* 2 HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414462
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBÖ* 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBÖ* 2 SD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414463
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* F@MILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414465
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* F@MILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  SD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414466
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414468
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* SD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414469
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP  HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414471
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP SD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414472
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TCM  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C2mxnbZhloXPJ9g7G5nwhyJmJNq06VlqpQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | TCM  FHD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414491
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TCM  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C2mxnbZhloXPJ9g7G5nwhyJmJNq06VlqpQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | TCM  HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414492
+#EXTINF:-1 tvg-id="" tvg-name="CINE |  TCM  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C2mxnbZhloXPJ9g7G5nwhyJmJNq06VlqpQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE |  TCM  SD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/414493
+#EXTINF:-1 tvg-id="CDFPremium.cl@SD" tvg-name="PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)" tvg-logo="http://redworld.pro:8880/images/68a464285551d64366caa7bd08231975.png" group-title="⚽ FÚTBOL CHILE",PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/430575
+#EXTINF:-1 tvg-id="CDFPremium.cl@SD" tvg-name="PREMIER CHI | OP 2 SD" tvg-logo="http://redworld.pro:8880/images/a10f323208a182454a28c34c9766801c.png" group-title="⚽ FÚTBOL CHILE",PREMIER CHI | OP 2 SD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/430576
+#EXTINF:-1 tvg-id="CDFPremium.cl@SD" tvg-name=" PREMIER CHI | OP 3 HD" tvg-logo="http://redworld.pro:8880/images/a10f323208a182454a28c34c9766801c.png" group-title="⚽ FÚTBOL CHILE", PREMIER CHI | OP 3 HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/430577
+#EXTINF:-1 tvg-id="CDFBasico.cl@SD" tvg-name="FUT BASIC HD" tvg-logo="http://redworld.pro:8880/images/6118fd518aadc48c39ebbf4ca2c03da5.png" group-title="⚽ FÚTBOL CHILE",FUT BASIC HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/430647
+#EXTINF:-1 tvg-id="CDFBasico.cl@SD" tvg-name="FUT BASIC | HD OP2" tvg-logo="http://redworld.pro:8880/images/6118fd518aadc48c39ebbf4ca2c03da5.png" group-title="⚽ FÚTBOL CHILE",FUT BASIC | HD OP2
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/430648
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="⭐️ Futbol Paraguay",TIGO SPORTS
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/450153
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS LIGA PY" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="⭐️ Futbol Paraguay",TIGO SPORTS LIGA PY
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/450154
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 3" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="⭐️ Futbol Paraguay",TIGO SPORTS 3
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/450155
+#EXTINF:-1 tvg-id="" tvg-name="USA| CINEMAX ACTION MAX EAST" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| CINEMAX ACTION MAX EAST
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452658
+#EXTINF:-1 tvg-id="" tvg-name="USA| CINEMAX EAST HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| CINEMAX EAST HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452659
+#EXTINF:-1 tvg-id="" tvg-name="USA| Cinemax MoreMax West" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| Cinemax MoreMax West
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452660
+#EXTINF:-1 tvg-id="" tvg-name="USA| Cinemax ThrillerMax West" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| Cinemax ThrillerMax West
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452661
+#EXTINF:-1 tvg-id="" tvg-name="USA| CINEMAX WEST HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| CINEMAX WEST HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452662
+#EXTINF:-1 tvg-id="" tvg-name="USA| SONY MOVIE CHANNEL HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| SONY MOVIE CHANNEL HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452679
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE CINEMAX EAST HD" tvg-logo="http://redworld.pro:8880/images/dfd376848fe9286573c5c64796f98d8a.png" group-title="⭐️ Usa Movies",USA| VIP MOVIE CINEMAX EAST HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452686
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE HBO 2 HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| VIP MOVIE HBO 2 HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452687
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE HBO 2 WEST HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| VIP MOVIE HBO 2 WEST HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452688
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE HBO COMEDY HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| VIP MOVIE HBO COMEDY HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452689
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE HBO HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| VIP MOVIE HBO HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452690
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE HBO PLUS WEST HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| VIP MOVIE HBO PLUS WEST HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452691
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE HBO ZONE HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa Movies",USA| VIP MOVIE HBO ZONE HD
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/452692
+#EXTINF:-1 tvg-id="" tvg-name="USA: Hallmark Movies & More" tvg-logo="http://redworld.pro:8880/images/3b1330a9cd77f862c6e74fd9e2be9a64.png" group-title="⭐️ TV Usa",USA: Hallmark Movies & More
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/465036
+#EXTINF:-1 tvg-id="" tvg-name="USA: Hallmark Movies Mysteries East" tvg-logo="http://redworld.pro:8880/images/e2a1eb3101c8b93cf8ac48dbcff69ead.png" group-title="⭐️ TV Usa",USA: Hallmark Movies Mysteries East
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/465070
+#EXTINF:-1 tvg-id="" tvg-name="Fútbol canal" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",Fútbol canal
+http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/521032
+#EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CINEMAX.jpg" ,CINEMAX
+mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
+#EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/HBO.png" ,HBO HD 亚洲频道
+mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
+#EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/HBOHits.png",HBO Hits 强档巨献
+mitv://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
+#EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/HBOSignature.png",HBO Signature 原创巨献
+mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+#EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/HBOFamily.png",HBO Family 温馨家庭
+mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
+#EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/HBO.png",HBO
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/SonyMovies.png",Sony Movies
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-name="Sony Max" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max.png" tvg-chno="384" channel-id="SonyMax.in@SD" group-title="Indian Movies",Sony Max
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-name="Sony Max 2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max-2.png" tvg-chno="385" channel-id="SonyMax2.in@SD" group-title="Indian Movies",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+#EXTINF:-1 channel-id="custom.star.movies" tvg-id="custom.star.movies" tvg-name="Star Movies" group-title="Indian Movies" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-movies-2087bb49.png" tvg-chno="1128",Star Movies
+https://homair-tv-production.up.railway.app/api/play/STAR%20MOVIES%20HD.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="custom.hbo" tvg-name="HBO" channel-id="custom.hbo" group-title="International" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/hbo.png",HBO
+https://tvsen7.aynaott.com/hbo/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.in" tvg-name="Sony Movies" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-movies-563051ab.png" tvg-chno="724" channel-id="SonyMovies.in" group-title="International",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+#EXTINF:-1 channel-id="custom.hbo" tvg-id="custom.hbo" tvg-name="HBO" group-title="Backup" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/hbo.png",HBO
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
+https://homair-tv-production.up.railway.app/api/play/HBO.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-name="Sony Max" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max.png" channel-id="SonyMax.in@SD" group-title="Backup",Sony Max
+https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-name="Sony Max 2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max-2.png" channel-id="SonyMax2.in@SD" group-title="Backup",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/live/max_2_720/chunks.m3u8
+#EXTINF:-1 channel-id="StarMoviesSelect.in@HD" tvg-id="StarMoviesSelect.in@HD" tvg-name="Star Movies Select" group-title="Backup" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-movies-select-37627406.png",Star Movies Select
+http://103.151.60.162:2122/play/a02l/index.m3u8
