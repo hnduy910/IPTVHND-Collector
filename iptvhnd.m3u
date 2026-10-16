@@ -460,6 +460,7 @@
 # Facebook: https://www.facebook.com/saeid.rahman.sr
 # Email: saeidrahman.mkt@gmail.com
 #PLAYLIST-STUDIO-CATEGORIES:["Bangladesh", "Indian Bangla", "Indian Movies", "Indian Music", "Indian Entertainment", "Pakistani", "International", "Documentary & Wildlife", "Kids", "Religious", "Sports", "Backup"]
+# (●) Total Channels: 597
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -60411,10 +60412,6 @@ http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 tvg-id="WarnerTV.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400" group-title="Movies",Warner TV
 http://88.212.15.17/live/warner_tv/index.m3u8
-#EXTINF:-1,Marion Football
-http://69.27.80.134:8000/stream/3/
-#EXTINF:-1,Chilhowie Football
-http://69.27.80.134:8000
 #EXTINF:0,20:00 14/10 XMLS Thanh Hoa vs LB Bank Ninh Binh (LY LIEU LINH) (HD2) [geo]
 #EXTGRP:Pha Lang TV
 https://pull1.digitalcdn.net/live/c4bef67c466d423faab00207858959dd/index.m3u8
@@ -60874,3 +60871,9 @@ https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/live/max_2_720/chunks.m3u8
 #EXTINF:-1 channel-id="StarMoviesSelect.in@HD" tvg-id="StarMoviesSelect.in@HD" tvg-name="Star Movies Select" group-title="Backup" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-movies-select-37627406.png",Star Movies Select
 http://103.151.60.162:2122/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max 1
+http://27.116.22.53:5001/live/3418.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="Entertainment 🌎",Star Movies Select (🔉💬🇬🇧)🇮🇳
+https://p4kp.rjmbts.workers.dev/353.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="Entertainment 🌎",Star Movies (🔉💬🇬🇧)🇮🇳
+https://p4kp.rjmbts.workers.dev/349.m3u8
