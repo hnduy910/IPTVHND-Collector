@@ -468,6 +468,12 @@
     # Specific M3U sources (12 sources)
     # Set check_links=False for super speed, True for accuracy
     # Export files
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+# IPFS Acestream Channels - 2026-10-18 14:33:15
+# Total Channels: 52
+# Generated: 2026-10-18T14:00:04Z
+# -------- BALONCESTO --------
+# (●) Total Channels: 623
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -60991,3 +60997,94 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi1tv/live/hanoi1tv_72
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi2tv/live/hanoi2tv_720p/chunks.m3u8
 #EXTINF:-1,The Football Fans Show
 https://stream.zeno.fm/ebdbbtdhzytvv
+#EXTINF:-1 tvg-chno="9" tvg-id="Football.Dummy.us" tvg-name="[American Football] Charleston Southern Buccaneers vs. Clemson Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Charleston Southern Buccaneers vs. Clemson Tigers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream1.pro/hls/uheyztezgj34.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="Football.Dummy.us" tvg-name="[American Football] Cincinnati Bearcats vs. West Virginia Mountaineers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Cincinnati Bearcats vs. West Virginia Mountaineers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/qsdnajbq32.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="Football.Dummy.us" tvg-name="[American Football] Florida Gators vs. Texas Longhorns | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Florida Gators vs. Texas Longhorns | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/sfjnzabacah31.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="Football.Dummy.us" tvg-name="[American Football] Mississippi State Bulldogs vs. LSU Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Mississippi State Bulldogs vs. LSU Tigers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/JHDAJBDnjdna30.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="Football.Dummy.us" tvg-name="[American Football] Ohio State Buckeyes vs. Indiana Hoosiers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Ohio State Buckeyes vs. Indiana Hoosiers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream1.pro/hls/yetehznecs37.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="Football.Dummy.us" tvg-name="[American Football] Pittsburgh Panthers vs. Boston College Eagles | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Pittsburgh Panthers vs. Boston College Eagles | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/jnknjfzbk35.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="Football.Dummy.us" tvg-name="[American Football] Virginia Cavaliers vs. SMU Mustangs | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Virginia Cavaliers vs. SMU Mustangs | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/jkhazabcka36.m3u8
+#EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[Football] AS Roma vs. Genoa | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] AS Roma vs. Genoa | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream1.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Lille vs. Brest | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Lille vs. Brest | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Real Betis vs. Barcelona | Spanish (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Real Betis vs. Barcelona | Spanish (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream6.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 group-title="Спортивные",Football
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31148.rafail1982.uz/Futbol_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="Спортивные",Vital Football
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+# -------- LA LIGA --------
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p *
+http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p **
+http://127.0.0.1:6878/ace/getstream?id=9c588ac92554746c489bc553773d959f6d2dfd8e
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga **
+http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p *
+http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p **
+http://127.0.0.1:6878/ace/getstream?id=5ad75216a63a31fef23ddc3532edc66c2fc0936c
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p *
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
+http://127.0.0.1:6878/ace/getstream?id=a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
+http://127.0.0.1:6878/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
+#EXTINF:-1 tvg-id="italyseriecathleticcarpivslumezzane" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Athletic Carpi 🇮🇹 vs Lumezzane 🇮🇹 (12:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Athletic Carpi 🇮🇹_vs_Lumezzane 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Athletic Carpi 🇮🇹 vs Lumezzane 🇮🇹 (12:30)
+https://dlive.sx/watch.php?id=210
+#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsforlì" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Nuova Monterosi 🇮🇹 vs Forlì 🇮🇹 (12:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Nuova Monterosi 🇮🇹_vs_Forlì 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Nuova Monterosi 🇮🇹 vs Forlì 🇮🇹 (12:30)
+https://dlive.sx/watch.php?id=211
+#EXTINF:-1 tvg-id="italyseriecpianesevspineto" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Pianese 🇮🇹 vs Pineto 🇮🇹 (12:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Pianese 🇮🇹_vs_Pineto 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Pianese 🇮🇹 vs Pineto 🇮🇹 (12:30)
+https://dlive.sx/watch.php?id=212
+#EXTINF:-1 tvg-id="italyseriecreggianavssassaritorres" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Reggiana 🇮🇹 vs Sassari Torres 🇮🇹 (12:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Reggiana 🇮🇹_vs_Sassari Torres 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Reggiana 🇮🇹 vs Sassari Torres 🇮🇹 (12:30)
+https://dlive.sx/watch.php?id=30
+#EXTINF:-1 tvg-id="italyseriecvadovssambenedettese" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Vado 🇮🇹 vs Sambenedettese 🇮🇹 (12:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Vado 🇮🇹_vs_Sambenedettese 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Vado 🇮🇹 vs Sambenedettese 🇮🇹 (12:30)
+https://dlive.sx/watch.php?id=213
+#EXTINF:-1 tvg-id="italyseriecinteriivsmonopoli" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Inter II 🇮🇹 vs Monopoli 🇮🇹 (12:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Inter II 🇮🇹_vs_Monopoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Inter II 🇮🇹 vs Monopoli 🇮🇹 (12:30)
+https://dlive.sx/watch.php?id=214
+#EXTINF:-1 tvg-id="italyseriebsimulcast" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Simulcast 🇮🇹 (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Simulcast 🇮🇹 (13:00)
+https://dlive.sx/watch.php?id=203
+#EXTINF:-1 tvg-id="italyseriebascolivsempoli" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Ascoli 🇮🇹 vs Empoli 🇮🇹 (13:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ascoli 🇮🇹_vs_Empoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Ascoli 🇮🇹 vs Empoli 🇮🇹 (13:00)
+https://dlive.sx/watch.php?id=69
+#EXTINF:-1 tvg-id="italyseriebbeneventovsvicenza" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Benevento 🇮🇹 vs Vicenza 🇮🇹 (13:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Benevento 🇮🇹_vs_Vicenza 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Benevento 🇮🇹 vs Vicenza 🇮🇹 (13:00)
+https://dlive.sx/watch.php?id=76
+#EXTINF:-1 tvg-id="italyseriebcarraresevsmodena" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Carrarese 🇮🇹 vs Modena 🇮🇹 (13:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Carrarese 🇮🇹_vs_Modena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Carrarese 🇮🇹 vs Modena 🇮🇹 (13:00)
+https://dlive.sx/watch.php?id=77
+#EXTINF:-1 tvg-id="italyseriebcalciopadovavsvirtusentella" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Calcio Padova 🇮🇹 vs Virtus Entella 🇮🇹 (13:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Calcio Padova 🇮🇹_vs_Virtus Entella 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Calcio Padova 🇮🇹 vs Virtus Entella 🇮🇹 (13:00)
+https://dlive.sx/watch.php?id=86
+#EXTINF:-1 tvg-id="italyserieaveneziavsnapoli" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Venezia 🇮🇹 vs Napoli 🇮🇹 (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Venezia 🇮🇹 vs Napoli 🇮🇹 (13:00)
+https://dlive.sx/watch.php?id=877
+#EXTINF:-1 tvg-id="italyserieaveneziavsnapoli" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Venezia 🇮🇹 vs Napoli 🇮🇹 (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Venezia 🇮🇹 vs Napoli 🇮🇹 (13:00)
+https://dlive.sx/watch.php?id=204
+#EXTINF:-1 tvg-id="italyseriebmantovavspalermo" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Mantova 🇮🇹 vs Palermo 🇮🇹 (15:15)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Mantova 🇮🇹_vs_Palermo 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Mantova 🇮🇹 vs Palermo 🇮🇹 (15:15)
+https://dlive.sx/watch.php?id=156
