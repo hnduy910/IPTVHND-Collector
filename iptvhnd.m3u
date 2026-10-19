@@ -59531,8 +59531,6 @@ http://45.171.64.30:6060/play/a00k/index.m3u8
 http://45.171.64.30:6060/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" tvg-logo="https://i.imgur.com/NlKFNHS.png" tvg-country="US" tvg-language="spa" group-title="Music" nexus-score="100",HTV (720p)
 https://streaming.onnethn.com/HTV/playlist.m3u8
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Undefined",HBO+ Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.postimg.cc/k2QYWK8w/V8.png" group-title="VTV",VTV8
@@ -60960,8 +60958,6 @@ https://vmttv.dpdns.org/tv360/?id=vtv5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36 EdgA/153.0.0.0
 #EXTVLCOPT:http-user-referer=https://m.tv360.vn/
 https://pop3-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDkwNTE3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy80NDgvSExTX0NsZWFuX01ITl8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImZmMjZlNDVlNjVjN2I3MTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxNDUiLCJzb3VyY2VzIjpbMzMyLDQ4OCw0OTEsNDk1XX0=.4KI7WniF8Bnz8w_gItuOmIkHxki-NjcIwh7fAWBnRhIRAxBm1Voz9Ti6YA-ONgIa7Pld0nNTZgt25ieJdDdJyg==/live/eds/448/HLS_Clean_MHN_2s/index.m3u8?uid=171.239.223.97
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
 #EXTINF:-1 tvg-id="AXNBlack.us@CzechRepublic" tvg-logo="https://i.imgur.com/Peo1QiZ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black (United States) Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.17/live/test_black/playlist.m3u8
@@ -61088,3 +61084,13 @@ https://dlive.sx/watch.php?id=877
 https://dlive.sx/watch.php?id=204
 #EXTINF:-1 tvg-id="italyseriebmantovavspalermo" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Mantova 🇮🇹 vs Palermo 🇮🇹 (15:15)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Mantova 🇮🇹_vs_Palermo 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Mantova 🇮🇹 vs Palermo 🇮🇹 (15:15)
 https://dlive.sx/watch.php?id=156
+#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Education",Da Vinci Asia Vietnam (1080p)
+https://vmttv.dpdns.org/tv360/?id=davinci-hd
+#EXTINF:-1 tvg-id="HungYenTV.vn@SD" tvg-logo="https://i.imgur.com/TH1DWdm.png" group-title="General",Hung Yen TV (480p)
+https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
+#EXTINF:-1 tvg-id="NgheAnTV.vn@SD" tvg-logo="https://i.imgur.com/d9YEEwC.png" group-title="General",Nghe An TV (720p)
+https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
+#EXTINF:-1 tvg-id="DongNaiTV1.vn@SD",Dong Nai TV 1 (720p) [Geo-blocked]
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DongNaiTV3.vn@SD",Dong Nai TV 3 (720p)
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
