@@ -3418,3 +3418,8 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5dea8a67f02
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/deb3beda714f2a1caa986d2294fb13b40ea39ccd/LiveTV/Thailand/LiveTV.m3u
 https://raw.githubusercontent.com/vietng228/m3u/f09aba46033b9744df760688105b4e3099008eac/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/f09aba46033b9744df760688105b4e3099008eac/new.m3u
+https://raw.githubusercontent.com/Enkinuri666/enktel/e64c708cb56e2594e9fa6eff8a1ffe2491635248/data/sources/iptvcat-my-list.m3u8
+https://raw.githubusercontent.com/ahan443/FAST-IPTV/d9f0b9c5b7492fcab40b1b5e2e099829b37f6406/qjim.m3u.m3u8
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/b155889d7d84cbbde3e47b768d4f02b33e13343f/IPTV/CN.m3u8
+https://raw.githubusercontent.com/yyyr-otz/iptv-api/a8d26816474248b420bb77657328ebcc2ddfffd9/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
+https://raw.githubusercontent.com/yyyr-otz/iptv-api/a8d26816474248b420bb77657328ebcc2ddfffd9/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
