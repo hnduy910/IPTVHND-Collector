@@ -3423,3 +3423,13 @@ https://raw.githubusercontent.com/ahan443/FAST-IPTV/d9f0b9c5b7492fcab40b1b5e2e09
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/b155889d7d84cbbde3e47b768d4f02b33e13343f/IPTV/CN.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/a8d26816474248b420bb77657328ebcc2ddfffd9/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/a8d26816474248b420bb77657328ebcc2ddfffd9/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
+https://raw.githubusercontent.com/KimShenGod/live/bdfa40ce10d16bfbbed2617f8c9efda68c8703dd/iptv.m3u
+https://raw.githubusercontent.com/aata/iptv/02e84ddcdb5bb2b08c35a8270b3d536fefe48fa6/movies.m3u
+https://raw.githubusercontent.com/amazeyourself/m3u/0031d07cfab055a47a1e00bed23356de5b9a8ebe/riptv.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/c4f47911e01529bb426a2dcbfe9df21aa5cac236/iptv.m3u
+https://raw.githubusercontent.com/edgarosmar88-jpg/Pelinueva.m3u/889c2edc89cb93a30941728114ff24ca7f3ef27a/Iptv.m3u
+https://raw.githubusercontent.com/eklins/FDTV/adea7064ffe80212a615e6c8c7ba763c5077dd2c/zz/IPTV20220506.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/e6d2720227fb0949d142c94cfa7fcfa6484ddf61/streams/in.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/843c0f9a014747e8c7ff3de436cab5d747801ec8/UDPTV.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/03955cb8b4f8a118d633bd29fbd91ca65b9daeae/IPTV/fr.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/03955cb8b4f8a118d633bd29fbd91ca65b9daeae/IPTV/tw.m3u

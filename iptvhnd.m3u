@@ -61101,3 +61101,25 @@ https://stream.zeno.fm/2141ytrbn48uv
 https://stream.zeno.fm/khgfwxvh308uv
 #EXTINF:-1,Bison 1660 - 32 - The United States Of America - baseball - basketball - college sports - football - sports
 https://sonic.onlineaudience.co.uk/8142/stream
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Undefined",TCM Latin America Chile (1080p)
+https://streaming.onnethn.com/TCM_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png" group-title="VTV",VTV1
+https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.postimg.cc/yDR4tDRm/V2.png" group-title="VTV",VTV2
+https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.postimg.cc/B8cWZRM0/V3.png" group-title="VTV",VTV3
+https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv3hd" tvg-logo="https://i.imgur.com/TCoIsVF.png" group-title="HTV",HTV3
+https://1011154949.vnns.net/CDN-FPT02/HTV3-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/ikaiET3.png" group-title="HTV",HTVC Thể Thao
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/KVia0uU.png" group-title="Địa phương",Quảng Ninh 1
+https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8
+#EXTINF:-1 tvg-id="laocai" tvg-logo="https://i.imgur.com/Vd0P0rx.png" group-title="Địa phương",Lào Cai
+https://luuchieu.truyenhinhso.vn/media/live/42297BC521EC911B8934699E/index.m3u8
+#EXTINF:-1 tvg-id="danang2" tvg-logo="https://i.postimg.cc/870Rs5Pm/dnrt2.png" group-title="Địa phương",Đà Nẵng 2
+https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
+#EXTINF:-1 tvg-id="dongnai1" tvg-logo="https://i.postimg.cc/HJN6GzyV/DN1.png" group-title="Địa phương",Đồng Nai 1
+https://cdn.mediatech.vn/dongnai/tv1live-transmux.m3u8
+#EXTINF:-1 tvg-id="dongnai2" tvg-logo="https://i.postimg.cc/Mf75Q8r8/DN2.png" group-title="Địa phương",Đồng Nai 2
+https://cdn.mediatech.vn/dongnai/tv2live-transmux.m3u8
