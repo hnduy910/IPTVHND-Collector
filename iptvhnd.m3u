@@ -477,6 +477,8 @@
 #DATE: 2026-10-19 04:20:01
 #EXTM3U tvg-updated="2026-10-20T04:27:48+00:00"
 # (●) Total Channels: 624
+# Updated : 2026-10-21 22:49 ICT
+# Total   : 1019
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -61091,8 +61093,6 @@ https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV3.vn@SD",Dong Nai TV 3 (720p)
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Undefined",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png" group-title="VTV",VTV1
@@ -61499,3 +61499,328 @@ https://bt.futbolx.ryzn.pro/en/index.m3u8|Referer=https%3A//www.futbol-x.xyz&Ori
 https://g.futbolx.ryzn.pro/drt/index.m3u8|Referer=https%3A//www.futbol-x.xyz&Origin=https%3A//www.futbol-x.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-chno="502" tvg-id="Soccer.Dummy.us" tvg-name="[UCL] VfB Stuttgart vs Atlético Madrid | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",[UCL] VfB Stuttgart vs Atlético Madrid | Main Feed (FUTBOLX)
 https://g.futbolx.ryzn.pro/stut/index.m3u8|Referer=https%3A//www.futbol-x.xyz&Origin=https%3A//www.futbol-x.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1,Fußball-Bundesliga: Spiel 3
+https://wdr-sportschau-liga1spiel3.icecastssl.wdr.de/wdr/sportschau/liga1spiel3/mp3/high
+#EXTINF:-1,En Direct SCTV
+http://ec3.yesstreaming.net:2040/stream
+#EXTINF:0,19:30 21/10 Hang Yuan Football Club vs Manila Digger FC (Tran Hoang) | FPT
+#EXTGRP:Vua San Co TV
+https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
+#EXTINF:0,19:30 21/10 Hang Yuan Football Club vs Manila Digger FC (Nha Dai)
+#EXTGRP:Vua San Co TV
+https://station1-global.ebaclofen.org/live/6f0cfe1d78da16c2a89672c8f903fd0c/playlist.m3u8
+#EXTINF:0,[21:00-21/10] Ghazl El Mahallah vs Ittihad Alexandria SC [Egyptian Premier League] [HLS]
+#EXTGRP:BiaomTV
+https://lilive1.eu.cc/live/57eec9e342978547e3813a01953fa3f8/playlist.m3u8
+#EXTINF:0,[23:30-21/10] Como vs Manchester United [UEFA Champions League] [HLS]
+#EXTGRP:BiaomTV
+https://lilive1.eu.cc/live/e01ea603d72f30dd2bfa3d488598e73f/playlist.m3u8
+#EXTINF:0,[23:45-21/10] LOSC Lille vs Galatasaray [UEFA Champions League] [HLS]
+#EXTGRP:BiaomTV
+https://lilive1.eu.cc/live/15071af90331707de04a654e55700990/playlist.m3u8
+#EXTINF:0,23:45 21/10 | Como vs Manchester Utd | Bong da | UEFA Champions League | BLV BLV Kho Cay | Main
+#EXTGRP:PhaoHoaTV
+https://khogalive.b-cdn.net/bcdn_token=C8MIz3iBie0TxQ7IJVbKl2wxYeMCDiQBpnhj9zedeTs&expires=1855579061&token_path=%2Flive%2Flivehub9/live/livehub9/index.m3u8
+#EXTINF:0,23:45 21/10 | Como vs Manchester Utd | Bong da | UEFA Champions League | BLV BLV Kho Mat | Main
+#EXTGRP:PhaoHoaTV
+https://khogalive.b-cdn.net/bcdn_token=2s7I168olNPU6vVKWV6SfASXbWkPwQ27KoV9g69eolg&expires=1855579061&token_path=%2Flive%2Flivehub13/live/livehub13/index.m3u8
+#EXTINF:0,23:45 21/10 | Lille vs Galatasaray | Bong da | UEFA Champions League | BLV BLV Kho Che | Main
+#EXTGRP:PhaoHoaTV
+https://khogalive.b-cdn.net/bcdn_token=k2Np4muA1CnINe3Ho4ek9IIT350VErv-UbOvlumoGdk&expires=1855579061&token_path=%2Flive%2Flivehub5/live/livehub5/index.m3u8
+#EXTINF:0,[00:00-22/10] Al Ahly FC vs Olympic El Qanal [Egyptian Premier League] [HLS]
+#EXTGRP:BiaomTV
+https://lilive1.eu.cc/live/53754e3ce2c4c478db51971d5e332238/playlist.m3u8
+#EXTINF:0,[00:00-22/10] Ceramica Cleopatra FC vs Petrojet [Egyptian Premier League] [HLS]
+#EXTGRP:BiaomTV
+https://lilive1.eu.cc/live/ce3a156bf5f0564c938faaa979508474/playlist.m3u8
+#EXTINF:0,Nu Ha Noi TASCO vs Nu Hung Yen luc 12:00 ngay 22/10/2026 | Link 1 [FLV]
+#EXTGRP:FLV
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001792596723-0-0-39b8e0fd78c10d1f4a818069b15dbe6f
+#EXTINF:0,Nu LPB Ninh Binh vs Nu Vietinbank luc 19:30 ngay 22/10/2026 | Link 1 [FLV]
+#EXTGRP:FLV
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001792596724-0-0-6d9bc119e25e0618c5dd2e41e408deab
+#EXTINF:0,[01:00-22/10] Levante vs Athletic Club [Spanish La Liga] [HLS]
+#EXTGRP:BiaomTV
+https://lilive1.eu.cc/live/a82c2b96b14312ec181ebb8e02ac3c1e/playlist.m3u8
+#EXTINF:0,02:00 22/10 | Aston Villa vs Viking | Bong da | UEFA Champions League | BLV BLV Xoi Gac | Main
+#EXTGRP:PhaoHoaTV
+https://khogalive.b-cdn.net/bcdn_token=dRYFWOS8NR3jV1Miob0kGctX5UCvdUiohqB83sdbUfM&expires=1855579061&token_path=%2Flive%2Flivehub11/live/livehub11/index.m3u8
+#EXTINF:0,02:00 22/10 | Bayern Munich vs Arsenal | Bong da | UEFA Champions League | BLV BLV Tam Mao | Main
+#EXTGRP:PhaoHoaTV
+https://khogalive.b-cdn.net/bcdn_token=FK4zR2467DvcA9Fn4dCuA9l8E2pj4aXUFkktxkc6_GM&expires=1855579061&token_path=%2Flive%2Flivehub8/live/livehub8/index.m3u8
+#EXTINF:0,02:00 22/10 | Betis vs Feyenoord | Bong da | UEFA Champions League | BLV BLV Xoi Xoai | Main
+#EXTGRP:PhaoHoaTV
+https://khogalive.b-cdn.net/bcdn_token=94NMTHEad6UpOwuY7elPOUFb0h1wMdcj5SpUVwmlwg0&expires=1855579061&token_path=%2Flive%2Flivehub3/live/livehub3/index.m3u8
+#EXTINF:0,02:00 22/10 | Club Brugge KV vs Lens | Bong da | UEFA Champions League | BLV BLV Kho Bo | Main
+#EXTGRP:PhaoHoaTV
+https://khogalive.b-cdn.net/bcdn_token=l4pDy0sHUT4YQntQMGRIcbffxilU69IFYUv7JVypDgc&expires=1855579061&token_path=%2Flive%2Flivehub12/live/livehub12/index.m3u8
+#EXTINF:0,12:00 22/10 Ha Noi Tasco Auto vs Geleximco Hung Yen (LY LIEU LINH) (HD2) [geo]
+#EXTGRP:Pha Lang TV
+https://pull1.digitalcdn.net/live/f3cd4c77a84944b6a7bff6eb9f715149/index.m3u8
+#EXTINF:0,12:00 22/10 Ha Noi Tasco Auto vs Geleximco Hung Yen (LY LIEU LINH) [geo]
+#EXTGRP:Pha Lang TV
+https://pull.digitalcdn.net/live/f3cd4c77a84944b6a7bff6eb9f715149/index.m3u8
+#EXTINF:0,12:00 22/10 Nu Ha Noi TASCO vs Nu Hung Yen (HD TYSON)
+#EXTGRP:FLV
+https://live2.pro2cdnlive.com/live/channel-33.flv
+#EXTINF:0,12:00 22/10 Nu Ha Noi TASCO vs Nu Hung Yen (TYSON)
+#EXTGRP:FLV
+https://live2.pro2cdnlive.com/live/channel33.flv
+#EXTINF:0,14:30 22/10 VTV BD Long An vs BC Thong Tin BD19 (LY LEN LUA) (HD2) [geo]
+#EXTGRP:Pha Lang TV
+https://pull1.digitalcdn.net/live/3cacebeb244f43c3a81e8c1705d7e829/index.m3u8
+#EXTINF:0,14:30 22/10 VTV BD Long An vs BC Thong Tin BD19 (LY LEN LUA) [geo]
+#EXTGRP:Pha Lang TV
+https://pull.digitalcdn.net/live/3cacebeb244f43c3a81e8c1705d7e829/index.m3u8
+#EXTINF:0,17:00 22/10 Van Hien University vs Dong Thap (Doanh Chinh)
+#EXTGRP:Vua San Co TV
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
+#EXTINF:0,17:00 22/10 Van Hien vs Dong Thap (LY LINH LUC) (HD2) [geo]
+#EXTGRP:Pha Lang TV
+https://pull1.digitalcdn.net/live/4a9ee907bfb1448e952a9fcbd142c4bb/index.m3u8
+#EXTINF:0,17:00 22/10 Van Hien vs Dong Thap (LY LINH LUC) [geo]
+#EXTGRP:Pha Lang TV
+https://pull.digitalcdn.net/live/4a9ee907bfb1448e952a9fcbd142c4bb/index.m3u8
+#EXTINF:0,17:00 22/10 XMLS Thanh Hoa vs HCDG Lao Cai (LY LEN LUA) (HD2) [geo]
+#EXTGRP:Pha Lang TV
+https://pull1.digitalcdn.net/live/ce9e8ea592d745c19bac29a1be3f8288/index.m3u8
+#EXTINF:0,17:00 22/10 XMLS Thanh Hoa vs HCDG Lao Cai (LY LEN LUA) [geo]
+#EXTGRP:Pha Lang TV
+https://pull.digitalcdn.net/live/ce9e8ea592d745c19bac29a1be3f8288/index.m3u8
+#EXTINF:0,18:00 22/10 Xuan Thien Phu Tho vs PVF-CAND FC (Nguyen Anh)
+#EXTGRP:Vua San Co TV
+https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+#EXTINF:0,[19:15-22/10] Cong an Ha Noi vs Dong A Thanh Hoa [VDQG Viet Nam] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzI5MjM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmJhNTJvYW1oYndkdDNrbXNnMGFtZDFnag.flv
+#EXTINF:0,[19:15-22/10] Cong an Ha Noi vs Dong A Thanh Hoa [VDQG Viet Nam] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzI5MjM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmJhNTJvYW1oYndkdDNrbXNnMGFtZDFnag/index.m3u8
+#EXTINF:0,19:15 22/10 Cong An Ha Noi FC vs CLB Thanh Hoa (Tao Due)
+#EXTGRP:Vua San Co TV
+https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
+#EXTINF:0,19:15 22/10 Cong An Ha Noi vs Thanh Hoa (LY LENH) (HD2) [geo]
+#EXTGRP:Pha Lang TV
+https://pull1.digitalcdn.net/live/02d32b317ef8433996880f7e6fa311a5/index.m3u8
+#EXTINF:0,19:15 22/10 Cong An Ha Noi vs Thanh Hoa (LY LENH) [geo]
+#EXTGRP:Pha Lang TV
+https://pull.digitalcdn.net/live/02d32b317ef8433996880f7e6fa311a5/index.m3u8
+#EXTINF:0,19:30 22/10 LB Bank Ninh Binh vs Vietinbank (LY LIEU LINH) (HD2) [geo]
+#EXTGRP:Pha Lang TV
+https://pull1.digitalcdn.net/live/325d756ed97d45f59964a07fea55ba03/index.m3u8
+#EXTINF:0,19:30 22/10 LB Bank Ninh Binh vs Vietinbank (LY LIEU LINH) [geo]
+#EXTGRP:Pha Lang TV
+https://pull.digitalcdn.net/live/325d756ed97d45f59964a07fea55ba03/index.m3u8
+#EXTINF:0,[21:30-22/10] Kairat vs Panathinaikos [Europa Conference League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzQwMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onh5Z2l1Mjh2ejUzdmR0dWE4am9lNGlodg.flv
+#EXTINF:0,[21:30-22/10] Kairat vs Panathinaikos [Europa Conference League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzQwMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onh5Z2l1Mjh2ejUzdmR0dWE4am9lNGlodg/index.m3u8
+#EXTINF:0,[23:45-22/10] Juventus vs Stade Rennais [Europa League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzM4MTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF5ZDlucGE0eTVybDk1bHBud2lmaGZhbw.flv
+#EXTINF:0,[23:45-22/10] Juventus vs Stade Rennais [Europa League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzM4MTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF5ZDlucGE0eTVybDk1bHBud2lmaGZhbw/index.m3u8
+#EXTINF:0,[23:45-22/10] Lech Poznan vs Sunderland [Europa League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzM4MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhmOXU2aTNpNTZiaXM2amkxN202ZnB4Ng.flv
+#EXTINF:0,[23:45-22/10] Lech Poznan vs Sunderland [Europa League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzM4MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhmOXU2aTNpNTZiaXM2amkxN202ZnB4Ng/index.m3u8
+#EXTINF:0,[23:45-22/10] OFI vs Bayer Leverkusen [Europa League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzM4Mjk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmtnNmd3Y2VheWRscXoyaHp0OHVvMnM4cg.flv
+#EXTINF:0,[23:45-22/10] OFI vs Bayer Leverkusen [Europa League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzM4Mjk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmtnNmd3Y2VheWRscXoyaHp0OHVvMnM4cg/index.m3u8
+#EXTINF:0,[23:45-22/10] Sturm Graz vs Olympique Marseille [Europa League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzM4MTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxidnI3cTk0dHhmZDBjdHZ5N3BxcmxvbA.flv
+#EXTINF:0,[23:45-22/10] Sturm Graz vs Olympique Marseille [Europa League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzM4MTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxidnI3cTk0dHhmZDBjdHZ5N3BxcmxvbA/index.m3u8
+#EXTINF:0,[02:00-23/10] AFC Bournemouth vs Milan [Europa League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzM5NDQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZhNmR5bDllOXhtYzR2c2M5eHJzajhqYg.flv
+#EXTINF:0,[02:00-23/10] AFC Bournemouth vs Milan [Europa League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzM5NDQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZhNmR5bDllOXhtYzR2c2M5eHJzajhqYg/index.m3u8
+#EXTINF:0,[02:00-23/10] Ajax Amsterdam vs Atalanta [Europa Conference League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzQwMTQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm1pZXcwOWE3d2djMjViNG95NG1mNDVnag.flv
+#EXTINF:0,[02:00-23/10] Ajax Amsterdam vs Atalanta [Europa Conference League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzQwMTQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm1pZXcwOWE3d2djMjViNG95NG1mNDVnag/index.m3u8
+#EXTINF:0,[02:00-23/10] Besiktas vs Crystal Palace [Europa League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzM5NDY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnRlZHZzb3psdjc1d25rdGlhdXB4MHc5OA.flv
+#EXTINF:0,[02:00-23/10] Besiktas vs Crystal Palace [Europa League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzM5NDY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnRlZHZzb3psdjc1d25rdGlhdXB4MHc5OA/index.m3u8
+#EXTINF:0,[02:00-23/10] Celtic vs Celta Vigo [Europa League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzM5NTA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmRxMHBnem5nd2locXhkNW5qeTRsZ2p1aQ.flv
+#EXTINF:0,[02:00-23/10] Celtic vs Celta Vigo [Europa League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzM5NTA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmRxMHBnem5nd2locXhkNW5qeTRsZ2p1aQ/index.m3u8
+#EXTINF:0,[02:00-23/10] TSG 1899 Hoffenheim vs Olympique Lyon [Europa League] [FLV]
+#EXTGRP:FLV
+https://cdnflv.xbdbotv.live/live/MTk4NzM5NDc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmVnM20wN3k2OTJna201NWhtczltbTQxMA.flv
+#EXTINF:0,[02:00-23/10] TSG 1899 Hoffenheim vs Olympique Lyon [Europa League] [HLS]
+#EXTGRP:BiaomTV
+https://cdnhls.xbdbotv.live/live/MTk4NzM5NDc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmVnM20wN3k2OTJna201NWhtczltbTQxMA/index.m3u8
+#EXTINF:0,02:00 23/10 | Ajax vs Atalanta | Bong da | UEFA Champions League | Backup
+#EXTGRP:PhaoHoaTV
+https://xoiche.live/live/livehub5/live/livehub5/index.m3u8
+#EXTINF:0,02:00 23/10 | Besiktas vs Crystal Palace | Bong da | UEFA Europa League | Backup
+#EXTGRP:PhaoHoaTV
+https://xoiche.live/live/livehub8/live/livehub8/index.m3u8
+#EXTINF:0,02:00 23/10 | Bournemouth vs AC Milan | Bong da | UEFA Europa League | Backup
+#EXTGRP:PhaoHoaTV
+https://xoiche.live/live/livehub13/live/livehub13/index.m3u8
+#EXTINF:0,02:00 23/10 | Celtic vs Celta Vigo | Bong da | UEFA Europa League | Backup
+#EXTGRP:PhaoHoaTV
+https://xoiche.live/live/livehub12/live/livehub12/index.m3u8
+#EXTINF:0,02:00 23/10 | Hoffenheim vs Lyon | Bong da | UEFA Europa League | Backup
+#EXTGRP:PhaoHoaTV
+https://xoiche.live/live/livehub11/live/livehub11/index.m3u8
+#EXTINF:0,02:00 23/10 | Lillestrom vs Real Sociedad | Bong da | UEFA Europa League | Backup
+#EXTGRP:PhaoHoaTV
+https://xoiche.live/live/livehub9/live/livehub9/index.m3u8
+#EXTINF:0,02:00 23/10 | Monaco vs Freiburg | Bong da | UEFA Champions League | Backup
+#EXTGRP:PhaoHoaTV
+https://xoiche.live/live/livehub3/live/livehub3/index.m3u8
+#EXTINF:0,23:30 23/10 | Bochum vs Wolfsburg | Bong da | 2. Bundesliga | BLV BLV Xoi Bap | FLV
+#EXTGRP:FLV
+https://live.khoga.space/live/livehub6.flv
+#EXTINF:0,23:30 23/10 | Bochum vs Wolfsburg | Bong da | 2. Bundesliga | BLV BLV Xoi Bap | Main
+#EXTGRP:PhaoHoaTV
+https://khogalive.b-cdn.net/bcdn_token=3lsMy5IgFqP3UuPYzg-wTh7YZR6ew7W8GTccyfyGvwo&expires=1855579061&token_path=%2Flive%2Flivehub6/live/livehub6/index.m3u8
+#EXTINF:0,23:30 23/10 | Bochum vs Wolfsburg | Bong da | 2. Bundesliga | Backup
+#EXTGRP:PhaoHoaTV
+https://xoiche.live/live/livehub6/live/livehub6/index.m3u8
+#EXTINF:0,Hang Yuan Football Club Vs Manila Digger Fc [FLV]
+#EXTGRP:FLV
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
+#EXTINF:0,Hang Yuan Football Club Vs Manila Digger Fc [FLV]
+#EXTGRP:FLV
+https://playback.livetl004.com/live/6a7c0d8f65997681f18cacc4.flv
+#EXTINF:0,Trieu con tim yeu vo thuat dap chung mot nhip khi xem 2 em Mai Huong va Ngoc Linh doi dau | VTVcab Bong Da | 21/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=eFukQeMuPR8&ext=.m3u8
+#EXTINF:0,VALORANT CHAMPIONS 2026 GRAND FINAL HIGHLIGHTS | SCTV The Thao | 21/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=vNzFh7R1RnA&ext=.m3u8
+#EXTINF:0,Napoli v Bodø/Glimt | Match Highlights | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_UEFA_NAPVBG_500K.mp4.m3u8
+#EXTINF:0,PSG v Barcelona | Match Highlights | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_UEFA_PSGVBAR_500K.mp4.m3u8
+#EXTINF:0,Porto v PSV Eindhoven | Match Highlights | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_UEFA_FCPVPSV_500K.mp4.m3u8
+#EXTINF:0,Man City v AEK Athens | Match Highlights | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_UEFA_MCVAEK_500K.mp4.m3u8
+#EXTINF:0,Liverpool v Villarreal | Match Highlights | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_UEFA_LIVVVIL_500K.mp4.m3u8
+#EXTINF:0,Fenerbahce v Slavia Praha | Match Highlights | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_UEFA_FENVPRA_500K.mp4.m3u8
+#EXTINF:0,All Goals of the Day | 10/20/2026 | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_All_Goals_of_the_Day_500K.mp4.m3u8
+#EXTINF:0,du doan | Liverpool vs Villarreal | League phase UEFA Champions League 2026/27 | WEBTHETHAO | 20/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=0MQyn7JJZEU&ext=.m3u8
+#EXTINF:0,Stuttgart v A Madrid | Match Highlights | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_UEFA_STUVATM_500K.mp4.m3u8
+#EXTINF:0,Sabah v Dortmund | Match Highlights | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_UEFA_SFKVBD_500K.mp4.m3u8
+#EXTINF:0,Como vs Manchester United | Champions League League Phase Matchday 3 | WEBTHETHAO | 20/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=cT4Ame6n-so&ext=.m3u8
+#EXTINF:0,Roma v S Bratislava | Match Highlights | UEFA Champions League
+#EXTGRP:Highlight
+https://vod.supersport.com/2019/SOC_201026_UEFA_ASRVSB_500K.mp4.m3u8
+#EXTINF:0,Tong hop cac tran hay nhat luot 1 League Phase UEFA Europa League 2026/27 | VTVcab Bong Da | 19/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=kGOeHHpkyds&ext=.m3u8
+#EXTINF:0,thi nhau ban pha | Ligue 1 26/27 | VTVcab C1 | 19/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=IWefJQVUVPQ&ext=.m3u8
+#EXTINF:0,BUA TIEC BAN THANG| CONFERENCE LEAGUE | WEBTHETHAO | 19/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=DBxBBrJeXuA&ext=.m3u8
+#EXTINF:0,Real Madrid - Sevilla: Thi uy truoc Sieu kinh dien (La Liga) [Hiep 1]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-19/cp_special_laliga-1792357356-real_h1.m3u8
+#EXTINF:0,Real Madrid - Sevilla: Thi uy truoc Sieu kinh dien (La Liga) [Hiep 2]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-19/cp_special_laliga-1792357356-real_h2.m3u8
+#EXTINF:0,NGUOC DONG BAN LINH | BUNDESLIGA 26-27 | TV360 The Thao | 18/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=QxjMqeu_p_E&ext=.m3u8
+#EXTINF:0,Cong an Ha Noi - Ha Noi: Nha vo dich nhan "gao nuoc lanh" (V-League) [Hiep 1 | 720p]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-18/cp_special_v_league-1792332793-cahn_hanoi1_720p.m3u8
+#EXTINF:0,Cong an Ha Noi - Ha Noi: Nha vo dich nhan "gao nuoc lanh" (V-League) [Hiep 2 | 720p]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-18/cp_special_v_league-1792332793-cahn_hanoi2_720p.m3u8
+#EXTINF:0,Ninh Binh - HAGL: Dien ro 7 ban va 2 the do (V-League) [Hiep 1 | 720p]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-18/cp_special_v_league-1792329371-ninhbinh_hagl1_720p.m3u8
+#EXTINF:0,Ninh Binh - HAGL: Dien ro 7 ban va 2 the do (V-League) [Hiep 2 | 720p]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-18/cp_special_v_league-1792329372-ninhbinh_hagl2_720p.m3u8
+#EXTINF:0,Strasbourg - PSG: "Vua chau Au" bung no tu phut 77 (Ligue 1)
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-18/cp_special_ligue1-1792260685-strasbourg_psg1.m3u8
+#EXTINF:0,Strasbourg - PSG: "Vua chau Au" bung no tu phut 77 (Ligue 1) [Hiep 2]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-18/cp_special_ligue1-1792260686-strasbourg_psg2_720p.m3u8
+#EXTINF:0,3 doi thu cua U17 Viet Nam o World Cup manh co nao?
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-17/1792224002-video9x16-1080.m3u8
+#EXTINF:0,Match Preview & Prediction | Leeds Utd vs Man Utd | Searching for Redemption | Premier League Mat... | WEBTHETHAO | 17/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=P6H8Is1r0w4&ext=.m3u8
+#EXTINF:0,Espanyol - Atletico Madrid: Sieu pham phut 89 (La Liga)
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-17/cp_special_laliga-1792245838-espanyol_atletico1.m3u8
+#EXTINF:0,Espanyol - Atletico Madrid: Sieu pham phut 89 (La Liga) [Hiep 2]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-17/cp_special_laliga-1792245839-espanyol_atletico2_720p.m3u8
+#EXTINF:0,Highlights ESPANYOL vs ATL MADIRD | Alvarez kien tao - Baena lap sieu pham dinh cao | LaLiga 26/27 | VTVcab C1 | 17/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=m8OgcTgz2CE&ext=.m3u8
+#EXTINF:0,Real Betis - Barcelona: Sieu pham Yamal mo man dai tiec 7 ban (La Liga) [Hiep 2]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-18/cp_special_laliga-1792262451-betis_barcelona2_720p.m3u8
+#EXTINF:0,Bayern Munich - RB Leipzig: Choang vang “set tennis” (Bundesliga)
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-18/cp_special_bundesliga-1792263557-bayern_leipzig1.m3u8
+#EXTINF:0,Bayern Munich - RB Leipzig: Choang vang “set tennis” (Bundesliga) [Hiep 2]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-18/cp_special_bundesliga-1792263558-bayern_leipzig2_720p.m3u8
+#EXTINF:0,Union Berlin - Dortmund: Mat ngoi dau vao tay Bayern (Bundesliga) [Hiep 1]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-17/cp_special_bundesliga-1792250593-docmun_h1.m3u8
+#EXTINF:0,Union Berlin - Dortmund: Mat ngoi dau vao tay Bayern (Bundesliga) [Hiep 2]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-17/cp_special_bundesliga-1792250593-docmun_h2.m3u8
+#EXTINF:0,THANG LOI NHO KHOANH KHAC | BUNDESLIGA 26-27 | TV360 The Thao | 17/10
+#EXTGRP:Highlight
+https://caodanh.io.vn/highlight/iptv_hls.php?v=I1--J3aNQSM&ext=.m3u8
+#EXTINF:0,Ha Tinh - SLNA: Ruot duoi 4 ban hap dan (V-League) [Hiep 1 | 720p]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-17/cp_special_v_league-1792241880-hatinh_h1_720p.m3u8
+#EXTINF:0,Ha Tinh - SLNA: Ruot duoi 4 ban hap dan (V-League) [Hiep 2 | 720p]
+#EXTGRP:Highlight
+https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-10-17/cp_special_v_league-1792241880-hatinh_h2_720p.m3u8
