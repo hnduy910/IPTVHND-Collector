@@ -219,8 +219,6 @@ https://raw.githubusercontent.com/SweetBoy4141/iptv/e69009279fab70e35c4a4dcf1144
 https://raw.githubusercontent.com/Viking7iptv/Painel2021/819464c5cd08febe766a5afdf1de7710139c0c5b/IPTV.M3U
 https://raw.githubusercontent.com/Zenseana/iptv/4ed63d374d079aa9135ceeca6de5273ef7ce65d0/iptv.m3u
 https://raw.githubusercontent.com/af3mk/afiptv/ee6a02577406c5cc85536c1da132de28bab6f051/iptv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/315a1fa002563a2d9fff0491758a0e0614115495/movies.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/315a1fa002563a2d9fff0491758a0e0614115495/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aiemas/epg-playlist-builder/6b204c8c2771c0c4f7f5b5b24fda3af74b42e5b9/ace-stream-playlist.m3u8
 https://raw.githubusercontent.com/albertaru/miptv/a9a1007f79dce7e1aace0aae7fca77b0fd0de19a/playlist.m3u8
 https://raw.githubusercontent.com/altn2025/iptv/31c0237d5e46a8dabe1895dde7938cddd6aa5c3e/iptv.m3u
@@ -378,7 +376,6 @@ https://raw.githubusercontent.com/ziizidavid/Iptvjoes/39de032b3971709949b594e645
 https://raw.githubusercontent.com/Free-TV/IPTV/325ad0352e8c87f738d5b43edd31a87051351a24/playlists/playlist_united_arab_emirates.m3u8
 https://raw.githubusercontent.com/Github-Alexandria/iptv_pub/183a663894501dd7b6fbc9f9ceb2333e1db671fc/vn.m3u8
 https://raw.githubusercontent.com/MAYDAYxxx/MAYDAYxxx.github.io/5384fa46e80d3cf03cfd41e5434bf7eaf02f7231/TVBox/IPTV.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/257e6ccf54b52e3053d76d2a587fb9cef29af572/qjim.m3u.m3u8
 https://raw.githubusercontent.com/boxkim14/m3u8/6d56e6691fac1f95d05fb593ebb1456fa0a7f091/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8d3f71f2f88c88a8adfa933af17a3338b16c4493/LiveTV/Vietnam/LiveTV.m3u
 https://raw.githubusercontent.com/fuinbr/IPTV/15c4ff1816e6afc0812e022691d1aea2384eefa9/yd.m3u
@@ -465,7 +462,6 @@ https://raw.githubusercontent.com/SuperNova-Repo/Vavuu-IPTV/3706ece08a1389fbf7b5
 https://raw.githubusercontent.com/TVCABLEAR/VIP/7ce512bac11f2fca76c41e1ec1437da46238ec2b/PASS/FILE/2018-IPTV-COLOMBIA2.m3u
 https://raw.githubusercontent.com/Telipenko/playlist_IPTV/e8d9996cfb292753f875974b0790359d87c44b06/playlist_IPTV.m3u
 https://raw.githubusercontent.com/Tundrak/IPTV-Italia/de3b2beec404957c29ae6a4bd8acba8aab216d7c/iptvitaplus.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/acbb6ae241e1742aeb6e7524c7a831a948d8366d/movies.m3u8
 https://raw.githubusercontent.com/amazeyourself/m3u/634135b4df18b0c7fbe66e32151a273783972883/riptv.m3u
 https://raw.githubusercontent.com/anderson1077/iptv/301ec24f5ae06d1c1fa5978492db4a213ad0f6f3/IPTV.m3u
 https://raw.githubusercontent.com/aniksarakash/IPTV/1bf273ea9d6edde877637955b9a58c805ec850a6/BDIXI_IPTV.m3u
@@ -511,7 +507,6 @@ https://raw.githubusercontent.com/JekaLich/smtk/80cc455c6135b98ef531e83607f045c8
 https://raw.githubusercontent.com/JekaLich/smtk/80cc455c6135b98ef531e83607f045c8a7b761cb/ttv.m3u
 https://raw.githubusercontent.com/PrinzMichiDE/iptv-kodi-german/5f64a6d3bb50eea210c2abea91e759e9ef12cd46/playlist.m3u
 https://raw.githubusercontent.com/Tundrak/IPTV-Italia/de3b2beec404957c29ae6a4bd8acba8aab216d7c/iptvita.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/acbb6ae241e1742aeb6e7524c7a831a948d8366d/FIFA.m3u
 https://raw.githubusercontent.com/aiemas/epg-playlist-builder/6b204c8c2771c0c4f7f5b5b24fda3af74b42e5b9/soccer_playlist_dlhd.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/5d49a593041021d97505656eb92f1422f4d57f0d/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/5d49a593041021d97505656eb92f1422f4d57f0d/BugsfreeStreams/Output/StreamLinks-MXD.m3u
@@ -695,7 +690,6 @@ https://raw.githubusercontent.com/nhathong1204/IPTV/9906059253528be14d9df1e48573
 https://raw.githubusercontent.com/notanewbie/LegalStream/8f738ca400deae96671d2298ed62c5ce61a17302/packages/sports/live.m3u8
 https://raw.githubusercontent.com/Enkinuri666/enktel/28683317e894f4d9cf276e2ed0c962c3944f52db/data/sources/iptvcat-my-list.m3u8
 https://raw.githubusercontent.com/Free-TV/IPTV/03a4ac15633101465adbb5833fcc1aa7ab7a73de/playlists/playlist_united_arab_emirates.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/acbb6ae241e1742aeb6e7524c7a831a948d8366d/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aria-tv/aria/75a30d34f04c57cdbe6292648ee797ff824aa9ef/aria+/vietnam.m3u
 https://raw.githubusercontent.com/aria-tv/aria/75a30d34f04c57cdbe6292648ee797ff824aa9ef/stable/vietnam.m3u
 https://raw.githubusercontent.com/boxkim14/m3u8/41aa779b83fcc65da16230602fc3bfe604997278/vn.m3u8
@@ -779,7 +773,6 @@ https://raw.githubusercontent.com/tushen6/Tomorrow/d00d1dd74f75671afa33ced83aa22
 https://raw.githubusercontent.com/vietng228/m3u/f8034a2b16083ea2f5dab5889d5273fde08133dc/new.m3u
 https://raw.githubusercontent.com/Enkinuri666/enktel/fc38237af18a578f685c453fa29f55100eef4eb0/data/sources/iptvcat-my-list.m3u8
 https://raw.githubusercontent.com/Free-TV/IPTV/62e17f7e2e28a15d2a97599e2c228520f0188452/playlists/playlist_united_arab_emirates.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/e8e7eeb4eefbb106166135ee5b32bdc1e82aaa1f/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aria-tv/aria/0f65cf5c6a099c7cddbe8f80112431a129f02260/aria+/vietnam.m3u
 https://raw.githubusercontent.com/aria-tv/aria/0f65cf5c6a099c7cddbe8f80112431a129f02260/stable/vietnam.m3u
 https://raw.githubusercontent.com/boxkim14/m3u8/c435bf1a84f3a3d5976dc437784ff11685f0d5b1/vn.m3u8
@@ -805,7 +798,6 @@ https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/5ac50824dae46f
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/5ac50824dae46f5b34e9fabd5199a0caf6a4382b/playlists/samsungtvplus_gb.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/4a8a928bd9a699ed2592fc5e18f5f946c9c0b9b2/ttv.m3u
 https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/13a6a16d7110f3a707d03b6872d8a9192832fb7b/playlist.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/6e2066ee1df18e67e5327a997a8adacda884bbcc/movies.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/da7baea1992956b17e350ad577b0bd0f811e2f90/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/da7baea1992956b17e350ad577b0bd0f811e2f90/LiveTV/Israel/LiveTV.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/da7baea1992956b17e350ad577b0bd0f811e2f90/LiveTV/Portugal/LiveTV.m3u
@@ -838,8 +830,6 @@ https://raw.githubusercontent.com/JekaLich/smtk/93a60a96a734f9ccd87a009bf1a380f0
 https://raw.githubusercontent.com/JekaLich/smtk/93a60a96a734f9ccd87a009bf1a380f0df764252/ttv.m3u
 https://raw.githubusercontent.com/KPRDROP/kpr/3a2b709682e90ffd6c5d5a48fcc2a19c085c0157/webtv_tivimate.m3u8
 https://raw.githubusercontent.com/KPRDROP/kpr/3a2b709682e90ffd6c5d5a48fcc2a19c085c0157/webtv_vlc.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/6e2066ee1df18e67e5327a997a8adacda884bbcc/FIFA.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/6e2066ee1df18e67e5327a997a8adacda884bbcc/mzxi_m3u.m3u8
 https://raw.githubusercontent.com/apistech/project/7c44901d888b4ad625bd5823a3f310d0c45d1821/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8c0fd9f50ac638bc2f54c2bdfa55f6a72d347751/BugsfreeStreams/Output/StreamLinks-MXD.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8c0fd9f50ac638bc2f54c2bdfa55f6a72d347751/SpecialLinks/SOCCER___FUTBOL_PACKAGE/Unknown/SpecialLinks.m3u
@@ -902,7 +892,6 @@ https://raw.githubusercontent.com/mangyeu/TV/94876f04281540083c7fb2844253b3e1f9b
 https://raw.githubusercontent.com/tushen6/Tomorrow/9166cba983d16ab3af328b8aa52d15957f62bb94/TV/webview.m3u
 https://raw.githubusercontent.com/yuanxin69/m3u/da39d640ce6c56bccc5ae532d6bac65622deac3d/kodi1219-backup.m3u
 https://raw.githubusercontent.com/Enkinuri666/enktel/a928957ce9038489b19874bd92db50174774f192/data/sources/iptvcat-my-list.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/6e2066ee1df18e67e5327a997a8adacda884bbcc/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aria-tv/aria/e8406c513441966486952e7a67ac3581b11ecdd8/aria+/vietnam.m3u
 https://raw.githubusercontent.com/aria-tv/aria/e8406c513441966486952e7a67ac3581b11ecdd8/stable/vietnam.m3u
 https://raw.githubusercontent.com/franksun1211/TVBOX/6e1c0bd5137f8207def8309a63c5ce2f1b675d2c/APP/TVBoxOSC/WXER/live/4.txt
@@ -1114,7 +1103,6 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/b7b0a816ee6
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/d63541982b76fffd29a7d613913c3063fd816c75/IPTV/tw.m3u
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/310c11097b65026ce2246da5c917903d25cfb875/Backup/backup2.m3u8
 https://raw.githubusercontent.com/SuperNova-Repo/Vavuu-IPTV/3706ece08a1389fbf7b5f146737e9930cf2fc10f/Vavoo-IPTV-Bulgaria.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/dac7c2664a1a328fc8733c59530f034b082463c2/movies.m3u8
 https://raw.githubusercontent.com/amazeyourself/m3u/12fe74ef7e7ed56317f2ddd7c2565185729bbfde/riptv.m3u
 https://raw.githubusercontent.com/badboys88888/IPTV/a9a82053b6bd08224b7564d6aed41647c439b302/iptv.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/de5d694ab670f49a949962e30e23b97bbfd884f2/HongKong.m3u8
@@ -1135,7 +1123,6 @@ https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/14c607644876c9
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/14c607644876c9a0ff6b974c4fd5428ba15dc716/playlists/samsungtvplus_de.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/41f789444447c5cea30607b848d200950ecab7c9/TV.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/41f789444447c5cea30607b848d200950ecab7c9/ttv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/ea7dbc854995c2841fb70391b8a05c75ac49767a/FIFA.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/1985006fc7d860434fac83a62eaa7b7b72f8d917/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/1985006fc7d860434fac83a62eaa7b7b72f8d917/BugsfreeStreams/Output/StreamLinks-MXD.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/1985006fc7d860434fac83a62eaa7b7b72f8d917/LiveTV/Israel/LiveTV.m3u
@@ -1214,7 +1201,6 @@ https://raw.githubusercontent.com/nigelhayes11/temp/b1c32f0258bad571915b8939e3a9
 https://raw.githubusercontent.com/vietng228/m3u/8186f5e6fb596af8ca129d5a8ab99fd555e2fd50/new.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/450eb15c6850d65e490fb32c5ce901ec62b26c66/playlists/playlist_united_arab_emirates.m3u8
 https://raw.githubusercontent.com/a97083435/tang/c8cc36239058cc5b23ff2036935264ccba081932/tvbox/zhibo/channels.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/69f92dfa53753f4959385eb45c3afb248614f0d5/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aria-tv/aria/d29d7b5149a88dfe2f62d8975a60316ecf0e29fe/aria+/vietnam.m3u
 https://raw.githubusercontent.com/aria-tv/aria/d29d7b5149a88dfe2f62d8975a60316ecf0e29fe/stable/vietnam.m3u
 https://raw.githubusercontent.com/boxkim14/m3u8/16340bbc63cb95a5e7d143b184b5f1f776ae9a36/vn.m3u8
@@ -1272,7 +1258,6 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/9edb57f18326eb0d02340
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/9edb57f18326eb0d02340cbe30ed9c3e5893f4a0/Backup/backup2.m3u8
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/9edb57f18326eb0d02340cbe30ed9c3e5893f4a0/Backup/dami-tv.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/2e6b83600a17280f9fa173b1a05f9f8291ff32af/ttv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/d2684a6f5a93f5f92a0656080b0249e638050de2/movies.m3u8
 https://raw.githubusercontent.com/amazeyourself/m3u/c8580850da64cfbd241e2ac6ab7d4926e5477e4f/riptv.m3u
 https://raw.githubusercontent.com/badboys88888/IPTV/fc5f45357aa9083cb30dab021e6be99ee9f64f44/iptv.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/e0b4c807cf729ffa671d126b943ed0da50a4eb9a/SpecialLinks/AUSTRIA_SWISS_/Germany/SpecialLinks.m3u
@@ -1318,8 +1303,6 @@ https://raw.githubusercontent.com/KPRDROP/kpr/39e4c125d314707eb706d5efe92bb3d45a
 https://raw.githubusercontent.com/KPRDROP/kpr/39e4c125d314707eb706d5efe92bb3d45a866806/webtv_vlc.m3u8
 https://raw.githubusercontent.com/Love4vn/Stalker2M3U-public/afb1791a2c364902c77bd2c585c80ef29642482c/Football_match_live.m3u
 https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/06422e28710de1bd463eff848d3b811b683a448e/CanaisBR03.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/d2684a6f5a93f5f92a0656080b0249e638050de2/FIFA.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/d2684a6f5a93f5f92a0656080b0249e638050de2/mzxi_m3u.m3u8
 https://raw.githubusercontent.com/apistech/project/a61b0b9190d11a483169f261e47287c9c8b772ff/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/fb44c72d4a46ff79f2ec1bbe246ce1f36edeb786/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/fb44c72d4a46ff79f2ec1bbe246ce1f36edeb786/BugsfreeStreams/Output/StreamLinks-MXD.m3u
@@ -1469,7 +1452,6 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/8d8bfbdf0ffdd424b99
 https://raw.githubusercontent.com/vietng228/m3u/405d32d551d36bf9076468cda81836851278ac8c/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/405d32d551d36bf9076468cda81836851278ac8c/new.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/2c4f81d7107c945988dbb5038130042b4359d574/playlists/playlist_united_arab_emirates.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/67613d78a871a36577be6600ac0054a064eecd35/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aria-tv/aria/98b17eb60604a2a7618b5c01031d68dffef7d2a4/stable/vietnam.m3u
 https://raw.githubusercontent.com/boxkim14/m3u8/b6b38fb748cbffcee53c0d1091071c6caff811fc/vn.m3u8
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/cf4aa6fb54748b77c828a4443d6fedf30a3d2c7b/allradio.net/Vietnam.m3u
@@ -1516,7 +1498,6 @@ https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/22b327b0398b85
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/22b327b0398b85be0503bb0894287422c0414806/playlists/samsungtvplus_de.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/e23cacd28756a3c1cbd5e209aa535aeb89768599/ttv.m3u
 https://raw.githubusercontent.com/Love4vn/Stalker2M3U-public/eb45d36d590a9b74e6ba2d39d9270bb3d2517bde/Football_match_live.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/409ed3323eee910d59f0bf256a6b39d1d420de9e/movies.m3u8
 https://raw.githubusercontent.com/arquerido/mych/fe665a23ed6f4a9184add0789390bf404e78f369/USA.m3u8
 https://raw.githubusercontent.com/badboys88888/IPTV/312ee07fbe25d56623229d4a4f5ae357e979e85a/iptv.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/45a73d2109b662ba7b37b43f4ee3d22c2b969fd4/BugsfreeStreams/Output/StreamLinks-IL.m3u
@@ -1653,7 +1634,6 @@ https://raw.githubusercontent.com/vietng228/m3u/e2d9ea481a4253c19bbeb621225379a0
 https://raw.githubusercontent.com/boxkim14/m3u8/930fc8ca2a0803dd71be696254868a1d4ff5f622/vn.m3u8
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/5183459d41124c8f6d32d148bfe05c520627c5ad/IPTV/CN.m3u8
 https://raw.githubusercontent.com/KimShenGod/live/0d54084e8c4141eeaa41ce97f4967f92e4e0dc90/iptv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/bc6c9840b4ba27791d834338c52b8f66a9adce67/movies.m3u8
 https://raw.githubusercontent.com/amazeyourself/m3u/6c5d892c80596bed420f5cfd23d3f69c50176e1b/riptv.m3u
 https://raw.githubusercontent.com/anyelC24/Hyperblog-/75a0edc361f3c360029981189ab7004504beaff9/IPTV.M3U
 https://raw.githubusercontent.com/badboys88888/IPTV/a56668cb04446367be410b1789684d8116b73820/iptv.m3u
@@ -1778,7 +1758,6 @@ https://raw.githubusercontent.com/JekaLich/smtk/513a933e5f81b6868bdd77b717cf9c57
 https://raw.githubusercontent.com/JekaLich/smtk/513a933e5f81b6868bdd77b717cf9c57606b5220/ttv.m3u
 https://raw.githubusercontent.com/KPRDROP/kpr/01316ce90f0720a0499ef4e3810223e6a8e37db0/webtv_tivimate.m3u8
 https://raw.githubusercontent.com/KPRDROP/kpr/01316ce90f0720a0499ef4e3810223e6a8e37db0/webtv_vlc.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/d94c62ed72b219fdf047b0ca6d58cd5eb579ddd4/FIFA.m3u
 https://raw.githubusercontent.com/apistech/project/702783f159b38691e47d01445fbfdfc5da7e7a56/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8bd886e5d839a9e184e72e98a0c6b47feb5050cf/LiveTV/Thailand/LiveTV.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8bd886e5d839a9e184e72e98a0c6b47feb5050cf/SpecialLinks/SOCCER___FUTBOL_PACKAGE/Unknown/SpecialLinks.m3u
@@ -1848,7 +1827,6 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/8730c128e16e25c9efe
 https://raw.githubusercontent.com/vietng228/m3u/a88c1cca6785dee08fbae2dae2110dc0d89e4109/m3u.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/ba8727f68f00d928d81ab30d19b405a9af0972a7/playlists/playlist_united_arab_emirates.m3u8
 https://raw.githubusercontent.com/Unknow8x/phim/25d9c3e9c32606f5632dde76a57a4c47cb8404bc/iptv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/b745f229b960cbc1a4bf82bc4ce7a3607ad06fc6/qjim.m3u.m3u8
 https://raw.githubusercontent.com/boxkim14/m3u8/6ed3a6f42a4cc39129e675822686aca675d85e84/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/d1d930d21f89d9ed657266a9bdff861542c1d9f4/LiveTV/Vietnam/LiveTV.m3u
 https://raw.githubusercontent.com/doms9/iptv/1a0f19241114a68eebfbe08f7b8900181f14c201/M3U8/TV.m3u8
@@ -1913,7 +1891,6 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/0fc7f9331693a87b12c
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/090dddb7239aa63762ee01dbc097a98f3ed9d62e/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/8fe5347ee88f12bef877122615a40d7cc15369b6/Backup/backup2.m3u8
 https://raw.githubusercontent.com/KimShenGod/live/67f6b14a26e139dddefba69ec82f6fbe80292512/iptv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/41a4f1c233037b041ca8c0c9e14c501ed1e4a3ff/movies.m3u8
 https://raw.githubusercontent.com/amazeyourself/m3u/003087dcb33801410c955586e02342e633c94ddc/riptv.m3u
 https://raw.githubusercontent.com/badboys88888/IPTV/3d275c5ec67a6f8b17d4acd8c4172b352901bdcb/iptv.m3u
 https://raw.githubusercontent.com/eklins/FDTV/7b97a92d47627f0a6bd73c5cd9c0d08a83bc654b/zz/IPTV20220722.m3u
@@ -1934,7 +1911,6 @@ https://raw.githubusercontent.com/JekaLich/smtk/03824d3d59d87e51929376f8c595b0ed
 https://raw.githubusercontent.com/JekaLich/smtk/03824d3d59d87e51929376f8c595b0ede0236979/ttv.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/03824d3d59d87e51929376f8c595b0ede0236979/tv.smtk.m3u
 https://raw.githubusercontent.com/OlDom/BaltTV/600903dcabbe5b604346f7ce5f75479de7dca752/drm.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/41a4f1c233037b041ca8c0c9e14c501ed1e4a3ff/FIFA.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/cfcebf860617d05d5bfe8eaede11fe40d6c077e1/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/cfcebf860617d05d5bfe8eaede11fe40d6c077e1/BugsfreeStreams/Output/StreamLinks-MXD.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/cfcebf860617d05d5bfe8eaede11fe40d6c077e1/LiveTV/Israel/LiveTV.m3u
@@ -1969,7 +1945,6 @@ https://raw.githubusercontent.com/BuddyChewChew/sports/3fc76c3e967d2789a1317d17d
 https://raw.githubusercontent.com/KPRDROP/kpr/47a1ec1108099a6531f868260ecb209032f24bac/webtv_tivimate.m3u8
 https://raw.githubusercontent.com/KPRDROP/kpr/47a1ec1108099a6531f868260ecb209032f24bac/webtv_vlc.m3u8
 https://raw.githubusercontent.com/KPRDROP/learncode/3ce07e8f6195f394092b63d3edabdedce04ac2bb/dam_vlc.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/8b94dc336cfbb9c8da40e4a2413657bbc27c9f08/mzxi_m3u.m3u8
 https://raw.githubusercontent.com/apistech/project/f9ab2c8194934b61752f2cbafe200d16fb36b0ad/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/bc64c22e7912ea2b47d5a73ca9ca6ec1b7aad2f1/BugsfreeStreams/Output/StreamLinks-TH.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/bc64c22e7912ea2b47d5a73ca9ca6ec1b7aad2f1/LiveTV/Thailand/LiveTV.m3u
@@ -1985,7 +1960,6 @@ https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/096e374fbef47e017d
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/2d3537d06ae7e28886a4d71dcd56d8a772df3c72/IPTV/bg.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/2d3537d06ae7e28886a4d71dcd56d8a772df3c72/IPTV/cl.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/c829083fd373006d77f03e06193b25228867f576/playlists/playlist_united_arab_emirates.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/8b94dc336cfbb9c8da40e4a2413657bbc27c9f08/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aria-tv/aria/7a8aa9c19dc09c9d9fb4afa23600fd2a8653f069/stable/vietnam.m3u
 https://raw.githubusercontent.com/boxkim14/m3u8/9289351d4d21d3ee79dad37c8493c6a3a1dc4823/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/23b59083d4a4c0a3847cf715b60686282262fea2/LiveTV/Vietnam/LiveTV.m3u
@@ -2027,8 +2001,6 @@ https://raw.githubusercontent.com/BuddyChewChew/sports/90dddd0438f33f99bad53da66
 https://raw.githubusercontent.com/JekaLich/smtk/84fb4420a1d3ebfc8e4361ba4ae7bc8a8d377c89/TV.m3u
 https://raw.githubusercontent.com/KPRDROP/kpr/4eabe8bbf7d7e0bb12955f53feab97ed409e0add/webtv_tivimate.m3u8
 https://raw.githubusercontent.com/KPRDROP/kpr/4eabe8bbf7d7e0bb12955f53feab97ed409e0add/webtv_vlc.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/3b548ba7f8a11a0763c434c815cee0b2ad5725da/FIFA.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/3b548ba7f8a11a0763c434c815cee0b2ad5725da/mzxi_m3u.m3u8
 https://raw.githubusercontent.com/apistech/project/9bc120cf4cdfbf0bfb2d37154c51ac7d82cf335e/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a052b6add9cbaded722dc9126b311d21aa7b25a2/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a052b6add9cbaded722dc9126b311d21aa7b25a2/BugsfreeStreams/Output/StreamLinks-MXD.m3u
@@ -2073,7 +2045,6 @@ https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/7b1f1825fc53ccd2e3
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/1bd76c39152f22f74c3003d4815ed68e73e43f58/IPTV/bg.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/1bd76c39152f22f74c3003d4815ed68e73e43f58/IPTV/cl.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/bdbc5bc416920cb8e106255e47daf2b81ff6bc13/playlists/playlist_united_arab_emirates.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/da1d5586de9b8c1804dde60aeeae437de429a32c/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aria-tv/aria/1c3907ee9b1541be878ca9ab233806ace9720a6f/stable/vietnam.m3u
 https://raw.githubusercontent.com/boxkim14/m3u8/1c08d2d79d830c0cdf12b4dde9a15aba1208e775/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/c662b776a9a55c986c4a70e24c9727a4d2bfb44d/LiveTV/Vietnam/LiveTV.m3u
@@ -2122,7 +2093,6 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/5db7b1585e7dbdda63b5f
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/e8142f6abc4f4f35042f6aa1ef8f666249a3a04d/playlists/plutotv_us.m3u
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/e8142f6abc4f4f35042f6aa1ef8f666249a3a04d/playlists/samsungtvplus_at.m3u
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/e8142f6abc4f4f35042f6aa1ef8f666249a3a04d/playlists/samsungtvplus_ch.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/61c650ef2bf11e7604a19517abe54ecd5aa491b6/movies.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/3c36bb68ad6262540144864deb7f9ce8a9e91e1f/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/3c36bb68ad6262540144864deb7f9ce8a9e91e1f/LiveTV/Israel/LiveTV.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/3c36bb68ad6262540144864deb7f9ce8a9e91e1f/LiveTV/Portugal/LiveTV.m3u
@@ -2154,7 +2124,6 @@ https://raw.githubusercontent.com/JekaLich/smtk/02e2019bea791c4791918cbf361340e3
 https://raw.githubusercontent.com/KPRDROP/kpr/94b86ac980034d636cf845ec428a63326a976670/webtv_tivimate.m3u8
 https://raw.githubusercontent.com/KPRDROP/kpr/94b86ac980034d636cf845ec428a63326a976670/webtv_vlc.m3u8
 https://raw.githubusercontent.com/KPRDROP/learncode/684a9dd595be2477521c272262eaaea6f155f61f/fly_vlc.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/61c650ef2bf11e7604a19517abe54ecd5aa491b6/FIFA.m3u
 https://raw.githubusercontent.com/apistech/project/0e423d5c4524d099f1ae924ba6616cc645b965b2/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/686a005f9b39b6e8c9cfa6fea9c33b66dac6e0c1/BugsfreeStreams/Output/StreamLinks-MXD.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/686a005f9b39b6e8c9cfa6fea9c33b66dac6e0c1/SpecialLinks/SOCCER___FUTBOL_PACKAGE/Unknown/SpecialLinks.m3u
@@ -2246,14 +2215,12 @@ https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/63ab17e5c2f5f87ec8
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/df0eca0e9c8e04ab138fc2791c0e2c080e74a378/IPTV/bg.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/df0eca0e9c8e04ab138fc2791c0e2c080e74a378/IPTV/cl.m3u
 https://raw.githubusercontent.com/vietng228/m3u/5bdc271a4c9f2a8228a42c276a39e17796c2d442/m3u.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/32068f1914ef0624804ce0fa7d2ed4444bba3a4c/qjim.m3u.m3u8
 https://raw.githubusercontent.com/boxkim14/m3u8/fc2532b1effc5eb8fe6657f096b074bf9d19b373/vn.m3u8
 https://raw.githubusercontent.com/greatly33/trimm3/778f52676708cb8987e556c86de0dc4974730905/yogam.m3u8
 https://raw.githubusercontent.com/greatly33/trimm3/778f52676708cb8987e556c86de0dc4974730905/yumtv.m3u8
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/7dc8cc6c113acfdb3c31b4391a7b3f46dbeca139/IPTV/CN.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/6b13e564cd1bb0b26eebbd191baaf739cffd84ff/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
 https://raw.githubusercontent.com/KimShenGod/live/ba50d38f0251c538a865f07e7630c6c03f06fe47/iptv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/32068f1914ef0624804ce0fa7d2ed4444bba3a4c/movies.m3u8
 https://raw.githubusercontent.com/andrebrasil2022/lista-iptv2023/a63ca627ec86a67f748b704fde3f8b112fd5c567/iptv.m3u
 https://raw.githubusercontent.com/badboys88888/IPTV/df056271d7daa1babfde28c15ee92916d97cb8f5/iptv.m3u
 https://raw.githubusercontent.com/eklins/FDTV/efb3ef5ac84d1051145f4adef532bf5cb3b88d9a/zz/IPTV20220506.m3u
@@ -2343,7 +2310,6 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/1248c19a974
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/1248c19a9744df079c5fa45283d7b6a86f499c37/zin_music/uganda.m3u
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/dd9851302ed1a079b5d78067904f0c465e3e2db6/SpecialLinks/DSTV_/Unknown/SpecialLinks.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/623b05f8702ebc8e424d52285895f50f3fa3a7d9/TV.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/fc7116d572aed32a5088a81a28fa024969e6c8cb/FIFA.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/cbc826b7c9d8e9e226ac353c3c241b6ad50a37fa/LiveTV/Thailand/LiveTV.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/cbc826b7c9d8e9e226ac353c3c241b6ad50a37fa/SpecialLinks/SOCCER___FUTBOL_PACKAGE/Unknown/SpecialLinks.m3u
 https://raw.githubusercontent.com/evafourbasri-afk/streamedsu-autoscraper/9c410670686e48a46a497a351555a0fcd3b199d4/Branch/all.m3u
@@ -2407,7 +2373,6 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/8dca9252fbc4856e6aa
 https://raw.githubusercontent.com/sec-an/TVHelper/94e88ef377f44892d9f1c0f0b344163a9ecc1f46/configs/live/IPTV.m3u
 https://raw.githubusercontent.com/vietng228/m3u/8e5deca26a21fda88cde8c028413fc2d564131fa/m3u.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/dbb1da52bb504e654d924da7f2199cfe1f66f8b9/playlists/playlist_united_arab_emirates.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/86efcf35389861f9dafab3c401de7997fd35e01a/qjim.m3u.m3u8
 https://raw.githubusercontent.com/boxkim14/m3u8/587eb78e9432d7556a1de14a4fe31d612a873ff1/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/614e84b49a4a4effa91086e9bf8885df06a19617/LiveTV/Vietnam/LiveTV.m3u
 https://raw.githubusercontent.com/cai23511/yex/e67caaad01a5666a769ed4b4f3fb659ac300ba65/daiepg.m3u
@@ -2468,7 +2433,6 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/d0d3775bb253e8cdab1d8
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/f2c3cd6ccd0562c1d930756d2b8811ecbbd44c83/playlists/plutotv_us.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/fab0edcaf8699d776ec95e8258e074b1432cd6d7/TV.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/fab0edcaf8699d776ec95e8258e074b1432cd6d7/ttv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/5c4add552c2049460c53969ce6a3066b8bcdfc41/FIFA.m3u
 https://raw.githubusercontent.com/aria-tv/aria/f216eb238461063736f1c4c69c7656e968ce72bd/aria+/germany.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/5a50f4ace60316351d4921baabef9d4c291598f5/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/5a50f4ace60316351d4921baabef9d4c291598f5/BugsfreeStreams/Output/StreamLinks-MXD.m3u
@@ -2592,7 +2556,6 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/79c82040175ce9dc8eeb9
 https://raw.githubusercontent.com/KPRDROP/kpr/f52a8f30f5c87e31bcf02c2671c99da41fca030e/webtv_tivimate.m3u8
 https://raw.githubusercontent.com/KPRDROP/kpr/f52a8f30f5c87e31bcf02c2671c99da41fca030e/webtv_vlc.m3u8
 https://raw.githubusercontent.com/a97083435/tang/c5fa59a8fc30cf1f7546b8fd1e8109e3b52e570e/tvbox/zhibo/channels.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/5c4add552c2049460c53969ce6a3066b8bcdfc41/mzxi_m3u.m3u8
 https://raw.githubusercontent.com/apistech/project/bd353f9dd17f91cc07ef6e71601d9136cb1e557d/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/df93d7157b6aecb87fd86370bce3da848128228f/LiveTV/Thailand/LiveTV.m3u
 https://raw.githubusercontent.com/david13xa/-/9134d435402b6d67fea414015e08c166c95e2a71/irl.m3u
@@ -2608,7 +2571,6 @@ https://raw.githubusercontent.com/judy-gotv/iptv/09d99b8f0bef3e2d824dfcdc3ac6c2d
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/073c48f6553785bbb3470b241528bc9f9591df3d/BugsfreeStreams/Output/StreamLinks-TH.m3u
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/073c48f6553785bbb3470b241528bc9f9591df3d/LiveTV/Thailand/LiveTV.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/f1cd57867c6fecf0f5447eb8d5d0bae9ffb48993/playlists/playlist_united_arab_emirates.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/0c6a8c8b3ca5865d0153368ea951f195348aab15/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aria-tv/aria/e8a40da5f24523d526743aa50ac473229e6085b1/stable/vietnam.m3u
 https://raw.githubusercontent.com/boxkim14/m3u8/662afffb3f7a7307331e17f878d158f65265be2d/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/9d7578ff2d827557de250397e525b7b439bd5362/LiveTV/Vietnam/LiveTV.m3u
@@ -2662,7 +2624,6 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/25874b3950870a024dd
 https://raw.githubusercontent.com/Bitte-ein-Git/kodi-repo/d0ecf547cedf9c549727ff997b401b02cc0a3871/iptv/vavoo.m3u8
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/7983e88a2dd146db8ecdb0b02657088b98119809/Archive/nexgen.m3u8
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/7983e88a2dd146db8ecdb0b02657088b98119809/Backup/dami-tv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/ee0d975bad3b2de86946f6458c33d55b78075a8e/movies.m3u8
 https://raw.githubusercontent.com/badboys88888/IPTV/43237028fb442b54cec52298fcb0cf23d26287d6/iptv.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/69bcca3421f6912a3e077cc2a2dce2261628267b/SpecialLinks/AUSTRIA_SWISS_/Germany/SpecialLinks.m3u
 https://raw.githubusercontent.com/gambler65/kongresi1908/21becde363b6a34c02ff481e16193cd38bc1cf90/bio.m3u
@@ -2818,7 +2779,6 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/e3449e2fec591fd87dc
 https://raw.githubusercontent.com/vietng228/m3u/02a5eb6bb01fbbf6c98e797354e2bc09bb57c221/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/02a5eb6bb01fbbf6c98e797354e2bc09bb57c221/new.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/2efc0e64ea79b8ebb81163d45349f39b1e3e55c6/playlists/playlist_united_arab_emirates.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/6e8edf85956ae45342854b04851f12910299f1b7/qjim.m3u.m3u8
 https://raw.githubusercontent.com/aria-tv/aria/b80f5c66ae18bb84280bb07c54400bc9280860bb/stable/vietnam.m3u
 https://raw.githubusercontent.com/boxkim14/m3u8/5b4c586e756f3fcae67851f62dc2fab7336be20c/vn.m3u8
 https://raw.githubusercontent.com/franksun1211/TVBOX/94922ace0189c1115e671eba2f006c12c8ef9c84/APP/TVBoxOSC/WXER/live/4.txt
@@ -2842,7 +2802,6 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/faa8157cc9d76a1494071
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/8ac945bf1e5ed39a957e0dbbd97dd1b3db652dcd/playlists/plutotv_us.m3u
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/8ac945bf1e5ed39a957e0dbbd97dd1b3db652dcd/playlists/samsungtvplus_at.m3u
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/8ac945bf1e5ed39a957e0dbbd97dd1b3db652dcd/playlists/samsungtvplus_ch.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/6e8edf85956ae45342854b04851f12910299f1b7/movies.m3u8
 https://raw.githubusercontent.com/badboys88888/IPTV/1fe396c5fccabb3793a697b1c8e8cb32feac59d9/iptv.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/3d39814d3ef753889b1c46e93f491d626cec2734/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/3d39814d3ef753889b1c46e93f491d626cec2734/LiveTV/Bangladesh/LiveTV.m3u
@@ -2890,8 +2849,6 @@ https://raw.githubusercontent.com/wliqi495-create/jaychou123/903e64ed9072f4daa55
 https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/c1daffa2dd1276bca4e50b76ea3935e83a5d6d8b/OpenIPTVItaly.m3u
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/a793a324de86444b850ec441b6a9fb2e11617a59/Backup/backup2.m3u8
 https://raw.githubusercontent.com/KPRDROP/learncode/3e47e69d11786ed3858fc178322b2d5cae97890d/dam_vlc.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/6e8edf85956ae45342854b04851f12910299f1b7/FIFA.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/6e8edf85956ae45342854b04851f12910299f1b7/mzxi_m3u.m3u8
 https://raw.githubusercontent.com/apistech/project/2d4d64f1b22e66d03ca22eb8a2e76df3fc64d206/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/c601e9fde67a1ac4a22a5af5c1b7d9b03aa7e89b/BugsfreeStreams/Output/StreamLinks-MXD.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/c601e9fde67a1ac4a22a5af5c1b7d9b03aa7e89b/SpecialLinks/SOCCER___FUTBOL_PACKAGE/Unknown/SpecialLinks.m3u
@@ -3049,8 +3006,6 @@ https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/0e11d476b2f0a2c58a00e991
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/67bcdb1ac5368aa666f62694932110201a38ce01/Backup/backup2.m3u8
 https://raw.githubusercontent.com/Mikephie/Script/dee1275cb9c9ac03cae1be5944cb3966dcdb3376/livetv.m3u
 https://raw.githubusercontent.com/a97083435/tang/4fd878086b0b4fbebd5ff1dc1b477fc714b9137e/tvbox/zhibo/channels.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/1d22ac9ade83418e32936a310df6beaf76169f23/FIFA.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/1d22ac9ade83418e32936a310df6beaf76169f23/mzxi_m3u.m3u8
 https://raw.githubusercontent.com/apistech/project/7aae4025624ae679008a233cb3f029df0e1f4510/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/b61159e184b5f2e846cfa8105f0c9c0b9c387d68/LiveTV/Thailand/LiveTV.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/b61159e184b5f2e846cfa8105f0c9c0b9c387d68/SpecialLinks/SOCCER___FUTBOL_PACKAGE/Unknown/SpecialLinks.m3u
@@ -3113,7 +3068,6 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/7223ffc36fa6c413e35
 https://raw.githubusercontent.com/vietng228/m3u/5678184d3765c36dec1456a030bb9258e4a0453a/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/5678184d3765c36dec1456a030bb9258e4a0453a/new.m3u
 https://raw.githubusercontent.com/BuiCong1403/BuiCong1403/fa6e87c20b6c2a8b8285a21f764c5546deca9d31/ott.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/58a0e8ceeb7df00fe54cda1d5f14119230b8737d/qjim.m3u.m3u8
 https://raw.githubusercontent.com/boxkim14/m3u8/35f11136c4804165bc144c2ad1653038a60d3b0d/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/77caea76c3e2669fb3adbf1ef6d95b3618e23c40/LiveTV/Vietnam/LiveTV.m3u
 https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/244ff76452fa8e400272d62c7e352d538bc6416a/vipTLCAB.m3u
@@ -3156,7 +3110,6 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/bda21aede58772309aa61
 https://raw.githubusercontent.com/FCNch/E-Fiber/9997e56d0682d9210bfbd373923b80f464c2ce02/Iptv.m3u
 https://raw.githubusercontent.com/RomanTheQuant/IPtv/92bc30181777b289d0f82b6aa5a6dea6210fa35d/TESTTEST.m3u8
 https://raw.githubusercontent.com/SweetBoy4141/iptv/4252386846b6b02e3be9f9aa7da5538832eeaebd/iptv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/906cd7bf072a014bd48894e1a744d4607399a1ae/movies.m3u8
 https://raw.githubusercontent.com/amazeyourself/m3u/265da29c1e95b8508cfa2a6de0fc25d22b39b49e/riptv.m3u
 https://raw.githubusercontent.com/atsushi444/iptv/173d98c60e896001bb566706cb6b5f09e8f40ab5/0108.m3u
 https://raw.githubusercontent.com/badboys88888/IPTV/22dee15c4ba05554c88b06674c1a7624f39b1aa3/iptv.m3u
@@ -3180,7 +3133,6 @@ https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/fc9e8a3baa722d
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/fc9e8a3baa722dd1f2baab6d9f6c1756ba5f4992/playlists/samsungtvplus_at.m3u
 https://raw.githubusercontent.com/JekaLich/smtk/101dfd8d2c5a0d7111dadb97768c55418c9c9fa6/tv.smtk.m3u
 https://raw.githubusercontent.com/Mikephie/Script/f24125dd4a54677bd977ea6161b42c6414f44c72/livetv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/906cd7bf072a014bd48894e1a744d4607399a1ae/FIFA.m3u
 https://raw.githubusercontent.com/aria-tv/aria/2656e140eddcd47f383fdf78f3408e7162253920/aria+/united_kingdom.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8b2d31167c18ea03e8c5f75baf4f38776ff5b585/BugsfreeStreams/Output/StreamLinks-IL.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/8b2d31167c18ea03e8c5f75baf4f38776ff5b585/BugsfreeStreams/Output/StreamLinks-MXD.m3u
@@ -3234,7 +3186,6 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/a5493e4bc95c7182eea
 https://raw.githubusercontent.com/vietng228/m3u/e450a1cbf95edcccaa6db08e7ccfda2404091f21/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/e450a1cbf95edcccaa6db08e7ccfda2404091f21/new.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/73d61f8df0922a8811ff86a8ae7e39e964687589/playlists/playlist_united_arab_emirates.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/343bb25c79b4f8f1fc6843082a5593ce5d462382/qjim.m3u.m3u8
 https://raw.githubusercontent.com/boxkim14/m3u8/2bd43785ddc2aa07971e984b01c8a546931eea77/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/e002c46715465be106425abc6eea206cdbbd1a02/BugsfreeMain/TV-Vietnam.py
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/e002c46715465be106425abc6eea206cdbbd1a02/LiveTV/Vietnam/LiveTV.m3u
@@ -3280,7 +3231,6 @@ https://raw.githubusercontent.com/amazeyourself/m3u/dadb52d9d482d9f3ae55c37cee79
 https://raw.githubusercontent.com/judy-gotv/iptv/a45aaf114eb1ecbcedc685236d8f11413a08e3dd/UDPTV.m3u
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/0293a54fc97cf5f94f3ab134e0889ee80106f57f/Backup/backup2.m3u8
 https://raw.githubusercontent.com/FCNch/E-Fiber/8961d5bfbf7bc25d187d1e714df3a772440a7b23/Iptv.m3u
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/dec5ea4d9fdc4e8de941589405fad282cee77a13/movies.m3u8
 https://raw.githubusercontent.com/atsushi444/iptv/bb43cc6e6a0f5d2f3419f20d7c77c784c5f3201f/0108.m3u
 https://raw.githubusercontent.com/badboys88888/IPTV/dd8cb5d5d39e0023486c4a12b27b91fb7ab43494/iptv.m3u
 https://raw.githubusercontent.com/ez2c4u/ez/e260c75a68fe28c6c8bdb3f6cffeb0532f50716a/ez.txt
@@ -3305,7 +3255,6 @@ https://raw.githubusercontent.com/Rafail1082GitHUB/rafail1982.ru/729c341253cfee4
 https://raw.githubusercontent.com/Rafail1082GitHUB/rafail1982.ru/729c341253cfee4fa98c95ca08a3525683caf2e3/NTV.m3u8
 https://raw.githubusercontent.com/Rafail1082GitHUB/rafail1982.ru/729c341253cfee4fa98c95ca08a3525683caf2e3/RUNTV.m3u8
 https://raw.githubusercontent.com/Rafail1082GitHUB/rafail1982.ru/729c341253cfee4fa98c95ca08a3525683caf2e3/VERONA.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/dec5ea4d9fdc4e8de941589405fad282cee77a13/FIFA.m3u
 https://raw.githubusercontent.com/antonio-bravo/m3u/959b76b629703b0f3a84fc98b89a4ba39b0d18f0/ipfs_io.m3u
 https://raw.githubusercontent.com/apistech/project/aa8897b50f01d76a6f1c047f4a9269ec1b85cde8/playlists/liveeventsfilter.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/65bff39116e9a6bbcc769c63469b8dbff82b95c6/BugsfreeStreams/Output/StreamLinks-MXD.m3u
@@ -3419,7 +3368,6 @@ https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/deb3beda714f2a1caa
 https://raw.githubusercontent.com/vietng228/m3u/f09aba46033b9744df760688105b4e3099008eac/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/f09aba46033b9744df760688105b4e3099008eac/new.m3u
 https://raw.githubusercontent.com/Enkinuri666/enktel/e64c708cb56e2594e9fa6eff8a1ffe2491635248/data/sources/iptvcat-my-list.m3u8
-https://raw.githubusercontent.com/ahan443/FAST-IPTV/d9f0b9c5b7492fcab40b1b5e2e099829b37f6406/qjim.m3u.m3u8
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/b155889d7d84cbbde3e47b768d4f02b33e13343f/IPTV/CN.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/a8d26816474248b420bb77657328ebcc2ddfffd9/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/a8d26816474248b420bb77657328ebcc2ddfffd9/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
@@ -3493,3 +3441,82 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a191
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/zeno.fm/Czech_Republic.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/zin_music/uganda.m3u
 https://raw.githubusercontent.com/zecoxao/zecoxao.github.io/41d89ecd7036de016ef1d692435a174fbeb7aba8/abc.m3u
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/cb7163d517b3a93b4cc7ca1ebab15279c32fa253/Backup/backup2.m3u8
+https://raw.githubusercontent.com/JekaLich/smtk/5b3e435f3ad420c6f06515e369d734d955396e5d/TV.m3u
+https://raw.githubusercontent.com/JekaLich/smtk/5b3e435f3ad420c6f06515e369d734d955396e5d/ttv.m3u
+https://raw.githubusercontent.com/KPRDROP/kpr/2b4274f12a1577c9df0bcf5e62fb0b2a9ec3dad9/webtv_tivimate.m3u8
+https://raw.githubusercontent.com/KPRDROP/kpr/2b4274f12a1577c9df0bcf5e62fb0b2a9ec3dad9/webtv_vlc.m3u8
+https://raw.githubusercontent.com/Phoenix89S/IpTV_playlist_2026Ru/64bd15fab56be97198208f55848f873ed6942e71/ogog.m3u
+https://raw.githubusercontent.com/apistech/project/decf57cec9df0c15b7c463b7a6ba435db79e4b05/playlists/liveeventsfilter.m3u8
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/39db9c1cf35b09fb31ca4fa68331e865bcb191f0/BugsfreeStreams/Output/StreamLinks-MXD.m3u
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/39db9c1cf35b09fb31ca4fa68331e865bcb191f0/SpecialLinks/SOCCER___FUTBOL_PACKAGE/Unknown/SpecialLinks.m3u
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/39db9c1cf35b09fb31ca4fa68331e865bcb191f0/SpecialLinks/Unknown/Unknown/SpecialLinks6.m3u
+https://raw.githubusercontent.com/doms9/iptv/699eea5383fd514a18544da1d3da661ee3588a61/M3U8/TV.m3u8
+https://raw.githubusercontent.com/doms9/iptv/699eea5383fd514a18544da1d3da661ee3588a61/M3U8/events.m3u8
+https://raw.githubusercontent.com/doms9/iptv/699eea5383fd514a18544da1d3da661ee3588a61/M3U8/kodi.m3u8
+https://raw.githubusercontent.com/iprtl/m3u/9bb4f66c40e54e927fce83725f453ef82990cd91/Freetv.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/141978fe0ffacce0d456054595196e12363f6ea1/streams/ca_stingray.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/47b36853b6ea99a342b216e059ef457b977ccab5/FSTV24.m3u8
+https://raw.githubusercontent.com/judy-gotv/iptv/47b36853b6ea99a342b216e059ef457b977ccab5/UDPTV.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/47b36853b6ea99a342b216e059ef457b977ccab5/ceshi.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/47b36853b6ea99a342b216e059ef457b977ccab5/smart.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+checked+/c/content.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+checked+/f/fire.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+checked+/i/iran.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+checked+/l/live_sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+checked+/o/ort.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+checked+/p/port.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+checked+/s/son.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+checked+/s/streaming.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+checked+/t/tb.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+merged+/c/content.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+merged+/l/live_sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+merged+/p/port.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+merged+/s/spanish_(argentina).m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+merged+/s/spanish_(peru).m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+merged+/s/streaming.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/+merged+/t/tb.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/allradio.net/Live-sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/allradio.net/Live_sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/allradio.net/checked/Live-sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/allradio.net/checked/Live_sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/app_radio-fm/checked/W/Wien.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/app_radio-fm/checked/_4/_Wien_Austria.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/app_radio-fm/locations/W/Wien.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/kuasark/checked/0-k/football.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/kuasark/checked/l-z/live-sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/lixty/latin_music.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/lixty/uk.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/my.world_tuner/checked/sport.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/my.world_tuner/sport.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/T/tb.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/c/content.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/checked/0-l/Ecuador.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/checked/0-l/fire.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/checked/0-l/iran.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/checked/m-z/port.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/checked/m-z/sport.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/checked/m-z/sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/checked/m-z/streaming.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/e/Ecuador.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/f/fire.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/i/iran.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/p/port.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/s/sport.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/s/sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/radio_browser/s/streaming.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/re-tune_fm/F/Football.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/re-tune_fm/L/Live_sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/re-tune_fm/S/Sport.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/re-tune_fm/checked/F/Football.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/re-tune_fm/checked/L/Live_sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/re-tune_fm/checked/S/Sport.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/shoutcast/Folk.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/shoutcast/Sports.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/streema/Football.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/zeno.fm/Spanish_(Argentina).m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/zeno.fm/Spanish_(Peru).m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/5deea41a1912b7e1dc8ea1cc7e6a858c29b77f0c/zeno.fm/Sports.m3u
+https://raw.githubusercontent.com/levi-45/iptvstream/4a7405dbb6faa4d2a674e1ef2dab3601b04f5e5f/cn_cctv.m3u
+https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/e63da31c96b345b8f5dcf03e2d29a198853064f2/SpecialLinks/DSTV_/Unknown/SpecialLinks.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/6f7d2156be9e16393cf522e235b3959854503bc0/IPTV/th.m3u
