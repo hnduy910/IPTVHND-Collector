@@ -482,6 +482,8 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz, https://epg.pw/api/epg.xml?channel_id=399489, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=9621, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=7374, https://epg.pw/api/epg.xml?channel_id=3994, https://epg.pw/api/epg.xml?channel_id=4008, https://epg.pw/api/epg.xml?channel_id=412112, https://epg.pw/api/epg.xml?channel_id=3357, https://epg.pw/api/epg.xml?channel_id=369634"
 #DATE: 2026-10-22 04:18:37
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz; https://gabbarit.page.link/epg;"
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
+#EXTM3U tvg-updated="2026-10-23T04:21:35+00:00"
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -62121,3 +62123,12 @@ https://toiyeuvietnam.dpdns.org/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 https://liveh34.seenow.vn/hls/SCTV10/index.m3u8
 #EXTINF:-1,Universo Musical Villa Pehuenia
 https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1 tvg-id="quangngai2" tvg-logo="https://i.postimg.cc/0j90HbNC/QNg-TV2.png" group-title="Địa phương",Quảng Ngãi 2
+https://ott3.nethubtv.vn/live/bentretv/chunklist_2.m3u8
+#EXTINF:-1,Vietnam War Rock
+https://stream.zeno.fm/g91qxch7gv8uv
+#EXTINF:-1,futbol al momento
+https://stream.zeno.fm/m629xqe9x98uv
+#EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=NfRo880SlQTFVppM5RmTkA&e=2092695163&scheme=https

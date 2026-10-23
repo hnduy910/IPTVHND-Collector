@@ -14427,65 +14427,17 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/80947108/jiekou/a1b157595d2598b4632ac02071f5bc82dd5c7e04/IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/Free-TV/IPTV/a766b371046b1958d4442c9e8f84226250f96faa/playlists/playlist_zz_vod_it.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/Jahangirkhan12345/Sunrise-IPTV-Playlist/8efb18d05e841aa19d5570aaa13dc5723143b365/Jannat IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/KimShenGod/live/cf7d4d41da8a64eeaa2eea3d34e6f711e84198e4/iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/Luckyzhang2022/tvlibs/b2283feb939a748f6fb840d4279d8d10ddfbb5d8/IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/MahoChan/JustForFun/080f644cc54b4460461881a4a5880aa9bddf1031/iptv/streams/cr.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/b5d61d09ab05c98fcb28416b3bf136b591549edc/IPTV-FR/TV-FR_007.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/MyoMyanmarTV/myo.github.io/dad387614cbd2a0385a091f1942dd13655f2c97b/iptv.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/Shadmanislam/bdiptv/5bb712d37ac0acb227b8d1ba3cbfc480a1cf0127/BD IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/Smart-TV-18/IPTV1000/4d8a2335546eb2dbbc19af2e07a5ef4be6938030/IPTV_SHARED.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/Valon888/radio-app/4e00be467229a7973e7ffb64a1bbbe45ec48d2d2/playlist_zz_movies.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/aaronstockdalegmail/toonami-aftermath-roku/b2062433361d649042c2c5792fd3d94fb5d85339/roku app/playlist_zz_movies.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/aata/iptv/4d5062f4560f12960c16ce1a808007e0fe97eaa1/movies.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/网络电视IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/akiralereal/iptv/8e51a0bf0baaaf12ab984057dbc65a553dc4966f/IPTV-overseas.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/amazeyourself/m3u/04b53a6125aae26109b616991c5e03135b9608be/riptv.m3u": {
     "consecutive_failures": 0,
@@ -14495,45 +14447,9 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/babyfish21/iptv/ca06064338a49e657844749083656e5882c5a45d/iptv.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/badboys88888/IPTV/7a7fa479eb65179a79ad2c2a92cb8915f652a7a5/iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/brandenp198483-collab/branden-tv/4489fb0749df3060ad619f0c7e8425b40a08fd93/github_m3u_cache/qazim-IPTV__Films-index.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/f0531f16d869b78cd1b557346a27229b38932e84/BugsfreeStreams/StreamsTV-BR/sony_movies_720p_5d2c3f9d.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/caonimagfw/tv-box/ae3579019efafaccbc755f3aed5a1c55a4e88e53/eklins_fdtv/zz/IPTV CW20220604.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/davidarhui/lista/663670b7a379ad76b59a7ca6964e3f111898ab73/m3u/Canales IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/duoer124/sauce/23ff2f4dda6f13205279dbfd1c31bfda96db7bda/IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/eklins/FDTV/adea7064ffe80212a615e6c8c7ba763c5077dd2c/zz/IPTV CW20220604.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/foysal-ahamed/playlist/b38df5dc143dc6705833f6521d9a968158b13ca2/movies.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/gambler65/kongresi1908/21becde363b6a34c02ff481e16193cd38bc1cf90/filtered-iptv-playlist (7).m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/8ef36e351437a7511daf810c5808d88bcfef3d5b/HongKong.m3u8": {
     "consecutive_failures": 0,
@@ -14559,77 +14475,13 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/3100个全部有效.m3u8": {
-    "consecutive_failures": 3,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/国外电视台2023.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/inchoong/go/6c1fe3f13b77a4e8d290252c3c55aa0eea3f93d7/live/IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/iptvjs/iptvjs.github.io/6f03cb71feee5dc28f048a9e72b04da7987c42fe/ycl_iptv.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/judy-gotv/iptv/6a0c131fa4e714b570646706c8e20cca3bda1153/UDPTV.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/khan220/MULTI-IPTV-SERVERS/7699cfc801dd737a200e4a7359b301fe8b2265fd/SkyBlue IPTV Mix.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/levi-45/iptvstream/4a7405dbb6faa4d2a674e1ef2dab3601b04f5e5f/playlist_zz_movies.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/massindv/videos/e29d1241fc63e6846bcd2392f53807f93d436906/shahid/movies_action.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/massindv/videos/e29d1241fc63e6846bcd2392f53807f93d436906/shahid/movies_thriller.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/mehedihasandipu31/Mehediiptv/0aed2bf6b748309c160e78f2ad2c7401c4e84e09/Iptv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/mikedomo/IPTV/b09262c672726c71b1a6bb9ee2c5cffe583c90c5/IPTV Latino y España Premium 23 Agosto 2017.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/mikedomo/IPTV/b09262c672726c71b1a6bb9ee2c5cffe583c90c5/IPTV Latino y España Premium 30 Agosto 2017.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/mohdzufar/IPTV/a25235c95854262d2cb55924080edeaaae8421a7/Channels/HBO/HBO Movies.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/mohdzufar/IPTV/a25235c95854262d2cb55924080edeaaae8421a7/Channels/Korea/K-Movies.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/mohdzufar/IPTV/a25235c95854262d2cb55924080edeaaae8421a7/Channels/Singapore/HITS Movies.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/d36cd3f1f1bff564d379fdb86059fe377aa840ad/BugsfreeStreams/StreamsTV-PT/rakuten_tv_top_movies_29a3a43e.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/rfd0/0/7b46d62057f549f1fcecd2d7c804321ac237b2c6/0/Movies.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/robinespinal/freeiptvchanels/db99635c394391a892c48437bc6aac116dc0c6d6/m3u/iptv chanel list.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/355dd66d212224b964909298bcaace888437f1c2/IPTV/fr.m3u": {
     "consecutive_failures": 0,
@@ -14639,74 +14491,442 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/shahrokhtorkan/IPTV/58d4ebcb6abe890718818a07ecbbef46af141490/iptv.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/shanzfy/iptv/823db7c22370d1dd7ff960b0666a8e0b85dce446/playlist/movies.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/soars007/favorite/ba9dbc8ca7a538ed9bb483f2c8446cfd8d6d0808/public/share/IPTV-v6.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-16-195Z_Grjngo Films de Western (1080p).m3u": {
+  "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/ec6479455e5df9ff18d05083ddf0bc31937646b3/Archive/Backup.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/ec6479455e5df9ff18d05083ddf0bc31937646b3/Backup/dami-tv.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/745d87d61fa5b6f980b4c74b201cc686681daaf8/playlists/plutotv_us.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/745d87d61fa5b6f980b4c74b201cc686681daaf8/playlists/samsungtvplus_at.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/745d87d61fa5b6f980b4c74b201cc686681daaf8/playlists/samsungtvplus_ch.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/745d87d61fa5b6f980b4c74b201cc686681daaf8/playlists/samsungtvplus_de.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/D-Y-Innovations/test-text/9ab2b82d496eb4f5429a67fea574c42e2d523557/P.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-46-869Z_Rakuten TV Films Action (720p).m3u": {
+  "https://raw.githubusercontent.com/Dimonovich/TV/11957154b6f24033ddb4207d2e90fd59d69713b4/.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/GT966/love/7fd9e697053dceeb33b5d3c2fea3f33a3e3cc4d7/cy.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-46-881Z_Rakuten TV Films Comédie (720p).m3u": {
+  "https://raw.githubusercontent.com/Gkason/ds-tea-vee-repo/fbe35364d1b1d76d91b772abb33cb556727455b7/sports-only.m3u": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-46-897Z_Rakuten TV Films Drames (720p).m3u": {
+  "https://raw.githubusercontent.com/SingerLan/live/28b8535d4b606f61eacc9c4290e4b3ca3df9175a/89.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-46-907Z_Rakuten TV Films Famille.m3u": {
+  "https://raw.githubusercontent.com/SingerLan/live/28b8535d4b606f61eacc9c4290e4b3ca3df9175a/91.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-46-957Z_Rakuten TV Nordic Films (1080p).m3u": {
+  "https://raw.githubusercontent.com/T00700/TVBoxSE/a27c583e34beee8dc855bde62e5f203f3992179d/qt.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/vraomoturi/smartiptv-playlist/e5db46abf94f4f8b510fd60791d5d80284ccec0d/BD IPTV.m3u": {
+  "https://raw.githubusercontent.com/Vincentvip/Live/930a1619949c7dea4d62737c584a11fcdda0540c/1.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/yondor/iptv/20daaa24d866acc8cdee7f1ce5bff5d5b599db25/iptv.m3u": {
+  "https://raw.githubusercontent.com/andyszou/mitv/683960157ae6ef5d3ecf55af7a0c8b6bbf76ae61/v.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/yoyo82520/huaiptv/3f2dd11c22bdfb87f9f96e4e808894ff77c29c7e/HaNoi IPTV.m3u": {
+  "https://raw.githubusercontent.com/arquerido/mych/a5b1c8db073313cbc3ce1ff0f32ad6c8e9dfd459/SPORTS.m3u": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/zeroflixxyz/livetv/b135cb14ce9d6e207da444c29009cbacf45761f1/cast/bflix_movies.m3u8": {
+  "https://raw.githubusercontent.com/asiaboke/asiaboke/a94d0130b242b1cbf87a6fd81b977652bb4a5927/sl.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/zeroflixxyz/livetv/b135cb14ce9d6e207da444c29009cbacf45761f1/cast/houseful_movies.m3u8": {
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/d9201c26d5f8e5eb2e7ea57bd75a541545f39329/BugsfreeStreams/Output/StreamLinks-IL.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/d9201c26d5f8e5eb2e7ea57bd75a541545f39329/LiveTV/Bangladesh/LiveTV.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/d9201c26d5f8e5eb2e7ea57bd75a541545f39329/LiveTV/Israel/LiveTV.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/d9201c26d5f8e5eb2e7ea57bd75a541545f39329/SpecialLinks/AUSTRIA_SWISS_/Germany/SpecialLinks.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/cmeza432/movie_recommender/9d989774ec00728fa6196f7cd0c50a1b4d50d014/df.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/zeroflixxyz/livetv/b135cb14ce9d6e207da444c29009cbacf45761f1/cast/jalsha_movies.m3u8": {
+  "https://raw.githubusercontent.com/eseyffarth/deutsch_falsch/7aba06f5bb0fc561221ac8f2d7e3f25d38ed386a/3.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/zeroflixxyz/livetv/b135cb14ce9d6e207da444c29009cbacf45761f1/cast/star_movies_hd.m3u8": {
+  "https://raw.githubusercontent.com/fei699/ck/cdac937ac851ca1dff91d60e0b8e0e4336b547a1/8.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/fei699/ck/cdac937ac851ca1dff91d60e0b8e0e4336b547a1/99.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/hjcmcn/z/85018a7228dc7503481f3b0ba53fed774f10a367/bc.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/79d892a54391e65cc823c63957374ddf4bd41ead/SwisscomIPTV-brut.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/be_samsung.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/de_rakuten.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/dk_samsung.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/fi_samsung.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/nl_samsung.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/no_samsung.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/pl_rakuten.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/se_samsung.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/uk_samsung.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/us_pluto.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/iptv-org/iptv/74fe6c47a08efed41b149b0b785f3aa879c5e3a9/streams/us_xumo.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/a67778208d0403337b3cb999ae2b142e856a5452/t1.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/jjj999346/66636/3537864d2c3c92923316c3fde329f100c9454775/33.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/e7fdcef3e0821bdd71fbf2994943f4569d058972/LGTV-Schedule.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/e7fdcef3e0821bdd71fbf2994943f4569d058972/UDPTV.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/e7fdcef3e0821bdd71fbf2994943f4569d058972/ceshi.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/e7fdcef3e0821bdd71fbf2994943f4569d058972/logo-smart.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/e7fdcef3e0821bdd71fbf2994943f4569d058972/smart.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/e7fdcef3e0821bdd71fbf2994943f4569d058972/smartbeiyong.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+checked+/l/live_sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+checked+/l/loca_ug.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+checked+/l/local.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+checked+/o/ort.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+checked+/p/port.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+merged+/c/czech_republic.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+merged+/l/live_sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+merged+/l/loca_ug.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+merged+/o/ort.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/+merged+/p/port.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/allradio.net/Live-sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/allradio.net/Live_sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/allradio.net/checked/Sport.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/app_radio-fm/locations/0-9/_Wien_Austria.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/app_radio-fm/locations/W/Wien.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/kuasark/checked/0-k/football.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/kuasark/checked/l-z/live-sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/my.world_tuner/checked/sport.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/my.world_tuner/english-uk.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/my.world_tuner/sport.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/my.world_tuner/sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/oi_radio/checked/english.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/oi_radio/checked/local.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/oi_radio/checked/sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/oi_radio/checked/united-states.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/radio-volna/usa.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/radio.menu/loca-ug.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/radio_browser/checked/o/ort.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/radio_browser/checked/s/sport.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/radio_browser/o/ort.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/radio_browser/p/port.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/radio_browser/s/sport.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/radio_browser/s/sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/re-tune_fm/F/Football.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/re-tune_fm/L/Live_sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/re-tune_fm/S/Sport.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/re-tune_fm/checked/F/Football.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/re-tune_fm/checked/L/Live_sports.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/re-tune_fm/checked/S/Sport.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/sport.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/streema/Football.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/streema/United_Kingdom.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/streema/checked/United_Kingdom.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/web-radio_directory/United_Kingdom.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/zeno.fm/Czech_Republic.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/4e6fbc84b52252df12df0f4cfc853f2268f85228/zin_music/uganda.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/lisb0910/tv/bddc64425cf7e25102081dd804e8af16ade60c0b/tv.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/liubeyond79/tvzb/63456a23ab5b537fc490acb8f39f1fb962ad9437/l.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/longzhi456/tvlist/9709e721636c0df7e47ef6a145a3ee3468424d97/tw.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/myhomeapk/EV/cd9fe1177ad7485847b32733e3f7679d3d23d99a/ev.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/nsf-nee/tdc/73d1c085636ce7cdfbf690b26e5d55b6245739e3/46.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/sky6698/sky/0acbd37fa99e80b6a74de1469e9ea52efd53ecff/tw.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/snarfed/snarfed.org/bb0daeba8d8cf1457c4759c9168760ee8af3bce1/tv.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-57-885Z_Strongman Champions League (720p).m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-57-896Z_Strongman Champions League (720p).m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/wuheng18/zy/f1a00c67ec608c574235373fbb3f63cd725b3775/i.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/xiongjian83/TvBox/52785bbd8342e9f7dcbc336d5b152a38520fa745/gt.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/xsluck/xsluck.github.io/5be25a9486ff76f8c9a7bcec6ee018d6a815b5f8/TV.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/xsluck/xsluck.github.io/5be25a9486ff76f8c9a7bcec6ee018d6a815b5f8/YH.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/yy55720/yy55720.github.io/a432bfa82b388a8234f4125c48247e156cdff0dc/tv.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/zxmlxw520/5566/adb961f287fa9df44aaa5c6573a4ba203ed5cd00/tx.txt": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
   "__meta__": {
-    "query_cursor": 24,
-    "newly_discovered_sources": 17,
+    "query_cursor": 32,
+    "newly_discovered_sources": 75,
     "removed_after_failure_threshold": 0,
-    "validated_candidates": 137
+    "validated_candidates": 118
   }
 }
