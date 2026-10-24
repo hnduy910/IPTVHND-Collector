@@ -488,6 +488,7 @@
 # Total   : 969
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/cgyegcvcecvoc/PremiumTV/main/EPG/Vietnam.xml"
 # Vietnam working channels (86) - updated 2026-10-23 23:28 UTC (2026-10-23 07:28 PM EDT) - 4:41 PM final check
+#DATE: 2026-10-24 04:25:39
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -62573,3 +62574,49 @@ https://vod.supersport.com/2019/SOC_211026_UEFA_RMAVRBL_500K.mp4.m3u8
 #EXTINF:0,Xuan Phuong/Ngoc Thuc vs Tien Long/Trung Hai/Thanh Thoan | FULL FIGHT - 2 tran duo day song lang MMA | VTVcab Bong Da | 20/10
 #EXTGRP:Highlight
 https://caodanh.io.vn/highlight/iptv_hls.php?v=4Aff7pnpH48&ext=.m3u8
+#EXTINF:-1,Paul Pewitt Football
+https://stream.zeno.fm/0q7expg2bpvtv
+#EXTINF:-1,VOV Giao Thông Hà Nội
+https://5a6872aace0ce.streamlock.net/nghevovgthn/vovgthn.stream_aac/playlist.m3u8
+#EXTINF:-1,VOVGT TP Hồ Chí Minh
+https://5a6872aace0ce.streamlock.net/nghevovgthcm/vovgthcm.stream_aac/playlist.m3u8
+#EXTINF:-1,Đài PTTH Bến Tre
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
+#EXTINF:-1,Truyền hình Tiền Giang
+http://thtg.vn/live/radio/radiolive.m3u8
+#EXTINF:-1,Đài PTTH Cần Thơ
+https://tv.canthotv.vn/live/radio/radio.m3u8
+#EXTINF:-1,Đài PTTH Bạc Liêu
+http://118.69.205.213/radio/radio.m3u8
+#EXTINF:-1,Đài PTTH Hà Nội JoyFM
+http://radio.joyfm.vn:1935/live/RadioOnline/playlist.m3u8
+#EXTINF:-1,Đài PTTH Bình Phước
+http://118.69.197.145/hls/radio.m3u8
+#EXTINF:-1,STV Truyền Hình Sóc Trăng
+http://113.163.189.104/liveeventf.m3u8
+#EXTINF:-1,Đài PTTH Ninh Thuận
+http://203.113.166.233:1935/live/NTV_AUDIO/playlist.m3u8
+#EXTINF:-1,Đài PTTH Nghệ An
+https://live.truyenhinhnghean.vn/live/na2_720/index.m3u8
+#EXTINF:-1,Da Nang TV-2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8?n=411bd49ca77cea788892
+#EXTINF:-1,Hoa Binh TV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8?n=69e2327eddb63ec03977
+#EXTINF:-1,Khanh Hoa TV
+http://210.245.20.94/hls/ktv1.m3u8?n=283ea68aeeb149378214
+#EXTINF:-1,Kien Giang TV
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8?n=bf86274751c6cd0247d7
+#EXTINF:-1,Kien Giang TV-1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8?n=82561a54358e0721a81a
+#EXTINF:-1,Tây Ninh
+http://202.43.109.142:1935/radio11/tnradio/chunklist_w697011492.m3u8?n=0ad0bdbd45de357adcea
+#EXTINF:-1,Tien Giang TV
+http://thtg.vn:8001/stream_hi.m3u8?n=cdc64f27c19a59c9dcf3
+#EXTINF:-1,Translation of the Quran in Vietnamese
+https://server3.quraan.us:8024/?n=47d0e0d4307592798d9d
+#EXTINF:-1,Vietnam ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?n=48b081ca7b6b316885b6
+#EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
+http://media.kythuatvov.vn:7023/stream/?n=efdca6bd60c5d7184180
+#EXTINF:-1,Yen Bai TV
+http://yenbaitv.org.vn/hls/livestream.m3u8?n=b841191fc40775781f86
