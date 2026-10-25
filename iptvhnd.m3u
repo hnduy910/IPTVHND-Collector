@@ -489,6 +489,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/cgyegcvcecvoc/PremiumTV/main/EPG/Vietnam.xml"
 # Vietnam working channels (86) - updated 2026-10-23 23:28 UTC (2026-10-23 07:28 PM EDT) - 4:41 PM final check
 #DATE: 2026-10-24 04:25:39
+# (●) Total Channels: 636
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -62616,3 +62617,549 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?n=48b081ca7b6b316885b6
 http://media.kythuatvov.vn:7023/stream/?n=efdca6bd60c5d7184180
 #EXTINF:-1,Yen Bai TV
 http://yenbaitv.org.vn/hls/livestream.m3u8?n=b841191fc40775781f86
+#EXTINF:-1,VietNam
+https://stream.zeno.fm/2141ytrbn48uv
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Star Movies" tvg-logo="https://w7.pngwing.com/pngs/704/511/png-transparent-fox-movies-television-channel-star-movies-logo-fox-miscellaneous-television-text-thumbnail.png" group-title="★ HRVATSKI KANALI",Ex-Yu: Star Movies
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1204
+#EXTINF:-1 tvg-id="hbohd.rs" tvg-name="Ex-Yu: HBO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_adria.jpg" group-title="★ FILMSKI KANALI",Ex-Yu: HBO
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1161
+#EXTINF:-1 tvg-id="hbo2hd.rs" tvg-name="Ex-Yu: HBO 2" tvg-logo="" group-title="★ FILMSKI KANALI",Ex-Yu: HBO 2
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1162
+#EXTINF:-1 tvg-id="hbo3hd.rs" tvg-name="Ex-Yu: HBO 3" tvg-logo="" group-title="★ FILMSKI KANALI",Ex-Yu: HBO 3
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1163
+#EXTINF:-1 tvg-id="cinemaxhd.rs" tvg-name="Ex-Yu: Cinemax 1" tvg-logo="" group-title="★ FILMSKI KANALI",Ex-Yu: Cinemax 1
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1175
+#EXTINF:-1 tvg-id="cinemax2.rs" tvg-name="Ex-Yu: Cinemax 2" tvg-logo="" group-title="★ FILMSKI KANALI",Ex-Yu: Cinemax 2
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1176
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN Black" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_adria.jpg" group-title="★ GERMANY Channels",DE: AXN Black
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/982
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-name="SPORT: DE: S Bundesliga 1 (FHD)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 1 (FHD)
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/731
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-name="SPORT: DE: S Bundesliga 2 FHD (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 2 FHD (Nur bei Live Spiele)
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/732
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD.de" tvg-name="SPORT: DE: S Bundesliga 3 (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 3 (Nur bei Live Spiele)
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/733
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD.de" tvg-name="SPORT: DE: S Bundesliga 4  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 4  (Nur bei Live Spiele)
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/734
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 HD.de" tvg-name="SPORT: DE: S Bundesliga 5  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 5  (Nur bei Live Spiele)
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/735
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 HD.de" tvg-name="SPORT: DE: S Bundesliga  6  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga  6  (Nur bei Live Spiele)
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/736
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-name="SPORT: DE: S-ky Sport Bundesliga 1 (matchdays only)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S-ky Sport Bundesliga 1 (matchdays only)
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/745
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-name="SPORT: DE: S Bundesliga 2 HD (Live Event)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 2 HD (Live Event)
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/744
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Premier League
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/6278
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Soccer Plus" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Soccer Plus
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/822
+#EXTINF:-1 tvg-id="" tvg-name="UK: TCM" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: TCM
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/414
+#EXTINF:-1 tvg-id="" tvg-name="BG: Cinemax 2 " tvg-logo="" group-title="★ BULGARIA",BG: Cinemax 2 
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/4922
+#EXTINF:-1 tvg-id="" tvg-name="BG: Cinemax " tvg-logo="" group-title="★ BULGARIA",BG: Cinemax 
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/4923
+#EXTINF:-1 tvg-id="" tvg-name="BG: HBO 2 " tvg-logo="" group-title="★ BULGARIA",BG: HBO 2 
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/4955
+#EXTINF:-1 tvg-id="" tvg-name="BG: HBO 3" tvg-logo="" group-title="★ BULGARIA",BG: HBO 3
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/4956
+#EXTINF:-1 tvg-id="" tvg-name="BG: HBO " tvg-logo="" group-title="★ BULGARIA",BG: HBO 
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/4957
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema +24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema +24
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22268
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 1 +24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 1 +24
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22269
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 1 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 1 24
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22270
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 1
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22271
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 2 +24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 2 +24
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22272
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 2
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22273
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 24
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22274
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Due 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Due 24
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22281
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Duo" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Duo
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22283
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Max +1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Max +1
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22285
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Passion" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Passion
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22286
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Suspense" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Suspense
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22290
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA UNO 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: SKY CINEMA UNO 24
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22292
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Uno" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Uno
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22293
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Supercalcio Serie A" tvg-logo="" group-title="★ ITALIAN Channels",IT: S Supercalcio Serie A
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/22345
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM Cinema" tvg-logo="http://euroiptv.org/picon/tcmcinema.png" group-title="★ FRANCE",FR: TCM Cinema
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/36126
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM Cinema" tvg-logo="http://euroiptv.org/picon/tcmcinema.png" group-title="★ FRANCE",FR: TCM Cinema
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/36127
+#EXTINF:-1 tvg-id="" tvg-name="SLO: VTV" tvg-logo="" group-title="★ SLOVENIA",SLO: VTV
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/36151
+#EXTINF:-1 tvg-id="" tvg-name="SLO: HBO" tvg-logo="" group-title="★ SLOVENIA",SLO: HBO
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/36168
+#EXTINF:-1 tvg-id="" tvg-name="MK: Cinemax 2" tvg-logo="" group-title="★ MAKEDONSKI KANALI",MK: Cinemax 2
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/48561
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN White" tvg-logo="" group-title="★ GERMANY Channels",DE: AXN White
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/49815
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Cinemax 1 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| Cinemax 1 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13920
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Cinemax 2 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| Cinemax 2 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13921
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| Fox Movies" tvg-logo="" group-title="EXYU : Film",|ExYu| Fox Movies
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13930
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| HBO 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| HBO 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13933
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| HBO 2 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| HBO 2 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13934
+#EXTINF:-1 tvg-id="" tvg-name="|ExYu| HBO 3 4K+" tvg-logo="" group-title="EXYU : Film",|ExYu| HBO 3 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13935
+#EXTINF:-1 tvg-id="" tvg-name="|SL| HBO" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| HBO
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13854
+#EXTINF:-1 tvg-id="" tvg-name="|SL| HBO 2" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| HBO 2
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13855
+#EXTINF:-1 tvg-id="" tvg-name="|SL| HBO 3" tvg-logo="" group-title="EXYU : MK SL ME SK",|SL| HBO 3
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13856
+#EXTINF:-1 tvg-id="" tvg-name="|RS| HBO HD+" tvg-logo="" group-title="RS : Srbija",|RS| HBO HD+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/869
+#EXTINF:-1 tvg-id="" tvg-name="|RS| HBO 2 HD+" tvg-logo="" group-title="RS : Srbija",|RS| HBO 2 HD+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/870
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Cinemax 2" tvg-logo="" group-title="RS : Srbija",|RS| Cinemax 2
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/876
+#EXTINF:-1 tvg-id="" tvg-name="|RS| Cinemax 1" tvg-logo="" group-title="RS : Srbija",|RS| Cinemax 1
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/877
+#EXTINF:-1 tvg-id="" tvg-name="|HR| HBO 3 HD+" tvg-logo="" group-title="HR : Hrvatska",|HR| HBO 3 HD+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/915
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Sports Football 4K+" tvg-logo="" group-title="UK : Sport",|UK| Sky Sports Football 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13893
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Sports Premier League 4K+" tvg-logo="" group-title="UK : Sport",|UK| Sky Sports Premier League 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/13900
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Cinema Drama & Romance 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sky Cinema Drama & Romance 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1003
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Cinema Action 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sky Cinema Action 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1006
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Cinema Comedy 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sky Cinema Comedy 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1011
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Cinema Family 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sky Cinema Family 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1017
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Cinema Select 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sky Cinema Select 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1019
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Cinema Premiere 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sky Cinema Premiere 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1022
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Cinema Sci-Fi & Horror 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sky Cinema Sci-Fi & Horror 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1024
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Cinema Greats 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sky Cinema Greats 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1026
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sony Movies 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sony Movies 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1029
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sony Movies +1 4K+" tvg-logo="" group-title="UK : Cinema",|UK| Sony Movies +1 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/1031
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport Football" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport Football
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/14659
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport Serie A" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport Serie A
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/14660
+#EXTINF:-1 tvg-id="" tvg-name="|BG| HBO 1 4K+" tvg-logo="" group-title="BG : Bulgaria",|BG| HBO 1 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15708
+#EXTINF:-1 tvg-id="" tvg-name="|BG| HBO 2 4K+" tvg-logo="" group-title="BG : Bulgaria",|BG| HBO 2 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15709
+#EXTINF:-1 tvg-id="" tvg-name="|BG| HBO 3 4K+" tvg-logo="" group-title="BG : Bulgaria",|BG| HBO 3 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15710
+#EXTINF:-1 tvg-id="" tvg-name="|BG| Cinemax HD+" tvg-logo="" group-title="BG : Bulgaria",|BG| Cinemax HD+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15659
+#EXTINF:-1 tvg-id="" tvg-name="|BG| CineMax 1 4K+" tvg-logo="" group-title="BG : Bulgaria",|BG| CineMax 1 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15662
+#EXTINF:-1 tvg-id="" tvg-name="|BG| CineMax 2 4K+" tvg-logo="" group-title="BG : Bulgaria",|BG| CineMax 2 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15660
+#EXTINF:-1 tvg-id="" tvg-name="|BG| VTV" tvg-logo="" group-title="BG : Bulgaria",|BG| VTV
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15532
+#EXTINF:-1 tvg-id="" tvg-name="|US| Cinemax 4K+" tvg-logo="" group-title="US : United States",|US| Cinemax 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15852
+#EXTINF:-1 tvg-id="" tvg-name="|US| HBO 2 HD+" tvg-logo="" group-title="US : United States",|US| HBO 2 HD+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15876
+#EXTINF:-1 tvg-id="" tvg-name="|US| HBO Comedy HD+" tvg-logo="" group-title="US : United States",|US| HBO Comedy HD+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15878
+#EXTINF:-1 tvg-id="" tvg-name="|US| HBO Family 4K+" tvg-logo="" group-title="US : United States",|US| HBO Family 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15880
+#EXTINF:-1 tvg-id="" tvg-name="|US| HBO Signature 4K+" tvg-logo="" group-title="US : United States",|US| HBO Signature 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15882
+#EXTINF:-1 tvg-id="" tvg-name="|US| HBO Zone 4K+" tvg-logo="" group-title="US : United States",|US| HBO Zone 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15884
+#EXTINF:-1 tvg-id="" tvg-name="|US| Fox Soccer Plus 4K+" tvg-logo="" group-title="US : Sport",|US| Fox Soccer Plus 4K+
+http://login.lionboxtv.xyz:80/worldofiptv12@1/9qXpU47NGc@1/15964
+#EXTINF:-1 tvg-id="139" tvg-name="Cinemax 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cinem%C3%A1x_Logo.svg/533px-Cinem%C3%A1x_Logo.svg.png?20211005012211" group-title="FILM",Cinemax 1 - Cinemax 1
+http://202.61.230.83:8000/live?channelId=139&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="140" tvg-name="Cinemax 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png?20160901140313" group-title="FILM",Cinemax 2 HR - Cinemax 2 HR
+http://163.172.223.237:8000/live?channelId=140&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="146" tvg-name="HBO HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILM",HBO HR - HBO HR
+http://163.172.218.95:8000/live?channelId=146&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="147" tvg-name="HBO 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILM",HBO 2 HR - HBO 2 HR
+http://163.172.218.95:8000/live?channelId=147&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="148" tvg-name="HBO 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILM",HBO 3 HD - HBO 3 HD
+http://46.38.236.211:8000/live?channelId=148&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="149" tvg-name="HBO GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HBOGO.svg/600px-HBOGO.svg.png?20180107210843" group-title="FILM",HBO GO - HBO GO
+http://51.158.145.190:8000/live?channelId=149&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="208" tvg-name="Sky Bundesliga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 1 - Sky Bundesliga 1
+http://51.15.25.210:8000/live?channelId=208&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="209" tvg-name="Sky Bundesliga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 2 - Sky Bundesliga 2
+http://202.61.237.244:8000/live?channelId=209&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="210" tvg-name="Sky Bundesliga 3 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 3 (ONLY ON MATCHDAY) - Sky Bundesliga 3 (ONLY ON MATCHDAY)
+http://202.61.230.83:8000/live?channelId=210&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="211" tvg-name="Sky Bundesliga 4 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 4 (ONLY ON MATCHDAY) - Sky Bundesliga 4 (ONLY ON MATCHDAY)
+http://46.38.236.211:8000/live?channelId=211&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="212" tvg-name="Sky Bundesliga 5 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 5 (ONLY ON MATCHDAY) - Sky Bundesliga 5 (ONLY ON MATCHDAY)
+http://195.154.102.152:8000/live?channelId=212&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="312" tvg-name="Sky Cinema Action HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema Action HD DE - Sky Cinema Action HD DE
+http://51.15.26.200:8000/live?channelId=312&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="314" tvg-name="Sky Cinema HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema HD DE - Sky Cinema HD DE
+http://163.172.223.237:8000/live?channelId=314&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="685" tvg-name="SE: Viasat Football HD" tvg-logo="http://185.180.221.139:82/logo_channels/viasat_fotboll.png" group-title="SVEDSKI",SE: Viasat Football HD - SE: Viasat Football HD
+http://51.15.25.210:8000/live?channelId=685&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="864" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fox_Movies_Middle_East.png/200px-Fox_Movies_Middle_East.png" group-title="FILM",Fox Movies - Fox Movies
+http://51.15.25.210:8000/live?channelId=864&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="913" tvg-name="USA | HBO Comedy" tvg-logo="http://185.180.221.139:82/logo_channels/sat1_ch.png" group-title="USA",USA | HBO Comedy - USA | HBO Comedy
+http://46.38.236.211:8000/live?channelId=913&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="914" tvg-name="USA | HBO Signature" tvg-logo="http://185.180.221.139:82/logo_channels/food_network_uk.png" group-title="USA",USA | HBO Signature - USA | HBO Signature
+http://46.38.236.211:8000/live?channelId=914&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="915" tvg-name="USA | HBO 2" tvg-logo="http://185.180.221.139:82/logo_channels/up_network_cz.png" group-title="USA",USA | HBO 2 - USA | HBO 2
+http://46.38.236.211:8000/live?channelId=915&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="916" tvg-name="USA | HBO East" tvg-logo="http://185.180.221.139:82/logo_channels/sfr-sport1-fr.png" group-title="USA",USA | HBO East - USA | HBO East
+http://46.38.236.211:8000/live?channelId=916&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="921" tvg-name="USA | Hallmark Movies and Mysteries" tvg-logo="http://185.180.221.139:82/logo_channels/filmboxplushd.png" group-title="USA",USA | Hallmark Movies and Mysteries - USA | Hallmark Movies and Mysteries
+http://46.38.236.211:8000/live?channelId=921&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="942" tvg-name="Sky Sports Premier League HD" tvg-logo="http://185.180.221.139:82/logo_channels/sky_uk_sports_premier_league.png" group-title="SPORT",Sky Sports Premier League HD - Sky Sports Premier League HD
+http://51.15.25.210:8000/live?channelId=942&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1331" tvg-name="SI: HBO 2" tvg-logo="http://185.180.221.139:82/logo_channels/epic-drama-se.png" group-title="SLOVENIJA",SI: HBO 2 - SI: HBO 2
+http://46.38.236.211:8000/live?channelId=1331&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1333" tvg-name="SI: HBO 3" tvg-logo="http://185.180.221.139:82/logo_channels/hbo.png" group-title="SLOVENIJA",SI: HBO 3 - SI: HBO 3
+http://51.15.25.210:8000/live?channelId=1333&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1336" tvg-name="SI: FOX MOVIES" tvg-logo="http://185.180.221.139:82/logo_channels/pop_si_brio.png" group-title="SLOVENIJA",SI: FOX MOVIES - SI: FOX MOVIES
+http://163.172.13.127:8000/live?channelId=1336&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1356" tvg-name="HBO (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILM",HBO (version2) - HBO (version2)
+http://202.61.237.244:8000/live?channelId=1356&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1357" tvg-name="HBO 2 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILM",HBO 2 (version2) - HBO 2 (version2)
+http://202.61.237.244:8000/live?channelId=1357&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1358" tvg-name="HBO 3 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILM",HBO 3 (version2) - HBO 3 (version2)
+http://202.61.237.244:8000/live?channelId=1358&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1367" tvg-name="Sky Cinema (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema (version2) - Sky Cinema (version2)
+http://202.61.237.244:8000/live?channelId=1367&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1373" tvg-name="Sky Cinema Family (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema Family (version2) - Sky Cinema Family (version2)
+http://163.172.13.127:8000/live?channelId=1373&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1400" tvg-name="SI: HBO" tvg-logo="http://185.180.221.139:82/logo_channels/suroyo_tv.png" group-title="SLOVENIJA",SI: HBO - SI: HBO
+http://51.158.144.168:8000/live?channelId=1400&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1435" tvg-name="PT: AXN BLACK HD" tvg-logo="http://185.180.221.139:82/logo_channels/a_bola_tv_pt.png" group-title="PORTUGAL",PT: AXN BLACK HD - PT: AXN BLACK HD
+http://51.15.26.200:8000/live?channelId=1435&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1443" tvg-name="PT | AXN White" tvg-logo="http://185.180.221.139:82/logo_channels/planeta_tv_hd.png" group-title="PORTUGAL",PT | AXN White - PT | AXN White
+http://51.15.26.200:8000/live?channelId=1443&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1706" tvg-name="HU: HBO HD" tvg-logo="/noicon.png" group-title="HUNGARY",HU: HBO HD - 
+http://195.154.102.152:8000/live?channelId=1706&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1707" tvg-name="HU: HBO 2 1" tvg-logo="/noicon.png" group-title="HUNGARY",HU: HBO 2 1 - 
+http://195.154.102.152:8000/live?channelId=1707&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1708" tvg-name="HU: HBO 3 HD" tvg-logo="/noicon.png" group-title="HUNGARY",HU: HBO 3 HD - 
+http://195.154.102.152:8000/live?channelId=1708&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1780" tvg-name="PL | CineMax 1 FHD" tvg-logo="/noicon.png" group-title="POLAND",PL | CineMax 1 FHD - 
+http://195.154.102.152:8000/live?channelId=1780&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1781" tvg-name="PL | Cinemax 2 FHD" tvg-logo="/noicon.png" group-title="POLAND",PL | Cinemax 2 FHD - 
+http://195.154.102.152:8000/live?channelId=1781&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1791" tvg-name="PL | HBO 1" tvg-logo="/noicon.png" group-title="POLAND",PL | HBO 1 - 
+http://195.154.102.152:8000/live?channelId=1791&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1792" tvg-name="PL | HBO 2" tvg-logo="/noicon.png" group-title="POLAND",PL | HBO 2 - 
+http://195.154.102.152:8000/live?channelId=1792&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1793" tvg-name="PL | HBO 3" tvg-logo="/noicon.png" group-title="POLAND",PL | HBO 3 - 
+http://195.154.102.152:8000/live?channelId=1793&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1819" tvg-name="IT | Sky Cinema Action HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Action HD - 
+http://195.154.102.152:8000/live?channelId=1819&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1820" tvg-name="IT | Sky Cinema Comedy HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Comedy HD - 
+http://195.154.102.152:8000/live?channelId=1820&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1821" tvg-name="IT | Sky Cinema Drama HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Drama HD - 
+http://195.154.102.152:8000/live?channelId=1821&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1822" tvg-name="IT | Sky Cinema Due HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Due HD - 
+http://195.154.102.152:8000/live?channelId=1822&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1823" tvg-name="IT | Sky Cinema Romance HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Romance HD - 
+http://195.154.102.152:8000/live?channelId=1823&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1824" tvg-name="IT | Sky Cinema Uno HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Uno HD - 
+http://195.154.102.152:8000/live?channelId=1824&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="1838" tvg-name="IT | Sky Sport Serie A" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Sport Serie A - 
+http://195.154.102.152:8000/live?channelId=1838&uid=5454&deviceMac=00:1A:79:10:EF:06
+#EXTINF:-1 tvg-id="139" tvg-name="Cinemax 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cinem%C3%A1x_Logo.svg/533px-Cinem%C3%A1x_Logo.svg.png?20211005012211" group-title="FILM",Cinemax 1 - Cinemax 1
+http://202.61.230.83:8000/live?channelId=139&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="140" tvg-name="Cinemax 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png?20160901140313" group-title="FILM",Cinemax 2 HR - Cinemax 2 HR
+http://163.172.223.237:8000/live?channelId=140&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="146" tvg-name="HBO HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILM",HBO HR - HBO HR
+http://163.172.218.95:8000/live?channelId=146&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="147" tvg-name="HBO 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILM",HBO 2 HR - HBO 2 HR
+http://163.172.218.95:8000/live?channelId=147&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="148" tvg-name="HBO 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILM",HBO 3 HD - HBO 3 HD
+http://46.38.236.211:8000/live?channelId=148&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="149" tvg-name="HBO GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HBOGO.svg/600px-HBOGO.svg.png?20180107210843" group-title="FILM",HBO GO - HBO GO
+http://51.158.145.190:8000/live?channelId=149&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="208" tvg-name="Sky Bundesliga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 1 - Sky Bundesliga 1
+http://51.15.25.210:8000/live?channelId=208&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="209" tvg-name="Sky Bundesliga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 2 - Sky Bundesliga 2
+http://202.61.237.244:8000/live?channelId=209&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="210" tvg-name="Sky Bundesliga 3 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 3 (ONLY ON MATCHDAY) - Sky Bundesliga 3 (ONLY ON MATCHDAY)
+http://202.61.230.83:8000/live?channelId=210&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="211" tvg-name="Sky Bundesliga 4 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 4 (ONLY ON MATCHDAY) - Sky Bundesliga 4 (ONLY ON MATCHDAY)
+http://46.38.236.211:8000/live?channelId=211&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="212" tvg-name="Sky Bundesliga 5 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 5 (ONLY ON MATCHDAY) - Sky Bundesliga 5 (ONLY ON MATCHDAY)
+http://195.154.102.152:8000/live?channelId=212&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="312" tvg-name="Sky Cinema Action HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema Action HD DE - Sky Cinema Action HD DE
+http://51.15.26.200:8000/live?channelId=312&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="314" tvg-name="Sky Cinema HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema HD DE - Sky Cinema HD DE
+http://163.172.223.237:8000/live?channelId=314&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="685" tvg-name="SE: Viasat Football HD" tvg-logo="http://185.180.221.139:82/logo_channels/viasat_fotboll.png" group-title="SVEDSKI",SE: Viasat Football HD - SE: Viasat Football HD
+http://51.15.25.210:8000/live?channelId=685&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="864" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fox_Movies_Middle_East.png/200px-Fox_Movies_Middle_East.png" group-title="FILM",Fox Movies - Fox Movies
+http://51.15.25.210:8000/live?channelId=864&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="913" tvg-name="USA | HBO Comedy" tvg-logo="http://185.180.221.139:82/logo_channels/sat1_ch.png" group-title="USA",USA | HBO Comedy - USA | HBO Comedy
+http://46.38.236.211:8000/live?channelId=913&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="914" tvg-name="USA | HBO Signature" tvg-logo="http://185.180.221.139:82/logo_channels/food_network_uk.png" group-title="USA",USA | HBO Signature - USA | HBO Signature
+http://46.38.236.211:8000/live?channelId=914&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="915" tvg-name="USA | HBO 2" tvg-logo="http://185.180.221.139:82/logo_channels/up_network_cz.png" group-title="USA",USA | HBO 2 - USA | HBO 2
+http://46.38.236.211:8000/live?channelId=915&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="916" tvg-name="USA | HBO East" tvg-logo="http://185.180.221.139:82/logo_channels/sfr-sport1-fr.png" group-title="USA",USA | HBO East - USA | HBO East
+http://46.38.236.211:8000/live?channelId=916&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="921" tvg-name="USA | Hallmark Movies and Mysteries" tvg-logo="http://185.180.221.139:82/logo_channels/filmboxplushd.png" group-title="USA",USA | Hallmark Movies and Mysteries - USA | Hallmark Movies and Mysteries
+http://46.38.236.211:8000/live?channelId=921&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="942" tvg-name="Sky Sports Premier League HD" tvg-logo="http://185.180.221.139:82/logo_channels/sky_uk_sports_premier_league.png" group-title="SPORT",Sky Sports Premier League HD - Sky Sports Premier League HD
+http://51.15.25.210:8000/live?channelId=942&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1180" tvg-name="Sky Cinema Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema Family - Sky Cinema Family
+http://51.158.144.168:8000/live?channelId=1180&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1201" tvg-name="Sky Bundesliga 1 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 1 (version2) - Sky Bundesliga 1 (version2)
+http://51.158.145.190:8000/live?channelId=1201&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1202" tvg-name="Sky Bundesliga 2 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 2 (version2) - Sky Bundesliga 2 (version2)
+http://51.158.144.168:8000/live?channelId=1202&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1210" tvg-name="UK | Sky Cinema Action" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_cinema_action.png" group-title="UK & IRELAND",UK | Sky Cinema Action - UK | Sky Cinema Action
+http://202.61.230.83:8000/live?channelId=1210&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1211" tvg-name="UK | Sky Cinema Animation" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_cinema_action.png" group-title="UK & IRELAND",UK | Sky Cinema Animation - UK | Sky Cinema Animation
+http://163.172.218.95:8000/live?channelId=1211&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1212" tvg-name="UK | Sky Cinema Comedy" tvg-logo="http://185.180.221.139:82/logo_channels/sky-cinema-comedy-uk.png" group-title="UK & IRELAND",UK | Sky Cinema Comedy - UK | Sky Cinema Comedy
+http://51.15.25.210:8000/live?channelId=1212&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1214" tvg-name="UK | Sky Cinema Drama" tvg-logo="http://185.180.221.139:82/logo_channels/sky_uk_cinema_drama_romance.png" group-title="UK & IRELAND",UK | Sky Cinema Drama - UK | Sky Cinema Drama
+http://176.9.1.143:8000/live?channelId=1214&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1215" tvg-name="UK | Sky Cinema Family" tvg-logo="http://185.180.221.139:82/logo_channels/sky_it_cinema_family.png" group-title="UK & IRELAND",UK | Sky Cinema Family - UK | Sky Cinema Family
+http://163.172.13.127:8000/live?channelId=1215&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1216" tvg-name="UK | Sky Cinema Select" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_cinema_action.png" group-title="UK & IRELAND",UK | Sky Cinema Select - UK | Sky Cinema Select
+http://163.172.13.127:8000/live?channelId=1216&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1217" tvg-name="UK | Sky Cinema Thriller" tvg-logo="http://185.180.221.139:82/logo_channels/sky-cinema-crime-thriller-uk.png" group-title="UK & IRELAND",UK | Sky Cinema Thriller - UK | Sky Cinema Thriller
+http://51.158.144.168:8000/live?channelId=1217&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1264" tvg-name="(RO) AXN Black" tvg-logo="http://185.180.221.139:82/logo_channels/axn_black_pt.png" group-title="Romania",(RO) AXN Black - (RO) AXN Black
+http://46.38.236.211:8000/live?channelId=1264&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1266" tvg-name="(RO) AXN White" tvg-logo="http://185.180.221.139:82/logo_channels/axn_white_pl.png" group-title="Romania",(RO) AXN White - (RO) AXN White
+http://51.15.25.210:8000/live?channelId=1266&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1269" tvg-name="(RO) Cinemax" tvg-logo="http://185.180.221.139:82/logo_channels/cinemax.png" group-title="Romania",(RO) Cinemax - (RO) Cinemax
+http://46.38.236.211:8000/live?channelId=1269&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1270" tvg-name="(RO) Cinemax 2" tvg-logo="http://185.180.221.139:82/logo_channels/cinemax2.png" group-title="Romania",(RO) Cinemax 2 - (RO) Cinemax 2
+http://163.172.13.127:8000/live?channelId=1270&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1271" tvg-name="(RO) Cinemax HD" tvg-logo="http://185.180.221.139:82/logo_channels/cinemaxhd.png" group-title="Romania",(RO) Cinemax HD - (RO) Cinemax HD
+http://51.158.144.168:8000/live?channelId=1271&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1303" tvg-name="(RO) HBO 3" tvg-logo="http://185.180.221.139:82/logo_channels/hbo3.png" group-title="Romania",(RO) HBO 3 - (RO) HBO 3
+http://195.154.102.152:8000/live?channelId=1303&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1304" tvg-name="(RO) HBO 3 HD" tvg-logo="http://185.180.221.139:82/logo_channels/hbo3hd.png" group-title="Romania",(RO) HBO 3 HD - (RO) HBO 3 HD
+http://195.154.102.152:8000/live?channelId=1304&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1305" tvg-name="(RO) HBO HD" tvg-logo="http://185.180.221.139:82/logo_channels/hbohd.png" group-title="Romania",(RO) HBO HD - (RO) HBO HD
+http://51.15.25.210:8000/live?channelId=1305&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1331" tvg-name="SI: HBO 2" tvg-logo="http://185.180.221.139:82/logo_channels/epic-drama-se.png" group-title="SLOVENIJA",SI: HBO 2 - SI: HBO 2
+http://46.38.236.211:8000/live?channelId=1331&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1333" tvg-name="SI: HBO 3" tvg-logo="http://185.180.221.139:82/logo_channels/hbo.png" group-title="SLOVENIJA",SI: HBO 3 - SI: HBO 3
+http://51.15.25.210:8000/live?channelId=1333&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1336" tvg-name="SI: FOX MOVIES" tvg-logo="http://185.180.221.139:82/logo_channels/pop_si_brio.png" group-title="SLOVENIJA",SI: FOX MOVIES - SI: FOX MOVIES
+http://163.172.13.127:8000/live?channelId=1336&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1356" tvg-name="HBO (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILM",HBO (version2) - HBO (version2)
+http://202.61.237.244:8000/live?channelId=1356&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1357" tvg-name="HBO 2 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILM",HBO 2 (version2) - HBO 2 (version2)
+http://202.61.237.244:8000/live?channelId=1357&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1358" tvg-name="HBO 3 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILM",HBO 3 (version2) - HBO 3 (version2)
+http://202.61.237.244:8000/live?channelId=1358&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1367" tvg-name="Sky Cinema (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema (version2) - Sky Cinema (version2)
+http://202.61.237.244:8000/live?channelId=1367&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1373" tvg-name="Sky Cinema Family (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema Family (version2) - Sky Cinema Family (version2)
+http://163.172.13.127:8000/live?channelId=1373&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1400" tvg-name="SI: HBO" tvg-logo="http://185.180.221.139:82/logo_channels/suroyo_tv.png" group-title="SLOVENIJA",SI: HBO - SI: HBO
+http://51.158.144.168:8000/live?channelId=1400&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1435" tvg-name="PT: AXN BLACK HD" tvg-logo="http://185.180.221.139:82/logo_channels/a_bola_tv_pt.png" group-title="PORTUGAL",PT: AXN BLACK HD - PT: AXN BLACK HD
+http://51.15.26.200:8000/live?channelId=1435&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1443" tvg-name="PT | AXN White" tvg-logo="http://185.180.221.139:82/logo_channels/planeta_tv_hd.png" group-title="PORTUGAL",PT | AXN White - PT | AXN White
+http://51.15.26.200:8000/live?channelId=1443&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1706" tvg-name="HU: HBO HD" tvg-logo="/noicon.png" group-title="HUNGARY",HU: HBO HD - 
+http://195.154.102.152:8000/live?channelId=1706&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1707" tvg-name="HU: HBO 2 1" tvg-logo="/noicon.png" group-title="HUNGARY",HU: HBO 2 1 - 
+http://195.154.102.152:8000/live?channelId=1707&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1708" tvg-name="HU: HBO 3 HD" tvg-logo="/noicon.png" group-title="HUNGARY",HU: HBO 3 HD - 
+http://195.154.102.152:8000/live?channelId=1708&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1780" tvg-name="PL | CineMax 1 FHD" tvg-logo="/noicon.png" group-title="POLAND",PL | CineMax 1 FHD - 
+http://195.154.102.152:8000/live?channelId=1780&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1781" tvg-name="PL | Cinemax 2 FHD" tvg-logo="/noicon.png" group-title="POLAND",PL | Cinemax 2 FHD - 
+http://195.154.102.152:8000/live?channelId=1781&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1791" tvg-name="PL | HBO 1" tvg-logo="/noicon.png" group-title="POLAND",PL | HBO 1 - 
+http://195.154.102.152:8000/live?channelId=1791&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1792" tvg-name="PL | HBO 2" tvg-logo="/noicon.png" group-title="POLAND",PL | HBO 2 - 
+http://195.154.102.152:8000/live?channelId=1792&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1793" tvg-name="PL | HBO 3" tvg-logo="/noicon.png" group-title="POLAND",PL | HBO 3 - 
+http://195.154.102.152:8000/live?channelId=1793&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1819" tvg-name="IT | Sky Cinema Action HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Action HD - 
+http://195.154.102.152:8000/live?channelId=1819&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1820" tvg-name="IT | Sky Cinema Comedy HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Comedy HD - 
+http://195.154.102.152:8000/live?channelId=1820&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1821" tvg-name="IT | Sky Cinema Drama HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Drama HD - 
+http://195.154.102.152:8000/live?channelId=1821&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1822" tvg-name="IT | Sky Cinema Due HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Due HD - 
+http://195.154.102.152:8000/live?channelId=1822&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1823" tvg-name="IT | Sky Cinema Romance HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Romance HD - 
+http://195.154.102.152:8000/live?channelId=1823&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1824" tvg-name="IT | Sky Cinema Uno HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Uno HD - 
+http://195.154.102.152:8000/live?channelId=1824&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="1838" tvg-name="IT | Sky Sport Serie A" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Sport Serie A - 
+http://195.154.102.152:8000/live?channelId=1838&uid=1204&deviceMac=00:1A:79:63:9C:B3
+#EXTINF:-1 tvg-id="139" tvg-name="Cinemax 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cinem%C3%A1x_Logo.svg/533px-Cinem%C3%A1x_Logo.svg.png?20211005012211" group-title="FILM",Cinemax 1 - Cinemax 1
+http://202.61.230.83:8000/live?channelId=139&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="140" tvg-name="Cinemax 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png?20160901140313" group-title="FILM",Cinemax 2 HR - Cinemax 2 HR
+http://163.172.223.237:8000/live?channelId=140&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="146" tvg-name="HBO HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILM",HBO HR - HBO HR
+http://163.172.218.95:8000/live?channelId=146&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="147" tvg-name="HBO 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILM",HBO 2 HR - HBO 2 HR
+http://163.172.218.95:8000/live?channelId=147&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="148" tvg-name="HBO 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILM",HBO 3 HD - HBO 3 HD
+http://46.38.236.211:8000/live?channelId=148&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="149" tvg-name="HBO GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HBOGO.svg/600px-HBOGO.svg.png?20180107210843" group-title="FILM",HBO GO - HBO GO
+http://51.158.145.190:8000/live?channelId=149&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="208" tvg-name="Sky Bundesliga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 1 - Sky Bundesliga 1
+http://51.15.25.210:8000/live?channelId=208&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="209" tvg-name="Sky Bundesliga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 2 - Sky Bundesliga 2
+http://202.61.237.244:8000/live?channelId=209&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="210" tvg-name="Sky Bundesliga 3 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 3 (ONLY ON MATCHDAY) - Sky Bundesliga 3 (ONLY ON MATCHDAY)
+http://202.61.230.83:8000/live?channelId=210&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="211" tvg-name="Sky Bundesliga 4 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 4 (ONLY ON MATCHDAY) - Sky Bundesliga 4 (ONLY ON MATCHDAY)
+http://46.38.236.211:8000/live?channelId=211&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="212" tvg-name="Sky Bundesliga 5 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 5 (ONLY ON MATCHDAY) - Sky Bundesliga 5 (ONLY ON MATCHDAY)
+http://195.154.102.152:8000/live?channelId=212&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="312" tvg-name="Sky Cinema Action HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema Action HD DE - Sky Cinema Action HD DE
+http://51.15.26.200:8000/live?channelId=312&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="314" tvg-name="Sky Cinema HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema HD DE - Sky Cinema HD DE
+http://163.172.223.237:8000/live?channelId=314&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="685" tvg-name="SE: Viasat Football HD" tvg-logo="http://185.180.221.139:82/logo_channels/viasat_fotboll.png" group-title="SVEDSKI",SE: Viasat Football HD - SE: Viasat Football HD
+http://51.15.25.210:8000/live?channelId=685&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="864" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fox_Movies_Middle_East.png/200px-Fox_Movies_Middle_East.png" group-title="FILM",Fox Movies - Fox Movies
+http://51.15.25.210:8000/live?channelId=864&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="913" tvg-name="USA | HBO Comedy" tvg-logo="http://185.180.221.139:82/logo_channels/sat1_ch.png" group-title="USA",USA | HBO Comedy - USA | HBO Comedy
+http://46.38.236.211:8000/live?channelId=913&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="914" tvg-name="USA | HBO Signature" tvg-logo="http://185.180.221.139:82/logo_channels/food_network_uk.png" group-title="USA",USA | HBO Signature - USA | HBO Signature
+http://46.38.236.211:8000/live?channelId=914&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="915" tvg-name="USA | HBO 2" tvg-logo="http://185.180.221.139:82/logo_channels/up_network_cz.png" group-title="USA",USA | HBO 2 - USA | HBO 2
+http://46.38.236.211:8000/live?channelId=915&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="916" tvg-name="USA | HBO East" tvg-logo="http://185.180.221.139:82/logo_channels/sfr-sport1-fr.png" group-title="USA",USA | HBO East - USA | HBO East
+http://46.38.236.211:8000/live?channelId=916&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="921" tvg-name="USA | Hallmark Movies and Mysteries" tvg-logo="http://185.180.221.139:82/logo_channels/filmboxplushd.png" group-title="USA",USA | Hallmark Movies and Mysteries - USA | Hallmark Movies and Mysteries
+http://46.38.236.211:8000/live?channelId=921&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="942" tvg-name="Sky Sports Premier League HD" tvg-logo="http://185.180.221.139:82/logo_channels/sky_uk_sports_premier_league.png" group-title="SPORT",Sky Sports Premier League HD - Sky Sports Premier League HD
+http://51.15.25.210:8000/live?channelId=942&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1180" tvg-name="Sky Cinema Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema Family - Sky Cinema Family
+http://51.158.144.168:8000/live?channelId=1180&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1201" tvg-name="Sky Bundesliga 1 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 1 (version2) - Sky Bundesliga 1 (version2)
+http://51.158.145.190:8000/live?channelId=1201&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1202" tvg-name="Sky Bundesliga 2 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 2 (version2) - Sky Bundesliga 2 (version2)
+http://51.158.144.168:8000/live?channelId=1202&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1210" tvg-name="UK | Sky Cinema Action" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_cinema_action.png" group-title="UK & IRELAND",UK | Sky Cinema Action - UK | Sky Cinema Action
+http://202.61.230.83:8000/live?channelId=1210&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1211" tvg-name="UK | Sky Cinema Animation" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_cinema_action.png" group-title="UK & IRELAND",UK | Sky Cinema Animation - UK | Sky Cinema Animation
+http://163.172.218.95:8000/live?channelId=1211&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1212" tvg-name="UK | Sky Cinema Comedy" tvg-logo="http://185.180.221.139:82/logo_channels/sky-cinema-comedy-uk.png" group-title="UK & IRELAND",UK | Sky Cinema Comedy - UK | Sky Cinema Comedy
+http://51.15.25.210:8000/live?channelId=1212&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1214" tvg-name="UK | Sky Cinema Drama" tvg-logo="http://185.180.221.139:82/logo_channels/sky_uk_cinema_drama_romance.png" group-title="UK & IRELAND",UK | Sky Cinema Drama - UK | Sky Cinema Drama
+http://176.9.1.143:8000/live?channelId=1214&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1215" tvg-name="UK | Sky Cinema Family" tvg-logo="http://185.180.221.139:82/logo_channels/sky_it_cinema_family.png" group-title="UK & IRELAND",UK | Sky Cinema Family - UK | Sky Cinema Family
+http://163.172.13.127:8000/live?channelId=1215&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1216" tvg-name="UK | Sky Cinema Select" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_cinema_action.png" group-title="UK & IRELAND",UK | Sky Cinema Select - UK | Sky Cinema Select
+http://163.172.13.127:8000/live?channelId=1216&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1217" tvg-name="UK | Sky Cinema Thriller" tvg-logo="http://185.180.221.139:82/logo_channels/sky-cinema-crime-thriller-uk.png" group-title="UK & IRELAND",UK | Sky Cinema Thriller - UK | Sky Cinema Thriller
+http://51.158.144.168:8000/live?channelId=1217&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1264" tvg-name="(RO) AXN Black" tvg-logo="http://185.180.221.139:82/logo_channels/axn_black_pt.png" group-title="Romania",(RO) AXN Black - (RO) AXN Black
+http://46.38.236.211:8000/live?channelId=1264&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1266" tvg-name="(RO) AXN White" tvg-logo="http://185.180.221.139:82/logo_channels/axn_white_pl.png" group-title="Romania",(RO) AXN White - (RO) AXN White
+http://51.15.25.210:8000/live?channelId=1266&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1269" tvg-name="(RO) Cinemax" tvg-logo="http://185.180.221.139:82/logo_channels/cinemax.png" group-title="Romania",(RO) Cinemax - (RO) Cinemax
+http://46.38.236.211:8000/live?channelId=1269&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1270" tvg-name="(RO) Cinemax 2" tvg-logo="http://185.180.221.139:82/logo_channels/cinemax2.png" group-title="Romania",(RO) Cinemax 2 - (RO) Cinemax 2
+http://163.172.13.127:8000/live?channelId=1270&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1271" tvg-name="(RO) Cinemax HD" tvg-logo="http://185.180.221.139:82/logo_channels/cinemaxhd.png" group-title="Romania",(RO) Cinemax HD - (RO) Cinemax HD
+http://51.158.144.168:8000/live?channelId=1271&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1303" tvg-name="(RO) HBO 3" tvg-logo="http://185.180.221.139:82/logo_channels/hbo3.png" group-title="Romania",(RO) HBO 3 - (RO) HBO 3
+http://195.154.102.152:8000/live?channelId=1303&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1304" tvg-name="(RO) HBO 3 HD" tvg-logo="http://185.180.221.139:82/logo_channels/hbo3hd.png" group-title="Romania",(RO) HBO 3 HD - (RO) HBO 3 HD
+http://195.154.102.152:8000/live?channelId=1304&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1305" tvg-name="(RO) HBO HD" tvg-logo="http://185.180.221.139:82/logo_channels/hbohd.png" group-title="Romania",(RO) HBO HD - (RO) HBO HD
+http://51.15.25.210:8000/live?channelId=1305&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1331" tvg-name="SI: HBO 2" tvg-logo="http://185.180.221.139:82/logo_channels/epic-drama-se.png" group-title="SLOVENIJA",SI: HBO 2 - SI: HBO 2
+http://46.38.236.211:8000/live?channelId=1331&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1333" tvg-name="SI: HBO 3" tvg-logo="http://185.180.221.139:82/logo_channels/hbo.png" group-title="SLOVENIJA",SI: HBO 3 - SI: HBO 3
+http://51.15.25.210:8000/live?channelId=1333&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1336" tvg-name="SI: FOX MOVIES" tvg-logo="http://185.180.221.139:82/logo_channels/pop_si_brio.png" group-title="SLOVENIJA",SI: FOX MOVIES - SI: FOX MOVIES
+http://163.172.13.127:8000/live?channelId=1336&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1356" tvg-name="HBO (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILM",HBO (version2) - HBO (version2)
+http://202.61.237.244:8000/live?channelId=1356&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1357" tvg-name="HBO 2 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILM",HBO 2 (version2) - HBO 2 (version2)
+http://202.61.237.244:8000/live?channelId=1357&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1358" tvg-name="HBO 3 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILM",HBO 3 (version2) - HBO 3 (version2)
+http://202.61.237.244:8000/live?channelId=1358&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1367" tvg-name="Sky Cinema (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema (version2) - Sky Cinema (version2)
+http://202.61.237.244:8000/live?channelId=1367&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1373" tvg-name="Sky Cinema Family (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png" group-title="GERMANY",Sky Cinema Family (version2) - Sky Cinema Family (version2)
+http://163.172.13.127:8000/live?channelId=1373&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1400" tvg-name="SI: HBO" tvg-logo="http://185.180.221.139:82/logo_channels/suroyo_tv.png" group-title="SLOVENIJA",SI: HBO - SI: HBO
+http://51.158.144.168:8000/live?channelId=1400&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1435" tvg-name="PT: AXN BLACK HD" tvg-logo="http://185.180.221.139:82/logo_channels/a_bola_tv_pt.png" group-title="PORTUGAL",PT: AXN BLACK HD - PT: AXN BLACK HD
+http://51.15.26.200:8000/live?channelId=1435&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1443" tvg-name="PT | AXN White" tvg-logo="http://185.180.221.139:82/logo_channels/planeta_tv_hd.png" group-title="PORTUGAL",PT | AXN White - PT | AXN White
+http://51.15.26.200:8000/live?channelId=1443&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1706" tvg-name="HU: HBO HD" tvg-logo="/noicon.png" group-title="HUNGARY",HU: HBO HD - 
+http://195.154.102.152:8000/live?channelId=1706&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1707" tvg-name="HU: HBO 2 1" tvg-logo="/noicon.png" group-title="HUNGARY",HU: HBO 2 1 - 
+http://195.154.102.152:8000/live?channelId=1707&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1708" tvg-name="HU: HBO 3 HD" tvg-logo="/noicon.png" group-title="HUNGARY",HU: HBO 3 HD - 
+http://195.154.102.152:8000/live?channelId=1708&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1780" tvg-name="PL | CineMax 1 FHD" tvg-logo="/noicon.png" group-title="POLAND",PL | CineMax 1 FHD - 
+http://195.154.102.152:8000/live?channelId=1780&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1781" tvg-name="PL | Cinemax 2 FHD" tvg-logo="/noicon.png" group-title="POLAND",PL | Cinemax 2 FHD - 
+http://195.154.102.152:8000/live?channelId=1781&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1791" tvg-name="PL | HBO 1" tvg-logo="/noicon.png" group-title="POLAND",PL | HBO 1 - 
+http://195.154.102.152:8000/live?channelId=1791&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1792" tvg-name="PL | HBO 2" tvg-logo="/noicon.png" group-title="POLAND",PL | HBO 2 - 
+http://195.154.102.152:8000/live?channelId=1792&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1793" tvg-name="PL | HBO 3" tvg-logo="/noicon.png" group-title="POLAND",PL | HBO 3 - 
+http://195.154.102.152:8000/live?channelId=1793&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1819" tvg-name="IT | Sky Cinema Action HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Action HD - 
+http://195.154.102.152:8000/live?channelId=1819&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1820" tvg-name="IT | Sky Cinema Comedy HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Comedy HD - 
+http://195.154.102.152:8000/live?channelId=1820&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1821" tvg-name="IT | Sky Cinema Drama HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Drama HD - 
+http://195.154.102.152:8000/live?channelId=1821&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1822" tvg-name="IT | Sky Cinema Due HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Due HD - 
+http://195.154.102.152:8000/live?channelId=1822&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1823" tvg-name="IT | Sky Cinema Romance HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Romance HD - 
+http://195.154.102.152:8000/live?channelId=1823&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1824" tvg-name="IT | Sky Cinema Uno HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Uno HD - 
+http://195.154.102.152:8000/live?channelId=1824&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="1838" tvg-name="IT | Sky Sport Serie A" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Sport Serie A - 
+http://195.154.102.152:8000/live?channelId=1838&uid=9095&deviceMac=00:1A:79:35:56:C0
+#EXTINF:-1 tvg-id="germanybundesligahoffenheimvsbayerleverkusen" tvg-name="All Soccer Events ⚽ | ⚽ Germany - Bundesliga : Hoffenheim 🇩🇪 vs Bayer Leverkusen 🇩🇪 (14:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Hoffenheim 🇩🇪_vs_Bayer Leverkusen 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Germany - Bundesliga : Hoffenheim 🇩🇪 vs Bayer Leverkusen 🇩🇪 (14:30)
+https://dlive.sx/watch.php?id=167
+#EXTINF:-1 tvg-id="italyseriebveronavspisa" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Verona 🇮🇹 vs Pisa 🇮🇹 (16:15)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Verona 🇮🇹_vs_Pisa 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Verona 🇮🇹 vs Pisa 🇮🇹 (16:15)
+https://dlive.sx/watch.php?id=158
+#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsnovara" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Union ArzignanoChiampo 🇮🇹 vs Novara 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Union ArzignanoChiampo 🇮🇹_vs_Novara 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Union ArzignanoChiampo 🇮🇹 vs Novara 🇮🇹 (16:30)
+https://dlive.sx/watch.php?id=168
+#EXTINF:-1 tvg-id="italyseriecleccovsfolgorecaratese" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Lecco 🇮🇹 vs Folgore Caratese 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Lecco 🇮🇹_vs_Folgore Caratese 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Lecco 🇮🇹 vs Folgore Caratese 🇮🇹 (16:30)
+https://dlive.sx/watch.php?id=173
+#EXTINF:-1 tvg-id="italyseriecpergolettesevslumezzane" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Pergolettese 🇮🇹 vs Lumezzane 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Pergolettese 🇮🇹_vs_Lumezzane 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Pergolettese 🇮🇹 vs Lumezzane 🇮🇹 (16:30)
+https://dlive.sx/watch.php?id=171
+#EXTINF:-1 tvg-id="italyseriecprovercellivsospitaletto" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Pro Vercelli 🇮🇹 vs Ospitaletto 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Pro Vercelli 🇮🇹_vs_Ospitaletto 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Pro Vercelli 🇮🇹 vs Ospitaletto 🇮🇹 (16:30)
+https://dlive.sx/watch.php?id=172
+#EXTINF:-1 tvg-id="italyseriealeccevsjuventus" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Lecce 🇮🇹 vs Juventus 🇮🇹 (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Lecce 🇮🇹_vs_Juventus 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Lecce 🇮🇹 vs Juventus 🇮🇹 (17:00)
+https://dlive.sx/watch.php?id=160
+#EXTINF:-1 tvg-id="englandwomenssuperleaguemanchesterunitedvsmanchestercity" tvg-name="All Soccer Events ⚽ | ⚽ England - Women's Super League : Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Manchester City 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (18:00)" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ England - Women's Super League : Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Manchester City 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (18:00)
+https://dlive.sx/watch.php?id=170
