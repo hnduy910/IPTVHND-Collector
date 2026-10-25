@@ -3820,3 +3820,16 @@ https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/898f25ed5d8ce328b7
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/32ea457e732c9b67c0c2edda6395b3f5a88d4bab/IPTV/tw.m3u
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/d8da15391acbdc3672f397755b7c032565b52aa5/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/d8da15391acbdc3672f397755b7c032565b52aa5/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/3e101108c844745ed05a952e9db7efd7d4a6f8cf/Backup/backup2.m3u8
+https://raw.githubusercontent.com/amazeyourself/m3u/fcea3c972cf167e1212250a75af2ac357e5a6dc5/riptv.m3u
+https://raw.githubusercontent.com/atsushi444/iptv/b1550c77bef609e5a6f503f0660b61d7a669676e/0108.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/a7d6bc8cb886bddd3158393b42a19db3d783555a/iptv.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/96068743777c6462c67adb98655fabb2f565756e/HongKong.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/96068743777c6462c67adb98655fabb2f565756e/Russia.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/96068743777c6462c67adb98655fabb2f565756e/UK.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/96068743777c6462c67adb98655fabb2f565756e/USA.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/96068743777c6462c67adb98655fabb2f565756e/cnTV2_GuoNei.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/96068743777c6462c67adb98655fabb2f565756e/southKorea.m3u8
+https://raw.githubusercontent.com/judy-gotv/iptv/dfc746ffd692d83a0749c94f98f9418d072c407c/JapanTV.m3u8
+https://raw.githubusercontent.com/judy-gotv/iptv/dfc746ffd692d83a0749c94f98f9418d072c407c/UDPTV.m3u
+https://raw.githubusercontent.com/smolnp/IPTVru/fe34ae7721c213156d090a9fcb298f31e087055a/IPTVstable.m3u8
