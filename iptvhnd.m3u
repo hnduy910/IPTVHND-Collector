@@ -494,6 +494,118 @@
 # Sources: assets/sports-world.m3u + js/channels.js direct feeds
 # All entries are free/legally published streams.
 #EXTM3U url-tvg="http://bit.ly/guidevn, https://iptvx.one/EPG"
+# ************************************************************************************************************************************* 
+#
+# The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Vintage Entertainment Connection
+# https://publicdomainradio.blogspot.com/p/blog-page.html
+# Note: To the best of my knowledge, all of these streams are legal streams, either over-the-air or live-streamed through unscrambled
+# links over the internet. All links are not guaranteed to be stable, but tested before being added to this list. I do not 
+# guarantee that these links will remain stable or active and any dead links could be removed at any time. Enjoy! -Georges B.
+# Channel list begins after the Changelog in this document.
+# Some sources used for this list: 
+# Giniko TV: https://www.ginikousa.com/index.php and http://www.giniko.com/
+# Distro TV: https://www.distro.tv/ designated on some channels as (DTV).
+# Changelog (News and Updates):
+# For complete changelog, go here: https://publicdomainradio.blogspot.com/p/free2view-tv-changelog-and-extras.html
+# Update: 7/01/2019 - replaced dead link for "Eagle Cam (Hanover PA) (Live Cam)"; replaced ICI Tele (Montreal) in "Canadian TV".
+# Update: 7/01/2019 - removed all UK channels (dead links since mid-June), except Food Channel UK: moved to International Channels.
+# Update: 7/01/2019 - deleted category Testing (TT), some channels from IP 161.0.157.XX were never restored.
+# Update: 7/01/2019 - NEW CANADIAN CHANNELS ADDED: CBC Ottawa; TSC.
+# Update: 7/01/2019 - NEW NEWS CHANNELS ADDED: NBC News Now; Also, all ABC News live feeds (Category: ABC News Digital).
+# Update: 7/01/2019 - added second source for Sky News / Sky News Americas; and added ET Live Showbiz News in "News & Weather (OTA)".
+# Update: 7/01/2019 - added Cat Cafe (San Diego CA) (Live Cam) and Reid Pk Zoo (Tucson AZ) (Live Cam) in "Special Interest (OTA)".
+# Update: 7/02/2019 - removed NBC News Now (their live feed includes a session-key that can only be used on their website).
+# Update: 7/05/2019 - NEW CHANNELS ADDED: Added CBS Interactive category with all live channels from the CBS company (as of Oct 2018).
+# Update: 7/08/2019 - renamed USA Channels category to USA Broadcast Networks. Removed Eagle Cam (Hanover PA) (Live Cam) (dead link).
+# Update: 7/08/2019 - NEW CAM VIEWS ADDED: added 3 cam angles of the Ramona Barn Owls (Ramona CA) (Live Cam)
+# Update: 7/08/2019 - NEW LIVE STREAMS: added Special Interest channels Rooster Teeth TV (Video Games); The Outdoor Cooking Channel.
+# Update: 7/20/2019 - Added: Cooking 4U in "My TV To Go Networks"; Updated: CBS News live feed.
+# Update: 7/28/2019 - Maintenance: removed Dove TV, Hit TV and History Channel Canada due to broken links.
+# Update: 7/28/2019 - Renamed TEST 2 category as USA NEWS TEST. Added an additional source for Sky News Americas (News & Weather OTA).
+# Update: 7/28/2019 - USA NEWS TEST: dead links (IP 1259541102.rsc.cdn77.org) replaced with (IP 1674331492.rsc.cdn77.org) from 8/18/18. 
+# Updade: 7/29/2019 - NEW CHANNELS: Added new category with all available unscrambled web-streams from CBC Canada.
+# Update: 7/31/2019 - corrected the St.Johns and Vancouver links (CBC Canada); added NTV, Hard Knocks TV and Tele-Quebec (Canada TV).
+# Update: 8/04/2019 - Maintenance: updated some Canadian channel links and category info; added History CA (Test) and Tele-V.
+# Update: 8/05/2019 - NEW CHANNELS: added all Ici-Tele (CBC French Canada) live streams.
+# Update: 8/11/2019 - Maintenance: updated some changed URL's for My TV To Go Networks (Spydar; Classic TV 4U; Westerns 4U; Movee 4U).
+# Update: 8/11/2019 - NEW CHANNELS: added It's At The Movies (My TV To Go Networks), News Net channel (My TV To Go; News & Weather).
+# Update: 8/11/2019 - NEW STREAM: added an Event stream for CBS News in CBS Interactive category. May be only temporary.
+# Update: 8/12/2019 - BIG UPDATE! NEW CHANNELS! Olympic Channel is now available and is remains FREE to view!
+# Update: 8/12/2019 - Maintenance: removed most web-cams (many have broken links). They may not return due to lack of viewer interest.
+# Update: 8/12/2019 - Maintenance: removed the NASA International Space Station links, broken. Unable to locate m3u8 replacements.
+# Update: 8/16/2019 - NEW CHANNELS: added m2o TV (Music) in International category and in Live Radio category.
+# Update: 8/16/2019 - Maintenance: updated remaining changed URL's for My TV To Go Networks; added Wink TV in My TV To Go Networks.
+# Update: 8/18/2019 - Maintenance: Reorganized categories; updated additional changed URL's for My TV To Go Networks.
+# Update: 8/18/2019 - NEW CHANNELS: Giniko USA TV (G-USA) and Giniko Worldwide TV (G-W)! More will be added soon!
+# Update: 8/23/2019 - Maintenance: cleaned up Giniko TV category, replaced some dead links and added additional new ones. ...
+#                     ... a LOT of repeated programming on many, still reviewing if they will remain permanent in this list.
+# Update: 8/23/2019 - Playlist News: The links for the 24/7 news France 24 and main feed of ABC News Live appear to have become...
+#                     ... discontinued. Their new live feeds appear to be locked behind session tokens, which are not stable here. :-(
+# Update: 8/23/2019 - Maintenance: located/updated additional feeds from old lists for France 24; no ABC News Live yet, still on it!
+# Update: 8/23/2019 - Playlist News: re- Olympic Channel subchannels 2-12: unable to get sound codec working, though it works on...
+#                     ... their web-stream, still investigating options. For now, the channel's main feed moved to Special Interest.
+# Update: 8/23/2019 - Maintenance: removed ABC News (main feed) and France 24 from respective categories (see previous Playlist News).
+# Update: 8/23/2019 - NEW CHANNELS: added add'l channels- My TV To Go Networks category: Classic Arts, Weather 4U, Living Outdoors.
+# Update: 8/23/2019 - OLD LISTS REVIEWED: restored HLN (as a 2nd source); NASA ISS channels, as well as *added* 2 new NASA TV feeds.
+# Update: 8/29/2019 - MAINTENANCE: did minor sorting of some channels in the Special Interest category.
+# Update: 8/29/2019 - MAINTENANCE: moved mult-resolution channels into its own category; added duplicate channels with add'l res's.
+# Update: 8/29/2019 - NEW CHANNELS: added Mobcrush (Video Games) [Special Interest]; The Film Detective [Entertainment].
+# Update: 8/30/2019 - PLAYLIST NEWS: seems like NASA ISS 1 feed may be not be around much longer, it has reached an "End of Life"...
+#                     ... see: https://en.wikipedia.org/wiki/High_Definition_Earth_Viewing_cameras; will keep as long as possible.
+# Update: 8/30/2019 - PLAYLIST NEWS: testing out channel links from Pluto TV and Stirr TV, two popular free Over-The-Top services.
+# Update: 8/30/2019 - PLAYLIST NEWS: Stirr TV's source URLs have session keys; won't work. Pluto TV source URL's appear promising.
+# Update: 8/30/2019 - RELEASE UPDATE: consider this a "beta" release with the testing of Pluto TV category.
+# Update: 9/01/2019 - UPDATED CHANNELS: New link updated for ABC News Live's main feed (shout out to G.K. on Reddit for this)!
+# Update: 9/01/2019 - NEW CHANNELS: I think the Pluto TV category is holding up! More channels have been added! Still as TEST for now.
+# Update: 9/01/2019 - NEW CATEGORY & CHANNELS: added a Travel & Tourism special interest category with several sources from 12/19/17.
+# Update: 9/06/2019 - NEW CATEGORY: Added new Video On Demand category with a selection of classic movies from Tubi and Snagfilms!
+# Update: 9/07/2019 - MAINTENANCE: Still testing Pluto TV live streams; slight adjustments to some channels.
+# Update: 9/07/2019 - NEW CHANNELS: Added two new Adult-oriented channels in International TV: Jasmin TV and FTV Midnight Secrets.
+# Update: 9/07/2019 - MAINTENANCE: Jasmin TV proved to buffer too much testing all of the available links. Removed from playlist.
+# Update: 9/09/2019 - MAINTENANCE: Cleaned up some Pluto TV channel URL's. 
+# Update: 9/13/2019 - MAINTENANCE & NEW CHANNELS: Reorganized Sports channels in its own category; added 3 more Sports (OTA) channels.
+# Update: 9/15/2019 - Playlist News: To maintain the mandate of "Free and Public" live-streams, USA TEST Channels will all be ...
+#                     ... eventually removed and replaced by free antenna translator retransmissions. Those changes begins today.
+# Update: 9/15/2019 - MAINTENANCE: Cleaned up some Category Names (removed "OTA" from the names); renamed USA TEST NEWS to LIVE NEWS.
+# Update: 9/15/2019 - CHANNEL MAINTENANCE: removed Food TV (UK) from International (this was not evidently from UK, and bad stream)
+# Update: 9/15/2019 - NEW CHANNEL ADDED: NHK World Japan added to International TV in response to a user request.
+# Update: 9/15/2019 - Canadian TV: Hard Knocks Fighting TV, History TV live streams are discontinued (deleted the links).
+# Update: 9/16/2019 - CHANNEL MAINTENANCE: Entertainment category: updated some links, added Electric Now live stream from DistroTV.
+# Update: 9/16/2019 - NEW CHANNELS ADDED: Cheddar and Cheddar Big News have been added to the News & Weather category.
+# Update: 9/16/2019 - NEW CHANNELS ADDED: Russia Today News, America, and UK added to International Channels (user requested).
+# Update: 9/16/2019 - NEW CHANNELS ADDED: Bloomberg US and EU live feeds added to International Channels (user requested).
+# Update: 9/18/2019 - CHANNEL MAINTENANCE: My TV To Go category deleted: this network is till available online if you want to ...
+#                     ... watch these channels, but I found them to provide low quality programming and not very popular for ...
+#                     ... this playlist. Classic Arts Showcase is a popular feed, so I have moved it to Entertainment category ...
+#                     ... using an original source feed. Also, Weather4U is simply a duplicate of Weather Channel and NewsNet ...
+#                     ... is already included in other categories of this playlist. Watch the network online: https://mytvtogo.net
+# Update: 9/18/2019 - CHANNEL MAINTENANCE: Giniko TV category deleted: the network is online at http://www.giniko.com and ...
+#                     ... https://ginikousa.com, but programming is sub-par quality and way TOO MANY REPEATED videos. ...
+#                     ... However, I have moved several quality channels to the Special Interest category (music, crafts, etc). 
+# Update: 9/18/2019 - CHANNEL MAINTENANCE: Updated Pluto TV URLs eliminating duplicate SID's that may cause live stream conflicts.
+# Update: 9/18/2019 - NEW CHANNELS ADDED: This Old House 24/7, Pluto TV Sports, Pluto TV Family channels to Pluto TV category.
+# Update: 9/20/2019 - PLAYLIST MAINTENANCE: Updated a new Top 5 channel list; updated billboards in "About Us" category.
+# Update: 9/22/2019 - CHANNEL MAINTENANCE: Some free antenna translator retransmissions died; replaced with others as USA (OTT) 1.
+# Update: 9/22/2019 - NEW CHANNEL ADDED: Added Golf Channel and CBS Sports HQ to Sports Category, both are Geo-USA only.
+# Update: 9/23/2019 - CHANNEL MAINTENANCE: Updated some corrupted Pluto TV feeds; Shout! Factory added. Updated "Live News" feeds.
+# Update: 9/24/2019 - PLAYLIST MAINTENANCE: Minor maintenance and cleanup of Playlist. Added 2nd source for 247 Retro channel.
+# Update: 9/25/2019 - NEW CHANNELS ADDED: Added Law & Crime Trial Network feeds. (9/28) Updated some channels in USA (OTT) 1.
+# Update: 9/28/2019 - NEW CHANNELS ADDED: Added the three Cinedigm Digital Cinema live streams: Dove Channel, CONtv, Docurama.
+# Update: 9/29/2019 - MONITORING: Canadian Global TV channels stopped working, may now be behind cable login wall. Investigating.
+# Update: 9/30/2019 - NEW CHANNELS ADDED: Added new CBS News Boston in CBS interactive category, as well as Dabl.
+# Update: 10/01/19  - NEW CHANNEL ADDED: Renamed LAW & CRIME category to LAW + JUSTICE and added Court TV live stream. 
+# Update: 10/06/19  - CHANNEL MAINTENANCE: Replaced dead Live News links: https://1674331492.rsc.cdn77.org source URL died.
+# Update: 10/07/19  - NEW PLUTO TV CHANNELS ADDED: added Pluto TV Movies; Criss Angel Mindfreak; Addams Family 24/7.
+# Update: 10/07/19  - NEW CATEGORY: Nostalgia TV + Movies: re-organized some current channels and added some new channels here.
+# Update: 10/07/19  - MAINTENANCE: Pop TV, Global TV CA channels died, placeholders added until replacement sources are found.
+# Update: 10/14/19  - CHANNEL MAINTENANCE: NASA TV's "iphone" HLS sources have died, replaced with a working source.
+# Update: 10/14/19  - NEW VIDEOS ADDED: OTR On Demand catg. with a new vid; and Roku Screensavers vids in About Us + Extras.
+# Update: 10/17/19  - MAINTENANCE: Pluto TV list is growing! I divided it into 3 new Pluto TV groups and reorganized channels.
+# Update: 10/17/19  - NEW CHANNELS ADDED: Miami TV, Travel & Tourism category; A3 Bikini in Special Interest category. (All 18+)
+# Update: 10/20/19  - CHANNEL MAINTENANCE: Removed dead channels, POP and Global TV (Canada); still searching for working sources.
+# Update: 10/21/19  - PLAYLIST MAINTENANCE: Re-organized Pluto TV categories with additional streams.
+# Update: 10/24/19  - PLAYLIST MAINTENANCE: Renamed USA (OTT) 1 to USA FREE OTA TV.
+# Update: 10/25/19  - NEW CHANNELS ADDED: 70 Pluto TV Terror ("Pluto TV (2) Movies").
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -63601,3 +63713,145 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/free/master.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8
 #EXTINF:-1,HTV Se Pone Bueno
 https://stream.zeno.fm/ieagybudukavv
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1 tvg-chno="166" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League II] Al Seeb vs East Bengal (FAWA)" tvg-logo="https://i.namu.wiki/i/CxVINJHhy1Ie_klMhPFDP9wkurLsVHXq8QkUwAQ9MUVDNAoqBpSDwcJxzEFwwQ-MQwaROprc6z7DpsUKBjryTA.svg" group-title="Live Events",[AFC Champions League II] Al Seeb vs East Bengal (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/rararaAAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="167" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Beijing Guoan vs Jeonbuk 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="Live Events",[AFC Champions League] Beijing Guoan vs Jeonbuk 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/JYYY.m3u8
+#EXTINF:-1 tvg-chno="168" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Beijing Guoan vs Jeonbuk 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="Live Events",[AFC Champions League] Beijing Guoan vs Jeonbuk 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/1ffe3e29-2f34-4dba-8888-5d74943a64da.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Ratchaburi vs Kashiwa Reysol 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="Live Events",[AFC Champions League] Ratchaburi vs Kashiwa Reysol 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/JYYYA.m3u8
+#EXTINF:-1 tvg-chno="170" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Ratchaburi vs Kashiwa Reysol 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="Live Events",[AFC Champions League] Ratchaburi vs Kashiwa Reysol 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/200e1916-a024-445b-a74a-5797655f4cab.m3u8
+#EXTINF:-1 tvg-chno="171" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Shabab Al Ahli Dubai vs Esteghlal FC (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="Live Events",[AFC Champions League] Shabab Al Ahli Dubai vs Esteghlal FC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/rararaAAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="177" tvg-id="Soccer.Dummy.us" tvg-name="[Bulgaria efbet League] Cherno More vs Septemvri Sofia (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Efbet_Liga_logo.png" group-title="Live Events",[Bulgaria efbet League] Cherno More vs Septemvri Sofia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/8IIIA.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="Soccer.Dummy.us" tvg-name="[Croatia 1 HNL] Dinamo Zagreb vs Rijeka (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Prva-Hrvatska-Nogometna-Liga-logo-1992.png" group-title="Live Events",[Croatia 1 HNL] Dinamo Zagreb vs Rijeka (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/K444AA.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="Soccer.Dummy.us" tvg-name="[Czech MOL Cup] Liberec vs Teplice (FAWA)" tvg-logo="https://www.stes.cz/files/web_article/117-53yk7397b2g40-piag0o.png" group-title="Live Events",[Czech MOL Cup] Liberec vs Teplice (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/rararaA.m3u8
+#EXTINF:-1 tvg-chno="245" tvg-id="Soccer.Dummy.us" tvg-name="[Estonia Meistriliiga] Levadia vs Tammeka (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/uztem21615840481.png" group-title="Live Events",[Estonia Meistriliiga] Levadia vs Tammeka (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/rararaAAAA.m3u8
+#EXTINF:-1 tvg-chno="246" tvg-id="Soccer.Dummy.us" tvg-name="[Estonia Meistriliiga] Narva vs Nomme Utd (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/uztem21615840481.png" group-title="Live Events",[Estonia Meistriliiga] Narva vs Nomme Utd (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/rararaAAA.m3u8
+#EXTINF:-1 tvg-chno="247" tvg-id="Soccer.Dummy.us" tvg-name="[German DFB Pokal] Bochum vs Mainz (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/germany/1500x1500/dfb-pokal.368025c3.png" group-title="Live Events",[German DFB Pokal] Bochum vs Mainz (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/K444AAQQA.m3u8
+#EXTINF:-1 tvg-chno="248" tvg-id="Soccer.Dummy.us" tvg-name="[German DFB Pokal] Grossaspach vs Augsburg (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/germany/1500x1500/dfb-pokal.368025c3.png" group-title="Live Events",[German DFB Pokal] Grossaspach vs Augsburg (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/K444AAQQAA.m3u8
+#EXTINF:-1 tvg-chno="249" tvg-id="Soccer.Dummy.us" tvg-name="[German DFB Pokal] Hamburger SV vs Eintracht Frankfurt (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/germany/1500x1500/dfb-pokal.368025c3.png" group-title="Live Events",[German DFB Pokal] Hamburger SV vs Eintracht Frankfurt (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/K444AAQQAAA.m3u8
+#EXTINF:-1 tvg-chno="250" tvg-id="Soccer.Dummy.us" tvg-name="[German DFB Pokal] RW Essen vs RB Leipzig (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/germany/1500x1500/dfb-pokal.368025c3.png" group-title="Live Events",[German DFB Pokal] RW Essen vs RB Leipzig (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/K444AAQQAAAA.m3u8
+#EXTINF:-1 tvg-chno="251" tvg-id="Soccer.Dummy.us" tvg-name="[Greece Cup] Asteras Tripolis vs Kifisia (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Greek_Football_Cup_logo.png" group-title="Live Events",[Greece Cup] Asteras Tripolis vs Kifisia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/8IIIAAA.m3u8
+#EXTINF:-1 tvg-chno="252" tvg-id="Soccer.Dummy.us" tvg-name="[Greece Cup] Panserraikos vs Niki Volos (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Greek_Football_Cup_logo.png" group-title="Live Events",[Greece Cup] Panserraikos vs Niki Volos (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/JYYYAAAA.m3u8
+#EXTINF:-1 tvg-chno="335" tvg-id="Soccer.Dummy.us" tvg-name="[Poland Cup] Leczna vs GKS Katowice (FAWA)" tvg-logo="https://alchetron.com/cdn/polish-cup-1c028eac-98fa-4a8b-9dea-fdd99e84a1d-resize-750.png" group-title="Live Events",[Poland Cup] Leczna vs GKS Katowice (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/O555AAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="336" tvg-id="Soccer.Dummy.us" tvg-name="[Poland Cup] Motor Lublin vs Rakow (FAWA)" tvg-logo="https://alchetron.com/cdn/polish-cup-1c028eac-98fa-4a8b-9dea-fdd99e84a1d-resize-750.png" group-title="Live Events",[Poland Cup] Motor Lublin vs Rakow (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/rararaAAAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="337" tvg-id="Soccer.Dummy.us" tvg-name="[Poland Cup] Ol Grudziadz vs Termalica B-B (FAWA)" tvg-logo="https://alchetron.com/cdn/polish-cup-1c028eac-98fa-4a8b-9dea-fdd99e84a1d-resize-750.png" group-title="Live Events",[Poland Cup] Ol Grudziadz vs Termalica B-B (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/O555AAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="349" tvg-id="Soccer.Dummy.us" tvg-name="[Romania Cup] Progresul Spartac vs Petrolul (FAWA)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Romania-National-Football-Team-Logo.png" group-title="Live Events",[Romania Cup] Progresul Spartac vs Petrolul (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/8III.m3u8
+#EXTINF:-1 tvg-chno="350" tvg-id="Soccer.Dummy.us" tvg-name="[Romania Cup] UTA Arad vs FC Botosani (FAWA)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Romania-National-Football-Team-Logo.png" group-title="Live Events",[Romania Cup] UTA Arad vs FC Botosani (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/K444A.m3u8
+#EXTINF:-1 tvg-chno="351" tvg-id="Soccer.Dummy.us" tvg-name="[Russia Cup] Fakel Voronezh vs Akhmat Grozny (FAWA)" tvg-logo="https://i.namu.wiki/i/2iKkh5JNZ5kvezj1A84Qwd7q2FntN7ayCr4DmWSTNx7zv-NcQj9vaJ6xbtTx--nPpioPNU02J38z-kaIL5SjeQ.webp" group-title="Live Events",[Russia Cup] Fakel Voronezh vs Akhmat Grozny (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/8IIIAA.m3u8
+#EXTINF:-1 tvg-chno="352" tvg-id="Soccer.Dummy.us" tvg-name="[Saudi Premier League] Abha vs Al Faisaly (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="Live Events",[Saudi Premier League] Abha vs Al Faisaly (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/JYYYAA.m3u8
+#EXTINF:-1 tvg-chno="388" tvg-id="Soccer.Dummy.us" tvg-name="[Slovenia Prva Liga] Radomlje vs Mura (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/slovenia/700x700/slovenian-prvaliga--no-text.43825296.png" group-title="Live Events",[Slovenia Prva Liga] Radomlje vs Mura (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/rararaAA.m3u8
+#EXTINF:-1 tvg-chno="389" tvg-id="Soccer.Dummy.us" tvg-name="[South Africa Betway Premiership] Kaizer Chiefs vs TS Galaxy (FAWA)" tvg-logo="https://i.namu.wiki/i/mQeWpjDZ4jPnOdBn5shW18IbWNuYVa8FZsevJqU1EIeG-6dzRaDeCvLO1NPiDZjZg7aiWflJw_CFTDrSQEhobQ.webp" group-title="Live Events",[South Africa Betway Premiership] Kaizer Chiefs vs TS Galaxy (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VAVAVAE.m3u8
+#EXTINF:-1 tvg-chno="390" tvg-id="Soccer.Dummy.us" tvg-name="[South Africa Betway Premiership] Mamelodi Sundowns vs Marumo Gallants (FAWA)" tvg-logo="https://i.namu.wiki/i/mQeWpjDZ4jPnOdBn5shW18IbWNuYVa8FZsevJqU1EIeG-6dzRaDeCvLO1NPiDZjZg7aiWflJw_CFTDrSQEhobQ.webp" group-title="Live Events",[South Africa Betway Premiership] Mamelodi Sundowns vs Marumo Gallants (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/VAVAVAEE.m3u8
+#EXTINF:-1 tvg-chno="391" tvg-id="Soccer.Dummy.us" tvg-name="[South Africa Betway Premiership] Orlando Pirates vs Milford FC (FAWA)" tvg-logo="https://i.namu.wiki/i/mQeWpjDZ4jPnOdBn5shW18IbWNuYVa8FZsevJqU1EIeG-6dzRaDeCvLO1NPiDZjZg7aiWflJw_CFTDrSQEhobQ.webp" group-title="Live Events",[South Africa Betway Premiership] Orlando Pirates vs Milford FC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/VAVAVAEEE.m3u8
+#EXTINF:-1 tvg-chno="392" tvg-id="Soccer.Dummy.us" tvg-name="[Tanzania Ligi Kuu Bara] Young Africans vs Mashujaa (FAWA)" tvg-logo="https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png" group-title="Live Events",[Tanzania Ligi Kuu Bara] Young Africans vs Mashujaa (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VAVAVA.m3u8
+#EXTINF:-1 tvg-chno="399" tvg-id="Soccer.Dummy.us" tvg-name="[Turkish Cup] Turkish Cup Simulcast (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/turkey/1500x1500/turkish-cup.42a3a6ff.png" group-title="Live Events",[Turkish Cup] Turkish Cup Simulcast (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/O555.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Ritmoson Latino
+http://iptv.premiumtutv.com/canal_41_ritmosonlatino.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox Movies HD
+http://iptv.premiumtutv.com/canal_46_foxmovieshd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TCM
+http://iptv.premiumtutv.com/canal_57_tcm.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Cinemax (O)
+http://iptv.premiumtutv.com/canal_115_cinemaxo.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/Cine/16.png" group-title="Cine", Cinemax
+http://iptv.premiumtutv.com/canal_115_Cinemaxo.m3u8
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/bein-laliga.jpg" group-title="Deportes", BeinSports La Liga
+http://185.231.160.42/607/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg" group-title="Deportes", La Liga
+http://185.231.160.42/614/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="Deportes", Movistar Futbol
+http://185.231.160.42/608/1/index.m3u8
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/HBO2_520x520.png" group-title="International TV",HBO 2 (HD)
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/HBO2_520x520.png" group-title="International TV",HBO 2 (SD)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
