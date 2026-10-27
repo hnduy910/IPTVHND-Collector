@@ -3766,7 +3766,6 @@ https://raw.githubusercontent.com/Enkinuri666/enktel/7f14d7fbd1cd0ba4f9aa90f64f0
 https://raw.githubusercontent.com/Free-TV/IPTV/05a668505a06d957bd5cde5846a93f4c468818cc/playlists/playlist_united_arab_emirates.m3u8
 https://raw.githubusercontent.com/boxkim14/m3u8/7e8c064bdade4fe590cdf461e4f1650c2a97e649/vn.m3u8
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/f9b00885d1978072297948722a21aeb3e914f50e/LiveTV/Vietnam/LiveTV.m3u
-https://raw.githubusercontent.com/cgyegcvcecvoc/PremiumTV/9e36d6bf0a429cadd16c28596f3d11a3b196403f/playlists/countries/Vietnam.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/37a51365d85fefc456ad0864bae4a1752292cd70/streams/de.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/37a51365d85fefc456ad0864bae4a1752292cd70/streams/us.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/37a51365d85fefc456ad0864bae4a1752292cd70/streams/vn.m3u
@@ -3996,3 +3995,7 @@ https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/3c37e81c0d5cc90c429
 https://raw.githubusercontent.com/tushen6/Tomorrow/31232c367fd6a53549e889adc99e4b4404e08552/TV/webview.m3u
 https://raw.githubusercontent.com/xykt-fix/xykt-fix.github.io/e5418a6b0785b9359bdbb0ab34b4f83541af1a95/unfyespanoltv/chocolate.m3u8
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/78a99faa542f9e6954adc700ca26d648cc461ae4/output/log/subscribe/https_raw.githubusercontent.com_zuomy2021_tv_main_iptv.m3u.txt
+https://raw.githubusercontent.com/KimShenGod/live/7513561f9e150e0644a9251e7724fd857691455f/iptv.m3u
+https://raw.githubusercontent.com/amazeyourself/m3u/f76e8bc946a35810054bbce5919ebd41f5e7735a/riptv.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/d3cc24f8094d2e283e3cb0f9eaf13831e9e51823/UDPTV.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/cb1dae74f6a6c74f0fc1432c7f91135c4f841b1b/IPTV/tw.m3u

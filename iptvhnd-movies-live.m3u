@@ -586,8 +586,6 @@ http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Undefined",HBO+ Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/amccrime.png" group-title="Channels 🇪🇸",AMC Crime 🇪🇸
-https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/unpcb7o0f5/out/v1/a9d133bfdd2f4fc5bbe358888f6e7c3f/cenc.mpd
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" tvg-country="US" tvg-language="spa" group-title="Movies" nexus-score="100",HBO 2 Latin America (1080p)
 http://15.204.246.24:8080/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" tvg-country="US" tvg-language="spa" group-title="Family" nexus-score="100",HBO Family Latin America (1080p)
@@ -596,8 +594,8 @@ http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 https://tinyurl.com/44efw2rx
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Movies",HBO Asia SD (720p) [Geo-blocked]
 https://tinyurl.com/yn3d3rmd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="Entertainment 🌎",Star Movies (🔉💬🇬🇧)🇮🇳
-https://p4kp.rjmbts.workers.dev/349.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="Entertainment 🌎",Star Movies Select (🔉💬🇬🇧)🇮🇳
+https://p4kp.rjmbts.workers.dev/353.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Undefined",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="WARNER TV" tvg-name="WARNER TV HD" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="ID| FILM", WARNER TV

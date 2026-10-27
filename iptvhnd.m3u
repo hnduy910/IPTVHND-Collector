@@ -62619,8 +62619,6 @@ http://media.kythuatvov.vn:7023/stream/?n=efdca6bd60c5d7184180
 http://yenbaitv.org.vn/hls/livestream.m3u8?n=b841191fc40775781f86
 #EXTINF:-1,VietNam
 https://stream.zeno.fm/2141ytrbn48uv
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
 #EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Star Movies" tvg-logo="https://w7.pngwing.com/pngs/704/511/png-transparent-fox-movies-television-channel-star-movies-logo-fox-miscellaneous-television-text-thumbnail.png" group-title="★ HRVATSKI KANALI",Ex-Yu: Star Movies
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1204
 #EXTINF:-1 tvg-id="hbohd.rs" tvg-name="Ex-Yu: HBO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_adria.jpg" group-title="★ FILMSKI KANALI",Ex-Yu: HBO
@@ -63585,3 +63583,21 @@ acestream://a17f77bbe25cb90f1b7b138ae718b6ae8997000c
 acestream://e2de327f6e9ea10cd76b52ddd5e03a63c0e1241d
 #EXTINF:-1 tvg-id="hbo-pl" tvg-name="HBO PL" tvg-country="PL" tvg-logo="https://static.wikitide.net/avidwiki/thumb/2/24/HBO_Entertainment_ %282019%29.png/534px-HBO_Entertainment_%282019%29.png" group-title="Documentary & Movies",HBO PL
 acestream://bb497b248bb728dbe27f731f084e06462c05a04c
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.postimg.cc/Wqzxnzj0/V4.png" group-title="VTV",VTV4
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/free/master.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png" group-title="VTV",VTV5 Tây Nam Bộ
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb/free/master.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png" group-title="VTV",VTV5 Tây Nguyên
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn/free/master.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.postimg.cc/t7Jc81QZ/V6.png" group-title="VTV",VTV6
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_free/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.postimg.cc/ykSbYwN8/V7.png" group-title="VTV",VTV7
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/free/master.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.postimg.cc/k2QYWK8w/V8.png" group-title="VTV",VTV8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/free/master.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.postimg.cc/phT0NSS6/V9.png" group-title="VTV",VTV9
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/free/master.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="https://i.postimg.cc/4nY8BrVK/V10.png" group-title="VTV",VTV10
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8
+#EXTINF:-1,HTV Se Pone Bueno
+https://stream.zeno.fm/ieagybudukavv
