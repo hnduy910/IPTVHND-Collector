@@ -606,6 +606,9 @@
 # Update: 10/21/19  - PLAYLIST MAINTENANCE: Re-organized Pluto TV categories with additional streams.
 # Update: 10/24/19  - PLAYLIST MAINTENANCE: Renamed USA (OTT) 1 to USA FREE OTA TV.
 # Update: 10/25/19  - NEW CHANNELS ADDED: 70 Pluto TV Terror ("Pluto TV (2) Movies").
+#EXTM3U tvg-updated="2026-10-28T05:10:24+00:00"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#PLAYLIST:IPTVru
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -63855,3 +63858,131 @@ http://185.231.160.42/608/1/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/HBO2_520x520.png" group-title="International TV",HBO 2 (SD)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-id="HTV.us@Argentina" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music",HTV Argentina (720p)
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
+#EXTINF:-1 tvg-id="lamdong1" tvg-logo="https://i.postimg.cc/f35Jkqv6/LD1.png" group-title="Địa phương",Lâm Đồng 1
+https://stream.thingnet.vn/live/smil:LTV.smil/chunklist.m3u8
+#EXTINF:-1,Cal Football
+https://onlineradiobox.com/json/us/calimgsportsnetwork/play?platform=web
+#EXTINF:-1 tvg-chno="171" tvg-id="Football.Dummy.us" tvg-name="[American Football] Delaware Blue Hens vs. Western Kentucky Hilltoppers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Delaware Blue Hens vs. Western Kentucky Hilltoppers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/JHDAJBDnjdna30.m3u8?st=B9AiDuwQwki8zblu_nKQ11NH-h0gskMV-t5W2LHgDC0&e=1793151014
+#EXTINF:-1 tvg-chno="172" tvg-id="Football.Dummy.us" tvg-name="[American Football] Sam Houston Bearkats vs. Missouri State Bears | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Sam Houston Bearkats vs. Missouri State Bears | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream1.pro/hls/sfjnzabacah31.m3u8?st=UNLTP_FIXdnd62b-wUpo3aEEiOs4oewnC1mlPa_nGlE&e=1793154607
+#EXTINF:-1 tvg-chno="173" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Liga Profesional] Argentinos Jrs vs Ind Rivadavia (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Liga Profesional] Argentinos Jrs vs Ind Rivadavia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/GGGG.m3u8
+#EXTINF:-1 tvg-chno="189" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Central American Cup] Alianza FC vs Marathon (FAWA)" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFCentralAmericanCup.png" group-title="Live Events",[CONCACAF Central American Cup] Alianza FC vs Marathon (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/nnnnaA.m3u8
+#EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Chico vs Junior (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Chico vs Junior (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/nnnna.m3u8
+#EXTINF:-1 tvg-chno="262" tvg-id="Live.Event.us" tvg-name="[ESP COPA DEL REY] Córdoba vs Atlético Paso | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[ESP COPA DEL REY] Córdoba vs Atlético Paso | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928547
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.xyz/live3/tv401928547/index.m3u8?st=A0RgGEEpdMOLERMluYjyAA&e=1793151039
+#EXTINF:-1 tvg-chno="263" tvg-id="Live.Event.us" tvg-name="[ESP COPA DEL REY] Málaga vs Sporting de Alcázar | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[ESP COPA DEL REY] Málaga vs Sporting de Alcázar | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928499
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401928499/index.m3u8?st=t069H2RN16zz1MqdScFCyw&e=1793151041
+#EXTINF:-1 tvg-chno="264" tvg-id="Live.Event.us" tvg-name="[ESP COPA DEL REY] Pontevedra vs Arosa | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[ESP COPA DEL REY] Pontevedra vs Arosa | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928488
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401928488/index.m3u8?st=abEr7mSAE432Iw035iePBQ&e=1793151038
+#EXTINF:-1 tvg-chno="265" tvg-id="Live.Event.us" tvg-name="[ESP COPA DEL REY] Rayo Vallecano vs Recreativo Huelva | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[ESP COPA DEL REY] Rayo Vallecano vs Recreativo Huelva | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928533
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401928533/index.m3u8?st=ctdQb8x1ijiFBXHA943Vww&e=1793151040
+#EXTINF:-1 tvg-chno="266" tvg-id="Live.Event.us" tvg-name="[ESP COPA DEL REY] Real Zaragoza vs CD Tudelano | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[ESP COPA DEL REY] Real Zaragoza vs CD Tudelano | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928503
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live3/tv401928503/index.m3u8?st=WKiBdKMJzOr5KKs5I8cH8Q&e=1793151039
+#EXTINF:-1 tvg-chno="267" tvg-id="Live.Event.us" tvg-name="[ESP COPA DEL REY] Villarreal vs Manacor | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[ESP COPA DEL REY] Villarreal vs Manacor | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928522
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401928522/index.m3u8?st=ZoOrRbccGpWoxXuGRUzKxg&e=1793151040
+#EXTINF:-1 tvg-chno="268" tvg-id="Live.Event.us" tvg-name="[GER DFB POKAL] 1. FC Union Berlin vs FC Cologne | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[GER DFB POKAL] 1. FC Union Berlin vs FC Cologne | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401917026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.xyz/live3/tv401917026/index.m3u8?st=amwIMPYxEhs4wGyMM_VAxw&e=1793151034
+#EXTINF:-1 tvg-chno="269" tvg-id="Live.Event.us" tvg-name="[GER DFB POKAL] Karlsruher SC vs Borussia Mönchengladbach | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[GER DFB POKAL] Karlsruher SC vs Borussia Mönchengladbach | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401917031
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live3/tv401917031/index.m3u8?st=gp5SXXupoacE4l6LK6COSg&e=1793151033
+#EXTINF:-1 tvg-chno="270" tvg-id="Live.Event.us" tvg-name="[GER DFB POKAL] SV Darmstadt 98 vs SV Elversberg | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[GER DFB POKAL] SV Darmstadt 98 vs SV Elversberg | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401916923
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401916923/index.m3u8?st=lByqS54lanxQ4KwHVuRZ4w&e=1793151034
+#EXTINF:-1 tvg-chno="271" tvg-id="Live.Event.us" tvg-name="[GER DFB POKAL] Werder Bremen vs Borussia Dortmund | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[GER DFB POKAL] Werder Bremen vs Borussia Dortmund | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401917030
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.xyz/live3/tv401917030/index.m3u8?st=B5s-53MRDJeo9NsE6PA07A&e=1793151032
+#EXTINF:-1 tvg-chno="272" tvg-id="Soccer.Dummy.us" tvg-name="[German DFB Pokal] FC Koln vs Union Berlin 1 (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/germany/1500x1500/dfb-pokal.368025c3.png" group-title="Live Events",[German DFB Pokal] FC Koln vs Union Berlin 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/J777AAA.m3u8
+#EXTINF:-1 tvg-chno="385" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Missouri State Bears vs Sam Houston Bearkats (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] Missouri State Bears vs Sam Houston Bearkats (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/33jhpzfr-425
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://tims-001.sytes.net/main/secure/9e7d3b7a2a67a08254b7deefdd6408cab1134db6d07c8c2beb59f8af3e692518/1793152823/espn2-usa.m3u8
+#EXTINF:-1 tvg-chno="386" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Western Kentucky Hilltoppers vs Delaware Blue Hens (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA - Football] Western Kentucky Hilltoppers vs Delaware Blue Hens (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/9c2jwr40-3335
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://tims-001.sytes.net/main/secure/466193a2b79c346805dd1d51d7d65bc372edd04fad339e31da7e3d531757bf1e/1793156411/cbssn-usa.m3u8
+#EXTINF:-1 tvg-chno="387" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Missouri State Sam vs Houston State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Missouri State Sam vs Houston State (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/JGGGAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="388" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Western Kentucky vs Delaware Fightin (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Western Kentucky vs Delaware Fightin (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/JGGGAAAA.m3u8
+#EXTINF:-1 tvg-chno="462" tvg-id="Soccer.Dummy.us" tvg-name="[Paraguay Copa] Libertad Asuncion vs Independiente FBC (FAWA)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live Events",[Paraguay Copa] Libertad Asuncion vs Independiente FBC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/GGGGAA.m3u8
+#EXTINF:-1 tvg-chno="473" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Cagliari vs AS Roma | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Cagliari vs AS Roma | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401874780
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401874780/index.m3u8?st=6XahcziUJcMs94vF7Twrhg&e=1793151021
+#EXTINF:-1 tvg-chno="474" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Como vs Torino | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Como vs Torino | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401874786
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live3/tv401874786/index.m3u8?st=tr1MV1FQzXOUDgtScT90mQ&e=1793151022
+#EXTINF:-1 tvg-chno="489" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Copa del Rey] Alcazar vs Malaga 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/80.png" group-title="Live Events",[Spanish Copa del Rey] Alcazar vs Malaga 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/JBBBBAAQ.m3u8
+#EXTINF:-1 tvg-chno="490" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Copa del Rey] Manacor vs Villarreal 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/80.png" group-title="Live Events",[Spanish Copa del Rey] Manacor vs Villarreal 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/JBBBBAAQQ.m3u8
+#EXTINF:-1 tvg-chno="491" tvg-id="Soccer.Dummy.us" tvg-name="[Uruguay Liga AUF] Penarol vs Montevideo City (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="Live Events",[Uruguay Liga AUF] Penarol vs Montevideo City (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/GGGGA.m3u8
+#EXTINF:-1 tvg-id="italyserieasassuolovslazio" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Sassuolo 🇮🇹 vs Lazio 🇮🇹 (17:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Sassuolo 🇮🇹_vs_Lazio 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Sassuolo 🇮🇹 vs Lazio 🇮🇹 (17:30)
+https://dlive.sx/watch.php?id=59
+#EXTINF:-1 tvg-id="italyseriebbeneventovscatanzaro" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Benevento 🇮🇹 vs Catanzaro 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Benevento 🇮🇹_vs_Catanzaro 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Benevento 🇮🇹 vs Catanzaro 🇮🇹 (18:00)
+https://dlive.sx/watch.php?id=68
+#EXTINF:-1 tvg-id="italyseriebcesenavsempoli" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Cesena 🇮🇹 vs Empoli 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Cesena 🇮🇹_vs_Empoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Cesena 🇮🇹 vs Empoli 🇮🇹 (19:00)
+https://dlive.sx/watch.php?id=105
+#EXTINF:-1 tvg-id="italyseriebascolivssampdoria" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Ascoli 🇮🇹 vs Sampdoria 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ascoli 🇮🇹_vs_Sampdoria 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Ascoli 🇮🇹 vs Sampdoria 🇮🇹 (19:00)
+https://dlive.sx/watch.php?id=106
+#EXTINF:-1 tvg-id="coppaitaliaseriecteamaltamuravsgubbio" tvg-name="All Soccer Events ⚽ | ⚽ Coppa Italia Serie C : Team Altamura 🇮🇹 vs Gubbio 🇮🇹 (19:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Team Altamura 🇮🇹_vs_Gubbio 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Coppa Italia Serie C : Team Altamura 🇮🇹 vs Gubbio 🇮🇹 (19:30)
+https://dlive.sx/watch.php?id=7
+#EXTINF:-1 tvg-id="coppaitaliaseriecpotenzacalciovsbari1908" tvg-name="All Soccer Events ⚽ | ⚽ Coppa Italia Serie C : Potenza Calcio 🇮🇹 vs Bari 1908 🇮🇹 (19:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Potenza Calcio 🇮🇹_vs_Bari 1908 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Coppa Italia Serie C : Potenza Calcio 🇮🇹 vs Bari 1908 🇮🇹 (19:30)
+https://dlive.sx/watch.php?id=8
+#EXTINF:-1 tvg-id="italyseriearomavscagliari" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Roma 🇮🇹 vs Cagliari 🇮🇹 (19:45)" tvg-logo="https://assets.football-logos.cc/logos/italy/512x512/cagliari.8ff1c9e6.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Roma 🇮🇹 vs Cagliari 🇮🇹 (19:45)
+https://dlive.sx/watch.php?id=109
+#EXTINF:-1 tvg-id="coppaitaliaseriecsavoiavssorrento" tvg-name="All Soccer Events ⚽ | ⚽ Coppa Italia Serie C : Savoia 🇮🇹 vs Sorrento 🇮🇹 (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Savoia 🇮🇹_vs_Sorrento 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Coppa Italia Serie C : Savoia 🇮🇹 vs Sorrento 🇮🇹 (20:00)
+https://dlive.sx/watch.php?id=9
+#EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="https://iptvx.one/picons/football-ru.png" group-title="Спортивные" ,Футбол HD
+http://178.124.179.122:8088/Setanta1/index.m3u8
