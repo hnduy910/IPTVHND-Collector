@@ -612,6 +612,7 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #4K频道
 #DATE: 2026-10-29 04:18:44
+#EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -64144,3 +64145,51 @@ http://185.227.34.179:8080/hbo-3-hd/index.m3u8
 http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.postimg.cc/Wqzxnzj0/V4.png" group-title="VTV",VTV4
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_360p.m3u8
+#EXTINF:-1,VietNam
+https://stream.zeno.fm/2141ytrbn48uv
+#EXTINF:-1 tvg-id="AXNAsia.sg@Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia Vietnam
+https://tv.ddns.vn/tv/axnhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv-pro.github.io/logo/HBO.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/cinemax.png" group-title="✅ Canais ✨ Filmes e Séries",Cinemax FHD
+http://64.31.23.207:80/96795792/50165825/324445.m3u8
+#EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax HD" tvg-logo="http://logos.appscms.xyz/logos/2025/cinemax.png" group-title="✅ Canais ✨ Filmes e Séries",Cinemax HD
+http://64.31.23.207:80/96795792/50165825/324447.m3u8
+#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/tcm.png" group-title="✅ Canais ✨ Filmes e Séries",TCM FHD
+http://64.31.23.207:80/96795792/50165825/324475.m3u8
+#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM HD" tvg-logo="http://logos.appscms.xyz/logos/2025/tcm.png" group-title="✅ Canais ✨ Filmes e Séries",TCM HD
+http://64.31.23.207:80/96795792/50165825/324477.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony Movies HD" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonymovies.png" group-title="✅ Canais ✨ Filmes e Séries",Sony Movies HD
+http://64.31.23.207:80/96795792/50165825/324518.m3u8
+#EXTINF:-1 tvg-id="HBO SD" tvg-name="HBO FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo.png" group-title="✅ Canais ✨Hbo",HBO FHD
+http://64.31.23.207:80/96795792/50165825/514107.m3u8
+#EXTINF:-1 tvg-id="HBO SD" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo.png" group-title="✅ Canais ✨Hbo",HBO HD
+http://64.31.23.207:80/96795792/50165825/514108.m3u8
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo2.png" group-title="✅ Canais ✨Hbo",HBO 2 FHD
+http://64.31.23.207:80/96795792/50165825/514110.m3u8
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo2.png" group-title="✅ Canais ✨Hbo",HBO 2 HD
+http://64.31.23.207:80/96795792/50165825/514111.m3u8
+#EXTINF:-1 tvg-id="HBO Family SD" tvg-name="HBO Family FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbofamily.png" group-title="✅ Canais ✨Hbo",HBO Family FHD
+http://64.31.23.207:80/96795792/50165825/514113.m3u8
+#EXTINF:-1 tvg-id="HBO Family SD" tvg-name="HBO Family HD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbofamily.png" group-title="✅ Canais ✨Hbo",HBO Family HD
+http://64.31.23.207:80/96795792/50165825/514114.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi SD" tvg-name="HBO Mundi FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbomundi.png" group-title="✅ Canais ✨Hbo",HBO Mundi FHD
+http://64.31.23.207:80/96795792/50165825/514116.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi SD" tvg-name="HBO Mundi HD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbomundi.png" group-title="✅ Canais ✨Hbo",HBO Mundi HD
+http://64.31.23.207:80/96795792/50165825/514117.m3u8
+#EXTINF:-1 tvg-id="262" tvg-name="HBO Plus FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/hboplus.png" group-title="✅ Canais ✨Hbo",HBO Plus FHD
+http://64.31.23.207:80/96795792/50165825/514119.m3u8
+#EXTINF:-1 tvg-id="262" tvg-name="HBO Plus HD" tvg-logo="http://www.fontedecanais.me/logos/canais/hboplus.png" group-title="✅ Canais ✨Hbo",HBO Plus HD
+http://64.31.23.207:80/96795792/50165825/514120.m3u8
+#EXTINF:-1 tvg-id="265" tvg-name="HBO Pop FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbopop.png" group-title="✅ Canais ✨Hbo",HBO Pop FHD
+http://64.31.23.207:80/96795792/50165825/514122.m3u8
+#EXTINF:-1 tvg-id="265" tvg-name="HBO Pop HD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbopop.png" group-title="✅ Canais ✨Hbo",HBO Pop HD
+http://64.31.23.207:80/96795792/50165825/514123.m3u8
+#EXTINF:-1 tvg-id="HBO Signature SD" tvg-name="HBO Signature FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbosignature.png" group-title="✅ Canais ✨Hbo",HBO Signature FHD
+http://64.31.23.207:80/96795792/50165825/514125.m3u8
+#EXTINF:-1 tvg-id="HBO Signature SD" tvg-name="HBO Signature HD" tvg-logo="http://www.fontedecanais.me/logos/canais/hbosignature.png" group-title="✅ Canais ✨Hbo",HBO Signature HD
+http://64.31.23.207:80/96795792/50165825/514126.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme SD" tvg-name="HBO Xtreme FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/hboxtreme.png" group-title="✅ Canais ✨Hbo",HBO Xtreme FHD
+http://64.31.23.207:80/96795792/50165825/514128.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme SD" tvg-name="HBO Xtreme HD" tvg-logo="http://www.fontedecanais.me/logos/canais/hboxtreme.png" group-title="✅ Canais ✨Hbo",HBO Xtreme HD
+http://64.31.23.207:80/96795792/50165825/514129.m3u8
