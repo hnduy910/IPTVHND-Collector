@@ -64772,22 +64772,6 @@ http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
 http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png" group-title="Movies",HBO Signature Asia HD (1080p)
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
-#EXTINF:-1,Talksport Premier League 
-https://radio.talksport.com/stream?n=7ba17f5223a5451344b4
-#EXTINF:-1,Talksport Premier League
-https://radio.talksport.com/stream?n=ac67b0c67be821ae8a62
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
-#EXTINF:-1,Talksport Premier League
-https://radio.talksport.com/stream?n=4441981620a69ba0ad80
-#EXTINF:-1,Talksport Premier League
-https://talksport.live.stream.broadcasting.news/stream?n=7ba17f5223a5451344b4
-#EXTINF:-1,Talksport Premier League
-https://talksport.live.stream.broadcasting.news/stream?n=4441981620a69ba0ad80
-#EXTINF:-1,Talksport Premier League
-https://talksport.live.stream.broadcasting.news/stream?n=5569a0d1e7815ae79b27
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/F7P2.png",Premier League 7 (English)
-https://talksport.live.stream.broadcasting.news/stream
 #EXTINF:-1 tvg-chno="74" tvg-id="plex.tv.Hallmark.Movies.&.More.plex" tvg-name="Hallmark Movies & More" tvg-logo="https://images.vizio.com/api/imageid/1648021508/600/130?quality=80" group-title="TV",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/bf3f1b07-6a0a-4e5b-8eb9-9ba0de5b9e45/5.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="Football.Dummy.us" tvg-name="[American Football] Army Black Knights vs. Memphis Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Army Black Knights vs. Memphis Tigers | English (STRMCNTR)
@@ -65170,3 +65154,12 @@ http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="HBO强档影院" tvg-logo="https://epg.112114.xyz/logo/HBO.png",HBO强档影院
 http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png" tvg-country="SG" tvg-language="eng;vie" group-title="Movies" nexus-score="100",Cinemax Asia (1080p)
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1,VietNam
+https://stream.zeno.fm/2141ytrbn48uv
+#EXTINF:-1,Huella Musical
+http://s3.myradiostream.com:4458/
+#EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Ob1cTsGJANt95ov-AbP82w&e=2093526191&scheme=https
