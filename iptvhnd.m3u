@@ -65156,10 +65156,6 @@ http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
 http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png" tvg-country="SG" tvg-language="eng;vie" group-title="Movies" nexus-score="100",Cinemax Asia (1080p)
 http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
-#EXTINF:-1,Huella Musical
-http://s3.myradiostream.com:4458/
 #EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Ob1cTsGJANt95ov-AbP82w&e=2093526191&scheme=https
@@ -65167,8 +65163,6 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Ob
 http://193.33.39.108:9009/play/a024
 #EXTINF:-1 tvg-id="CinemaxCentralEurope.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Movies",Cinemax Central Europe
 http://193.33.39.108:9023/play/a01b
-#EXTINF:-1,Fußball-Bundesliga: Spiel 4
-https://wdr-sportschau-liga1spiel4.icecastssl.wdr.de/wdr/sportschau/liga1spiel4/mp3/high
 #EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New England Revolution vs Inter Miami CF (DAM)" tvg-logo="/img/cards/usa.1/761932.jpg?v=flag2nf" group-title="Live Events",[MLS] New England Revolution vs Inter Miami CF (DAM)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=espn-761932
 #EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=espn-761932
@@ -65410,7 +65404,11 @@ https://rip.futx.nx.kg/juv/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=
 https://hey.futx.nx.kg/laz/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-chno="613" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Lecce vs Genoa | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Lecce vs Genoa | Main Feed (FUTBOLX)
 https://hey.futx.nx.kg/lec/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1,Fußball-Bundesliga 2: Spiel 3
-https://wdr-sportschau-liga2spiel3.icecastssl.wdr.de/wdr/sportschau/liga2spiel3/mp3/high
-#EXTINF:-1,Fußball-Bundesliga: Spiel 6
-https://wdr-sportschau-liga1spiel6.icecastssl.wdr.de/wdr/sportschau/liga1spiel6/mp3/high
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png" group-title="VTV",VTV5 Tây Nguyên
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/master.m3u8
+#EXTINF:-1 tvg-id="htv4hd" tvg-logo="https://i.imgur.com/BcCA0x2.png" group-title="HTV",HTV4
+https://1011154949.vnns.net/htvc/htv4.720p.nimble.adm.tms/playlist.m3u8
+#EXTINF:-1 tvg-id="hanoi2" tvg-logo="https://i.postimg.cc/Nft4rJgS/Hanoi-TV2.png" group-title="Địa phương",Hà Nội 2
+https://liveh34.vtvprime.vn/hls/HANOI2/index.m3u8
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
