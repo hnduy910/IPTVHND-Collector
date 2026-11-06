@@ -64333,8 +64333,6 @@ http://193.47.62.44/hls/3333AAAAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/iiiia.m3u8
-#EXTINF:-1,HTV Se Pone Bueno
-https://stream.zeno.fm/ieagybudukavv
 #EXTINF:-1,Bison 1660 - 32 - The United States Of America - baseball - basketball - college sports - football - sports
 https://sonic.onlineaudience.co.uk/8142/stream
 #EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Armenia Premier League] Sardarapat vs Van (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/h4o8zq1687710680.png" group-title="Live Events",[Armenia Premier League] Sardarapat vs Van (FAWA)
@@ -66022,5 +66020,9 @@ https://stream.zeno.fm/g91qxch7gv8uv
 https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1,Universo Musical Villa Pehuenia
 https://stream.zeno.fm/khgfwxvh308uv
-#EXTINF:-1,VOV Giao Thông Hà Nội
-http://media.kythuatvov.vn:7025/stream/?n=d318907dbf0a58b118c8
+#EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="Sports",HTV Sports (1080i)
+https://vmttv.dpdns.org/tv360?id=htv-the-thao
+#EXTINF:-1 tvg-id="ONPhimViet.vn@SD" tvg-logo="https://i.ibb.co/Swvp1vwM/IMG-2525.jpg" group-title="Series",ON Phim Viet (1080p)
+https://vmttv.dpdns.org/tv360?id=175
+#EXTINF:-1 tvg-id="RadioTVSerieA.it@SD" tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" group-title="Sports",Radio TV Serie A
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8
