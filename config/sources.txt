@@ -5019,3 +5019,16 @@ https://raw.githubusercontent.com/ngvhiem/IPTV/ab460dbce1f861cf61b2d6559074fbbab
 https://raw.githubusercontent.com/vietng228/m3u/69cf0ae2eed10bb778cd38605ae52bbc11b25798/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/69cf0ae2eed10bb778cd38605ae52bbc11b25798/new.m3u
 https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/b725f11b2b49f09e0df929ba5b4f3b025420c0a9/tv.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/62248b30d61ff550b9305b5ab313738abbd45c3a/playlists/playlist_united_arab_emirates.m3u8
+https://raw.githubusercontent.com/boxkim14/m3u8/fb2731b9be73bdb999ead5f3d9d2de0da6ff58b0/vn.m3u8
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/5762d93128211f767fe5a9238ca2d5d4de5713e3/LiveTV/Vietnam/LiveTV.m3u
+https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/225dfd74bb5d5e673d213b8d755dfdd5dcf1d2dc/listtamtrang.m3u8
+https://raw.githubusercontent.com/iptv-org/iptv/6378d1b05f79d9c68dc09bdd2822ecbead27a0bc/streams/de.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/6378d1b05f79d9c68dc09bdd2822ecbead27a0bc/streams/us.m3u
+https://raw.githubusercontent.com/jingjingge-art/shanghaieye/5ff8b337d359af1cc3be4273abccc8549c06ebf5/iptv.txt
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/98b1e8c02f424cd037fe99c5d764b1086fe0bfbc/+checked+/m/movies.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/98b1e8c02f424cd037fe99c5d764b1086fe0bfbc/+checked+/t/tv.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/98b1e8c02f424cd037fe99c5d764b1086fe0bfbc/kuasark/checked/categories/tv.m3u
+https://raw.githubusercontent.com/mangyeu/TV/f065ea1bd78435f0b66d7931dc3aecb9197e8f01/tivi.m3u8
+https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/cf70c2fefb962b291a2f5abf581dfcf77c58abaf/LiveTV/Vietnam/LiveTV.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/7e0402ce9451053525009b53f74068fded51f359/IPTV/CN.m3u8
