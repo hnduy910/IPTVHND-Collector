@@ -5032,3 +5032,13 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/98b1e8c02f4
 https://raw.githubusercontent.com/mangyeu/TV/f065ea1bd78435f0b66d7931dc3aecb9197e8f01/tivi.m3u8
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/cf70c2fefb962b291a2f5abf581dfcf77c58abaf/LiveTV/Vietnam/LiveTV.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/7e0402ce9451053525009b53f74068fded51f359/IPTV/CN.m3u8
+https://raw.githubusercontent.com/KimShenGod/live/dc595242694b98e9d2621048b558b1ea178ac98d/iptv.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/980cfc9a17a5cf5a3d2155880c142ad7077e2e55/iptv.m3u
+https://raw.githubusercontent.com/chwlibre/iptv/ed9d9c54db03a7958a710e9075364400d0f61826/abandonadas/geneiptv.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/2edd46179e566f0004ea88d5b4af3ea498632c87/streams/in.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/fc19ebf0c9230a217295d7469ed01305bebd6f1b/UDPTV.m3u
+https://raw.githubusercontent.com/rolnando-play/RP/031edcfd41d68a192541af27814d7e098c1f5c14/iptv2.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/b8d6c5f4157c0cb0bf1cc49609110dff5baaa647/IPTV/fr.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/b8d6c5f4157c0cb0bf1cc49609110dff5baaa647/IPTV/tw.m3u
+https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/65a7513ab84ab7e66b574a0492ca5c24ee956d4b/IPTV-Playlist.m3u
+https://raw.githubusercontent.com/thamanyambity-svg/aonoseke-iptv/fcfd135b371887c14625884849de123f5e18685f/public/playlist.iptv.m3u
