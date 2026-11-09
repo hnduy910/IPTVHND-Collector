@@ -66307,8 +66307,6 @@ http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8
 http://190.61.42.218:9000/play/a01s/index.m3u8
 #EXTINF:-1,VietNam
 https://stream.zeno.fm/2141ytrbn48uv
-#EXTINF:-1,antena libre 89.1 argentina universidad conahue
-http://cdn.instream.audio:9140/stream?n=ed1b328d11729f1fa623
 #EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=jXkfEA_3P_t05vytP--jZw&e=2094126747&scheme=https
@@ -66356,3 +66354,325 @@ https://dlive.sx/watch.php?id=151
 https://dlive.sx/watch.php?id=152
 #EXTINF:-1 tvg-id="italyserieafiorentinavsjuventus" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Fiorentina 🇮🇹 vs Juventus 🇮🇹 (19:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Fiorentina_vs_Juventus.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Fiorentina 🇮🇹 vs Juventus 🇮🇹 (19:45)
 https://dlive.sx/watch.php?id=157
+#EXTINF:-1,Discoteca Brasileira
+https://stream.zeno.fm/r4ahfqwarm0uv
+#EXTINF:-1,Paul Pewitt Football
+https://stream.zeno.fm/0q7expg2bpvtv
+#EXTINF:-1,ONDA MORADA FUTBOL
+https://stream.zeno.fm/78wsc4b8hqzuv
+#EXTINF:-1,futbol pacion
+https://stream.zeno.fm/cipuwuavk8pvv
+#EXTINF:-1,Hipica y Futbol Pasion de Multitudes
+https://stream.zeno.fm/tc9228mynfhvv
+#EXTINF:-1,ÉLITE DEL FÚTBOL
+https://stream.zeno.fm/pp6z0axw6hhvv
+#EXTINF:-1,futbol al momento
+https://stream.zeno.fm/m629xqe9x98uv
+#EXTINF:-1,The Football Fans Show
+https://stream.zeno.fm/ebdbbtdhzytvv
+#EXTINF:-1,La consecuente Futbol y carnaval
+https://stream.zeno.fm/kv0en257sk8uv
+#EXTINF:-1,Football Scanners
+https://stream.zeno.fm/gebtz2w7sk8uv
+#EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-country="VN" group-title="Lifestyle",ON Style TV
+http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Alianza vs Llaneros (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Alianza vs Llaneros (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/C555AA.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-id="Soccer.Dummy.us" tvg-name="[Liga MX] León vs Guadalajara (DAMITV)" tvg-logo="https://damitv.st/img/cards/mex.1/401876902-r.jpg?v=ghost1nf" group-title="Live Events",[Liga MX] León vs Guadalajara (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-8b85047277
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/liga-mx/2026-11-08/leo-gdl/playlist.m3u8?tk=myZMhNY8mSk7jVnty98Kmg&e=1794232813
+#EXTINF:-1 tvg-chno="133" tvg-id="Soccer.Dummy.us" tvg-name="[Liga MX] Querétaro vs Puebla (DAMITV)" tvg-logo="https://damitv.st/img/cards/mex.1/401876903-r.jpg?v=ghost1nf" group-title="Live Events",[Liga MX] Querétaro vs Puebla (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-6eee195943
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/liga-mx/2026-11-08/qro-pue/playlist.m3u8?tk=NWVU4kbmN2W-ioyYfVyp9g&e=1794225608
+#EXTINF:-1 tvg-chno="170" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Club Leon vs Guadalajara Chivas (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Club Leon vs Guadalajara Chivas (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/NTTTAA.m3u8
+#EXTINF:-1 tvg-chno="258" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Redzone (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[NFL] NFL Redzone (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59597?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59597/load-playlist
+#EXTINF:-1 tvg-chno="324" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Chicago Bears vs Tampa Bay Buccaneers (DAMITV)" tvg-logo="https://damitv.st/img/cards/nfl/401873050.jpg?v=dm3nf" group-title="Live Events",[National Football League] Chicago Bears vs Tampa Bay Buccaneers (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401873050
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/tb-chi/playlist.m3u8?tk=zMzzsCpqBQp-Y4w3-RlcMQ&e=1794229207
+#EXTINF:-1 tvg-chno="329" tvg-id="Soccer.Dummy.us" tvg-name="[Peru Liga 1 Apertura] Deportivo Garcilaso vs Comerciantes Unidos (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live Events",[Peru Liga 1 Apertura] Deportivo Garcilaso vs Comerciantes Unidos (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/FYYYQQQ.m3u8
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)
+https://thedaddy.li/watch.php?id=149
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)
+https://thedaddy.li/watch.php?id=387
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Independiente Rivadavia vs Atlético Tucumán (01:15)
+https://thedaddy.li/watch.php?id=388
+#EXTINF:-1 group-title="Live Events",Soccer | Colombia - Primera A : Deportes Tolima vs Alianza (01:30)
+https://thedaddy.li/watch.php?id=392
+#EXTINF:-1 group-title="Live Events",Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)
+https://thedaddy.li/watch.php?id=32
+#EXTINF:-1 group-title="Live Events",Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)
+https://thedaddy.li/watch.php?id=590
+#EXTINF:-1 group-title="DLHD 24/7",AXN Movies Portugal
+https://thedaddy.li/watch.php?id=717
+#EXTINF:-1 group-title="DLHD 24/7",Cinemax USA
+https://thedaddy.li/watch.php?id=374
+#EXTINF:-1 group-title="DLHD 24/7",DAZN Ligue 1 France
+https://thedaddy.li/watch.php?id=960
+#EXTINF:-1 group-title="DLHD 24/7",FOX Soccer Plus
+https://thedaddy.li/watch.php?id=756
+#EXTINF:-1 group-title="DLHD 24/7",Film4 UK
+https://thedaddy.li/watch.php?id=688
+#EXTINF:-1 group-title="DLHD 24/7",Hallmark Movies & Mysterie
+https://thedaddy.li/watch.php?id=296
+#EXTINF:-1 group-title="DLHD 24/7",HBO USA
+https://thedaddy.li/watch.php?id=321
+#EXTINF:-1 group-title="DLHD 24/7",HBO Hits USA
+https://thedaddy.li/watch.php?id=689
+#EXTINF:-1 group-title="DLHD 24/7",HBO Comedy USA
+https://thedaddy.li/watch.php?id=690
+#EXTINF:-1 group-title="DLHD 24/7",HBO Family USA
+https://thedaddy.li/watch.php?id=691
+#EXTINF:-1 group-title="DLHD 24/7",HBO Latino USA
+https://thedaddy.li/watch.php?id=692
+#EXTINF:-1 group-title="DLHD 24/7",HBO Drama USA
+https://thedaddy.li/watch.php?id=693
+#EXTINF:-1 group-title="DLHD 24/7",HBO Movies USA
+https://thedaddy.li/watch.php?id=694
+#EXTINF:-1 group-title="DLHD 24/7",HBO Poland
+https://thedaddy.li/watch.php?id=569
+#EXTINF:-1 group-title="DLHD 24/7",Lifetime Movies Network
+https://thedaddy.li/watch.php?id=389
+#EXTINF:-1 group-title="DLHD 24/7",Match Football 1 Russia
+https://thedaddy.li/watch.php?id=136
+#EXTINF:-1 group-title="DLHD 24/7",Match Football 2 Russia
+https://thedaddy.li/watch.php?id=137
+#EXTINF:-1 group-title="DLHD 24/7",Match Football 3 Russia
+https://thedaddy.li/watch.php?id=138
+#EXTINF:-1 group-title="DLHD 24/7",Nova Sports Premier League Greece
+https://thedaddy.li/watch.php?id=599
+#EXTINF:-1 group-title="DLHD 24/7",Sky Sports Football UK
+https://thedaddy.li/watch.php?id=35
+#EXTINF:-1 group-title="DLHD 24/7",Sky sports Premier League
+https://thedaddy.li/watch.php?id=130
+#EXTINF:-1 group-title="DLHD 24/7",Sky Sport Bundesliga 1 HD
+https://thedaddy.li/watch.php?id=558
+#EXTINF:-1 group-title="DLHD 24/7",Sky Sport Bundesliga 2
+https://thedaddy.li/watch.php?id=946
+#EXTINF:-1 group-title="DLHD 24/7",Sky Sport Bundesliga 3
+https://thedaddy.li/watch.php?id=947
+#EXTINF:-1 group-title="DLHD 24/7",Sky Sport Bundesliga 4
+https://thedaddy.li/watch.php?id=948
+#EXTINF:-1 group-title="DLHD 24/7",Sky Sport Bundesliga 5
+https://thedaddy.li/watch.php?id=949
+#EXTINF:-1 group-title="DLHD 24/7",SuperSport Premier league
+https://thedaddy.li/watch.php?id=414
+#EXTINF:-1 group-title="DLHD 24/7",Supersport Football
+https://thedaddy.li/watch.php?id=56
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Premiere UK
+https://thedaddy.li/watch.php?id=671
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Select UK
+https://thedaddy.li/watch.php?id=672
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Hits UK
+https://thedaddy.li/watch.php?id=673
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Greats UK
+https://thedaddy.li/watch.php?id=674
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Animation UK
+https://thedaddy.li/watch.php?id=675
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Family UK
+https://thedaddy.li/watch.php?id=676
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Action UK
+https://thedaddy.li/watch.php?id=677
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Comedy UK
+https://thedaddy.li/watch.php?id=678
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Thriller UK
+https://thedaddy.li/watch.php?id=679
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Drama UK
+https://thedaddy.li/watch.php?id=680
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Sci-Fi Horror UK
+https://thedaddy.li/watch.php?id=681
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Collection Italy
+https://thedaddy.li/watch.php?id=859
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Uno Italy
+https://thedaddy.li/watch.php?id=860
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Action Italy
+https://thedaddy.li/watch.php?id=861
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Comedy Italy
+https://thedaddy.li/watch.php?id=862
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Uno +24 Italy
+https://thedaddy.li/watch.php?id=863
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Romance Italy
+https://thedaddy.li/watch.php?id=864
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Family Italy
+https://thedaddy.li/watch.php?id=865
+#EXTINF:-1 group-title="DLHD 24/7",Sky Cinema Drama Italy
+https://thedaddy.li/watch.php?id=867
+#EXTINF:-1 group-title="DLHD 24/7",TCM USA
+https://thedaddy.li/watch.php?id=644
+#EXTINF:-1 group-title="DLHD 24/7",TV4 Football Sweden
+https://thedaddy.li/watch.php?id=747
+#EXTINF:-1 group-title="DLHD 24/7",VTV+ Uruguay
+https://thedaddy.li/watch.php?id=391
+#EXTINF:-1 tvg-chno="178" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga] FC Köln vs Leverkusen | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live Events",[Bundesliga] FC Köln vs Leverkusen | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/lev/index.m3u8
+#EXTINF:-1 tvg-chno="181" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga] Freiburg vs Union Berlin | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live Events",[Bundesliga] Freiburg vs Union Berlin | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/fre/index.m3u8
+#EXTINF:-1 tvg-chno="187" tvg-id="Soccer.Dummy.us" tvg-name="[Chile Liga de Primera] U De Concepcion vs OHiggins (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png" group-title="Live Events",[Chile Liga de Primera] U De Concepcion vs OHiggins (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/FYYYQQQQ.m3u8
+#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Brighton vs Brentford | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Brighton vs Brentford | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/bri/index.m3u8
+#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Crystal Palace vs Liverpool | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Crystal Palace vs Liverpool | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://rip.futx.nx.kg/cry/index.m3u8
+#EXTINF:-1 tvg-chno="198" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Ipswich vs Bournemouth | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Ipswich vs Bournemouth | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://rip.futx.nx.kg/ips/index.m3u8
+#EXTINF:-1 tvg-chno="199" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Man United vs Aston Villa | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Man United vs Aston Villa | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://rip.futx.nx.kg/mun/index.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Sunderland vs Chelsea | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Sunderland vs Chelsea | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/sun/index.m3u8
+#EXTINF:-1 tvg-chno="234" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Atlético Madrid vs Barcelona | Stream 2 Esp (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Atlético Madrid vs Barcelona | Stream 2 Esp (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://rip.futx.nx.kg/esp/index.m3u8
+#EXTINF:-1 tvg-chno="235" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Celta Vigo vs Levante | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Celta Vigo vs Levante | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fup.futx.nx.kg/cel/index.m3u8
+#EXTINF:-1 tvg-chno="244" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Elche vs Real Betis | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Elche vs Real Betis | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fup.futx.nx.kg/elch/index.m3u8
+#EXTINF:-1 tvg-chno="249" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Real Sociedad vs Vallecano | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Real Sociedad vs Vallecano | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/soci/index.m3u8
+#EXTINF:-1 tvg-chno="253" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Villarreal vs Getafe | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Villarreal vs Getafe | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fup.futx.nx.kg/vil/index.m3u8
+#EXTINF:-1 tvg-chno="293" tvg-id="Soccer.Dummy.us" tvg-name="[Liga MX] León vs Guadalajara (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Liga MX] León vs Guadalajara (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/q2u5urq3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://tims-001.sytes.net/main/secure/869ee1be14e8267201db8c43822965c3dcba189f62847d1419c0c57526110d47/1794205808/tudn-usa.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Portugal] Estrela vs SL Benfica | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Live Events",[Liga Portugal] Estrela vs SL Benfica | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/ben/index.m3u8
+#EXTINF:-1 tvg-chno="324" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Angers vs Nice | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Angers vs Nice | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/ang/index.m3u8
+#EXTINF:-1 tvg-chno="326" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Brestois vs Lyon | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Brestois vs Lyon | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/brest/index.m3u8
+#EXTINF:-1 tvg-chno="328" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Le Havre vs Lorient | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Le Havre vs Lorient | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/hav/index.m3u8
+#EXTINF:-1 tvg-chno="331" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Le Mans vs Monaco | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Le Mans vs Monaco | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/man/index.m3u8
+#EXTINF:-1 tvg-chno="332" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Lens vs Marseille | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Lens vs Marseille | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/len/index.m3u8
+#EXTINF:-1 tvg-chno="336" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Rennais vs Lille | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Rennais vs Lille | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fup.futx.nx.kg/lill/index.m3u8
+#EXTINF:-1 tvg-chno="340" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Queretaro vs Puebla (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Queretaro vs Puebla (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/NTTTA.m3u8
+#EXTINF:-1 tvg-chno="512" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Fiorentina vs Juventus | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Fiorentina vs Juventus | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/juv/index.m3u8
+#EXTINF:-1 tvg-chno="514" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Genoa vs AC Milan | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Genoa vs AC Milan | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/gen/index.m3u8
+#EXTINF:-1 tvg-chno="523" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Monza vs Atalanta | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Monza vs Atalanta | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fup.futx.nx.kg/ata/index.m3u8
+#EXTINF:-1 tvg-chno="178" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga] FC Köln vs Leverkusen | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live Events",[Bundesliga] FC Köln vs Leverkusen | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/lev/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="181" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga] Freiburg vs Union Berlin | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live Events",[Bundesliga] Freiburg vs Union Berlin | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/fre/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="187" tvg-id="Soccer.Dummy.us" tvg-name="[Chile Liga de Primera] U De Concepcion vs OHiggins (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png" group-title="Live Events",[Chile Liga de Primera] U De Concepcion vs OHiggins (FAWA)
+http://193.47.62.44/hls/FYYYQQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="188" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Alianza vs Llaneros (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Alianza vs Llaneros (FAWA)
+http://193.47.62.44/hls/C555AA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Brighton vs Brentford | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Brighton vs Brentford | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/bri/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Crystal Palace vs Liverpool | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Crystal Palace vs Liverpool | Main Feed (FUTBOLX)
+https://rip.futx.nx.kg/cry/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="198" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Ipswich vs Bournemouth | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Ipswich vs Bournemouth | Main Feed (FUTBOLX)
+https://rip.futx.nx.kg/ips/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="199" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Man United vs Aston Villa | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Man United vs Aston Villa | Main Feed (FUTBOLX)
+https://rip.futx.nx.kg/mun/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="200" tvg-id="Soccer.Dummy.us" tvg-name="[EPL] Sunderland vs Chelsea | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[EPL] Sunderland vs Chelsea | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/sun/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="234" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Atlético Madrid vs Barcelona | Stream 2 Esp (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Atlético Madrid vs Barcelona | Stream 2 Esp (FUTBOLX)
+https://rip.futx.nx.kg/esp/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="235" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Celta Vigo vs Levante | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Celta Vigo vs Levante | Main Feed (FUTBOLX)
+https://fup.futx.nx.kg/cel/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="244" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Elche vs Real Betis | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Elche vs Real Betis | Main Feed (FUTBOLX)
+https://fup.futx.nx.kg/elch/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="249" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Real Sociedad vs Vallecano | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Real Sociedad vs Vallecano | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/soci/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="253" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Villarreal vs Getafe | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Villarreal vs Getafe | Main Feed (FUTBOLX)
+https://fup.futx.nx.kg/vil/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="292" tvg-id="Soccer.Dummy.us" tvg-name="[Liga MX] León vs Guadalajara (DAMITV)" tvg-logo="https://damitv.st/img/cards/mex.1/401876902-r.jpg?v=ghost1nf" group-title="Live Events",[Liga MX] León vs Guadalajara (DAMITV)
+https://messi.damitv.st/live-hls/channel/liga-mx/2026-11-08/leo-gdl/playlist.m3u8?tk=myZMhNY8mSk7jVnty98Kmg&e=1794232813|Referer=https%3A//damitv.st/embed/%3Fid%3Dmm-own-8b85047277&Origin=https%3A//damitv.st/embed/%3Fid%3Dmm-own-8b85047277&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="293" tvg-id="Soccer.Dummy.us" tvg-name="[Liga MX] León vs Guadalajara (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Liga MX] León vs Guadalajara (FLYEMBD)
+https://tims-001.sytes.net/main/secure/869ee1be14e8267201db8c43822965c3dcba189f62847d1419c0c57526110d47/1794205808/tudn-usa.m3u8|Referer=https%3A//ehgembxe.cfd/flyemb/q2u5urq3&Origin=https%3A//ehgembxe.cfd/flyemb/q2u5urq3&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="313" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Portugal] Estrela vs SL Benfica | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Live Events",[Liga Portugal] Estrela vs SL Benfica | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/ben/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="324" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Angers vs Nice | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Angers vs Nice | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/ang/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="326" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Brestois vs Lyon | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Brestois vs Lyon | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/brest/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="328" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Le Havre vs Lorient | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Le Havre vs Lorient | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/hav/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="331" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Le Mans vs Monaco | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Le Mans vs Monaco | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/man/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="332" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Lens vs Marseille | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Lens vs Marseille | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/len/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="336" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Rennais vs Lille | Main Feed (FUTBOLX)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Rennais vs Lille | Main Feed (FUTBOLX)
+https://fup.futx.nx.kg/lill/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="339" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Club Leon vs Guadalajara Chivas (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Club Leon vs Guadalajara Chivas (FAWA)
+http://193.47.62.44/hls/NTTTAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="340" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Queretaro vs Puebla (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Queretaro vs Puebla (FAWA)
+http://193.47.62.44/hls/NTTTA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="456" tvg-id="Soccer.Dummy.us" tvg-name="[Peru Liga 1 Apertura] Deportivo Garcilaso vs Comerciantes Unidos (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live Events",[Peru Liga 1 Apertura] Deportivo Garcilaso vs Comerciantes Unidos (FAWA)
+http://193.47.62.44/hls/FYYYQQQ.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="512" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Fiorentina vs Juventus | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Fiorentina vs Juventus | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/juv/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="514" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Genoa vs AC Milan | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Genoa vs AC Milan | Main Feed (FUTBOLX)
+https://but.futx.nx.kg/gen/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="517" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Inter Milan vs Como | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Inter Milan vs Como | Main Feed (FUTBOLX)
+https://rip.futx.nx.kg/int/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-chno="523" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Monza vs Atalanta | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Monza vs Atalanta | Main Feed (FUTBOLX)
+https://fup.futx.nx.kg/ata/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
