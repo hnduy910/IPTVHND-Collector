@@ -66374,8 +66374,6 @@ https://stream.zeno.fm/ebdbbtdhzytvv
 https://stream.zeno.fm/kv0en257sk8uv
 #EXTINF:-1,Football Scanners
 https://stream.zeno.fm/gebtz2w7sk8uv
-#EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-country="VN" group-title="Lifestyle",ON Style TV
-http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Alianza vs Llaneros (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Alianza vs Llaneros (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -66676,3 +66674,25 @@ https://but.futx.nx.kg/gen/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=
 https://rip.futx.nx.kg/int/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-chno="523" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Monza vs Atalanta | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Monza vs Atalanta | Main Feed (FUTBOLX)
 https://fup.futx.nx.kg/ata/index.m3u8|Referer=https%3A//www.futbol-x.top&Origin=https%3A//www.futbol-x.top&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1,Marion Football
+http://69.27.80.134:8000/stream/3/
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/VTV5_logo_%282026-nay%29.png/revision/latest?cb=20261001010040&path-prefix=vi" group-title="VTV",VTV5
+https://vtvgolive-ott3.vtvdigital.vn/live/binhphuoctv/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="ono2tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtB_O2Bsd0C0E81kcXkgmoFpTKLMGs1DD0Q&s" group-title="VTVCab",ON O2TV
+https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/O2_TV/sc-gaFEAQ/v2_index.m3u8
+#EXTINF:-1 tvg-id="onbibi" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a5/ON_BiBi.png/revision/latest?cb=20221211044448&path-prefix=vi" group-title="VTVCab",ON BIBI
+https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/BIBI/sc-gaFEAQ/v2_index.m3u8
+#EXTINF:-1 tvg-id="oninfotv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi" group-title="VTVCab",ON Info TV
+https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/INFO_TV/sc-gaFEAQ/v2_index.m3u8
+#EXTINF:-1 tvg-id="onvfamily" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/ON_VFamily_logo_15-05-2023.png/revision/latest/scale-to-width-down/200?cb=20231223142641&path-prefix=vi" group-title="VTVCab",ON VFamily
+https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/VFAMILY/sc-gaFEAQ/v2_index.m3u8
+#EXTINF:-1 tvg-id="onkids" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/ON_Kids_logo.png/revision/latest?cb=20221221112957&path-prefix=vi" group-title="VTVCab",ON kids
+https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/BIBI_PLUS_clear/sc-gaFEAQ/v2_index.m3u8
+#EXTINF:-1 tvg-id="onlife" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/ON_Life.png/revision/latest/scale-to-width-down/1200?cb=20221211044714&path-prefix=vi" group-title="VTVCab",ON Life
+https://live.tvon.vn/s4/hls/vtvcab22/index.m3u8
+#EXTINF:-1 tvg-id="htv7" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/HTV7_logo_ph%E1%BB%A5_12-02-2025.png/revision/latest/scale-to-width-down/220?cb=20260115081301&path-prefix=vi" group-title="HTV",HTV7
+https://live.tvon.vn/s2/abr_hls/htv7/720p.m3u8
+#EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/KTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260104081252&path-prefix=vi" group-title="Địa Phương",KTV Khánh Hòa
+https://vtvgolive-ott4.vtvdigital.vn/live/khanhhoatv/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/56/TTV_Thanh_H%C3%B3a.png/revision/latest?cb=20180718183027&path-prefix=vi" group-title="Địa Phương",TTV Thanh Hóa
+https://liveh12.vtvprime.vn/hls/THANHHOATV/03.m3u8
