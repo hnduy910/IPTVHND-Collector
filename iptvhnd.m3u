@@ -66715,5 +66715,8 @@ http://109.169.87.42:8080/stream/30/index.m3u8
 http://109.169.87.42:8080/stream/2/index.m3u8
 #EXTINF:-1,Vietnam War Rock
 https://stream.zeno.fm/g91qxch7gv8uv
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1,VietNam
+https://stream.zeno.fm/2141ytrbn48uv
+#EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=WMJAYoqwTs1vZtvaRRmiVA&e=2094383690&scheme=https
