@@ -5243,3 +5243,11 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/486e22f990a
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/486e22f990a220be10163080e2b31e79da6358eb/zeno.fm/Vietnam.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/486e22f990a220be10163080e2b31e79da6358eb/zeno.fm/checked/Vietnam.m3u
 https://raw.githubusercontent.com/yyyr-otz/iptv-api/d39a340415e39abb4416ef40ae01878f2a69f25c/output/log/subscribe/https_raw.githubusercontent.com_best-fan_iptv-sources_main_cn_all_status.m3u8.txt
+https://raw.githubusercontent.com/KimShenGod/live/4687ae4ca04215c56c24bb17b7a7066726e4856e/iptv.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/4cccdf3d123da300f2dabb6d6f43c0599317df11/iptv.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/795e3554b775b9b4fa6a167a11ed4475c408abc0/streams/fr.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/795e3554b775b9b4fa6a167a11ed4475c408abc0/streams/in.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/9e8fd007a10e0f08af3f59dd0cb9ee1957605fab/UDPTV.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/1bd18d19340ae83f353594692d70fbe2bd704107/IPTV/fr.m3u
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/1bd18d19340ae83f353594692d70fbe2bd704107/IPTV/tw.m3u
+https://raw.githubusercontent.com/thamanyambity-svg/aonoseke-iptv/ef887d6f5ea4edf2f07a316792e540cf63aa5e7a/public/playlist.iptv.m3u
