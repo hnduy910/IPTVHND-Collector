@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "collector_version": "1.12",
-  "updated_at_utc": "2026-11-12T08:24:12.205773+00:00",
+  "updated_at_utc": "2026-11-12T20:47:37.660097+00:00",
   "sources": {
-    "total": 5337,
-    "ok": 5337,
+    "total": 5364,
+    "ok": 5364,
     "failed": 0,
-    "newly_discovered": 17,
+    "newly_discovered": 27,
     "removed_after_failure_threshold": 0
   },
   "archive": {
-    "total_tv_video_urls": 27946,
-    "total_urls": 27946,
-    "new_urls": 99,
-    "radio_audio_only_rejected": 1539543,
-    "radio_audio_only_removed": 81,
-    "vietnam": 8156,
+    "total_tv_video_urls": 27945,
+    "total_urls": 27945,
+    "new_urls": 81,
+    "radio_audio_only_rejected": 1542917,
+    "radio_audio_only_removed": 82,
+    "vietnam": 8155,
     "movies": 3132,
     "football": 4570,
     "sports": 4570,
@@ -39,7 +39,7 @@
       "dak lak": 32,
       "dak nong": 14,
       "dien bien": 37,
-      "dong nai": 115,
+      "dong nai": 118,
       "dong thap": 77,
       "gia lai": 35,
       "ha giang": 27,
@@ -51,7 +51,7 @@
       "hau giang": 28,
       "ho chi minh": 9,
       "hoa binh": 27,
-      "hue": 41,
+      "hue": 40,
       "hung yen": 46,
       "khanh hoa": 52,
       "kien giang": 28,
@@ -61,7 +61,7 @@
       "lang son": 38,
       "lao cai": 38,
       "long an": 25,
-      "nam dinh": 23,
+      "nam dinh": 20,
       "nghe an": 37,
       "ninh binh": 49,
       "ninh thuan": 23,
@@ -92,39 +92,39 @@
       "thvl": 173,
       "vtc": 524,
       "sctv": 1190,
-      "vietnam_local": 2543,
+      "vietnam_local": 2542,
       "vietnam_other": 921,
       "international_movies": 3017,
       "international_football": 4532
     }
   },
   "live": {
-    "total_tv_video_urls": 1022,
-    "total_urls": 1022,
-    "vietnam": 948,
-    "football": 25,
-    "movies": 60,
-    "sports": 25,
+    "total_tv_video_urls": 1013,
+    "total_urls": 1013,
+    "vietnam": 955,
+    "football": 18,
+    "movies": 51,
+    "sports": 18,
     "groups": {
-      "vtv": 196,
-      "htv": 108,
-      "thvl": 20,
+      "vtv": 194,
+      "htv": 110,
+      "thvl": 21,
       "vtc": 18,
-      "sctv": 83,
-      "vietnam_local": 418,
+      "sctv": 88,
+      "vietnam_local": 419,
       "vietnam_other": 105,
-      "international_movies": 49,
-      "international_football": 25
+      "international_movies": 40,
+      "international_football": 18
     },
     "playlists": {
-      "iptvhnd-vietnam-live.m3u": 948,
-      "iptvhnd-football-live.m3u": 25,
-      "iptvhnd-movies-live.m3u": 60
+      "iptvhnd-vietnam-live.m3u": 955,
+      "iptvhnd-football-live.m3u": 18,
+      "iptvhnd-movies-live.m3u": 51
     }
   },
   "vietnam": {
-    "archive": 8156,
-    "live": 948,
+    "archive": 8155,
+    "live": 955,
     "localities_detected": 64,
     "by_locality": {
       "an giang": 59,
@@ -145,7 +145,7 @@
       "dak lak": 32,
       "dak nong": 14,
       "dien bien": 37,
-      "dong nai": 115,
+      "dong nai": 118,
       "dong thap": 77,
       "gia lai": 35,
       "ha giang": 27,
@@ -157,7 +157,7 @@
       "hau giang": 28,
       "ho chi minh": 9,
       "hoa binh": 27,
-      "hue": 41,
+      "hue": 40,
       "hung yen": 46,
       "khanh hoa": 52,
       "kien giang": 28,
@@ -167,7 +167,7 @@
       "lang son": 38,
       "lao cai": 38,
       "long an": 25,
-      "nam dinh": 23,
+      "nam dinh": 20,
       "nghe an": 37,
       "ninh binh": 49,
       "ninh thuan": 23,
@@ -195,15 +195,15 @@
     "groups": {
       "VTV": {
         "archive": 1847,
-        "live": 196
+        "live": 194
       },
       "HTV/HTVC": {
         "archive": 850,
-        "live": 85
+        "live": 88
       },
       "THVL": {
         "archive": 175,
-        "live": 14
+        "live": 15
       },
       "VTC": {
         "archive": 415,
@@ -211,15 +211,15 @@
       },
       "SCTV": {
         "archive": 1082,
-        "live": 79
+        "live": 84
       },
       "VTVcab/ON": {
         "archive": 67,
-        "live": 16
+        "live": 15
       },
       "Vietnam local": {
-        "archive": 2495,
-        "live": 418
+        "archive": 2494,
+        "live": 419
       },
       "Vietnam other": {
         "archive": 1225,
@@ -229,78 +229,78 @@
     "health": {
       "candidates": 8191,
       "checked": 7227,
-      "live": 948,
-      "dead": 5088,
-      "timeout": 1156,
+      "live": 955,
+      "dead": 5118,
+      "timeout": 1118,
       "unsupported": 964,
-      "audio_only_rejected": 35,
+      "audio_only_rejected": 36,
       "resolution_rejected": 0,
       "resolution_unknown": 0,
-      "live_rate_percent": 13.12
+      "live_rate_percent": 13.21
     }
   },
   "football": {
     "archive": 4570,
-    "live": 25,
+    "live": 18,
     "candidates": 4616,
     "checked": 4578,
-    "dead": 3500,
-    "timeout": 792,
+    "dead": 3487,
+    "timeout": 797,
     "unsupported": 38,
     "audio_only_rejected": 46,
-    "resolution_rejected": 34,
-    "resolution_unknown": 181,
-    "live_rate_percent": 0.55
+    "resolution_rejected": 40,
+    "resolution_unknown": 190,
+    "live_rate_percent": 0.39
   },
   "movies": {
     "archive": 3132,
-    "live": 60,
+    "live": 51,
     "candidates": 3132,
     "checked": 3055,
-    "dead": 2041,
-    "timeout": 744,
+    "dead": 2091,
+    "timeout": 732,
     "unsupported": 77,
     "audio_only_rejected": 0,
-    "resolution_rejected": 21,
-    "resolution_unknown": 189,
-    "live_rate_percent": 1.96
+    "resolution_rejected": 22,
+    "resolution_unknown": 159,
+    "live_rate_percent": 1.67
   },
   "health": {
     "vietnam": {
       "candidates": 8191,
       "checked": 7227,
-      "live": 948,
-      "dead": 5088,
-      "timeout": 1156,
+      "live": 955,
+      "dead": 5118,
+      "timeout": 1118,
       "unsupported": 964,
-      "audio_only_rejected": 35,
+      "audio_only_rejected": 36,
       "resolution_rejected": 0,
       "resolution_unknown": 0,
-      "live_rate_percent": 13.12
+      "live_rate_percent": 13.21
     },
     "football": {
       "candidates": 4616,
       "checked": 4578,
-      "live": 25,
-      "dead": 3500,
-      "timeout": 792,
+      "live": 18,
+      "dead": 3487,
+      "timeout": 797,
       "unsupported": 38,
       "audio_only_rejected": 46,
-      "resolution_rejected": 34,
-      "resolution_unknown": 181,
-      "live_rate_percent": 0.55
+      "resolution_rejected": 40,
+      "resolution_unknown": 190,
+      "live_rate_percent": 0.39
     },
     "movies": {
       "candidates": 3132,
       "checked": 3055,
-      "live": 60,
-      "dead": 2041,
-      "timeout": 744,
+      "live": 51,
+      "dead": 2091,
+      "timeout": 732,
       "unsupported": 77,
       "audio_only_rejected": 0,
-      "resolution_rejected": 21,
-      "resolution_unknown": 189,
-      "live_rate_percent": 1.96
+      "resolution_rejected": 22,
+      "resolution_unknown": 159,
+      "live_rate_percent": 1.67
     }
   }
 }
