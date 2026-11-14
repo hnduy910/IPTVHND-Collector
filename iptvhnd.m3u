@@ -622,6 +622,8 @@
 #PLAYLIST-STUDIO-CATEGORIES:["Bangladesh", "Indian Bangla", "Indian Movies", "Indian Music", "Indian Entertainment", "Pakistani", "International", "Documentary & Wildlife", "Kids", "Religious", "Sports", "Backup", "Review", "New Channels", "New Backups"]
 #DATE: 2026-11-09 14:09:28
 #EXTM3U tvg-updated="2026-11-14T05:55:52+00:00"
+#EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
+# Generated: 2025-08-12T13:59:20.684912+00:00 UTC
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -66287,8 +66289,6 @@ http://46.244.99.71:8181/stream/35/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/AXN_White_logo_%282015%29.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Series",AXN White (Germany)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://46.244.99.71:8181/stream/50/index.m3u8
-#EXTINF:-1,HTV Se Pone Bueno
-https://stream.zeno.fm/ieagybudukavv
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png" group-title="REGIONALES",VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX MOVIES HD
@@ -66763,8 +66763,6 @@ http://193.47.62.41/hls/CCCCX.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http
 http://193.47.62.41/hls/CCCCXA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-chno="320" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Toledo vs Massachusetts (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Toledo vs Massachusetts (FAWA)
 http://193.47.62.41/hls/CCCCXAA.m3u8|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
 #EXTINF:-1,Vietnam War Rock
 https://stream.zeno.fm/g91qxch7gv8uv
 #EXTINF:-1 tvg-chno="254" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Guatemala vs Canada (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="Live Events",[CONCACAF Nations League] Guatemala vs Canada (FAWA)
@@ -66831,3 +66829,572 @@ http://193.47.62.41/hls/goooaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/goooaaaQQAA.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Miami Hurricanes vs Duke Blue Devils (DAM)" tvg-logo="/img/cards/college-football/401858296.jpg?v=nf2nf" group-title="Football",[NCAA - Football] Miami Hurricanes vs Duke Blue Devils (DAM)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=espn-401858296
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=espn-401858296
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/duke-mia/playlist.m3u8?tk=snmVdfmEg0RwYmUAoCoCUQ&e=1794717086
+#EXTINF:-1 tvg-chno="2" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] SMU Mustangs vs Wake Forest Demon Deacons (DAM)" tvg-logo="/img/cards/college-football/401858301.jpg?v=nf2nf" group-title="Football",[NCAA - Football] SMU Mustangs vs Wake Forest Demon Deacons (DAM)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=espn-401858301
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=espn-401858301
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/wake-smu/playlist.m3u8?tk=snmVdfmEg0RwYmUAoCoCUQ&e=1794717086
+#EXTINF:-1 tvg-chno="3" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Ohio State Buckeyes vs Northwestern Wildcats (DAM)" tvg-logo="/img/cards/college-football/401858522.jpg?v=nf2nf" group-title="Football",[NCAA - Football] Ohio State Buckeyes vs Northwestern Wildcats (DAM)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=espn-401858522
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=espn-401858522
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/nu-osu/playlist.m3u8?tk=mM_vB0C15buJinmQUgyB4A&e=1794717087
+#EXTINF:-1 tvg-chno="4" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Clemson Tigers vs Georgia Tech Yellow Jackets (DAM)" tvg-logo="/img/cards/college-football/401858297.jpg?v=nf2nf" group-title="Football",[NCAA - Football] Clemson Tigers vs Georgia Tech Yellow Jackets (DAM)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=espn-401858297
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=espn-401858297
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/miz-uga/playlist.m3u8?tk=ld7a7LiQuXqb_8t3Z1B1vQ&e=1794717089
+#EXTINF:-1 tvg-chno="221" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Colorado Buffaloes vs Houston Cougars (DAMITV)" tvg-logo="https://damitv.st/img/cards/college-football/401856860.jpg?v=nf2nf" group-title="Live Events",[NCAA - Football] Colorado Buffaloes vs Houston Cougars (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401856860
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-11-13/hou-colo/playlist.m3u8?tk=0mmRjXHQIAqO2v2eLtaVFQ&e=1794668407
+#EXTINF:-1 tvg-chno="193" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Uganda vs Botswana 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Uganda vs Botswana 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/bbbbAAAA.m3u8
+#EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Uganda vs Botswana 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Uganda vs Botswana 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/p-d63c89d1469d40618905a319561b159e.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-id="Soccer.Dummy.us" tvg-name="[CLUB FRIENDLY] First Vienna FC 1894 vs SV Josko Ried | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[CLUB FRIENDLY] First Vienna FC 1894 vs SV Josko Ried | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401933778
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edge1.candyshop.st/live/tv401933778/master.m3u8?st=yW-XQ7jd5PigsCVCr8_BMA&e=1794682813
+#EXTINF:-1 tvg-chno="217" tvg-id="Soccer.Dummy.us" tvg-name="[CLUB FRIENDLY] Gimnasia La Plata vs River Plate | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[CLUB FRIENDLY] Gimnasia La Plata vs River Plate | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401933807
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edge1.candyshop.st/live/tv401933807/master.m3u8?st=2oEhuvCvM3UnQCTF3VLrkg&e=1794682812
+#EXTINF:-1 tvg-chno="218" tvg-id="Soccer.Dummy.us" tvg-name="[CLUB FRIENDLY] Partizan Belgrade vs PAOK | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[CLUB FRIENDLY] Partizan Belgrade vs PAOK | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401933957
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edge.candyshop.st/live/tv401933957/master.m3u8?st=GyijZUGrmaKusF8eiNFINg&e=1794682815
+#EXTINF:-1 tvg-chno="235" tvg-id="Soccer.Dummy.us" tvg-name="[Croatia Cup] Bijelo Brdo vs Gorica (FAWA)" tvg-logo="https://i.namu.wiki/i/Q2gFvFO95Ha6BKa4rforqTUPD3-ZZD67-VUclDb108PIg5B4qGecDqAchIj9QxU3N1PyyidqEu5zcb2rdJ75Ww.webp" group-title="Live Events",[Croatia Cup] Bijelo Brdo vs Gorica (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KUUU.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-id="Soccer.Dummy.us" tvg-name="[Croatia Cup] Rudes vs Segesta (FAWA)" tvg-logo="https://i.namu.wiki/i/Q2gFvFO95Ha6BKa4rforqTUPD3-ZZD67-VUclDb108PIg5B4qGecDqAchIj9QxU3N1PyyidqEu5zcb2rdJ75Ww.webp" group-title="Live Events",[Croatia Cup] Rudes vs Segesta (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/BEEEAXX.m3u8
+#EXTINF:-1 tvg-chno="238" tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eerste Divisie] NAC Breda vs FC Emmen (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Live Events",[Dutch Eerste Divisie] NAC Breda vs FC Emmen (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/bbbb.m3u8
+#EXTINF:-1 tvg-chno="281" tvg-id="Soccer.Dummy.us" tvg-name="[English League One] AFC Wimbledon vs Blackpool (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/25.png" group-title="Live Events",[English League One] AFC Wimbledon vs Blackpool (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000AAAAAQQQQ.m3u8
+#EXTINF:-1 tvg-chno="282" tvg-id="Soccer.Dummy.us" tvg-name="[English League One] MK Dons vs Burton (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/25.png" group-title="Live Events",[English League One] MK Dons vs Burton (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/Y777.m3u8
+#EXTINF:-1 tvg-chno="283" tvg-id="Soccer.Dummy.us" tvg-name="[English League One] Sheffield Wednesday vs Plymouth (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/25.png" group-title="Live Events",[English League One] Sheffield Wednesday vs Plymouth (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/Y777A.m3u8
+#EXTINF:-1 tvg-chno="284" tvg-id="Soccer.Dummy.us" tvg-name="[English League One] Stockport County vs Reading (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/25.png" group-title="Live Events",[English League One] Stockport County vs Reading (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/Y777AA.m3u8
+#EXTINF:-1 tvg-chno="285" tvg-id="Soccer.Dummy.us" tvg-name="[English League One] Wigan vs Barnsley (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/25.png" group-title="Live Events",[English League One] Wigan vs Barnsley (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/Y777AAA.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Bristol Rovers vs Chesterfield (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Bristol Rovers vs Chesterfield (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Colchester vs Gillingham (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Colchester vs Gillingham (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000A.m3u8
+#EXTINF:-1 tvg-chno="288" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Crewe vs Newport (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Crewe vs Newport (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000AA.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Exeter vs Cheltenham (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Exeter vs Cheltenham (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KUUUAAAA.m3u8
+#EXTINF:-1 tvg-chno="290" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Fleetwood vs Tranmere (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Fleetwood vs Tranmere (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000AAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="291" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Port Vale vs Accrington (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Port Vale vs Accrington (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000AAA.m3u8
+#EXTINF:-1 tvg-chno="292" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Rochdale vs York City (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Rochdale vs York City (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000AAAA.m3u8
+#EXTINF:-1 tvg-chno="293" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Salford vs Northampton (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Salford vs Northampton (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000AAAAA.m3u8
+#EXTINF:-1 tvg-chno="294" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Shrewsbury vs Oldham (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Shrewsbury vs Oldham (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000AAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="295" tvg-id="Soccer.Dummy.us" tvg-name="[English League Two] Swindon vs Grimsby (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" group-title="Live Events",[English League Two] Swindon vs Grimsby (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/T000AAAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="296" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Carlisle vs Boston Utd (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Carlisle vs Boston Utd (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMM.m3u8
+#EXTINF:-1 tvg-chno="297" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Eastleigh vs AFC Fylde (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Eastleigh vs AFC Fylde (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMA.m3u8
+#EXTINF:-1 tvg-chno="298" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Gateshead vs Barrow (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Gateshead vs Barrow (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMAA.m3u8
+#EXTINF:-1 tvg-chno="299" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Harrogate vs Altrincham (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Harrogate vs Altrincham (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMAAA.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Hartlepool vs Wealdstone (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Hartlepool vs Wealdstone (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMAAAA.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Hornchurch vs Tamworth (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Hornchurch vs Tamworth (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Kidderminster vs FC Halifax (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Kidderminster vs FC Halifax (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Scunthorpe vs Worthing (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Scunthorpe vs Worthing (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMAAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="304" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Southend vs Aldershot (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Southend vs Aldershot (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMAAAAQQQQ.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Sutton vs Solihull Moors (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Sutton vs Solihull Moors (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMAAAAQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Yeovil vs Boreham Wood (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live Events",[English National League] Yeovil vs Boreham Wood (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/MMMMAAAAQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-id="Soccer.Dummy.us" tvg-name="[English Women Super League] Brighton W vs Liverpool W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2314.png" group-title="Live Events",[English Women Super League] Brighton W vs Liverpool W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/VVVVAAAAAQAAA.m3u8
+#EXTINF:-1 tvg-chno="308" tvg-id="Soccer.Dummy.us" tvg-name="[English Women Super League] Chelsea W vs Manchester City W 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2314.png" group-title="Live Events",[English Women Super League] Chelsea W vs Manchester City W 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/BEEEAAAAAA.m3u8
+#EXTINF:-1 tvg-chno="309" tvg-id="Soccer.Dummy.us" tvg-name="[English Women Super League] Manchester Utd W vs Crystal Palace W 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2314.png" group-title="Live Events",[English Women Super League] Manchester Utd W vs Crystal Palace W 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KUUUAAAAA.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-id="Soccer.Dummy.us" tvg-name="[English Women Super League] Manchester Utd W vs Crystal Palace W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2314.png" group-title="Live Events",[English Women Super League] Manchester Utd W vs Crystal Palace W 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/p-da7c4d81095e47078b1a0757ee41e04e.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-id="Soccer.Dummy.us" tvg-name="[English Women Super League] Tottenham W vs Everton W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2314.png" group-title="Live Events",[English Women Super League] Tottenham W vs Everton W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/R777AAAQQQQ.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-id="Soccer.Dummy.us" tvg-name="[English Women Super League] Tottenham W vs Everton W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2314.png" group-title="Live Events",[English Women Super League] Tottenham W vs Everton W 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/p-891989e8374d423ba59bccd8eaeafb85.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Iran vs Palestine | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[FIFA FRIENDLY] Iran vs Palestine | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401932237
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edge.candyshop.st/live/tv401932237/master.m3u8?st=vXXmrBLJIs3QGOks7Gtxhw&e=1794679226
+#EXTINF:-1 tvg-chno="349" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] China vs Malaysia 1 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] China vs Malaysia 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KUUUA.m3u8
+#EXTINF:-1 tvg-chno="350" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] China vs Malaysia 2 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] China vs Malaysia 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/p-4511b05100cd4a61877e8082f36bc56a.m3u8
+#EXTINF:-1 tvg-chno="351" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Chinese Taipei vs Kyrgyzstan (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] Chinese Taipei vs Kyrgyzstan (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KUUUAA.m3u8
+#EXTINF:-1 tvg-chno="352" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Palestine vs Iran (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] Palestine vs Iran (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/BEEEAA.m3u8
+#EXTINF:-1 tvg-chno="353" tvg-id="Soccer.Dummy.us" tvg-name="[German Women Bundesliga] Werder Bremen W vs Union Berlin W (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/e/e4/2._Frauen-Bundesliga_Logo.svg/960px-2._Frauen-Bundesliga_Logo.svg.png" group-title="Live Events",[German Women Bundesliga] Werder Bremen W vs Union Berlin W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/BEEE.m3u8
+#EXTINF:-1 tvg-chno="354" tvg-id="Soccer.Dummy.us" tvg-name="[German Women Bundesliga] Wolfsburg W vs Bayern Munich W (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/e/e4/2._Frauen-Bundesliga_Logo.svg/960px-2._Frauen-Bundesliga_Logo.svg.png" group-title="Live Events",[German Women Bundesliga] Wolfsburg W vs Bayern Munich W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/LLLLAA.m3u8
+#EXTINF:-1 tvg-chno="361" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Women Serie A] Fiorentina W vs Lazio W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italy Women Serie A] Fiorentina W vs Lazio W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/VVVVAAAAAQAA.m3u8
+#EXTINF:-1 tvg-chno="362" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Women Serie A] Napoli W vs AC Milan W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italy Women Serie A] Napoli W vs AC Milan W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/OOOOAAA.m3u8
+#EXTINF:-1 tvg-chno="526" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Clemson Tigers vs Georgia Tech Yellow Jackets (DAMITV)" tvg-logo="https://damitv.st/img/cards/college-football/401858297.jpg?v=nf2nf" group-title="Live Events",[NCAA - Football] Clemson Tigers vs Georgia Tech Yellow Jackets (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401858297
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/miz-uga/playlist.m3u8?tk=td3wl5qYAxCNewHV6d9-7A&e=1794718812
+#EXTINF:-1 tvg-chno="527" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Miami Hurricanes vs Duke Blue Devils (DAMITV)" tvg-logo="https://damitv.st/img/cards/college-football/401858296.jpg?v=nf2nf" group-title="Live Events",[NCAA - Football] Miami Hurricanes vs Duke Blue Devils (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401858296
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/duke-mia/playlist.m3u8?tk=1kV_wPeZSkoWm2gMFUe8Dw&e=1794718810
+#EXTINF:-1 tvg-chno="528" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Ohio State Buckeyes vs Northwestern Wildcats (DAMITV)" tvg-logo="https://damitv.st/img/cards/college-football/401858522.jpg?v=nf2nf" group-title="Live Events",[NCAA - Football] Ohio State Buckeyes vs Northwestern Wildcats (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401858522
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/nu-osu/playlist.m3u8?tk=rli5av20mUYHHxybjZOlug&e=1794718811
+#EXTINF:-1 tvg-chno="529" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] SMU Mustangs vs Wake Forest Demon Deacons (DAMITV)" tvg-logo="https://damitv.st/img/cards/college-football/401858301.jpg?v=nf2nf" group-title="Live Events",[NCAA - Football] SMU Mustangs vs Wake Forest Demon Deacons (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401858301
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/wake-smu/playlist.m3u8?tk=1kV_wPeZSkoWm2gMFUe8Dw&e=1794718810
+#EXTINF:-1 tvg-chno="530" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Clemson vs Georgia Tech (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Clemson vs Georgia Tech (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVAAAAQQQQ.m3u8
+#EXTINF:-1 tvg-chno="531" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Connecticut vs James Madison (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Connecticut vs James Madison (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVV.m3u8
+#EXTINF:-1 tvg-chno="532" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Iowa State vs Cincinnati Bearcats (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Iowa State vs Cincinnati Bearcats (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVA.m3u8
+#EXTINF:-1 tvg-chno="533" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Maryland vs Wisconsin (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Maryland vs Wisconsin (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVAA.m3u8
+#EXTINF:-1 tvg-chno="534" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Miami FL vs Duke (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Miami FL vs Duke (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVAAA.m3u8
+#EXTINF:-1 tvg-chno="535" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Mississippi vs St Auburn (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Mississippi vs St Auburn (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVAAAA.m3u8
+#EXTINF:-1 tvg-chno="536" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] North Carolina State vs Syracuse (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] North Carolina State vs Syracuse (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="537" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Ohio State vs Northwestern (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Ohio State vs Northwestern (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="538" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Rutgers vs Nebraska (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Rutgers vs Nebraska (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVAAAAQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="539" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Southern Methodist vs Wake Forest (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Southern Methodist vs Wake Forest (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVAAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="540" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Vanderbilt vs Alabama (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Vanderbilt vs Alabama (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DVVVAAAAQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="606" tvg-id="Soccer.Dummy.us" tvg-name="[Scottish Championship] Ayr United vs Raith (FAWA)" tvg-logo="https://images.seeklogo.com/logo-png/27/2/scottish-championship-logo-png_seeklogo-277105.png" group-title="Live Events",[Scottish Championship] Ayr United vs Raith (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/R777.m3u8
+#EXTINF:-1 tvg-chno="607" tvg-id="Soccer.Dummy.us" tvg-name="[Scottish Championship] Livingston vs Morton (FAWA)" tvg-logo="https://images.seeklogo.com/logo-png/27/2/scottish-championship-logo-png_seeklogo-277105.png" group-title="Live Events",[Scottish Championship] Livingston vs Morton (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/R777A.m3u8
+#EXTINF:-1 tvg-chno="608" tvg-id="Soccer.Dummy.us" tvg-name="[Scottish Championship] Partick Thistle vs Inverness (FAWA)" tvg-logo="https://images.seeklogo.com/logo-png/27/2/scottish-championship-logo-png_seeklogo-277105.png" group-title="Live Events",[Scottish Championship] Partick Thistle vs Inverness (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/R777AA.m3u8
+#EXTINF:-1 tvg-chno="609" tvg-id="Soccer.Dummy.us" tvg-name="[Scottish Championship] Stenhousemuir vs Queens Park (FAWA)" tvg-logo="https://images.seeklogo.com/logo-png/27/2/scottish-championship-logo-png_seeklogo-277105.png" group-title="Live Events",[Scottish Championship] Stenhousemuir vs Queens Park (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/R777AAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="611" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Liga F Women] Alaves W vs Eibar W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish Liga F Women] Alaves W vs Eibar W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/VVVVAAAAAQA.m3u8
+#EXTINF:-1 tvg-chno="612" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Almeria vs Andorra (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Live Events",[Spanish Segunda Liga] Almeria vs Andorra (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/VVVVAAAAAQAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="613" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Mallorca vs Cordoba (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Live Events",[Spanish Segunda Liga] Mallorca vs Cordoba (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/VVVVAAAAAQAAAQ.m3u8
+#EXTINF:-1 tvg-chno="614" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Real Sociedad B vs Gijon (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Live Events",[Spanish Segunda Liga] Real Sociedad B vs Gijon (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/BEEEAAAAA.m3u8
+#EXTINF:-1 tvg-chno="627" tvg-id="Soccer.Dummy.us" tvg-name="[UAE League Cup] Al Dhafra vs Ajman (FAWA)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/4wr6ey1787938819.png" group-title="Live Events",[UAE League Cup] Al Dhafra vs Ajman (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KUUUAAAAAA.m3u8
+#EXTINF:-1 tvg-chno="628" tvg-id="Soccer.Dummy.us" tvg-name="[UAE League Cup] Al Wasl vs Al Nasr (FAWA)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/4wr6ey1787938819.png" group-title="Live Events",[UAE League Cup] Al Wasl vs Al Nasr (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/bbbbAA.m3u8
+#EXTINF:-1 tvg-chno="629" tvg-id="Soccer.Dummy.us" tvg-name="[UAE League Cup] Hatta vs Al Ain (FAWA)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/4wr6ey1787938819.png" group-title="Live Events",[UAE League Cup] Hatta vs Al Ain (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/bbbbAAA.m3u8
+#EXTINF:-1 tvg-chno="630" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA NATIONS] Israel vs Kosovo | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA NATIONS] Israel vs Kosovo | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401861163
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edge2.candyshop.st/live/tv401861163/master.m3u8?st=txks15IUuxpttVUmtK6G5g&e=1794686413
+#EXTINF:-1 tvg-chno="631" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Georgia vs Hungary (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/p14cf51786994466.jpg" group-title="Live Events",[UEFA Nations League] Georgia vs Hungary (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-4256e37ae4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-11-14/geo-hun/playlist.m3u8?tk=rli5av20mUYHHxybjZOlug&e=1794718811
+#EXTINF:-1 tvg-chno="632" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Georgia vs Hungary 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Georgia vs Hungary 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/PPPP.m3u8
+#EXTINF:-1 tvg-chno="633" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Georgia vs Hungary 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Georgia vs Hungary 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/p-fec29b5ecce748a0a9260937bde1530f.m3u8
+#EXTINF:-1 tvg-chno="637" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Israel vs Kosovo (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_israel-vs-kosovo_Israel_vs_Kosovo" group-title="Live Events",[UEFA Nations League] Israel vs Kosovo (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-externalcdn/israel-vs-kosovo1080p/index.m3u8?_e=1794697205&_n=5ca040615c8d8983&_t=eluMEHZl7Lni8O7srxpnUQ
+#EXTINF:-1 tvg-chno="638" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Kosovo vs Israel 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Kosovo vs Israel 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/p-0e9196792b97416bb74cc911cf1e9e85.m3u8
+#EXTINF:-1 tvg-chno="649" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Norway vs Wales (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/gewg9o1786994465.jpg" group-title="Live Events",[UEFA Nations League] Norway vs Wales (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-d2bad6cfee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-11-14/nor-wal/playlist.m3u8?tk=rli5av20mUYHHxybjZOlug&e=1794718811
+#EXTINF:-1 tvg-chno="650" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Norway vs Wales 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Norway vs Wales 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/PPPPA.m3u8
+#EXTINF:-1 tvg-chno="651" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Norway vs Wales 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Norway vs Wales 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/p-d8baf4c5767d492d943102db9d02b7ca.m3u8
+#EXTINF:-1 tvg-chno="652" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Norway vs Wales | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Live Events",[UEFA Nations League] Norway vs Wales | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://but.futx.nx.kg/nor/index.m3u8
+#EXTINF:-1 tvg-chno="658" tvg-id="Soccer.Dummy.us" tvg-name="[USA NWSL Women] Washington Spirit W vs Utah Royals W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2323.png" group-title="Live Events",[USA NWSL Women] Washington Spirit W vs Utah Royals W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/VVVVAAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="659" tvg-id="Soccer.Dummy.us" tvg-name="[Uruguay Liga AUF] Central Esp vs Boston River (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="Live Events",[Uruguay Liga AUF] Central Esp vs Boston River (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/BEEEAAAA.m3u8
+#EXTINF:-1 tvg-chno="660" tvg-id="Soccer.Dummy.us" tvg-name="[Uzbekistan Super League] Neftchi Fargona vs Bunyodkor (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/uzbekistan/1500x1500/uzbekistan-super-league.d56222d2.png" group-title="Live Events",[Uzbekistan Super League] Neftchi Fargona vs Bunyodkor (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/BEEEA.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Club Friendly : Monza vs Inter (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium20%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League : Benfica vs Nice (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium8%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League : Benfica vs Nice (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium21%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League : Crvena Zvezda vs Lech PoznaÅ„ (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium128%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League : Crvena Zvezda vs Lech PoznaÅ„ (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium561%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League : Crvena Zvezda vs Lech PoznaÅ„ (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium134%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League : Crvena Zvezda vs Lech PoznaÅ„ (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium101%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium308%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium35%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium260%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium38%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium402%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium116%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium223%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium432%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium927%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium10%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium466%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium92%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium85%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Brazil Paulista, Feminino : Corinthians vs FerroviÃ¡ria (Aug 12, 2025 9:00 PM UK / Aug 12, 2025 2:00 PM MT / Aug 12, 2025 4:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium78%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs VÃ©lez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium425%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs VÃ©lez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium372%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs VÃ©lez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium49%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs VÃ©lez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium928%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs VÃ©lez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium81%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs VÃ©lez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium787%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs VÃ©lez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium94%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs VÃ©lez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium92%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs VÃ©lez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium141%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Sudamericana : Once Caldas vs HuracÃ¡n (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium135%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Sudamericana : Once Caldas vs HuracÃ¡n (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium475%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Sudamericana : Once Caldas vs HuracÃ¡n (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium93%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Sudamericana : Once Caldas vs HuracÃ¡n (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium140%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League : Benfica vs Nice (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League : Crvena Zvezda vs Lech Poznań (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://nfsnew.newkso.ru/nfs/premium128/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League : Crvena Zvezda vs Lech Poznań (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://dokko1new.newkso.ru/dokko1/premium561/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://windnew.newkso.ru/wind/premium260/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://ddy6new.newkso.ru/ddy6/premium223/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://nfsnew.newkso.ru/nfs/premium927/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",England - League Cup : Bromley vs Ipswich Town (Aug 12, 2025 7:00 PM UK / Aug 12, 2025 12:00 PM MT / Aug 12, 2025 2:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs Vélez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs Vélez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://zekonew.newkso.ru/zeko/premium372/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs Vélez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs Vélez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://nfsnew.newkso.ru/nfs/premium928/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs Vélez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs Vélez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://windnew.newkso.ru/wind/premium787/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Libertadores : Fortaleza vs Vélez Sarsfield (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Sudamericana : Once Caldas vs Huracán (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://windnew.newkso.ru/wind/premium475/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Sudamericana : Once Caldas vs Huracán (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Copa Sudamericana : Once Caldas vs Huracán (Aug 12, 2025 10:00 PM UK / Aug 12, 2025 3:00 PM MT / Aug 12, 2025 5:00 PM EST)
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
