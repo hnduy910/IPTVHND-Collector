@@ -156,11 +156,11 @@
     "last_check_ok": true
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-kids.m3u": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_check_ok": false
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-music.m3u": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_check_ok": false
   },
   "https://raw.githubusercontent.com/PhatBee/phatbeetv/61d9a3ef6f8aa64b1a8fd162bbf68a4e72f7b129/phatbeetv.m3u": {
@@ -1228,11 +1228,11 @@
     "last_check_ok": true
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-russia.m3u": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_check_ok": false
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-sports.m3u": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_check_ok": false
   },
   "https://raw.githubusercontent.com/Monoloshka/iptv/33aed82c0a5b074c143c038b045b65a11d31deb9/full-iptv.m3u": {
@@ -1796,11 +1796,11 @@
     "last_check_ok": true
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-canada.m3u": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_check_ok": false
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-movies.m3u": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_check_ok": false
   },
   "https://raw.githubusercontent.com/PrattoySaha/IPTV/670ffe6818857befadbec939e1b65219de2322aa/Devilbox.m3u8": {
@@ -22059,85 +22059,9 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/国内.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/推荐.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/网络电视IPTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/boxkim14/m3u8/58834fa72db7bb3b47af38c4e49a8180dd1920bc/vn.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc1.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc10.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc11.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc12.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc13.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc13_4k.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc14.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc16.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc2.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc3.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc4.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc5.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc6.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc7.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc8.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc9.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/judy-gotv/iptv/8511310014b35456e873e3155da28c05d988189c/logo-smart.m3u": {
     "consecutive_failures": 0,
@@ -22195,41 +22119,169 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/kereydoncic/NNNNN/581bfdebced471f966e0cd4167bed8a7b46bbd9f/unapalang v5.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/kereydoncic/iptcccc/dc02309e6a9dc56039334599b5100d3c36ddc51f/salpak v2.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/kilirushi/iptv/69637838302afc77212b867d8cffa3fb5c2371d0/vn copy.m3u": {
-    "consecutive_failures": 2,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/mztian/shanghaiiptv/a2841485091bec2c71888dd108953fe356d89d1b/上海电信可用直播源.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/rivai1/Useetv/0b2b1aa758b61666e32fe95e62d8a3de865248a2/m3u ANE UPDATE SCTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/3cd454403b8c8c222aebc2481817e5a71955a85f/IPTV/CN.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/seedoel/blacklist/704c78def319b78f283ce43a9d006e4ed58fbd3e/SCTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/tushen6/Tomorrow/dd81de11eb9acd959ab87e7da07d16a71957338a/TV/webview.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
+  "https://raw.githubusercontent.com/Avetik1980/youtube_tasks/2fd09da03afc6157387e534a5f847d00eba8ee74/etfs.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/Datghb/dia-chung/2b7d5014497ead5e526daab54ca7e7065e2ff1ad/ask.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/GavinPHR/adventofcode2023/46d2f838cb3d7a0c2172046b3ad2987dc58adc62/25.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/JuTemp/unregistered-three-letter-im-domain-name/cbe743d317b1a06fd2007579863775e125013dbf/v--.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/KimShenGod/live/b8cacccbc002a6bbf4c83e672832dfc37285a0c9/iptv.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/MyoMyanmarTV/myo.github.io/dad387614cbd2a0385a091f1942dd13655f2c97b/iptv.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/Shadmanislam/bdiptv/5bb712d37ac0acb227b8d1ba3cbfc480a1cf0127/BD IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/TseIvan/AdventOfCode2019/e1749eeed59f9509311c76046c4fe852a9211ef1/day6.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/aaron1729/advent-of-code-2022/9abd911e7feac64a4dc5ba33e7a26948f24e37e0/7.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/alochym01/script/cde31b77ac87f0c7291528150212fdc3f609e92d/vtv.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/bibliotechy/dirty-poetry/1575f4c46c0f6a1d94dd491fa278594812d1265a/5k.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/binout/aoc_2023/aa51b26327772dbbff58ee120de5e8071fc78782/day8.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/djazorean/TV-PORTUGUESA/003726495c0542ceacf290c19a7fe98561e936c6/movies.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/dynos01/DomainScanningTool/f0a12cafddd4a6c205b4411fa119cf72b2023556/LLL.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/hanfu2022/StableTV/e6dbbcb9727f0c81a266e761fd41dd68e4cadba7/ture.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/insidetrust/statistically-likely-usernames/31132bd5da19787152a354e6adad18b2c8432e73/jjs.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/iptv-list/VOD/a4092d1aa2359f20477e35ecb6f96f4d558ad459/movies.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/jayfoad/aoc2019apl/1023ee01cf8dd21d977aa10d9002059822c2edb6/p6.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/jube/adventofcode2023/5af1a2c078ebb926fc0d2f23be1f18cc424a30f8/08.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/88c66aea5e420bef10fee69f7249169ff0f0911c/UDPTV.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/markgorrr/live/91c6f83ae0d4b687d9f3d33d007b4f5d57ee3256/smt.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/mayaxcn/getM3U8/13b92cda528868d507a5cec25be2a343c2e9bc4b/tv.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/mehedihasandipu31/Mehediiptv/ad8dd3cd1fbce8740a0b12dd9b6dbabf4f5a6a9b/Iptv.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/mwcolem/grabtable/371c56d06888ca3cdae47bc4eba54d10571073ff/etfs.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/namlh2/resources/06760803ddd5c0b358e29465b2bf0ae4aa213323/news.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/niltsh/mplayer-for-MPlayerX/c94acce6564ac519082f5d2174435da340bf9ad9/32.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/niltsh/mplayer-for-MPlayerX/c94acce6564ac519082f5d2174435da340bf9ad9/64.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/richardplatel/aoc-2023/4cb67f11c848430b5e57941b9817a45cd4e5a960/25.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/sacrom-wongbe/compounding-focus-finance-tooling/bf2d2bf299eec9da70b0d261e39aa31ee5e95175/Top.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/spossner/adventofcode-2023/734306d16231654647aad4c46f0e97cdb2488521/08.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/spyc0/spyc0.github.io/b1043530462af6a09208c724b305db85b29f1879/iptv/hbo.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/varnit-mittal/ZinglerBot/b89e996b7e420c28aadf88afc3e9ef1cd422084f/sym.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vraomoturi/smartiptv-playlist/e5db46abf94f4f8b510fd60791d5d80284ccec0d/BD IPTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/xptiz/imgbox/4c88ed972f31c1ae6ef893638a49be83bff123c8/aba.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/xz/lists/b127cdf187fe08897f9b7792daa8c2c730ff41c8/ccc.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/xz/lists/b127cdf187fe08897f9b7792daa8c2c730ff41c8/lll.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/yelongshen/biglearn-dssm/933b860d2051c6524b341b437ba8b76fd3fc0b59/l3g.txt": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/yifai/IPTV/85d976cda6cef28d0120017b6e4acd08744d7736/iptv.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
   "__meta__": {
-    "query_cursor": 12,
-    "newly_discovered_sources": 18,
+    "query_cursor": 20,
+    "newly_discovered_sources": 4,
     "removed_after_failure_threshold": 0,
     "validated_candidates": 81
   }

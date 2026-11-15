@@ -5536,3 +5536,7 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ff
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/wavely_radio/Weather.m3u
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/3cd454403b8c8c222aebc2481817e5a71955a85f/IPTV/CN.m3u8
 https://raw.githubusercontent.com/tushen6/Tomorrow/dd81de11eb9acd959ab87e7da07d16a71957338a/TV/webview.m3u
+https://raw.githubusercontent.com/KimShenGod/live/b8cacccbc002a6bbf4c83e672832dfc37285a0c9/iptv.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/88c66aea5e420bef10fee69f7249169ff0f0911c/UDPTV.m3u
+https://raw.githubusercontent.com/mehedihasandipu31/Mehediiptv/ad8dd3cd1fbce8740a0b12dd9b6dbabf4f5a6a9b/Iptv.m3u
+https://raw.githubusercontent.com/yifai/IPTV/85d976cda6cef28d0120017b6e4acd08744d7736/iptv.m3u
