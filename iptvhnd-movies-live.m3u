@@ -636,6 +636,8 @@ https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-name="ON Vie DRAMAS" tvg-logo="https://i.imgur.com/n7QICK7.png" group-title="VTVcab",ON Vie DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-logo="https://vnepg.site/logos/13.png" group-title="VTVcab HD",ON Phim Việt
+https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/27.png" group-title="VTVcab HD",ON Vie DRAMAS
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab4%20-%20ON%20Movies%20HD.png" group-title="Uncategorized",ON Movies HD
@@ -661,6 +663,8 @@ https://jmp2.uk/stvp-GB37000067A
 https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cinemax2.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Cinemax 2 (🔉💬🇬🇧)🇨🇿
 https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" group-title="Channels 🇬🇧",Film4
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=412112" url-tvg="https://epg.pw/api/epg.xml?channel_id=412112" refresh="1440" max-conn="1" refresh="24"
 #EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="ID| FILM", HBO
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
@@ -728,3 +732,5 @@ https://vmttv.dpdns.org/tv360?id=175
 https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/960px-STAR_Movies_logo.svg.png" tvg-country="IN" tvg-language="eng;hin;tam" group-title="Movies" nexus-score="0",Star Movies (1080p)
 https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
+https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8

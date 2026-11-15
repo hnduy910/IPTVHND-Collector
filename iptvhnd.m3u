@@ -67398,3 +67398,17 @@ https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
 #EXTVLCOPT:http-referrer=https://fnjplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.es@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" group-title="Movies",AXN Movies (Spain)
+http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
+#EXTINF:-1 tvg-id="ONVFamily.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png" group-title="Entertainment;Family",ON V Family (480p)
+https://vmttv.dpdns.org/tv360?id=187
+#EXTINF:-1,VOV Giao Thông Hà Nội
+http://media.kythuatvov.vn:7025/stream/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
+https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtm41Yyp/486609043-9668733523179342-2092789379023659257-n.jpg" group-title="VIỆT NAM",VOV RADIO3260 (VOVGT DUYEN HAI)
+http://media.kythuatvov.vn:7025/
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1,HTV Se Pone Bueno
+https://stream.zeno.fm/ieagybudukavv

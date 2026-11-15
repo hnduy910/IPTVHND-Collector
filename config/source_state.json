@@ -156,12 +156,12 @@
     "last_check_ok": true
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-kids.m3u": {
-    "consecutive_failures": 0,
-    "last_check_ok": true
+    "consecutive_failures": 1,
+    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-music.m3u": {
-    "consecutive_failures": 0,
-    "last_check_ok": true
+    "consecutive_failures": 1,
+    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/PhatBee/phatbeetv/61d9a3ef6f8aa64b1a8fd162bbf68a4e72f7b129/phatbeetv.m3u": {
     "consecutive_failures": 0,
@@ -1228,12 +1228,12 @@
     "last_check_ok": true
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-russia.m3u": {
-    "consecutive_failures": 0,
-    "last_check_ok": true
+    "consecutive_failures": 1,
+    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-sports.m3u": {
-    "consecutive_failures": 0,
-    "last_check_ok": true
+    "consecutive_failures": 1,
+    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/Monoloshka/iptv/33aed82c0a5b074c143c038b045b65a11d31deb9/full-iptv.m3u": {
     "consecutive_failures": 0,
@@ -1796,12 +1796,12 @@
     "last_check_ok": true
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-canada.m3u": {
-    "consecutive_failures": 0,
-    "last_check_ok": true
+    "consecutive_failures": 1,
+    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/MichaelJorky/Free-IPTV-M3U-Playlist/833bf53d2f1e3f108666b54df0372fc061188629/iptv-movies.m3u": {
-    "consecutive_failures": 0,
-    "last_check_ok": true
+    "consecutive_failures": 1,
+    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/PrattoySaha/IPTV/670ffe6818857befadbec939e1b65219de2322aa/Devilbox.m3u8": {
     "consecutive_failures": 0,
@@ -21991,21 +21991,9 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/Arnav-Singh-5080/CricScope/e00865dcd962b120966c2d004b43cf0b545b40be/dataset_info.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/Athlon1600/SerpScraper/96af309bf76c1eeb59577dad27304614d7c2637e/etc/terms.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/f056ccdaa7374573ea42e9ceca8e79bf62a29da0/Backup/backup2.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/DerwenAI/pytextrank/e119be8516b4414734d89e73cd961b85a2e67ba0/dat/cfc.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/Duartegame/listas/b54904c847115cd8cb60a76dbcdb7ac44381728f/chile.m3u": {
     "consecutive_failures": 0,
@@ -22015,45 +22003,17 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/KR7Team/KR7Team/55858c768aa722e1afe1742f84451b3b607fabae/arivKilatTV.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/M-S83/scandinavian-betting-project/5ea6937d05e0d54918f60a591f41d312948eb60e/README.md/README.md": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/Metroid2023/DaddyLiveHD/ecfdc611516572135df844555e76bbde8c4c6cbe/thedaddy.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/PacktPublishing/Python-Network-Programming-Cookbook-Second-Edition/7a2618500cd7a3a4ff527751664bd9b39bb63a7a/Chapter06/op.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/PacktPublishing/Python-Network-Programming/416cea10fe56b2312cf25150ed7ba27837cddf18/Chapter16/op.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/RhqAB/TV/a42b10eeb1e052ddf4e3bd23aded7cf065f9db2e/Home.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/Rihan2044/Sharif_19/a8f9c248fa120be22950897216c858f1773d55b0/My Sports.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/apistech/project/522b1f5de6f514433ac4f1be0a36fadf5992e613/playlists/liveeventsfilter.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/brimobile1016/saipulanuar-tv/845e29aa919f9ea540dac41dfbfd3d3a7552dbd9/public/group/LIVE_FOOTBALL___XOILACZ_AI.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/5dc15f2e86979ab7e80c737a986b50a4cac03f33/BugsfreeStreams/StreamsTV-RU/channel_b60cb9cb.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/doms9/iptv/402f4b5949fd5914165d87b62461caa91614d1c2/M3U8/TV.m3u8": {
     "consecutive_failures": 0,
@@ -22067,89 +22027,13 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/150443.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/40633.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/44246.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/44294.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/444186.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/444778.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/445806.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/446585.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/446647.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/447005.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/449917.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/501104.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/520416.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/683736.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/772024.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/be258403eb120250c368622892901bac52015141/list.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/judy-gotv/iptv/8fe3be4b1d3c856f10cd58663e4b1753847029ca/FSTV24.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/kilirushi/iptv/69637838302afc77212b867d8cffa3fb5c2371d0/vn copy.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/kyleabrahams/tv/8d20e5cf2c4d927088022e7318d4fbacf495768f/scripts/extras/playlist.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/mohdzufar/IPTV/7adefeaa7cf93ce5f60e9c2b1d949a77121502de/Channels/ASTRO/Astro Football/Astro Football.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/mohdzufar/IPTV/7adefeaa7cf93ce5f60e9c2b1d949a77121502de/Channels/SkySport/Sky Sports Football.m3u8": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/nero31994/DrewLive-1/52651016f52e75558fb5d21d8c000240b3e01b60/DaddyLiveEvents.m3u8": {
     "consecutive_failures": 0,
@@ -22158,34 +22042,6 @@
   "https://raw.githubusercontent.com/nero31994/DrewLive-1/52651016f52e75558fb5d21d8c000240b3e01b60/DaddyLiveEventsRAW.m3u8": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/openfootball/england/9ee7a0c351805c99cc334478a9bf04b7d0432fec/2003-04/.conf.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/openfootball/england/9ee7a0c351805c99cc334478a9bf04b7d0432fec/2009-10/.conf.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/openfootball/league-starter/4fe6fa7dac48ec59dafed0ee27abbda0b55f0775/v0/leagues.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/openfootball/leagues/500b3eb4958e57849f93f816261149e0286e25c4/0-attic/sco.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/openfootball/openfootball.github.io/8e148c8f7d8fc502fd57cf54fa52d5c7829f294f/llms.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/pssguy/premierLeague/60a3300546689abe4a897b94ef7ac3c59a69570a/include.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/qirenzhidao/tvbox18/86e1e39338ae41fcbceb9d0d3896a7618ced6cd6/js/mitv.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/400ab10b7ad1147f1f88d8fd4459e4c645a366e7/IPTV/bg.m3u": {
     "consecutive_failures": 0,
@@ -22199,38 +22055,182 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/streamifytv/KSI/44872895b60f233b4fdc85b6be9a2611178d0a08/sevents.m3u8": {
+  "https://raw.githubusercontent.com/a97083435/tang/2311d2088fbb528a8a702caa9946d5869d0f41af/tvbox/zhibo/channels.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/国内.m3u": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/vibhavnirmal/Knowledge-Graph-based-QnA/498dcf71bd6545e5e4dbe71f3112bfc677c1bbe5/data.txt": {
+  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/推荐.m3u": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv1.m3u": {
+  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/网络电视IPTV.m3u": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv3.m3u": {
+  "https://raw.githubusercontent.com/boxkim14/m3u8/58834fa72db7bb3b47af38c4e49a8180dd1920bc/vn.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc1.m3u8": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv5.m3u": {
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc10.m3u8": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv6.m3u": {
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc11.m3u8": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/zachlagden/Pi-hole-Optimized-Blocklists/1ea7e1669a20b88fdf767cf6f8c626f590c129cb/whitelist.txt": {
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc12.m3u8": {
     "consecutive_failures": 1,
     "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc13.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc13_4k.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc14.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc16.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc2.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc3.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc4.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc5.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc6.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc7.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc8.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/vtc/vtc9.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/8511310014b35456e873e3155da28c05d988189c/logo-smart.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/judy-gotv/iptv/8511310014b35456e873e3155da28c05d988189c/smart.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/allradio.net/Music.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/allradio.net/Oldies.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/allradio.net/Traffic.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/keep_one/folk.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/lixty/Cantonese.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/my_radio-box/checked/news.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/my_radio-box/checked/talk.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/my_radio-box/folk.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/radio-mixer/checked/news.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/radio-mixer/checked/talk.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/radio-mixer/chinese.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/7480c1434ffec6901933c2eaceebdd550c679a91/wavely_radio/Weather.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/kereydoncic/NNNNN/581bfdebced471f966e0cd4167bed8a7b46bbd9f/unapalang v5.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/kereydoncic/iptcccc/dc02309e6a9dc56039334599b5100d3c36ddc51f/salpak v2.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/kilirushi/iptv/69637838302afc77212b867d8cffa3fb5c2371d0/vn copy.m3u": {
+    "consecutive_failures": 2,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/mztian/shanghaiiptv/a2841485091bec2c71888dd108953fe356d89d1b/上海电信可用直播源.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/rivai1/Useetv/0b2b1aa758b61666e32fe95e62d8a3de865248a2/m3u ANE UPDATE SCTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/3cd454403b8c8c222aebc2481817e5a71955a85f/IPTV/CN.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/seedoel/blacklist/704c78def319b78f283ce43a9d006e4ed58fbd3e/SCTV.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/tushen6/Tomorrow/dd81de11eb9acd959ab87e7da07d16a71957338a/TV/webview.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
   },
   "__meta__": {
-    "query_cursor": 4,
-    "newly_discovered_sources": 16,
+    "query_cursor": 12,
+    "newly_discovered_sources": 18,
     "removed_after_failure_threshold": 0,
-    "validated_candidates": 100
+    "validated_candidates": 81
   }
 }
