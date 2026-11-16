@@ -67400,7 +67400,9 @@ https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
 http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
 #EXTINF:-1 tvg-id="ONVFamily.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png" group-title="Entertainment;Family",ON V Family (480p)
 https://vmttv.dpdns.org/tv360?id=187
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
-https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1,Vietnam War Rock
+https://stream.zeno.fm/g91qxch7gv8uv
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="VIỆT NAM",LAM DONG (FM97MHz)
+http://sohoa.truyenthanhthongminh.vn:80/lamdong
+#EXTINF:-1,HTV Se Pone Bueno
+https://stream.zeno.fm/ieagybudukavv

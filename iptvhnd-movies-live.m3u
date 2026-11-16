@@ -640,6 +640,8 @@ https://vmttv.dpdns.org/tv360/?id=175
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-name="ON Vie DRAMAS" tvg-logo="https://i.imgur.com/n7QICK7.png" group-title="VTVcab",ON Vie DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-logo="https://vnepg.site/logos/13.png" group-title="VTVcab HD",ON Phim Việt
+https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/27.png" group-title="VTVcab HD",ON Vie DRAMAS
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab4%20-%20ON%20Movies%20HD.png" group-title="Uncategorized",ON Movies HD
@@ -721,8 +723,8 @@ http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 https://tinyurl.com/44efw2rx
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Movies",HBO Asia SD (720p) [Geo-blocked]
 https://tinyurl.com/yn3d3rmd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="Entertainment 🌎",Star Movies Select (🔉💬🇬🇧)🇮🇳
-https://p4kp.rjmbts.workers.dev/353.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="Entertainment 🌎",Star Movies (🔉💬🇬🇧)🇮🇳
+https://p4kp.rjmbts.workers.dev/349.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Undefined",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="WARNER TV" tvg-name="WARNER TV HD" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="ID| FILM", WARNER TV
@@ -744,5 +746,3 @@ https://vmttv.dpdns.org/tv360?id=175
 http://15.204.246.24:8080/HBOPOPHD/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" tvg-country="US" tvg-language="spa" group-title="Movies" nexus-score="0",HBO Xtreme Latin America (1080p)
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
-https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
