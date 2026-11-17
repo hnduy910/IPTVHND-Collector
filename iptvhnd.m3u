@@ -628,6 +628,7 @@
 # Total Channels: 42
 # Generated: 2026-11-17T03:00:03Z
 # -------- DAZN --------
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -67421,3 +67422,242 @@ http://127.0.0.1:6878/ace/getstream?id=4243ec2599770c2ed62c174c946def54dcd24980
 http://127.0.0.1:6878/ace/getstream?id=913a520ccaf1ef4a1ab73e146d0319d80d0c39da
 #EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="LA LIGA",M+ LaLiga 2 *
 http://127.0.0.1:6878/ace/getstream?id=f32207b978456daa7e7c93b27a7758e6025990ea
+#EXTINF:-1,VietNam
+https://stream.zeno.fm/2141ytrbn48uv
+#EXTINF:-1 tvg-id="angiang1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230615/52a9c209-cb9e-455a-8e1d-b25a9ac34bb2.jpg?width=500&width=640" group-title="Kênh thiết yếu và địa phương",ATV1 An Giang
+https://liveh34.vtvprime.vn/hls/ANGIANGTV/index.m3u8
+#EXTINF:-1 tvg-id="quangngai" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/phPCrNicoD-QN1-THUMBNAIL-KENHVTVgo-500x281.webp&width=640" group-title="Kênh thiết yếu và địa phương",QNGTV1 Quảng Ngãi
+https://vtvgolive-ott3.vtvdigital.vn/live/quangngaitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44twY7gq/ezgif-6a5fadaf3ade2391.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+##http://202.150.165.66:8088/play/sctv-hls/index.m3u8
+##http://202.150.165.66:8088/play/a00c/index.m3u8
+##http://202.150.165.66:8088/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/205/index.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy4J85BV/astro-premier-league-my-png-(132-99).png",ASTRO PREMIER LEAGUE
+http://tv.cloudcdn.me:80/live.ts?channelId=93739&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8KqhH4g/astro-premier-league-2-my-png-(132-99).png",ASTRO PREMIER LEAGUE 2
+http://tv.cloudcdn.me:80/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsV7xycL/astro-football-my-png-(132-99).png",ASTRO FOOTBALL
+http://tv.cloudcdn.me:80/live.ts?channelId=93742&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRxgLhWT/ezgif-421d49f0a70b777e.png",SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
+https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+#EXTINF:-1 group-title="Kênh thiết yếu",VTV1
+https://vmttv.dpdns.org/tv360/?id=2
+#EXTINF:-1 group-title="Kênh thiết yếu",ANTV
+https://vmttv.dpdns.org/tv360/?id=20
+#EXTINF:-1 group-title="Kênh thiết yếu",QPVN HD
+https://vmttv.dpdns.org/tv360/?id=19
+#EXTINF:-1 group-title="Kênh thiết yếu",VTV5
+https://vmttv.dpdns.org/tv360/?id=110
+#EXTINF:-1 group-title="Kênh thiết yếu",VIETNAM TODAY HD
+https://vmttv.dpdns.org/tv360/?id=9951
+#EXTINF:-1 group-title="Kênh VTV",VTV2
+https://vmttv.dpdns.org/tv360/?id=3
+#EXTINF:-1 group-title="Kênh VTV",VTV3
+https://vmttv.dpdns.org/tv360/?id=4
+#EXTINF:-1 group-title="Kênh VTV",VTV4
+https://vmttv.dpdns.org/tv360/?id=108
+#EXTINF:-1 group-title="Kênh VTV",VTV5 Tây Nguyên
+https://vmttv.dpdns.org/tv360/?id=207
+#EXTINF:-1 group-title="Kênh VTV",VTV5 Tây Nam Bộ
+https://vmttv.dpdns.org/tv360/?id=157
+#EXTINF:-1 group-title="Kênh VTV",VTV6
+https://vmttv.dpdns.org/tv360/?id=10043
+#EXTINF:-1 group-title="Kênh VTV",VTV7
+https://vmttv.dpdns.org/tv360/?id=6
+#EXTINF:-1 group-title="Kênh VTV",VTV8
+https://vmttv.dpdns.org/tv360/?id=115
+#EXTINF:-1 group-title="Kênh VTV",VTV9
+https://vmttv.dpdns.org/tv360/?id=8
+#EXTINF:-1 group-title="Kênh VTV",VTV10
+https://vmttv.dpdns.org/tv360/?id=98
+#EXTINF:-1 group-title="Thể thao",360 Bundesliga
+https://vmttv.dpdns.org/tv360/?id=10019
+#EXTINF:-1 group-title="Kênh quốc tế",HBO
+https://vmttv.dpdns.org/tv360/?id=271
+#EXTINF:-1 group-title="Kênh quốc tế",Cinemax
+https://vmttv.dpdns.org/tv360/?id=239
+#EXTINF:-1 group-title="Kênh quốc tế",Warner TV
+https://vmttv.dpdns.org/tv360/?id=273
+#EXTINF:-1 group-title="Kênh quốc tế",Cinema World
+https://vmttv.dpdns.org/tv360/?id=159
+#EXTINF:-1 group-title="Kênh Vĩnh Long",Vĩnh Long 1
+https://vmttv.dpdns.org/tv360/?id=25
+#EXTINF:-1 group-title="Kênh Vĩnh Long",Vĩnh Long 2
+https://vmttv.dpdns.org/tv360/?id=26
+#EXTINF:-1 group-title="Kênh Vĩnh Long",Vĩnh Long 3
+https://vmttv.dpdns.org/tv360/?id=219
+#EXTINF:-1 group-title="Kênh Vĩnh Long",Vĩnh Long 4
+https://vmttv.dpdns.org/tv360/?id=220
+#EXTINF:-1 group-title="Kênh Vĩnh Long",Vĩnh Long 5
+https://vmttv.dpdns.org/tv360/?id=91
+#EXTINF:-1 group-title="Kênh HTV",HTV1
+https://vmttv.dpdns.org/tv360/?id=190
+#EXTINF:-1 group-title="Kênh HTV",HTV2
+https://vmttv.dpdns.org/tv360/?id=191
+#EXTINF:-1 group-title="Kênh HTV",HTV3
+https://vmttv.dpdns.org/tv360/?id=192
+#EXTINF:-1 group-title="Kênh HTV",HTV4
+https://vmttv.dpdns.org/tv360/?id=9
+#EXTINF:-1 group-title="Kênh HTV",HTV7 HD
+https://vmttv.dpdns.org/tv360/?id=193
+#EXTINF:-1 group-title="Kênh HTV",HTV9 HD
+https://vmttv.dpdns.org/tv360/?id=194
+#EXTINF:-1 group-title="Kênh HTV",HTV Thể Thao
+https://vmttv.dpdns.org/tv360/?id=195
+#EXTINF:-1 group-title="Kênh HTV",HTVC gia đình
+https://vmttv.dpdns.org/tv360/?id=11
+#EXTINF:-1 group-title="Kênh HTV",HTVC phụ Nữ
+https://vmttv.dpdns.org/tv360/?id=12
+#EXTINF:-1 group-title="Kênh HTV",HTVC thuần việt
+https://vmttv.dpdns.org/tv360/?id=13
+#EXTINF:-1 group-title="Kênh HTV",HTVC phim truyện HD
+https://vmttv.dpdns.org/tv360/?id=15
+#EXTINF:-1 group-title="Kênh HTV",HTVC+ Channel B
+https://vmttv.dpdns.org/tv360/?id=132
+#EXTINF:-1 group-title="Kênh HTV",HTVC du lịch & cuộc sống
+https://vmttv.dpdns.org/tv360/?id=133
+#EXTINF:-1 group-title="Kênh HTV",An Viên HD
+https://vmttv.dpdns.org/tv360/?id=151
+#EXTINF:-1 group-title="Kênh SCTV",SCTV6
+https://vmttv.dpdns.org/tv360/?id=232
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 - TODAY TV
+https://vmttv.dpdns.org/VTVGo/?sctv2
+#EXTINF:-1 group-title="SCTV",SCTV6
+https://vmttv.dpdns.org/VTVGo/?sctv6
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV15.png", SCTV15
+https://vmttv.dpdns.org/VTVGo/?sctv15
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV17.png", SCTV17
+https://vmttv.dpdns.org/VTVGo/?sctv17
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",:SCTV22
+https://vmttv.dpdns.org/VTVGo/?sctv22
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 16 - On Football HD
+https://vmttv.dpdns.org/tv360/?id=174
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 3 - On Sports
+https://vmttv.dpdns.org/tv360/?id=173
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 18 - On Sports News
+https://vmttv.dpdns.org/tv360/?id=170
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 6 - On Sports +
+https://vmttv.dpdns.org/tv360/?id=183
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 1 - Vie Giải Trí HD
+https://vmttv.dpdns.org/tv360/?id=180
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab10 - On Cine HD
+https://vmttv.dpdns.org/tv360/?id=176
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab19 – Vie Dramas
+https://vmttv.dpdns.org/tv360/?id=177
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 8 Bibi SD
+https://vmttv.dpdns.org/tv360/?id=178
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 21- Cartoon Kids HD
+https://vmttv.dpdns.org/tv360/?id=179
+#EXTINF:-1 group-title="Kênh VTV Cab",Vtvcab 4 – On Movies
+https://vmttv.dpdns.org/tv360/?id=181
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 5 - E Channel HD
+https://vmttv.dpdns.org/tv360/?id=182
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 12 - StyleTV HD
+https://vmttv.dpdns.org/tv360/?id=184
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab15 – On Music
+https://vmttv.dpdns.org/tv360/?id=185
+#EXTINF:-1 group-title="Kênh VTV Cab",Vtvcab17 – Trending TV
+https://vmttv.dpdns.org/tv360/?id=186
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 20 - V Family HD
+https://vmttv.dpdns.org/tv360/?id=187
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 22 - Life TV HD
+https://vmttv.dpdns.org/tv360/?id=188
+#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab 9 - InfoTV HD
+https://vmttv.dpdns.org/tv360/?id=189
+#EXTINF:-1 group-title="Kênh VTV Cab",O2TV
+https://vmttv.dpdns.org/tv360/?id=136
+#EXTINF:-1 group-title="Kênh địa phương",Quảng Ninh 3
+https://vmttv.dpdns.org/tv360/?id=134
+#EXTINF:-1 group-title="Kênh địa phương",Hà Nội 1
+https://vmttv.dpdns.org/tv360/?id=33
+#EXTINF:-1 group-title="Kênh địa phương",Hà Nội 2
+https://vmttv.dpdns.org/tv360/?id=34
+#EXTINF:-1 group-title="Kênh địa phương",An Giang 2
+https://vmttv.dpdns.org/tv360/?id=35
+#EXTINF:-1 group-title="Kênh địa phương",Bắc Ninh
+https://vmttv.dpdns.org/tv360/?id=39
+#EXTINF:-1 group-title="Kênh địa phương",Lâm Đồng 2
+https://vmttv.dpdns.org/tv360/?id=45
+#EXTINF:-1 group-title="Kênh địa phương",Cà Mau
+https://vmttv.dpdns.org/tv360/?id=46
+#EXTINF:-1 group-title="Kênh địa phương",Cần Thơ 1
+https://vmttv.dpdns.org/tv360/?id=47
+#EXTINF:-1 group-title="Kênh địa phương",Cao Bằng
+https://vmttv.dpdns.org/tv360/?id=48
+#EXTINF:-1 group-title="Kênh địa phương",Đà Nẵng 1
+https://vmttv.dpdns.org/tv360/?id=49
+#EXTINF:-1 group-title="Kênh địa phương",Đắk Lắk
+https://vmttv.dpdns.org/tv360/?id=51
+#EXTINF:-1 group-title="Kênh địa phương",Điện Biên
+https://vmttv.dpdns.org/tv360/?id=52
+#EXTINF:-1 group-title="Kênh địa phương",Đồng Nai 1
+https://vmttv.dpdns.org/tv360/?id=53
+#EXTINF:-1 group-title="Kênh địa phương",Đồng Tháp 1
+https://vmttv.dpdns.org/tv360/?id=54
+#EXTINF:-1 group-title="Kênh địa phương",Gia Lai
+https://vmttv.dpdns.org/tv360/?id=55
+#EXTINF:-1 group-title="Kênh địa phương",Hà Tĩnh
+https://vmttv.dpdns.org/tv360/?id=58
+#EXTINF:-1 group-title="Kênh địa phương",Hải Phòng 3
+https://vmttv.dpdns.org/tv360/?id=59
+#EXTINF:-1 group-title="Kênh địa phương",Hải Phòng
+https://vmttv.dpdns.org/tv360/?id=60
+#EXTINF:-1 group-title="Kênh địa phương",Cần Thơ 2
+https://vmttv.dpdns.org/tv360/?id=61
+#EXTINF:-1 group-title="Kênh địa phương",Huế
+https://vmttv.dpdns.org/tv360/?id=63
+#EXTINF:-1 group-title="Kênh địa phương",Hưng Yên
+https://vmttv.dpdns.org/tv360/?id=64
+#EXTINF:-1 group-title="Kênh địa phương",Khánh Hòa
+https://vmttv.dpdns.org/tv360/?id=65
+#EXTINF:-1 group-title="Kênh địa phương",An Giang 1
+https://vmttv.dpdns.org/tv360/?id=66
+#EXTINF:-1 group-title="Kênh địa phương",Lai Châu
+https://vmttv.dpdns.org/tv360/?id=68
+#EXTINF:-1 group-title="Kênh địa phương",Lâm Đồng 1
+https://vmttv.dpdns.org/tv360/?id=69
+#EXTINF:-1 group-title="Kênh địa phương",Lạng Sơn
+https://vmttv.dpdns.org/tv360/?id=70
+#EXTINF:-1 group-title="Kênh địa phương",Lào Cai
+https://vmttv.dpdns.org/tv360/?id=71
+#EXTINF:-1 group-title="Kênh địa phương",Tây Ninh 1
+https://vmttv.dpdns.org/tv360/?id=72
+#EXTINF:-1 group-title="Kênh địa phương",Nghệ An
+https://vmttv.dpdns.org/tv360/?id=74
+#EXTINF:-1 group-title="Kênh địa phương",Ninh Bình
+https://vmttv.dpdns.org/tv360/?id=75
+#EXTINF:-1 group-title="Kênh địa phương",Khánh Hòa 1
+https://vmttv.dpdns.org/tv360/?id=76
+#EXTINF:-1 group-title="Kênh địa phương",Phú Thọ
+https://vmttv.dpdns.org/tv360/?id=77
+#EXTINF:-1 group-title="Kênh địa phương",Đà Nẵng 2
+https://vmttv.dpdns.org/tv360/?id=80
+#EXTINF:-1 group-title="Kênh địa phương",Quảng Ngãi
+https://vmttv.dpdns.org/tv360/?id=81
+#EXTINF:-1 group-title="Kênh địa phương",Quảng Ninh 1
+https://vmttv.dpdns.org/tv360/?id=82
+#EXTINF:-1 group-title="Kênh địa phương",Quảng Trị
+https://vmttv.dpdns.org/tv360/?id=83
+#EXTINF:-1 group-title="Kênh địa phương",Cần Thơ 3
+https://vmttv.dpdns.org/tv360/?id=84
+#EXTINF:-1 group-title="Kênh địa phương",Sơn La
+https://vmttv.dpdns.org/tv360/?id=85
+#EXTINF:-1 group-title="Kênh địa phương",Thái Nguyên
+https://vmttv.dpdns.org/tv360/?id=88
+#EXTINF:-1 group-title="Kênh địa phương",Thanh Hóa
+https://vmttv.dpdns.org/tv360/?id=89
+#EXTINF:-1 group-title="Kênh địa phương",Đồng Tháp 2
+https://vmttv.dpdns.org/tv360/?id=90
+#EXTINF:-1 group-title="Kênh địa phương",Tuyên Quang
+https://vmttv.dpdns.org/tv360/?id=92
+#EXTINF:-1 group-title="Kênh địa phương",Đồng Nai
+https://vmttv.dpdns.org/tv360/?id=255
