@@ -690,3 +690,5 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=jX
 #EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=WMJAYoqwTs1vZtvaRRmiVA&e=2094383690&scheme=https
+#EXTINF:-1 group-title="Thể thao",360 Bundesliga
+https://vmttv.dpdns.org/tv360/?id=10019

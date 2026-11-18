@@ -5665,3 +5665,8 @@ https://raw.githubusercontent.com/tushen6/Tomorrow/b0dc830fc6f7a00f0a986cb5d7ab4
 https://raw.githubusercontent.com/vietng228/m3u/d457a131eac811d73395e5cf3003a50b3a7a8f73/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/d457a131eac811d73395e5cf3003a50b3a7a8f73/new.m3u
 https://raw.githubusercontent.com/wind005/TVlive/f166b2d46114126068e227cefe567649f7edc065/m3u/sclt.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/dcc6ca561f4ee666508ccdc0ae00091bf23764dd/playlists/playlist_united_arab_emirates.m3u8
+https://raw.githubusercontent.com/boxkim14/m3u8/f0cb96ef959b2120f6ecc4f01204a41d805b6500/vn.m3u8
+https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/e75e73bf25eef89d94815acf5da374ba2f6b3960/listtamtrang.m3u8
+https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/7d218ea442f25f0f6c99456811b8e354d294676f/iptv.m3u8
+https://raw.githubusercontent.com/mangyeu/TV/cfe1d3aca48c10a35db81bfb01e88074565f52fb/tivi.m3u8

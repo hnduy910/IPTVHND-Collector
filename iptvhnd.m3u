@@ -67661,3 +67661,9 @@ https://vmttv.dpdns.org/tv360/?id=90
 https://vmttv.dpdns.org/tv360/?id=92
 #EXTINF:-1 group-title="Kênh địa phương",Đồng Nai
 https://vmttv.dpdns.org/tv360/?id=255
+#EXTINF:-1,Fußball-Bundesliga: Spiel 2
+https://wdr-sportschau-liga1spiel2.icecastssl.wdr.de/wdr/sportschau/liga1spiel2/mp3/high
+#EXTINF:-1 tvg-id="htv7" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/HTV7_logo_ph%E1%BB%A5_12-02-2025.png/revision/latest/scale-to-width-down/220?cb=20260115081301&path-prefix=vi" group-title="HTV",HTV7
+https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/thanhhoa/ditmemaythangnoithu7occac.m3u8
+#EXTINF:-1 tvg-id="caobang" tvg-logo="https://mediaresources.caobangtv.vn/files/2025/2/19/UZRH25C9Z62W.png" group-title="Địa Phương",CRTV Cao Bằng
+https://vtvgolive-vtclc1.vtvdigital.vn/hls/CAOBANG/tc-p720/index.m3u8?pull=9696a44714021d9f7241771acb4e2c33287299f2a7e4aff8eb56d464a4a92049

@@ -22507,45 +22507,9 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/0xMassi/webclaw/d29ece6bf39a4f552277e1b3d4008c2655f2e40d/targets_1000.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/Arnav-Singh-5080/CricScope/e00865dcd962b120966c2d004b43cf0b545b40be/dataset_info.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/Athlon1600/SerpScraper/96af309bf76c1eeb59577dad27304614d7c2637e/etc/terms.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/DerwenAI/pytextrank/e119be8516b4414734d89e73cd961b85a2e67ba0/dat/cfc.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/PacktPublishing/Python-Network-Programming-Cookbook-Second-Edition/7a2618500cd7a3a4ff527751664bd9b39bb63a7a/Chapter06/op.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/Shaurya01836/ipl-auction/0aa2556ce99aae78aef573c7c7e22eaafec8349d/public/llms.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/国内.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/addlew/my_iptv/c57c1cca38692bff57a13ba428cedf72f8652713/推荐.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/arquerido/mych/24354f4a45426768f90f9f7d0c44677b47fc416d/TRAMS.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/atsushi444/iptv/0790b288b0f73940fa163c2518a834b4910386db/channel/M.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/df2ddcbdb586f739b22e9b6650cfd36bf87ee0d9/LiveTV/Thailand/LiveTV.m3u": {
     "consecutive_failures": 0,
@@ -22567,77 +22531,13 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/150443.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/40633.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/44246.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/44294.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/444186.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/444778.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/445806.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/446585.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/447005.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/449917.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/501104.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/520416.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/fajri91/Search-Engine-TFIDF-with-Query-Expansion/1323b04a1b3b7485e9e6cd19f5a858fa22c36471/doc2/683736.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/hoantp/hoantp.github.io/9b5d217ac89237593a35f5a3b86ec3202bb0b607/iptv/vn.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/国内.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/安徽农大.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/iptv-org/iptv/dab4cf02a9d22fc8b84324d0bf24a6a2a02c151c/streams/vn.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/be258403eb120250c368622892901bac52015141/list.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/judy-gotv/iptv/263cf84f8c8ff81cf0539be7a8610431a005341e/smart.m3u": {
     "consecutive_failures": 0,
@@ -22711,10 +22611,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/kilirushi/iptv/69637838302afc77212b867d8cffa3fb5c2371d0/vn copy.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/longhai/iptv/140055e94e52a6d0dd6d17219f0b2edc49bda911/tv360.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -22727,38 +22623,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/openfootball/england/9ee7a0c351805c99cc334478a9bf04b7d0432fec/2003-04/.conf.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/openfootball/england/9ee7a0c351805c99cc334478a9bf04b7d0432fec/2009-10/.conf.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/openfootball/league-starter/4fe6fa7dac48ec59dafed0ee27abbda0b55f0775/v0/leagues.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/openfootball/leagues/500b3eb4958e57849f93f816261149e0286e25c4/0-attic/sco.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/openfootball/openfootball.github.io/8e148c8f7d8fc502fd57cf54fa52d5c7829f294f/llms.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/pssguy/premierLeague/60a3300546689abe4a897b94ef7ac3c59a69570a/include.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/qirenzhidao/tvbox18/86e1e39338ae41fcbceb9d0d3896a7618ced6cd6/js/mitv.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/seedoel/blacklist/704c78def319b78f283ce43a9d006e4ed58fbd3e/SCTV.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/teamhday/iptv/90cf7102520bc39b734308507515b7e1a9db82cc/sctv.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -22766,10 +22630,6 @@
   "https://raw.githubusercontent.com/tushen6/Tomorrow/b0dc830fc6f7a00f0a986cb5d7ab45a264a27e41/TV/webview.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/vibhavnirmal/Knowledge-Graph-based-QnA/498dcf71bd6545e5e4dbe71f3112bfc677c1bbe5/data.txt": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/vietng228/m3u/d457a131eac811d73395e5cf3003a50b3a7a8f73/m3u.m3u": {
     "consecutive_failures": 0,
@@ -22779,38 +22639,62 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv1.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv3.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv5.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv6.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/wind005/TVlive/f166b2d46114126068e227cefe567649f7edc065/m3u/sclt.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/yoyo82520/huaiptv/3f2dd11c22bdfb87f9f96e4e808894ff77c29c7e/HaNoi IPTV.m3u": {
+  "https://raw.githubusercontent.com/Free-TV/IPTV/dcc6ca561f4ee666508ccdc0ae00091bf23764dd/playlists/playlist_united_arab_emirates.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/boxkim14/m3u8/f0cb96ef959b2120f6ecc4f01204a41d805b6500/vn.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/447c0d51fa2b2eef98b5cd202e827cb0d3d63d68/BugsfreeStreams/StreamsTV-VN/vinh_long_tv_1_720p_4fe487ba.m3u8": {
     "consecutive_failures": 1,
     "last_check_ok": false
   },
-  "https://raw.githubusercontent.com/zachlagden/Pi-hole-Optimized-Blocklists/63099ad0a089629ad249fead5daf6e3155d4ca4a/whitelist.txt": {
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/447c0d51fa2b2eef98b5cd202e827cb0d3d63d68/BugsfreeStreams/StreamsTV-VN/vinh_long_tv_3_720p_af189771.m3u8": {
     "consecutive_failures": 1,
     "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/447c0d51fa2b2eef98b5cd202e827cb0d3d63d68/BugsfreeStreams/StreamsTV-VN/vinh_long_tv_4_720p_1cc9c8e5.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/e75e73bf25eef89d94815acf5da374ba2f6b3960/listtamtrang.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/avg/vinhong1.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/huuvinhtv/tvplay1/1dee06502669edc53b8239a618fb918954d4fe9b/m3u/hplus/vinhlong1.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/3100个全部有效.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/e2c4e42154a6726e76efad43188a61c6a61f11a8/m3u/国外电视台2023.m3u8": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/7d218ea442f25f0f6c99456811b8e354d294676f/iptv.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/mangyeu/TV/cfe1d3aca48c10a35db81bfb01e88074565f52fb/tivi.m3u8": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
   },
   "__meta__": {
-    "query_cursor": 6,
-    "newly_discovered_sources": 34,
+    "query_cursor": 14,
+    "newly_discovered_sources": 5,
     "removed_after_failure_threshold": 0,
-    "validated_candidates": 118
+    "validated_candidates": 30
   }
 }
