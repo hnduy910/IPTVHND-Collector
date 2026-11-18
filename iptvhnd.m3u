@@ -629,6 +629,8 @@
 # Generated: 2026-11-17T03:00:03Z
 # -------- DAZN --------
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+# 更新時間: 2026-11-15 12:45:54
+#PLAYLIST:My IPTV Selection - CODECS.COM
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -67409,8 +67411,6 @@ https://stream.zeno.fm/g91qxch7gv8uv
 https://stream.zeno.fm/ieagybudukavv
 #EXTINF:-1 tvg-id="HTVLive.do@SD" tvg-logo="https://i.imgur.com/0WBsAin.png" group-title="Entertainment",HTV Live (1080p) [Not 24/7]
 https://stream1.28tv.online/HTVLiveCanal52/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
-https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
 # -------- LA LIGA --------
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p *
 http://127.0.0.1:6878/ace/getstream?id=85b13e0d682d56e6976ed874a5526003bf21dca6
@@ -67661,9 +67661,29 @@ https://vmttv.dpdns.org/tv360/?id=90
 https://vmttv.dpdns.org/tv360/?id=92
 #EXTINF:-1 group-title="Kênh địa phương",Đồng Nai
 https://vmttv.dpdns.org/tv360/?id=255
-#EXTINF:-1,Fußball-Bundesliga: Spiel 2
-https://wdr-sportschau-liga1spiel2.icecastssl.wdr.de/wdr/sportschau/liga1spiel2/mp3/high
 #EXTINF:-1 tvg-id="htv7" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/HTV7_logo_ph%E1%BB%A5_12-02-2025.png/revision/latest/scale-to-width-down/220?cb=20260115081301&path-prefix=vi" group-title="HTV",HTV7
 https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/thanhhoa/ditmemaythangnoithu7occac.m3u8
 #EXTINF:-1 tvg-id="caobang" tvg-logo="https://mediaresources.caobangtv.vn/files/2025/2/19/UZRH25C9Z62W.png" group-title="Địa Phương",CRTV Cao Bằng
 https://vtvgolive-vtclc1.vtvdigital.vn/hls/CAOBANG/tc-p720/index.m3u8?pull=9696a44714021d9f7241771acb4e2c33287299f2a7e4aff8eb56d464a4a92049
+#EXTINF:-1 tvg-id="2868" tvg-name="HBO Signature Taiwan" group-title="台湾",HBO Signature Taiwan
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkUG1hald5clZObmd6V0l5NjVxN3pxZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTU1NWMwYTdkJmNuPTFlMGQ1ODRjJmNwPWVkZjBkZjU4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=b3b6ad227c58f41a821f5dbdde903080
+#EXTINF:-1 tvg-id="496" tvg-name="CINEMAX" group-title="台湾",CINEMAX
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkUG1halduZ1ZScU1RWnliNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NTU1YzBhN2QmY249MWUwZDU4NGMmY3A9YTY1NWQ3ZjImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=b3b6ad227c58f41a821f5dbdde903080
+#EXTINF:-1 group-title="SPORT 🏆",FUTBOL UZ
+https://stream8.cinerama.uz/7010/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",HOT HBO (Израиль)
+http://stream.mcquack.net/381/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax
+http://stream.mcquack.net/484/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 2
+http://stream.mcquack.net/475/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 3
+http://stream.mcquack.net/474/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 4
+http://stream.mcquack.net/472/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 5
+http://stream.mcquack.net/471/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="体育",Sky Sports Premier League
+https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186604.ts
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-logo="" group-title="体育",Sky Sports Football
+https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
