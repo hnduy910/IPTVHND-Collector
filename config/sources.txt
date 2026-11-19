@@ -5722,3 +5722,4 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/e55af9239ec
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/e55af9239ec9b48c394f758c12223b5b188499ba/web-radio_directory/United_Kingdom.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/e55af9239ec9b48c394f758c12223b5b188499ba/zin_music/uganda.m3u
 https://raw.githubusercontent.com/wliqi495-create/jaychou123/4b93782e50d11e164026b66926c26487f97e3abe/mylist.m3u
+https://raw.githubusercontent.com/kyleabrahams/tv/d022810e467507fc9cb8f788332d39ec80dc7e52/scripts/extras/playlist.m3u8

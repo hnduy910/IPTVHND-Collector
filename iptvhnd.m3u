@@ -67422,8 +67422,6 @@ http://127.0.0.1:6878/ace/getstream?id=4243ec2599770c2ed62c174c946def54dcd24980
 http://127.0.0.1:6878/ace/getstream?id=913a520ccaf1ef4a1ab73e146d0319d80d0c39da
 #EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="LA LIGA",M+ LaLiga 2 *
 http://127.0.0.1:6878/ace/getstream?id=f32207b978456daa7e7c93b27a7758e6025990ea
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1 tvg-id="angiang1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230615/52a9c209-cb9e-455a-8e1d-b25a9ac34bb2.jpg?width=500&width=640" group-title="Kênh thiết yếu và địa phương",ATV1 An Giang
 https://liveh34.vtvprime.vn/hls/ANGIANGTV/index.m3u8
 #EXTINF:-1 tvg-id="quangngai" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/phPCrNicoD-QN1-THUMBNAIL-KENHVTVgo-500x281.webp&width=640" group-title="Kênh thiết yếu và địa phương",QNGTV1 Quảng Ngãi
@@ -67691,8 +67689,6 @@ https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
 http://190.181.61.93:8000/play/a00f/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
 https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
-#EXTINF:-1,Universo Musical Villa Pehuenia
-https://stream.zeno.fm/khgfwxvh308uv
 #EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Division Profesional] Always Ready vs Real Potosi (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1949.png" group-title="Live Events",[Bolivia Division Profesional] Always Ready vs Real Potosi (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -67863,3 +67859,5 @@ http://45.185.11.126:8000/play/a083/index.m3u8
 #EXTINF:0,HBO+ HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08p/index.m3u8
+#EXTINF:-1,Fußball-Bundesliga: Spiel 4
+https://wdr-sportschau-liga1spiel4.icecastssl.wdr.de/wdr/sportschau/liga1spiel4/mp3/high
