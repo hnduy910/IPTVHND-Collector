@@ -641,12 +641,12 @@ https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist.m3u8
 https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" tvg-country="US" tvg-language="eng" group-title="Movies" nexus-score="100",Hallmark Movies & More (1080p)
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
-#EXTINF:-1 tvg-name="ON Phim Việt" tvg-logo="https://i.imgur.com/MPNlpzb.png" group-title="VTVcab",ON Phim Việt
-https://vmttv.dpdns.org/tv360/?id=175
 #EXTINF:-1 tvg-name="ON Cine" tvg-logo="https://i.imgur.com/6f9ngwY.png" group-title="VTVcab",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-name="ON Vie DRAMAS" tvg-logo="https://i.imgur.com/n7QICK7.png" group-title="VTVcab",ON Vie DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-logo="https://vnepg.site/logos/13.png" group-title="VTVcab HD",ON Phim Việt
+https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/27.png" group-title="VTVcab HD",ON Vie DRAMAS
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab4%20-%20ON%20Movies%20HD.png" group-title="Uncategorized",ON Movies HD
@@ -656,8 +656,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Vie_DRAMAS_HD_du_phong
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-phimviet.webp",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1 tvg-id="CinemaxClassics.us@East" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Classics_Plex_Logo_bw.svg" group-title="Movies",Cinemax Classics (1080p)
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20ON%20Cine%20HD.png" group-title="Uncategorized",ON Cine HD
@@ -694,10 +692,24 @@ https://792jdf7.s.gy/cinemax
 https://792jdf7.s.gy/warner_tv
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png",HBO 2
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/HBOZone.webp" group-title="Entertainment 🌎",HBO Zone 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="Entertainment 🌎",HBO Comedy 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo2.png" group-title="Entertainment 🌎",HBO 2 East 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Entertainment 🌎",HBO West 🇺🇸
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Entertainment 🌎",❖HBO East 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
 #EXTINF:-1 tvg-logo="https://lo1.in/us/hboltt.png" group-title="Entertainment 🌎",❖HBO Latino 🇺🇸
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/hbosignature.png" group-title="Entertainment 🌎",HBO Signature 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-title="Entertainment 🌎",Cinemax East 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-title="Entertainment 🌎",Cinemax West 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 #EXTINF:-1 tvg-id="Cinemax.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Movies",Cinemax West (720p)
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Undefined",HBO Latin America (720p) [Geo-blocked]
@@ -714,8 +726,8 @@ http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 https://tinyurl.com/44efw2rx
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Movies",HBO Asia SD (720p) [Geo-blocked]
 https://tinyurl.com/yn3d3rmd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="Entertainment 🌎",Star Movies Select (🔉💬🇬🇧)🇮🇳
-https://p4kp.rjmbts.workers.dev/353.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="Entertainment 🌎",Star Movies (🔉💬🇬🇧)🇮🇳
+https://p4kp.rjmbts.workers.dev/349.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Undefined",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="WARNER TV" tvg-name="WARNER TV HD" tvg-logo="https://i.imgur.com/LOGQxv6.png" group-title="ID| FILM", WARNER TV
@@ -731,18 +743,10 @@ http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v8
 http://185.227.34.179:8080/hbo-3-hd/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Undefined",HBO+ Latin America (1080p)
 http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="ONPhimViet.vn@SD" tvg-logo="https://i.ibb.co/Swvp1vwM/IMG-2525.jpg" group-title="Series",ON Phim Viet (1080p)
-https://vmttv.dpdns.org/tv360?id=175
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Comedy",HBO Pop Latin America (1080p) [Geo-blocked]
 http://15.204.246.24:8080/HBOPOPHD/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" tvg-country="US" tvg-language="spa" group-title="Movies" nexus-score="0",HBO Xtreme Latin America (1080p)
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
-#EXTINF:-1 group-title="Kênh quốc tế",Warner TV
-https://vmttv.dpdns.org/tv360/?id=273
-#EXTINF:-1 group-title="Kênh quốc tế",Cinema World
-https://vmttv.dpdns.org/tv360/?id=159
-#EXTINF:-1 group-title="Kênh VTV Cab",Vtvcab 4 – On Movies
-https://vmttv.dpdns.org/tv360/?id=181
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",HOT HBO (Израиль)
 http://stream.mcquack.net/381/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax
@@ -755,3 +759,5 @@ http://stream.mcquack.net/474/index.m3u8
 http://stream.mcquack.net/472/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 5
 http://stream.mcquack.net/471/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
+https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8

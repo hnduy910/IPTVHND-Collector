@@ -67687,3 +67687,179 @@ http://stream.mcquack.net/471/index.m3u8
 https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186604.ts
 #EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-logo="" group-title="体育",Sky Sports Football
 https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
+#EXTINF:-1 tvg-id="VTVCanal17.bo@SD" tvg-logo="https://i.imgur.com/TUhFzql.png" group-title="Religious",VTV Canal 17 (720p)
+http://190.181.61.93:8000/play/a00f/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
+https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
+#EXTINF:-1,Universo Musical Villa Pehuenia
+https://stream.zeno.fm/khgfwxvh308uv
+#EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Division Profesional] Always Ready vs Real Potosi (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1949.png" group-title="Live Events",[Bolivia Division Profesional] Always Ready vs Real Potosi (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/qaqaqaAAa.m3u8
+#EXTINF:-1 tvg-chno="242" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Corinthians vs Botafogo RJ 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Corinthians vs Botafogo RJ 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/J666A.m3u8
+#EXTINF:-1 tvg-chno="243" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Coritiba vs Santos 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Coritiba vs Santos 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/FRFRFRAAA.m3u8
+#EXTINF:-1 tvg-chno="244" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Coritiba vs Santos 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Coritiba vs Santos 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/4e6b21e1-98ef-4c2b-a7bb-d978042ce649.m3u8
+#EXTINF:-1 tvg-chno="245" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Cruzeiro vs Palmeiras 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Cruzeiro vs Palmeiras 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/qaqaqaAAAa.m3u8
+#EXTINF:-1 tvg-chno="246" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Flamengo RJ vs Athletico-PR 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Flamengo RJ vs Athletico-PR 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/qaqaqaAAAaA.m3u8
+#EXTINF:-1 tvg-chno="247" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Gremio vs Bahia 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Gremio vs Bahia 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/J666AA.m3u8
+#EXTINF:-1 tvg-chno="248" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Remo vs Chapecoense-SC 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Remo vs Chapecoense-SC 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/qaqaqaAa.m3u8
+#EXTINF:-1 tvg-chno="249" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Remo vs Chapecoense-SC 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Remo vs Chapecoense-SC 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/8675be79-f8cd-4118-aa1f-05ca0f48150d.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Buffalo vs Central Michigan (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Buffalo vs Central Michigan (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/J666.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Massachusetts vs Akron (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Massachusetts vs Akron (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/qaqaqaAAAaAA.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD H.265" tvg-logo="http://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="CANAIS: FILMES E SÉRIES ✨",CINEMAX FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/107978.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="http://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="CANAIS: FILMES E SÉRIES ✨",CINEMAX
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13505.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="CANAIS: FILMES E SÉRIES ✨",CINEMAX FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8708.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="CANAIS: FILMES E SÉRIES ✨",CINEMAX HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8709.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD ¹" tvg-logo="http://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="CANAIS: FILMES E SÉRIES ✨",CINEMAX HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/35232.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD ²" tvg-logo="http://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="CANAIS: FILMES E SÉRIES ✨",CINEMAX HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/35233.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD H.265" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS: HBO ✨",HBO FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94381.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS: HBO ✨",HBO FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8902.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS: HBO ✨",HBO HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8903.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD ¹" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS: HBO ✨",HBO HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31862.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD ²" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS: HBO ✨",HBO HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31863.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD H.265" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO ✨",HBO 2 FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94382.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO ✨",HBO 2
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13529.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO ✨",HBO 2 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8897.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO ✨",HBO 2 HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8898.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD ¹" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO ✨",HBO 2 HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31859.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD ²" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO ✨",HBO 2 HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/93899.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD H.265" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="CANAIS: HBO ✨",HBO FAMILY FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94383.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="CANAIS: HBO ✨",HBO FAMILY
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13530.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="CANAIS: HBO ✨",HBO FAMILY FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8901.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="CANAIS: HBO ✨",HBO FAMILY HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8900.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD ¹" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="CANAIS: HBO ✨",HBO FAMILY HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31860.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD ²" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="CANAIS: HBO ✨",HBO FAMILY HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31861.ts
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD H.265" tvg-logo="http://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS: HBO ✨",HBO MUNDI FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94384.ts
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI" tvg-logo="http://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS: HBO ✨",HBO MUNDI
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13531.ts
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS: HBO ✨",HBO MUNDI FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8904.ts
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS: HBO ✨",HBO MUNDI HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8905.ts
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD ¹" tvg-logo="http://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS: HBO ✨",HBO MUNDI HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31864.ts
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD ²" tvg-logo="http://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS: HBO ✨",HBO MUNDI HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/93900.ts
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD H.265" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO ✨",HBO POP FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94386.ts
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO ✨",HBO POP
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13533.ts
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO ✨",HBO POP FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24593.ts
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO ✨",HBO POP HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8911.ts
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD ¹" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO ✨",HBO POP HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31867.ts
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD ²" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO ✨",HBO POP HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/93901.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H.265" tvg-logo="http://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/f43e7e26c3252b5e24bbc9ca4fd4f13ddda888fddf3e0d8a19f5b45cf940aee1/s400/HBO%2BSIGNATURE.png" group-title="CANAIS: HBO ✨",HBO SIGNATURE FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94387.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE" tvg-logo="http://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/POMyrI-OG9whF3UoiOEqS431LuwZmSVGQCK4BGAYYCw/s400/HBO%2BSIGNATURE.png" group-title="CANAIS: HBO ✨",HBO SIGNATURE
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13534.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/POMyrI-OG9whF3UoiOEqS431LuwZmSVGQCK4BGAYYCw/s400/HBO%2BSIGNATURE.png" group-title="CANAIS: HBO ✨",HBO SIGNATURE FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8912.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/POMyrI-OG9whF3UoiOEqS431LuwZmSVGQCK4BGAYYCw/s400/HBO%2BSIGNATURE.png" group-title="CANAIS: HBO ✨",HBO SIGNATURE HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8914.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD ¹" tvg-logo="http://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/POMyrI-OG9whF3UoiOEqS431LuwZmSVGQCK4BGAYYCw/s400/HBO%2BSIGNATURE.png" group-title="CANAIS: HBO ✨",HBO SIGNATURE HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31868.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD ²" tvg-logo="http://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/POMyrI-OG9whF3UoiOEqS431LuwZmSVGQCK4BGAYYCw/s400/HBO%2BSIGNATURE.png" group-title="CANAIS: HBO ✨",HBO SIGNATURE HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31869.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD H.265" tvg-logo="http://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="CANAIS: HBO ✨",HBO PLUS FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94385.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="CANAIS: HBO ✨",HBO PLUS FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24592.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="http://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="CANAIS: HBO ✨",HBO PLUS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/11771.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD ¹" tvg-logo="http://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="CANAIS: HBO ✨",HBO PLUS HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31865.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD ²" tvg-logo="http://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="CANAIS: HBO ✨",HBO PLUS HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31866.ts
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME" tvg-logo="http://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="CANAIS: HBO ✨",HBO XTREME
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13536.ts
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="http://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="CANAIS: HBO ✨",HBO XTREME FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13535.ts
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="http://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="CANAIS: HBO ✨",HBO XTREME HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8916.ts
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD ¹" tvg-logo="http://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="CANAIS: HBO ✨",HBO XTREME HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/31870.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://4.bp.blogspot.com/-pkhwk3sCDcA/XmRPXw6eTII/AAAAAAAACUY/m7bS_xJ-4w0Glc2R7wVro-mxpLtsXhz8QCK4BGAYYCw/s400/TLC.png" group-title="CANAIS: FILMES E SÉRIES ✨",TCM HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9124.ts
+#EXTINF:0,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a081/index.m3u8
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08q/index.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08n/index.m3u8
+#EXTINF:0,HBO MUNDI HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a082/index.m3u8
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08s/index.m3u8
+#EXTINF:0,HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08r/index.m3u8
+#EXTINF:0,HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a083/index.m3u8
+#EXTINF:0,HBO+ HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08p/index.m3u8
