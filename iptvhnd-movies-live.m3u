@@ -658,6 +658,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Vie_DRAMAS_HD_du_phong
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-phimviet.webp",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=175
+#EXTINF:-1 tvg-id="CinemaxClassics.us@East" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Classics_Plex_Logo_bw.svg" group-title="Movies",Cinemax Classics (1080p)
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20ON%20Cine%20HD.png" group-title="Uncategorized",ON Cine HD
@@ -753,5 +755,3 @@ http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
 https://vmttv.dpdns.org/tv360/?id=273
 #EXTINF:-1 group-title="Kênh quốc tế",Cinema World
 https://vmttv.dpdns.org/tv360/?id=159
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
-https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8

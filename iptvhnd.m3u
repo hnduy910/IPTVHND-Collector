@@ -67859,5 +67859,11 @@ http://45.185.11.126:8000/play/a083/index.m3u8
 #EXTINF:0,HBO+ HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08p/index.m3u8
-#EXTINF:-1,Fußball-Bundesliga: Spiel 4
-https://wdr-sportschau-liga1spiel4.icecastssl.wdr.de/wdr/sportschau/liga1spiel4/mp3/high
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Movies;Series",HBO Xtreme Latin America
+http://181.78.61.202:8000/play/a02a
+#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max (720p)
+https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max HD (1080p)
+http://116.90.120.149:8000/play/a123/index.m3u8
+#EXTINF:-1,VietNam
+https://stream.zeno.fm/2141ytrbn48uv
