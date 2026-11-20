@@ -5746,3 +5746,12 @@ https://raw.githubusercontent.com/vietng228/m3u/22e639978bb89b531b0b325820aa512a
 https://raw.githubusercontent.com/vietng228/m3u/22e639978bb89b531b0b325820aa512a860cab45/new.m3u
 https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/5dd05f3d473763fe7f3b05dcb6a8577f82537c5e/tv.m3u
 https://raw.githubusercontent.com/wind005/TVlive/f166b2d46114126068e227cefe567649f7edc065/m3u/sxg.m3u
+https://raw.githubusercontent.com/Enkinuri666/enktel/bfad238cbec2714cd95e46934b822864e56a733b/data/sources/iptvcat-my-list.m3u8
+https://raw.githubusercontent.com/boxkim14/m3u8/8855f4a64be5db5d4a2741e24f9d9ed87af02597/vn.m3u8
+https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/4a9be65936e2ad56e8d406a6b3bda506d0d12964/listtamtrang.m3u8
+https://raw.githubusercontent.com/greatly33/trimm3/3843b2c29f3e756f5d2103dba3b5df07310f843b/yumtv.m3u8
+https://raw.githubusercontent.com/mangyeu/TV/13ade42805dcc38ddbcd1f95e7a37d0e227d92c6/tivi.m3u8
+https://raw.githubusercontent.com/quaywin/acex/bece5f00da0e9e07fee4c72401241b8c8c220eb8/samples/channels_sample.m3u8
+https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/cef8b0fa22b06bc3142c63d3c294f794e94b57f4/IPTV/CN.m3u8
+https://raw.githubusercontent.com/youerning/blog/1dbfeb4eda1c5c64666dbf8c895575c10a60cec8/iptv/src/cn.m3u8
+https://raw.githubusercontent.com/youerning/blog/1dbfeb4eda1c5c64666dbf8c895575c10a60cec8/iptv/src/new_cn.m3u8
