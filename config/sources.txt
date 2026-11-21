@@ -5755,3 +5755,11 @@ https://raw.githubusercontent.com/quaywin/acex/bece5f00da0e9e07fee4c72401241b8c8
 https://raw.githubusercontent.com/ryuzein/Pandawa-Eazy-Tools/cef8b0fa22b06bc3142c63d3c294f794e94b57f4/IPTV/CN.m3u8
 https://raw.githubusercontent.com/youerning/blog/1dbfeb4eda1c5c64666dbf8c895575c10a60cec8/iptv/src/cn.m3u8
 https://raw.githubusercontent.com/youerning/blog/1dbfeb4eda1c5c64666dbf8c895575c10a60cec8/iptv/src/new_cn.m3u8
+https://raw.githubusercontent.com/KimShenGod/live/a2e0a4b06bf62e6e858c6b28b50705d16b81e014/iptv.m3u
+https://raw.githubusercontent.com/amazeyourself/m3u/eff88fd7483df7091bf4660e47ec8d205ba1581f/riptv.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/98b40ee54eecc8809630de1b3e64bd1ee7e5ebbb/iptv.m3u
+https://raw.githubusercontent.com/chiyoumask/mask/ed826d016f1eb3c1373c7295dcb6a3fe7e8f84c3/IPTV.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/ca2741691f47492c3c1472d19d7524e5b858b0f9/streams/in.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/a80981872b17eae71f67cebf0d2a18fa21de030b/UDPTV.m3u
+https://raw.githubusercontent.com/rolnando-play/RP/354e54e91cbbe05f80b9a0980121dec5b28377b5/iptv2.m3u
+https://raw.githubusercontent.com/thamanyambity-svg/aonoseke-iptv/d06d5d56de1be71317281fdc76ca1fdc865f6fe0/public/playlist.iptv.m3u

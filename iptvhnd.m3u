@@ -66371,8 +66371,6 @@ https://stream.zeno.fm/pp6z0axw6hhvv
 https://stream.zeno.fm/m629xqe9x98uv
 #EXTINF:-1,The Football Fans Show
 https://stream.zeno.fm/ebdbbtdhzytvv
-#EXTINF:-1,La consecuente Futbol y carnaval
-https://stream.zeno.fm/kv0en257sk8uv
 #EXTINF:-1,Football Scanners
 https://stream.zeno.fm/gebtz2w7sk8uv
 #EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Alianza vs Llaneros (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Alianza vs Llaneros (FAWA)
@@ -67687,8 +67685,6 @@ https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186604.ts
 https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
 #EXTINF:-1 tvg-id="VTVCanal17.bo@SD" tvg-logo="https://i.imgur.com/TUhFzql.png" group-title="Religious",VTV Canal 17 (720p)
 http://190.181.61.93:8000/play/a00f/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
-https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
 #EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Division Profesional] Always Ready vs Real Potosi (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1949.png" group-title="Live Events",[Bolivia Division Profesional] Always Ready vs Real Potosi (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -67867,5 +67863,7 @@ https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 http://116.90.120.149:8000/play/a123/index.m3u8
 #EXTINF:-1,VietNam
 https://stream.zeno.fm/2141ytrbn48uv
-#EXTINF:-1,VOV Giao Thông Hà Nội
-http://media.kythuatvov.vn:7025/stream/?n=d318907dbf0a58b118c8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies (India) HD (1080p)
+http://116.90.120.149:8000/play/a13a/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
+http://116.90.120.149:8000/play/a139/index.m3u8
