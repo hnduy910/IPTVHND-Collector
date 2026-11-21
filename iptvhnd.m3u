@@ -67867,3 +67867,35 @@ https://stream.zeno.fm/2141ytrbn48uv
 http://116.90.120.149:8000/play/a13a/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
 http://116.90.120.149:8000/play/a139/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-chno="8712" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png" tvg-country="US" tvg-language="bul;czh;pol;por;eng" group-title="Entertainment" nexus-score="100",AXN White
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F328698532772b83e8ca83a
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
+https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
+#EXTINF:-1,La consecuente Futbol y carnaval
+https://stream.zeno.fm/kv0en257sk8uv
+#EXTINF:-1 tvg-id="italyseriebcatanzarovspalermo" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Catanzaro 🇮🇹 vs Palermo 🇮🇹 (16:15)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Catanzaro_vs_Palermo.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Catanzaro 🇮🇹 vs Palermo 🇮🇹 (16:15)
+https://thedaddy.li/watch.php?id=160
+#EXTINF:-1 tvg-id="italyseriecfolgorecaratesevsunionarzignanochiampo" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Folgore Caratese 🇮🇹 vs Union ArzignanoChiampo 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Folgore_Caratese_vs_Union_ArzignanoChiampo.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Folgore Caratese 🇮🇹 vs Union ArzignanoChiampo 🇮🇹 (16:30)
+https://thedaddy.li/watch.php?id=202
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovsjuventusii" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Giana Erminio 🇮🇹 vs Juventus II 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Giana_Erminio_vs_Juventus_II.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Giana Erminio 🇮🇹 vs Juventus II 🇮🇹 (16:30)
+https://thedaddy.li/watch.php?id=201
+#EXTINF:-1 tvg-id="italyserieccampobassovsvispesaro" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Campobasso 🇮🇹 vs Vis Pesaro 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Campobasso_vs_Vis_Pesaro.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Campobasso 🇮🇹 vs Vis Pesaro 🇮🇹 (16:30)
+https://thedaddy.li/watch.php?id=206
+#EXTINF:-1 tvg-id="italyseriecpinetovspescara" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Pineto 🇮🇹 vs Pescara 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Pineto_vs_Pescara.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Pineto 🇮🇹 vs Pescara 🇮🇹 (16:30)
+https://thedaddy.li/watch.php?id=204
+#EXTINF:-1 tvg-id="italyserieccrotonevscosenza" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Crotone 🇮🇹 vs Cosenza 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Crotone_vs_Cosenza.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Crotone 🇮🇹 vs Cosenza 🇮🇹 (16:30)
+https://thedaddy.li/watch.php?id=205
+#EXTINF:-1 tvg-id="italyseriecsavoiavssorrento" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Savoia 🇮🇹 vs Sorrento 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Savoia_vs_Sorrento.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Savoia 🇮🇹 vs Sorrento 🇮🇹 (16:30)
+https://thedaddy.li/watch.php?id=203
+#EXTINF:-1 tvg-id="italyserieaparmavsroma" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Parma 🇮🇹 vs Roma 🇮🇹 (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Parma_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Parma 🇮🇹 vs Roma 🇮🇹 (17:00)
+https://thedaddy.li/watch.php?id=877
+#EXTINF:-1 tvg-id="italyserieaparmavsroma" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Parma 🇮🇹 vs Roma 🇮🇹 (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Parma_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Parma 🇮🇹 vs Roma 🇮🇹 (17:00)
+https://thedaddy.li/watch.php?id=59
+#EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsarsenal" tvg-name="All Soccer Events ⚽ | ⚽ England - Premier League : Newcastle United 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (17:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Newcastle_United_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ England - Premier League : Newcastle United 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (17:30)
+https://thedaddy.li/watch.php?id=870
+#EXTINF:-1 tvg-id="italyseriebempolivspisa" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Empoli 🇮🇹 vs Pisa 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Empoli_vs_Pisa.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Empoli 🇮🇹 vs Pisa 🇮🇹 (18:30)
+https://thedaddy.li/watch.php?id=76
+#EXTINF:-1 tvg-id="italyserieanapolivstorino" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Napoli 🇮🇹 vs Torino 🇮🇹 (19:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Napoli_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Napoli 🇮🇹 vs Torino 🇮🇹 (19:45)
+https://thedaddy.li/watch.php?id=156
+#EXTINF:-1 tvg-id="italyserieanapolivstorino" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie A : Napoli 🇮🇹 vs Torino 🇮🇹 (19:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Napoli_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie A : Napoli 🇮🇹 vs Torino 🇮🇹 (19:45)
+https://thedaddy.li/watch.php?id=461
