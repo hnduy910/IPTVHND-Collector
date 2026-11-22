@@ -5864,3 +5864,12 @@ https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/5b9bde216e4d94a4d3
 https://raw.githubusercontent.com/tutw/platinsport-m3u-updater/453015b3f822202f709bf637b0673b9e724ab870/lista.m3u
 https://raw.githubusercontent.com/vietng228/m3u/a753c15c401d62d8f9d0182e520cffef447b7e3d/m3u.m3u
 https://raw.githubusercontent.com/vietng228/m3u/a753c15c401d62d8f9d0182e520cffef447b7e3d/new.m3u
+https://raw.githubusercontent.com/IPTVRU2026/IPTVMIR/d41ad4ce0d775c92508f6fddc46ef07a8ee049c7/ZARUB.m3u
+https://raw.githubusercontent.com/boxkim14/m3u8/2820df5bd37b63680fa65f7070925a030fdf7880/vn.m3u8
+https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/9dc760569e9a4178726c9f00ae0337def1954299/VTVGo.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36cd23aa9c6910c9a36a85cf632dcb3e/keep_one/folk.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36cd23aa9c6910c9a36a85cf632dcb3e/my_radio-box/checked/news.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36cd23aa9c6910c9a36a85cf632dcb3e/my_radio-box/checked/talk.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36cd23aa9c6910c9a36a85cf632dcb3e/my_radio-box/folk.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36cd23aa9c6910c9a36a85cf632dcb3e/radio-mixer/checked/news.m3u
+https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36cd23aa9c6910c9a36a85cf632dcb3e/radio-mixer/checked/talk.m3u
