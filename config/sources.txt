@@ -5873,3 +5873,6 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36c
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36cd23aa9c6910c9a36a85cf632dcb3e/my_radio-box/folk.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36cd23aa9c6910c9a36a85cf632dcb3e/radio-mixer/checked/news.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/6503a80d36cd23aa9c6910c9a36a85cf632dcb3e/radio-mixer/checked/talk.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/d11000cd734de4e59427c70c5e23fda405eca9ea/streams/hu.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/093a3e666d471db4e007c46bacbbb3ed990cae25/UDPTV.m3u
+https://raw.githubusercontent.com/uttumtt-creator/Iptv/620a31f7ca97833c8fac2d3255d595b7fb6e659c/utok1.txt

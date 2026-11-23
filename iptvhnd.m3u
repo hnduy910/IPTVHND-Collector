@@ -633,6 +633,7 @@
 #PLAYLIST:My IPTV Selection - CODECS.COM
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/es.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/fr.xml.gz"
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz"
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="General",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",An Giang TV2 (1080p) [Geo-blocked]
@@ -67863,8 +67864,6 @@ http://181.78.61.202:8000/play/a02a
 https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max HD (1080p)
 http://116.90.120.149:8000/play/a123/index.m3u8
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies (India) HD (1080p)
 http://116.90.120.149:8000/play/a13a/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
@@ -68390,3 +68389,47 @@ https://fup.futx.nx.kg/gala/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-id="FOXSPORTS2.US" tvg-name="FOX SPORTS 2" group-title="AGENDA PLATINSPORT" tvg-country="US",00:00 | Canada Canadian Premier League | Vancouver FC vs Pacific FC | FOX SPORTS 2 | [Estados Unidos]
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 tvg-id="2711" tvg-name="HBO Family" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/645e165a87fea_Llf4.png" group-title="马来西亚",HBO Family
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2711
+#EXTINF:-1 tvg-id="1015" tvg-name="HBO HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216594043cc_iIRr.png" group-title="马来西亚",HBO HD
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1015
+#EXTINF:-1 tvg-id="2722" tvg-name="HBO Signature" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64e03ea042dbb_AX33.png" group-title="马来西亚",HBO Signature
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2722
+#EXTINF:-1 tvg-id="2782" tvg-name="HBO Hits" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6624d76b20337_4k7x.png" group-title="马来西亚",HBO Hits
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2782
+#EXTINF:-1 tvg-id="2823" tvg-name="Astro Football" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352f02420a_U9RC.png" group-title="体育频道",Astro Football
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2823
+#EXTINF:-1 tvg-id="1791" tvg-name="Astro Football (Back Up 1)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3daee1904e_K0Yv.png" group-title="体育频道",Astro Football (Back Up 1)
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1791
+#EXTINF:-1 tvg-id="2931" tvg-name="Skysports Football" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6a5ddcceaa7a3_0vmJ.png" group-title="体育频道",Skysports Football
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2931
+#EXTINF:-1 tvg-id="44" tvg-name="SCTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720dd61dfe1_76P7.png" group-title="印度尼西亚",SCTV
+http://xsmt.ccwu.cc/xsmt/smt.php?id=44
+#EXTINF:-1 tvg-id="2064" tvg-name="AnTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0075b5b7925_d3YY.png" group-title="印度尼西亚",AnTV
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2064
+#EXTINF:-1 tvg-id="2732" tvg-name="Cinemax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65018cd0f1d7d_57r5.png" group-title="印度尼西亚",Cinemax
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2732
+#EXTINF:-1 tvg-id="2293" tvg-name="Warner TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" group-title="印度尼西亚",Warner TV
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2293
+#EXTINF:-1 tvg-id="2868" tvg-name="HBO Signature Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="台湾",HBO Signature Taiwan
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2868
+#EXTINF:-1 tvg-id="496" tvg-name="CINEMAX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" group-title="台湾",CINEMAX
+http://xsmt.ccwu.cc/xsmt/smt.php?id=496
+#EXTINF:-1 tvg-id="2258" tvg-name="Star Movies HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2fd101059d_XUc4.png" group-title="电影频道",Star Movies HD
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2258
+#EXTINF:-1 tvg-id="2751" tvg-name="ANTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919d7fb6b1d_23g3.jpeg" group-title="越南",ANTV
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2751
+#EXTINF:-1 tvg-id="2752" tvg-name="VTV 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919dffee49d_PX1x.png" group-title="越南",VTV 1
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2752
+#EXTINF:-1 tvg-id="2753" tvg-name="VTV 3" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/689383832f484_cZjE.png" group-title="越南",VTV 3
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2753
+#EXTINF:-1 tvg-id="2872" tvg-name="VTV 4" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893839e3ccf3_JYI5.png" group-title="越南",VTV 4
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2872
+#EXTINF:-1 tvg-id="2873" tvg-name="VTV 6" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/689383b6b9644_9077.png" group-title="越南",VTV 6
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2873
+#EXTINF:-1 tvg-id="2754" tvg-name="HTV 7" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919e86b58c6_Z5Ei.png" group-title="越南",HTV 7
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2754
+#EXTINF:-1 tvg-id="2755" tvg-name="HTV 9" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919eba63ed7_mxc0.png" group-title="越南",HTV 9
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2755
+#EXTINF:-1 tvg-id="2874" tvg-name="THVL HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893863848ab4_G363.jpeg" group-title="越南",THVL HD
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2874
