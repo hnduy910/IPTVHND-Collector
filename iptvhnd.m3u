@@ -68439,10 +68439,6 @@ PWdUZHowbUwwTlhhc2xYWXNCM0xPUjBRdllIZDV4R1p1Sm5adE1YWnBaM2J0dG1jaDFHYnNGR2F0NG1j
 NEFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="FRANCE",Alpe dâ€™Huez TV
 PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkb1JXWTZzV2F2UTNjaE5XWjJsR2J2MDJiajV5YWhsbWJoMTJibTVXYXVVMlprVm1kdUFUTWxkR1psOXlMNk1IYzBSSGE=
-#EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
-http://media.kythuatvov.vn:7023/stream/?n=efdca6bd60c5d7184180
-#EXTINF:-1,Hit Huesca
-http://stm1.emiteonline.com:8003/hitradio
 #EXTINF:-1 tvg-chno="203" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Botafogo RJ vs Sao Paulo 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Botafogo RJ vs Sao Paulo 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -68501,3 +68497,5 @@ https://www.youtube.com/watch?v=ER8WhcxVIiA
 https://www.youtube.com/watch?v=NMWG_7_Y4Q4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/qw579ueY9nL_DWk238scQ521EMnbdlE32W67H8Azk-hb9CT8koQ3BM0j3MZUCtztwsy0vDpQfw=s68-c-k-c0x00ffffff-no-rj" group-title="youtube運動直播",LAS VOCES DEL FÚTBOL 
 https://www.youtube.com/watch?v=94sph8VBKlM
+#EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
+http://media.kythuatvov.vn:7023/stream/

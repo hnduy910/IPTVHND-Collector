@@ -23559,10 +23559,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/Gkason/ds-tea-vee-repo/fbe35364d1b1d76d91b772abb33cb556727455b7/sports-only.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/JekaLich/smtk/46c046a38fd523b0d34707d148ee1136a0e3d7bd/TV.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -23575,10 +23571,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/Shadmanislam/bdiptv/5bb712d37ac0acb227b8d1ba3cbfc480a1cf0127/BD IPTV.m3u": {
-    "consecutive_failures": 3,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/amazeyourself/m3u/fedee26bd6fe5d118802634e67b09bc3960c8a86/Plex/es.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -23586,10 +23578,6 @@
   "https://raw.githubusercontent.com/amazeyourself/m3u/fedee26bd6fe5d118802634e67b09bc3960c8a86/Plex/fr.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
-  },
-  "https://raw.githubusercontent.com/arquerido/mych/24354f4a45426768f90f9f7d0c44677b47fc416d/SPORTS.m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
   },
   "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/4ad7b11b9a8b09f1e96b989c75f7e8ef3125d80d/LiveTV/Israel/LiveTV.m3u": {
     "consecutive_failures": 0,
@@ -23843,18 +23831,6 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
-  "https://raw.githubusercontent.com/rekaabsex13/iptv/5ee5c98b833a0f8bb77712618bec58817334171d/米奇tv.M3U": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-57-885Z_Strongman Champions League (720p).m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
-  "https://raw.githubusercontent.com/spikeneedles/colab-media-link-extractor/8056b0110a989c80f51e539b2bd6fd41bcdd3daf/backend/backup/live_tv/2026-03-01T11-06-57-896Z_Strongman Champions League (720p).m3u": {
-    "consecutive_failures": 1,
-    "last_check_ok": false
-  },
   "https://raw.githubusercontent.com/tutw/platinsport-m3u-updater/a4063bce8217a8f716472db0e1b78ceb70ba7039/lista.m3u": {
     "consecutive_failures": 0,
     "last_check_ok": true
@@ -23875,10 +23851,34 @@
     "consecutive_failures": 0,
     "last_check_ok": true
   },
+  "https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/ba5715c8f69873cf1da0ab7844e21919b246b9b6/VTVGo.m3u": {
+    "consecutive_failures": 0,
+    "last_check_ok": true
+  },
+  "https://raw.githubusercontent.com/kilirushi/iptv/69637838302afc77212b867d8cffa3fb5c2371d0/vn copy.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv1.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv3.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv5.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
+  "https://raw.githubusercontent.com/vuong93st/tiviktv/96e37e3ff8635dc5aeb9d029de20c11c8e1cf085/vtv6.m3u": {
+    "consecutive_failures": 1,
+    "last_check_ok": false
+  },
   "__meta__": {
-    "query_cursor": 34,
-    "newly_discovered_sources": 76,
+    "query_cursor": 4,
+    "newly_discovered_sources": 1,
     "removed_after_failure_threshold": 0,
-    "validated_candidates": 111
+    "validated_candidates": 30
   }
 }

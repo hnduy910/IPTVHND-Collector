@@ -5967,3 +5967,4 @@ https://raw.githubusercontent.com/wliqi495-create/jaychou123/5bfdfced249e4908bc6
 https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/2e3943acf3f7fbb26d168a9d1a2618025088a2cd/Canales.FHD.m3u
 https://raw.githubusercontent.com/zecoxao/zecoxao.github.io/c695f4a277f1b77e8528063103cb1535eee7d569/abc.m3u
 https://raw.githubusercontent.com/zzq1234567890/epg/7fb7bff02766f62e077fc8de756a86517ba95d44/yu.m3u
+https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/ba5715c8f69873cf1da0ab7844e21919b246b9b6/VTVGo.m3u
