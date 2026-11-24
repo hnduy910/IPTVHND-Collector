@@ -67870,8 +67870,6 @@ http://116.90.120.149:8000/play/a13a/index.m3u8
 http://116.90.120.149:8000/play/a139/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us" tvg-chno="8712" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png" tvg-country="US" tvg-language="bul;czh;pol;por;eng" group-title="Entertainment" nexus-score="100",AXN White
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F328698532772b83e8ca83a
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
-https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
 #EXTINF:-1,La consecuente Futbol y carnaval
 https://stream.zeno.fm/kv0en257sk8uv
 #EXTINF:-1 tvg-id="italyseriebcatanzarovspalermo" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Catanzaro 🇮🇹 vs Palermo 🇮🇹 (16:15)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Catanzaro_vs_Palermo.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Catanzaro 🇮🇹 vs Palermo 🇮🇹 (16:15)
@@ -68433,18 +68431,6 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2754
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2755
 #EXTINF:-1 tvg-id="2874" tvg-name="THVL HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893863848ab4_G363.jpeg" group-title="越南",THVL HD
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2874
-#EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
-http://media.kythuatvov.vn:7023/stream/
-#EXTINF:-1,VietNam
-https://stream.zeno.fm/2141ytrbn48uv
-#EXTINF:-1,Fußball-Bundesliga: Spiel 3
-https://wdr-sportschau-liga1spiel3.icecastssl.wdr.de/wdr/sportschau/liga1spiel3/mp3/high
-#EXTINF:-1,Fußball-Bundesliga: Spiel 6
-https://wdr-sportschau-liga1spiel6.icecastssl.wdr.de/wdr/sportschau/liga1spiel6/mp3/high
-#EXTINF:-1,Fußball-Bundesliga: Spiel 7
-https://wdr-sportschau-liga1spiel7.icecastssl.wdr.de/wdr/sportschau/liga1spiel7/mp3/high
-#EXTINF:-1,Fußball-Bundesliga: Spiel 9
-https://wdr-sportschau-liga1spiel9.icecastssl.wdr.de/wdr/sportschau/liga1spiel9/mp3/high
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCZamcc.png" group-title="USA",Hallmark Movies & More
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NEVSRDl5YXlGV2JzeFdZb1YzYXZKWExCSlRNeUV6YnRWSGVmRkdkaFIyWHp4R2FmbDJaaDFXWXZnWGR1bEdUaVYyVnc5R2RyTlhaa2gzYmlSV1pTMURjaVYzY20wRGRoeDJYemxtSjlRV2FsTldhMlZHWm1nM2JpUldaeTFEY3Y0R1pqOVdiMWgzTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tNU6NHC.png" group-title="USA",Hallmark Movies & Mysteries
@@ -68453,3 +68439,65 @@ PWdUZHowbUwwTlhhc2xYWXNCM0xPUjBRdllIZDV4R1p1Sm5adE1YWnBaM2J0dG1jaDFHYnNGR2F0NG1j
 NEFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="FRANCE",Alpe dâ€™Huez TV
 PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkb1JXWTZzV2F2UTNjaE5XWjJsR2J2MDJiajV5YWhsbWJoMTJibTVXYXVVMlprVm1kdUFUTWxkR1psOXlMNk1IYzBSSGE=
+#EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
+http://media.kythuatvov.vn:7023/stream/?n=efdca6bd60c5d7184180
+#EXTINF:-1,Hit Huesca
+http://stm1.emiteonline.com:8003/hitradio
+#EXTINF:-1 tvg-chno="203" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Botafogo RJ vs Sao Paulo 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Botafogo RJ vs Sao Paulo 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/GVVV.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Botafogo RJ vs Sao Paulo 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Botafogo RJ vs Sao Paulo 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/2eb617dab9b188ee535bb4ce75bfc962f7f74e6b77bc3b2527a50e6528527734.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Internacional vs Vitoria (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Internacional vs Vitoria (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/D333A.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Santos vs Gremio 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Santos vs Gremio 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/GVVVAA.m3u8
+#EXTINF:-1 tvg-chno="265" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] St Louis City vs Los Angeles FC 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] St Louis City vs Los Angeles FC 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/841df237-fd93-4d0d-87a3-3a98a4858e24.m3u8
+#EXTINF:-1 tvg-chno="266" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] St Louis City vs Los Angeles FCFC 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS League] St Louis City vs Los Angeles FCFC 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/GVVVAAA.m3u8
+#EXTINF:-1 tvg-chno="267" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] LAFC vs St. Louis CITY SC | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] LAFC vs St. Louis CITY SC | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401933728
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edge1.candyshop.st/live/tv401933728/master.m3u8?st=CbptgkEksuaU1_aHx4TQpw&e=1795501809
+#EXTINF:-1 tvg-chno="276" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] St.Louis City vs Los Angeles FC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] St.Louis City vs Los Angeles FC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/60899?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/60899/load-playlist-multi
+#EXTINF:-1 tvg-chno="371" tvg-id="Football.Dummy.us" tvg-name="[NFL] ManningCast (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[NFL] ManningCast (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/60850?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/60850/load-playlist
+#EXTINF:-1 tvg-chno="421" tvg-id="Soccer.Dummy.us" tvg-name="[Paraguay Copa] Nacional Asuncion vs Cerro Porteno (FAWA)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live Events",[Paraguay Copa] Nacional Asuncion vs Cerro Porteno (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/GVVVA.m3u8
+#EXTINF:-1 tvg-chno="450" tvg-id="Soccer.Dummy.us" tvg-name="[Uruguay Liga AUF] Albion vs Danubio (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="Live Events",[Uruguay Liga AUF] Albion vs Danubio (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/D333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Ohio State vs USC LIVE HD | NCAAF 2026 | College Football Week 9 | 2
+https://www.youtube.com/watch?v=8RUQZW-Wlz8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube正在直播",Ohio State vs USC LIVE HD | NCAAF 2026 | College Football Week 9
+https://www.youtube.com/watch?v=QVevVzjYYgM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/Z87OeQWzive1NFeuOx7azSqdPdiWRkmrG4nTrCwt8mQHuLtWmB_mXOtvm4-H_gxm7q98VsnYVg=s68-c-k-c0x00ffffff-no-rj" group-title="youtube遊戲直播",LoL Esports VN
+https://www.youtube.com/watch?v=VEdj06NdZyU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/SMz3IjRyPKRZbUSswU-c9rN_dxO6UOkupZB0dD4GSgFTh6DsdyzDkKfHxKyfg3KKcw6HId21=s68-c-k-c0x00ffffff-no-rj" group-title="youtube運動直播",Oregon Football Report by Chat Sports
+https://www.youtube.com/watch?v=5ByCALlqupA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/fnBRDi6AFAmQTxTnmJQf7dOvb1uqOQSCnPgcMNfLaLcv783Idy3vel-kfD4KHoT_gKnYSjLf=s68-c-k-c0x00ffffff-no-rj" group-title="youtube運動直播",Alice Talks Football
+https://www.youtube.com/watch?v=ER8WhcxVIiA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-rBKwg8KJlKTBzmIB4BlCN0P_bLVBLGdFUEM4U45kixlvW0fC_MIF8DMvpo2hdDwHQN-SMof=s68-c-k-c0x00ffffff-no-rj" group-title="youtube運動直播",Club de Futbol Cruz Azul
+https://www.youtube.com/watch?v=NMWG_7_Y4Q4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/qw579ueY9nL_DWk238scQ521EMnbdlE32W67H8Azk-hb9CT8koQ3BM0j3MZUCtztwsy0vDpQfw=s68-c-k-c0x00ffffff-no-rj" group-title="youtube運動直播",LAS VOCES DEL FÚTBOL 
+https://www.youtube.com/watch?v=94sph8VBKlM
