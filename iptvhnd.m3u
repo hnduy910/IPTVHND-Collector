@@ -68433,3 +68433,23 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2754
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2755
 #EXTINF:-1 tvg-id="2874" tvg-name="THVL HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893863848ab4_G363.jpeg" group-title="越南",THVL HD
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2874
+#EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
+http://media.kythuatvov.vn:7023/stream/
+#EXTINF:-1,VietNam
+https://stream.zeno.fm/2141ytrbn48uv
+#EXTINF:-1,Fußball-Bundesliga: Spiel 3
+https://wdr-sportschau-liga1spiel3.icecastssl.wdr.de/wdr/sportschau/liga1spiel3/mp3/high
+#EXTINF:-1,Fußball-Bundesliga: Spiel 6
+https://wdr-sportschau-liga1spiel6.icecastssl.wdr.de/wdr/sportschau/liga1spiel6/mp3/high
+#EXTINF:-1,Fußball-Bundesliga: Spiel 7
+https://wdr-sportschau-liga1spiel7.icecastssl.wdr.de/wdr/sportschau/liga1spiel7/mp3/high
+#EXTINF:-1,Fußball-Bundesliga: Spiel 9
+https://wdr-sportschau-liga1spiel9.icecastssl.wdr.de/wdr/sportschau/liga1spiel9/mp3/high
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCZamcc.png" group-title="USA",Hallmark Movies & More
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NEVSRDl5YXlGV2JzeFdZb1YzYXZKWExCSlRNeUV6YnRWSGVmRkdkaFIyWHp4R2FmbDJaaDFXWXZnWGR1bEdUaVYyVnc5R2RyTlhaa2gzYmlSV1pTMURjaVYzY20wRGRoeDJYemxtSjlRV2FsTldhMlZHWm1nM2JpUldaeTFEY3Y0R1pqOVdiMWgzTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNU6NHC.png" group-title="USA",Hallmark Movies & Mysteries
+PWdUZHowbUwwTlhhc2xYWXNCM0xPUjBRdllIZDV4R1p1Sm5adE1YWnBaM2J0dG1jaDFHYnNGR2F0NG1jbVpIZHdCWGQ1OVZZMEZHWmZOSGJvOVZhbkZXYmg5eWNzaDJMMlJuTHBkV1l0Rm1MMXQyYnkxU1p5Vkdhd05YWnBaM2J0OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" group-title="UK",Film4
+NEFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="FRANCE",Alpe dâ€™Huez TV
+PWdUZHowbUwwTlhhc3RtYjFoMll2WUhkb1JXWTZzV2F2UTNjaE5XWjJsR2J2MDJiajV5YWhsbWJoMTJibTVXYXVVMlprVm1kdUFUTWxkR1psOXlMNk1IYzBSSGE=
