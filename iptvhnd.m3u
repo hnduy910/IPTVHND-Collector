@@ -66360,10 +66360,6 @@ https://dlive.sx/watch.php?id=152
 https://dlive.sx/watch.php?id=157
 #EXTINF:-1,Discoteca Brasileira
 https://stream.zeno.fm/r4ahfqwarm0uv
-#EXTINF:-1,Paul Pewitt Football
-https://stream.zeno.fm/0q7expg2bpvtv
-#EXTINF:-1,ONDA MORADA FUTBOL
-https://stream.zeno.fm/78wsc4b8hqzuv
 #EXTINF:-1,futbol pacion
 https://stream.zeno.fm/cipuwuavk8pvv
 #EXTINF:-1,Hipica y Futbol Pasion de Multitudes
@@ -66374,8 +66370,6 @@ https://stream.zeno.fm/pp6z0axw6hhvv
 https://stream.zeno.fm/m629xqe9x98uv
 #EXTINF:-1,The Football Fans Show
 https://stream.zeno.fm/ebdbbtdhzytvv
-#EXTINF:-1,Football Scanners
-https://stream.zeno.fm/gebtz2w7sk8uv
 #EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Alianza vs Llaneros (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Alianza vs Llaneros (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -68497,8 +68491,6 @@ https://www.youtube.com/watch?v=ER8WhcxVIiA
 https://www.youtube.com/watch?v=NMWG_7_Y4Q4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/qw579ueY9nL_DWk238scQ521EMnbdlE32W67H8Azk-hb9CT8koQ3BM0j3MZUCtztwsy0vDpQfw=s68-c-k-c0x00ffffff-no-rj" group-title="youtube運動直播",LAS VOCES DEL FÚTBOL 
 https://www.youtube.com/watch?v=94sph8VBKlM
-#EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
-http://media.kythuatvov.vn:7023/stream/
 #EXTINF:-1,VietNam
 https://stream.zeno.fm/2141ytrbn48uv
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
