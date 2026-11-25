@@ -5968,3 +5968,12 @@ https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/2e3943acf3f7fbb26d168a9d
 https://raw.githubusercontent.com/zecoxao/zecoxao.github.io/c695f4a277f1b77e8528063103cb1535eee7d569/abc.m3u
 https://raw.githubusercontent.com/zzq1234567890/epg/7fb7bff02766f62e077fc8de756a86517ba95d44/yu.m3u
 https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/ba5715c8f69873cf1da0ab7844e21919b246b9b6/VTVGo.m3u
+https://raw.githubusercontent.com/boxkim14/m3u8/83b6060d6a995fd50e533c30e13c2fd3b39ce0de/vn.m3u8
+https://raw.githubusercontent.com/cuncon150413-cmd/tl-ottiptv/ba5715c8f69873cf1da0ab7844e21919b246b9b6/listtamtrang.m3u8
+https://raw.githubusercontent.com/franksun1211/TVBOX/8c617b6324645fd33e6bb70cc007b4a45fe29822/APP/TVBoxOSC/WXER/live/4.txt
+https://raw.githubusercontent.com/jingjingge-art/shanghaieye/6369b5a21d28a492075d3950fc176831a33a2727/iptv.txt
+https://raw.githubusercontent.com/judy-gotv/iptv/2757eca5f62baf8e8467ae0a0b31f303fe75dd38/logo-smart.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/2757eca5f62baf8e8467ae0a0b31f303fe75dd38/smart.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/2757eca5f62baf8e8467ae0a0b31f303fe75dd38/smartbeiyong.m3u
+https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/fb8ed0741a25d64d193f301c2d0edffbfa8fc6bd/iptv.m3u8
+https://raw.githubusercontent.com/mangyeu/TV/ce32920cef4a0796ee414d3ffa388d3fbe976cfb/tivi.m3u8

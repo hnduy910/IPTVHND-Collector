@@ -68499,3 +68499,9 @@ https://www.youtube.com/watch?v=NMWG_7_Y4Q4
 https://www.youtube.com/watch?v=94sph8VBKlM
 #EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
 http://media.kythuatvov.vn:7023/stream/
+#EXTINF:-1,VietNam
+https://stream.zeno.fm/2141ytrbn48uv
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
+https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://iptv.yang-1989.xyz/logo/CINEMAX.webp" group-title="•台灣「Relay」" genre="•台灣「Relay」" ,CINEMAX「Relay」
+https://iptv.yang-1989.xyz/tw/3nmeru.m3u8
