@@ -671,8 +671,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Cine_HD_du_phong
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Phim_Viet_HD
 #EXTINF:-1  tvg-name="MOVIE SPHERE" tvg-id="421" tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES E SERIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="Sports" tvg-id="ThrillerMax.-.East.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-thrillermax-us.png" tvg-name="CINEMAX THRILLERMAX",CINEMAX THRILLERMAX
-http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://deprecated.cc/tv/images/moSPpuJ.png" group-title="Movies",Cinema One
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 #EXTINF:-1 channel-id="GB37000067A" tvg-id="GB37000067A" tvg-chno="4894" tvg-name="Lifetime Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000067A_20251230T031133SQUARE.png" group-title="Movies",Lifetime Movies
@@ -754,7 +752,7 @@ http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
 #EXTINF:-1 group-title="Kênh quốc tế",Warner TV
 https://vmttv.dpdns.org/tv360/?id=273
-#EXTINF:-1 group-title="Kênh VTV Cab",VTVcab10 - On Cine HD
-https://vmttv.dpdns.org/tv360/?id=176
-#EXTINF:-1 group-title="Kênh VTV Cab",Vtvcab 4 – On Movies
-https://vmttv.dpdns.org/tv360/?id=181
+#EXTINF:-1 group-title="Kênh quốc tế",Cinema World
+https://vmttv.dpdns.org/tv360/?id=159
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
+https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8

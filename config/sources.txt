@@ -427,7 +427,6 @@ https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/eea5a2792d0
 https://raw.githubusercontent.com/konanda-sg/my51228888/1efe2336d680820e42a98696f39a7d99b14a1d64/SM.txt
 https://raw.githubusercontent.com/lius2000/lsm/f2bbe30f00ce8f9f47271531a74399d3372cc47c/iptv.m3u
 https://raw.githubusercontent.com/lystv/kkxl/c22fa22abe8cd262c548e16fd6792410366a5974/iptv.m3u
-https://raw.githubusercontent.com/ml5177/ml5177.github.io/c670357ce144b5e9c423b94fcf422583e9415f20/IPTV.txt
 https://raw.githubusercontent.com/mrkenz9595/iptv/d0508df5a8b7633b82f8423b5b63badb11333891/IPTV.txt
 https://raw.githubusercontent.com/nmhsh/Android/5bb1dd930bb41e84661c47f4f2daa865ef6c95be/IPTV.txt
 https://raw.githubusercontent.com/paulooosrj/khan-stream/eeedfd35805074920278b6f6cd155bbcc61a1107/public/sources/lista-iptv.txt
@@ -5977,3 +5976,12 @@ https://raw.githubusercontent.com/judy-gotv/iptv/2757eca5f62baf8e8467ae0a0b31f30
 https://raw.githubusercontent.com/judy-gotv/iptv/2757eca5f62baf8e8467ae0a0b31f303fe75dd38/smartbeiyong.m3u
 https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/fb8ed0741a25d64d193f301c2d0edffbfa8fc6bd/iptv.m3u8
 https://raw.githubusercontent.com/mangyeu/TV/ce32920cef4a0796ee414d3ffa388d3fbe976cfb/tivi.m3u8
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/8b77efa44c5582fae61c4cbff620485455e3cff9/Backup/backup2.m3u8
+https://raw.githubusercontent.com/amazeyourself/m3u/a94258170975013ca3bcfd19ca6d18ff9fbd5f2a/riptv.m3u
+https://raw.githubusercontent.com/atsushi444/iptv/da90d02921a85eaec5fc97f549d732c0e517a800/0108.m3u
+https://raw.githubusercontent.com/badboys88888/IPTV/83848936f985df87a9d54fd4f3c534ca5713874e/iptv.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/5b4b937a50026edc855720a5e15aeeedb8a0f4ed/Russia.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/5b4b937a50026edc855720a5e15aeeedb8a0f4ed/USA.m3u8
+https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/af6bf8ab073bc624c9a1324fb328da699c33cba1/netplus-zappr.m3u8
+https://raw.githubusercontent.com/judy-gotv/iptv/fe98738d85f63be0cc63682995e7e593ca2246b1/JapanTV.m3u8
+https://raw.githubusercontent.com/judy-gotv/iptv/fe98738d85f63be0cc63682995e7e593ca2246b1/UDPTV.m3u

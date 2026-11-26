@@ -68497,3 +68497,25 @@ https://stream.zeno.fm/2141ytrbn48uv
 https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://iptv.yang-1989.xyz/logo/CINEMAX.webp" group-title="•台灣「Relay」" genre="•台灣「Relay」" ,CINEMAX「Relay」
 https://iptv.yang-1989.xyz/tw/3nmeru.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max HD (1080p)
+https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Movies",Warner TV (Romania) (576i)
+http://91.235.165.117:8001/play/a08h/index.m3u8
+#EXTINF:-1 tvg-id="caobang" tvg-logo="https://i.imgur.com/RUJmK5D.png" group-title="Địa phương",Cao Bằng
+http://luuchieu.truyenhinhso.vn/media/live/FEC4E26FBD78CE924E91BC03/index.m3u8
+#EXTINF:-1 tvg-id="hanoi1" tvg-logo="https://i.postimg.cc/hvL15x02/Hanoi-TV1.png" group-title="Địa phương",Hà Nội 1
+http://luuchieu.truyenhinhso.vn/media/live/D8F673B9DBBAECC4D440A0B4/index.m3u8
+#EXTINF:-1 tvg-id="hanoi2" tvg-logo="https://i.postimg.cc/Nft4rJgS/Hanoi-TV2.png" group-title="Địa phương",Hà Nội 2
+http://luuchieu.truyenhinhso.vn/media/live/1FCC257A30175B8AC7BC4B3F/index.m3u8
+#EXTINF:-1 tvg-id="danang2" tvg-logo="https://i.postimg.cc/870Rs5Pm/dnrt2.png" group-title="Địa phương",Đà Nẵng 2
+http://live-hq.evgcdn.net/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
+#EXTINF:-1 tvg-id="lamdong1" tvg-logo="https://i.postimg.cc/f35Jkqv6/LD1.png" group-title="Địa phương",Lâm Đồng 1
+http://live-hq.evgcdn.net/live/285eb380a290dab40af8eafb1b05abce703/chunklist.m3u8
+#EXTINF:-1 tvg-id="lamdong2" tvg-logo="https://i.postimg.cc/n99zRFfP/LD2.png" group-title="Địa phương",Lâm Đồng 2
+http://luuchieu.truyenhinhso.vn/media/live/5609ACBAE41E5281B3F67282/index.m3u8
+#EXTINF:-1,Paul Pewitt Football
+https://stream.zeno.fm/0q7expg2bpvtv
+#EXTINF:-1,ONDA MORADA FUTBOL
+https://stream.zeno.fm/78wsc4b8hqzuv
+#EXTINF:-1,Football Scanners
+https://stream.zeno.fm/gebtz2w7sk8uv
