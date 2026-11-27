@@ -68493,8 +68493,6 @@ https://www.youtube.com/watch?v=NMWG_7_Y4Q4
 https://www.youtube.com/watch?v=94sph8VBKlM
 #EXTINF:-1,VietNam
 https://stream.zeno.fm/2141ytrbn48uv
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
-https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://iptv.yang-1989.xyz/logo/CINEMAX.webp" group-title="•台灣「Relay」" genre="•台灣「Relay」" ,CINEMAX「Relay」
 https://iptv.yang-1989.xyz/tw/3nmeru.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max HD (1080p)
@@ -68519,11 +68517,93 @@ https://stream.zeno.fm/0q7expg2bpvtv
 https://stream.zeno.fm/78wsc4b8hqzuv
 #EXTINF:-1,Football Scanners
 https://stream.zeno.fm/gebtz2w7sk8uv
-#EXTINF:-1,VOV Giao Thông Hà Nội
-http://media.kythuatvov.vn:7025/;stream/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xtm41Yyp/486609043-9668733523179342-2092789379023659257-n.jpg" group-title="VIỆT NAM",VOV RADIO3260 (VOVGT DUYEN HAI)
-http://media.kythuatvov.vn:7025/
-#EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
-http://media.kythuatvov.vn:7023/stream/?n=efdca6bd60c5d7184180
 #EXTINF:-1,Vietnamese National People - 48 - Vietnam - news
 https://live-bauerse-fm.sharp-stream.com/vinylfm%20instream%20se%20aacp?direct=true&listenerid=&aw%200%201st.bauer%20listenerid=&amsparams=playerid:BMUK%20inpage%20html5;skey:1602161945;&aw%200%201st.playerid=BMUK%20inpage%20html5&aw%200%201st.skey=1602161945&aw%200%201st.bauer%20loggedin=false&awparams=loggedin:false;&aw%200%20req.userConsent=false
+#EXTINF:-1 tvg-id="AXNAsia.sg@Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies;Series",AXN Asia Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.14:8058
+#EXTINF:-1 tvg-id="AXNBlack.us@Romania" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Movies",AXN Black (United States) Romania (576i)
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/axyblack/usergenrxi6s93hs2.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@SD" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment",AXN White (United States) (576i)
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/axwhite/usergenx23rnd.m3u8
+#EXTINF:-1 tvg-id="BoxHits.vn@SD" tvg-logo="https://i.imgur.com/kL9ubfw.png" group-title="Movies",Box Hits (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.10:8034
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network Asia Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.16:8070
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk@Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Kids",CBeebies Asia Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.3.200:11122
+#EXTINF:-1 tvg-id="CinemaWorld.my@Vietnam" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.44:8244
+#EXTINF:-1 tvg-id="Cinemax2.cz@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" group-title="Movies",Cinemax 2 Romania (576i)
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8
+#EXTINF:-1 tvg-id="Cinemax.cz@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Movies",Cinemax (Czech Republic) Romania (576i)
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@Vietnam" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Movies",Cinemax Asia Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.20:8094
+#EXTINF:-1 tvg-id="HBO2.ro@SD" tvg-logo="https://i.imgur.com/53mBgZI.png" group-title="Movies;Series",HBO 2 (Romania) (576i)
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8
+#EXTINF:-1 tvg-id="HBO3.ro@SD" tvg-logo="https://i.imgur.com/3QIHh2V.png" group-title="Undefined",HBO 3 (Romania) (576i)
+https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/h3/usergendx3kdg4rnd.m3u8
+#EXTINF:-1 tvg-id="HBO.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies;Series",HBO (Romania) (576i)
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/h1/usergendx172s9rnd.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg@Vietnam" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Movies",HBO Asia (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.19:8088
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Movies",HBO Asia SD (576p)
+http://103.148.210.190:8000/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-id="MusicBox.vn@SD" tvg-logo="https://i.ibb.co/cSHpm7qf/Music-Box.webp" group-title="Music",Music Box SD (720p)
+http://antm.dynu.net:14285/rtp/232.84.3.144:9588
+#EXTINF:-1 tvg-id="ONSports.vn@HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/ON%20Sports.png" group-title="Sports",ON Sports HD (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.208:9222
+#EXTINF:-1 tvg-id="ONSportsPlus.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/On%20Sports%2B.png" group-title="Entertainment;Sports",ON Sports+ (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.220:9294
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Vietnamese",Discovery Channel Southeast Asia (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.47:8262
+#EXTINF:-1 tvg-id="langson" tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="Địa phương",Lạng Sơn
+http://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="bacninh" tvg-logo="https://i.postimg.cc/BjpqCL1S/BNTV.png" group-title="Địa phương",Bắc Ninh
+http://d3006k9ptxe2oq.cloudfront.net/aws-dp/bacninhtv/live/bacninhtv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="phutho" tvg-logo="https://i.imgur.com/LXuRwJY.png" group-title="Địa phương",Phú Thọ
+http://luuchieu.truyenhinhso.vn/media/live/CE1E70274C63655E3F35FE4E/index.m3u8
+#EXTINF:-1 tvg-id="dienbien" tvg-logo="https://i.imgur.com/hMDRDxN.png" group-title="Địa phương",Điện Biên
+http://123.31.36.68/live.m3u8?c=vstv362&q=sd&type=tv&location=NA&pkg=pkg11.hni
+#EXTINF:-1 tvg-id="laichau" tvg-logo="https://i.imgur.com/n02cvKQ.png" group-title="Địa phương",Lai Châu
+http://luuchieu.truyenhinhso.vn/media/live/AF157BFA0E9FE004C61AD76E/index.m3u8
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="Địa phương",Hải Phòng
+http://luuchieu.truyenhinhso.vn/media/live/92B1DFD1EC042E0358662585/index.m3u8
+#EXTINF:-1 tvg-id="haiphong3" tvg-logo="https://i.imgur.com/FEvJhRf.png" group-title="Địa phương",Hải Phòng 3
+http://liveh34.vtvprime.vn/hls/HAIPHONG3/index.m3u8
+#EXTINF:-1 tvg-id="hungyen" tvg-logo="https://i.imgur.com/fakTCLE.png" group-title="Địa phương",Hưng Yên
+http://d3006k9ptxe2oq.cloudfront.net/aws-dp/hungyentv/live/hungyentv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="danang2" tvg-logo="https://i.postimg.cc/870Rs5Pm/dnrt2.png" group-title="Địa phương",Đà Nẵng 2
+http://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
+#EXTINF:-1 tvg-id="lamdong1" tvg-logo="https://i.postimg.cc/f35Jkqv6/LD1.png" group-title="Địa phương",Lâm Đồng 1
+http://luuchieu.truyenhinhso.vn/media/live/60142775E3B8083AB9D76E29/index.m3u8
+#EXTINF:-1,LOCAL - [186] SCTV
+rtp://@239.1.2.21:8100
+#EXTINF:-1,LOCAL - [188] ANTV
+rtp://@239.1.2.15:8064
+#EXTINF:-1,MOVIES - [616] RED by HBO (Trial)
+rtp://@239.1.1.114:8658
+#EXTINF:-1,MOVIES - [000] RED by HBO (HD) (Trial)
+rtp://@239.1.1.133:8772
+#EXTINF:-1,MOVIES - [681] HBO
+rtp://@239.1.2.95:8544
+#EXTINF:-1,MOVIES - [682] HBO Signature
+rtp://@239.1.2.93:8532
+#EXTINF:-1,MOVIES - [683] Cinemax
+rtp://@239.1.2.87:8496
+#EXTINF:-1,MOVIES - [684] HBO Hits
+rtp://@239.1.2.91:8520
+#EXTINF:-1,MOVIES - [000] HBO Hits (HD)
+rtp://@239.1.1.215:9264
+#EXTINF:-1,MOVIES - [685] HBO Family
+rtp://@239.1.2.89:8508
+#EXTINF:-1,MOVIES - [687] FOX Movies Premium
+rtp://@239.1.2.11:8040
+#EXTINF:-1,MOVIES - [000] FOX Movies Premium (HD)
+rtp://@239.1.1.211:9240
+#EXTINF:-1,MOVIES - [695] Cinema World
+rtp://@239.1.2.189:9108
+#EXTINF:-1,MOVIES - [000] HBO (HD)
+rtp://@239.1.1.203:9192
+#EXTINF:-1,VOV1 - 256 - Vietnam - government - news
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp%20aac/playlist.m3u8
